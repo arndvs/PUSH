@@ -501,6 +501,18 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 ---
 
 ### SHOT 041
+**Scene:** 4:58 PM — the Hendricks report
+**Duration:** 5–6 seconds
+**Camera:** Medium. Static. Dave's desk.
+
+**AI PROMPT:**
+> Medium shot of a man in his early 30s sitting at his office desk. He clicks his mouse once — sending something. He leans back in his chair with the exhale of a man who has finished something. Beside him, the adjustable bed base emits one single, small, lower-pitched hum — almost like a sigh of satisfaction. The man looks at the bed. A beat. He pats the top of the headboard frame. His expression is genuine warmth — the first real connection between man and machine. Late afternoon golden light fills the frame. The bed and the man are at rest together.
+
+**NOTES:** This is the first moment of genuine warmth between Dave and the bed. The bed's exhale-hum is a specific sound design beat — one small pitch drop, like satisfaction. See Visual Reference Guide Scene 17 notes. In the screenplay, Dave says "Not bad" here.
+
+---
+
+### SHOT 042
 **Scene:** 5:00 PM — the group chat
 **Duration:** 4 seconds
 **Camera:** Close-up — phone screen.
@@ -510,7 +522,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 042
+### SHOT 043
 **Scene:** The goodbye
 **Duration:** 8–10 seconds
 **Camera:** Medium. Static. Office desk.
@@ -528,7 +540,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 043
+### SHOT 044
 **Scene:** Next morning — exact repeat of SHOT 001 and 002
 **Duration:** 5 seconds
 **Camera:** Same framing as opening shots.
@@ -538,7 +550,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 044
+### SHOT 045
 **Scene:** Dave clicks the button again
 **Duration:** 4 seconds
 **Camera:** Close-up. Hand. Then medium on Dave.
@@ -554,7 +566,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-### SHOT 045
+### SHOT 046
 **Scene:** The bed makes itself
 **Duration:** 10–15 seconds
 **Camera:** Wide. Static. Bedroom. Empty.
@@ -591,4 +603,4 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 ---
 
 *THE PUSHER — AI Shot List v1.0*
-*19 scenes / 45 shots / approx. 5–7 minute runtime*
+*19 scenes / 46 shots / approx. 5–7 minute runtime*
