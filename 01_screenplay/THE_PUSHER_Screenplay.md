@@ -308,9 +308,11 @@ _He manages to get the mug upright. Raises it to drink while still moving. It sl
 
 _The front door is approaching. Fast._
 
-_Dave is still sipping. looks at the door. Still moving. The counter is running out._
+_Dave is still sipping. The front door is right there. The counter is running out._
 
-looks at the mug — one last desperate sip. The bed doesn't slow. He fumbles the mug onto the counter as the bed pushes him past it.\_
+_He sets the mug down._
+
+_The bed pushes him past it._
 
 _DOOR SLAM._
 
@@ -328,11 +330,11 @@ _Hold on this. Two seconds longer than feels right._
 
 ### SCENE 9 — EXT. DRIVEWAY — MORNING
 
-_⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full absurdity — a man being escorted down a suburban driveway by a queen-size adjustable base._
+_⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full absurdity — a man being escorted down a suburban driveway by a queen-size adjustable base. This is the first time we see the bed's casters in motion._
 
 _Dave is already outside. No coffee. The front door is closed behind him. We did not see him come through it._
 
-_Low angle. Driveway concrete. sprinklers watering a green lawn in background. Small black casters roll into frame, steady and unhurried. The low hum of the motor._
+_Low angle. Driveway concrete. Small black casters roll into frame, steady and unhurried. The low hum of the motor._
 
 _Wide. For the first time, we see the full picture: Dave, the bed behind him, the suburban driveway, the morning light. It's worse than you imagined._
 
@@ -361,10 +363,6 @@ _He reaches up to adjust the rearview mirror. In the reflection — the bed, fol
 _Dave looks at it for a moment. Then forward._
 
 _He drives._
-
----
-
-### SCENE 10 — INT./EXT. CAR — DRIVING — MORNING
 
 _A series of quick driving beats:_
 
@@ -697,13 +695,13 @@ The bed's **motor hum** is a character. Consider:
 
 ### Performance Notes — Dave
 
-Dave should never be hysterical. The comedy lives in his **resignation**. He is a man who has accepted his circumstances faster than any reasonable person should. The funniest moments are when he's completely adapted — brushing his teeth while moving, tying a tie while being pushed, giving a dignified wave to a bus full of strangers.
+Dave should never be hysterical. The comedy lives in his **resignation**. He is a man who has accepted his circumstances faster than any reasonable person should. The funniest moments are when he's completely adapted — brushing his teeth while moving, tying a tie while being pushed, saying "Morning" to a neighbor with tremendous dignity.
 
 His relationship with the bed should feel like a **grumpy roommate dynamic** that evolves across the day into something approaching mutual respect.
 
 ### The Marcus Moment
 
-The shared glance between Dave and Marcus is the emotional core of the piece. Two men. Two beds. Zero explanation needed. Play it completely straight — no mugging, no winking at camera. The longer the beat, the funnier it lands.
+The "'sup" exchange between Dave and Marcus is the emotional core of the piece. Two men. Two beds. Zero explanation needed. Play it completely straight — no mugging, no winking at camera. The longer the beat before the "'sup," the funnier it lands.
 
 ### Brand Consistency
 
