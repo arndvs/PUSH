@@ -15,7 +15,7 @@ This is **dry physical comedy**. The key tonal models are:
 
 - **Buster Keaton** — the world is against him, he adapts, he never breaks
 - **Office Space** — deadpan workplace absurdism, nothing is explained
-- **Nathan For Him** — awkward social situations played with extreme earnestness
+- **Nathan For You** — awkward social situations played with extreme earnestness
 - **Tim Robinson (I Think You Should Leave)** — escalating commitment to an absurd premise, zero winking at camera
 
 **What this is NOT:**
