@@ -19,6 +19,10 @@ _Approx. running time: 5–7 minutes_
 
 **THE BED** — A RiseTech Pro Smart Adjustable Base. The real protagonist.
 
+**DRIVE-THROUGH WORKER** — Early 20s. Dyed hair, nose ring, sleeve tattoos. Completely indifferent. Delivers bad news like it has nothing to do with her. It doesn't.
+
+**BUS COMMUTER** — Anybody. Sipping from a thermos on autopilot. Doesn't know they're ruining someone's morning.
+
 ---
 
 ---
@@ -387,9 +391,9 @@ _Dave pulls forward. Past the window. Out of the drive-through._
 
 ---
 
-**BEAT 2 — THE BUS STOP**
+**BEAT 2 — THE STOP LIGHT**
 
-_Red light. A city bus pulls up alongside Dave's car. Windows full of commuters._
+_Red light. A city bus pulls up alongside Dave's stopped car. Windows full of commuters._
 
 _A COMMUTER on the bus sips from a coffee thermos with a satisfied expression. Dave watches. Empty-handed._
 
