@@ -419,7 +419,7 @@ _An EMPLOYEE heading in from the other direction passes him. Doesn't break strid
 
 _⏱ TIMING NOTE: The office scenes should be the most "grounded" part. The bed is still there, still humming, but the world around Dave has just... accepted it. Play the comedy in the normalcy._
 
-_Dave walks through the lobby. Receptionist looks up from her desk._
+_Dave walks through the lobby. RECEPTIONIST looks up from her desk._
 
 **RECEPTIONIST**
 Morning, Dave.
@@ -427,15 +427,15 @@ Morning, Dave.
 **DAVE**
 Morning.
 
-_She glances at the bed behind him._
-
 **RECEPTIONIST**
 Rough one?
 
-**DAVE**
-Define rough.
+_Dave keeps walking._
 
-_She nods. Returns to her computer. He heads for the elevator._
+**DAVE**
+Morning.
+
+_She watches him go. Returns to her computer. He heads for the elevator._
 
 ---
 
@@ -443,9 +443,7 @@ _She nods. Returns to her computer. He heads for the elevator._
 
 _Dave and the bed get in. A COWORKER is already inside._
 
-_The coworker looks at the bed._
-
-_Looks at the floor numbers._
+_The coworker looks at the floor numbers._
 
 _Doesn't say anything._
 
@@ -463,7 +461,7 @@ _Dave rounds the corner into the main office floor._
 
 _And there — at the desk diagonal from his — is MARCUS._
 
-_Marcus looks exactly as destroyed as Dave. Same suit, slightly more wrinkled. Same expression of a man enduring something. Hair that has been fought with and won._
+_Marcus looks exactly as destroyed as Dave. Same suit as yesterday from montage, slightly more wrinkled. Same expression of a man enduring something. Hair that has been fought with and won._
 
 _Behind Marcus: a bed._
 
@@ -475,9 +473,13 @@ _Dave and Marcus look at each other._
 
 _A long beat._
 
-_Marcus gives a single, slow nod._
+_Dave gives a single nod up._
+**DAVE**
+'Sup, Marcus.
 
-_Dave gives a single, slow nod back._
+_Marcus gives a single, nod up back._
+**MARCUS**
+'Sup.
 
 _They sit down at their respective desks._
 
