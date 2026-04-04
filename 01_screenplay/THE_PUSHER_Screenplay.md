@@ -15,7 +15,7 @@ _Approx. running time: 5–7 minutes_
 
 **MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Different bed frame.
 
-**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former Somna-Push 3000 owner. Proof the system works.
+**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former NudgeBase Pro owner. Proof the system works.
 
 **THE BED** — A RiseTech Pro Smart Adjustable Base. The real protagonist.
 
@@ -500,27 +500,24 @@ _A MANAGER at the head of the table is presenting slides._
 **MANAGER**
 —so if we look at Q3, the throughput numbers are—
 
-_A NEW EMPLOYEE, fresh-faced and confused, raises his hand._
+_A YOUNG EMPLOYEE glances at the beds. Confused. Glances around the table. Starts to raise his hand._
 
-**NEW EMPLOYEE**
-Sorry, quick question — are those... beds?
+_The COWORKER next to him gives a single, short look. Not hostile. Just — don't._
 
-_Six pairs of eyes slowly turn to look at the new employee._
+_The young employee lowers his hand. Returns to the screen._
 
-_Silence._
+_The manager clicks to the next slide without breaking stride._
 
-_The manager clicks to the next slide._
-
-**MANAGER**
+**MANAGER (CONT'D)**
 —significantly up from last quarter—
 
-_The new employee looks around. Everyone has returned to the screen. He writes something in his notebook. Underlines it._
+_The young employee writes something in his notebook. Underlines it._
 
 ---
 
 ### SCENE 16 — INT. DAVE'S DESK — MIDDAY
 
-_Dave's boss, KAREN, stops by his desk. She looks at the bed. Looks at Dave._
+_Dave's boss, KAREN, stops by his desk. She looks at him._
 
 **KAREN**
 Big night?
@@ -540,9 +537,7 @@ _She starts to walk away. Stops._
 
 **KAREN**
 _(without turning around)_
-The RiseTech? Not bad. I had a Somna-Push 3000 for years.
-
-_Dave blinks._
+The RiseTech? Not bad. I had a NudgeBase Pro for years.
 
 **DAVE**
 ...Did it help?
@@ -552,10 +547,6 @@ _(already walking)_
 Made me a VP.
 
 _She's gone._
-
-_Dave stares after her. Then looks back at the bed._
-
-_New respect._
 
 ---
 
@@ -571,43 +562,34 @@ _⏱ TIMING NOTE: This sequence should visually track the passage of time and Da
 
 ---
 
-**2:00 PM** — Dave is typing. The bed presses firmly. He's moving fast, working hard — mostly involuntarily.
+**2:00 PM** — Dave is typing. The bed leans against the back of his chair. The hum is steady. Dave is working.
 
 ---
 
-**3:00 PM** — The bed has slowed. A gentle lean now. Dave is still working, but the hum is lower.
+**3:00 PM** — The hum is lower. The lean is lighter. Dave is still at it.
 
 ---
 
-**3:45 PM** — Dave stands to get water. The bed... lets him. It's still nearby, but it idles.
-
-_Dave looks back at it._
-
-_He goes to get water. Comes back. The bed is where he left it._
-
-**DAVE**
-_(quietly, surprised)_
-Oh. We're doing this now.
+**3:45 PM** — Dave stands. Gets water. Comes back. The bed hasn't moved.
 
 ---
 
-**4:30 PM** — Dave is up, at a whiteboard, explaining something to a colleague. The bed is parked at his desk. Still on. Still humming. But dormant.
+**4:30 PM** — Dave is up at a whiteboard, explaining something to a colleague. The bed is parked at his desk. Still on. Dormant.
 
 _Dave catches a glimpse of himself in the window — upright, presentable, functional._
-
-_He looks almost like a person._
 
 ---
 
 **4:58 PM** — Dave sits back down. Finishes the Hendricks report. Sends it.
 
-_He leans back._
+_He leans back. The bed is right there behind him._
 
 _The bed gives a small, soft hum — almost like an exhale._
 
-_Dave pats the headboard._
+_Dave stays._
 
 **DAVE**
+_(quietly)_
 Not bad.
 
 ---
@@ -625,27 +607,13 @@ _He picks it up. The group chat. Four messages in quick succession:_
 
 _Dave stares at the screen._
 
-_He looks at the bed. The bed hums softly — a low, steady sound. Almost like a warning. Or maybe a plea._
-
-_Dave looks back at the phone._
-
 _He types._
 
 > **DAVE:** in
 
-_He puts the phone in his pocket. Starts packing his bag._
+_The bed's hum rises slightly._
 
-_He looks at the bed one more time._
-
-**DAVE**
-_(gently)_
-See you tomorrow.
-
-_The bed hums._
-
-_Dave turns off his desk lamp. Heads for the elevator._
-
-_The bed slowly begins to fold itself._
+_He packs his bag. Turns off the desk lamp. Heads for the elevator._
 
 ---
 

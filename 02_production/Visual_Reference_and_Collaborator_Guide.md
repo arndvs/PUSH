@@ -87,7 +87,7 @@ Think of it as a very literal GPS — it doesn't care how you feel about the rou
 
 - Patient
 - Relentless
-- Oddly precise (lines Dave up perfectly with the car door, etc.)
+- Oddly precise (knows exactly where Dave needs to be next)
 - Slightly proud (the satisfied hum at 4:58pm when Dave finishes his report)
 
 **It is not:**
@@ -191,7 +191,7 @@ Shoot it from the side, wide enough to see the full bed. The comedy has three be
 
 **Two takes on the closet exit:**
 
-First exit: dress shirt (one side untucked), one shoe, pants backwards. The bed's reversal should be a single firm nudge — not violent, just... disappointed.
+First exit: dress shirt half-tucked, one shoe, no tie. The bed's reversal should be a single firm nudge — not violent, just... disappointed.
 
 Second exit: completely assembled. The impossibility of how quickly this happened should not be addressed.
 
@@ -207,7 +207,7 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 **The coffee pour:** Don't clean it up. Let it spill. Let it be a real mess. The hand-burning hiss is important — one second of real pain before he adapts.
 
-**The arm reaching back through the door:** The single best visual gag in the film. Dave has already been pushed out the door — and then one arm silently reaches back in and takes the mug. No face. Just the arm. Hold the empty kitchen for a moment after the arm disappears.
+**The coffee loss:** Dave sips while moving. The front door approaches. The counter runs out. He sets the mug down. SLAM. Hold on the empty kitchen — coffee maker still on, mug steaming on the counter. Two seconds longer than feels right. The coffee he fought for is the coffee he doesn't get to keep.
 
 ---
 
@@ -215,27 +215,29 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 **Wide is essential here.** This is the first time we see the full absurdity in outdoor daylight — a suburban driveway, normal neighborhood, and a man being escorted by his bed.
 
-**The neighbor:** Doesn't say anything. Doesn't move out of the way. Just watches. The dog also watches.
+**The caster insert:** Low angle on driveway concrete. Small black casters roll into frame. The low hum of the motor. This is the first time we see how the bed moves — the reveal is earned after 8 interior scenes of tight framing.
 
-**The car door alignment:** The bed should demonstrate uncanny precision here. It knows exactly where the door is. This precision is funnier than clumsiness would be.
+**The neighbor:** Glances over. Keeps walking. The dog watches longer than the human does.
+
+**The car transition:** Rule 1 — never show the bed getting in the car. Last driveway image is Dave being pushed toward his car. Cut. Next shot is Dave in the driver's seat.
 
 ---
 
 ### SCENE 10 — Commute Beats
 
-**Tone:** Each driving beat should feel like a different small tragedy.
+**Tone:** Two beats. In and out. The commute is a bridge, not a set piece.
 
-**The drive-through:** The extended arm reaching for the coffee cup is a visual echo of the kitchen mug gag. Use the same framing if possible. He gets the first mug, not the second. This is his punishment.
+**The drive-through:** Dave orders, pays, pulls up to the window. Machine's down. A couple minutes. The bed's hum rises — that same escalating pitch from the bathroom. Dave grips the steering wheel. Pulls away. Past the window. Out of the drive-through. No reaction shot from the worker. The joke is complete the moment he drives away.
 
-**The bus:** Hold the mutual acknowledgment beat for one full second longer than feels right. The commuter raising their thermos back is the closest Dave gets to human connection all morning.
-
-**The cop:** The cop's face when he looks in the back seat is everything. He needs to sell the moment of: _I am choosing not to know what I am seeing._ The walk back to the cruiser should be measured. Professional. A man who has seen things.
+**The bus:** Red light. A commuter on the bus sips from a thermos. Dave watches. Empty-handed. Light turns green. That's it — the thermos twists the knife without anyone knowing they're holding it.
 
 ---
 
 ### SCENE 11–13 — Office Arrival
 
-**The office world has accepted the beds.** Nobody new says anything. Nobody stops. The receptionist asks "rough one?" with the same energy she'd ask about a bad commute. The elevator coworker stares at the floor numbers.
+**The parking lot:** Tracking backward. Dave walks toward camera — bad knot, empty hands, the bed rolling behind him. The office building fills the background, getting closer. An employee heading the other direction passes without breaking stride.
+
+**The lobby:** The receptionist asks "rough one?" — about Dave's appearance, not the bed. Dave says "Morning" instead of answering. Same non-answer he gave the driveway neighbor. The elevator coworker stares at the floor numbers.
 
 ---
 
@@ -247,7 +249,7 @@ Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then 
 
 **The pause:** Let it go at least 3 full seconds. Maybe 4. The longer the silence, the more it lands.
 
-**The nod:** One nod from Marcus. One nod from Dave. Nothing else. They sit down. Open their laptops. Move on.
+**The 'sup:** "'Sup, Marcus." "'Sup." That's it. The first time Marcus is named in present-day. They sit down. Open their laptops. Move on.
 
 **The dual hum:** When both beds are in frame and idling, their hums should be slightly out of sync — creating a quiet, slightly melancholic chord. This is a detail for sound design, but flag it visually as well — the two beds, two men, two mornings.
 
@@ -255,15 +257,15 @@ Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then 
 
 ### SCENE 15 — The Conference Room
 
-**Play this completely straight.** The manager should not acknowledge the beds with even a glance. The other coworkers return to the screen immediately after looking at the new employee.
+**Play this completely straight.** The manager should not acknowledge the beds with even a glance. A young employee starts to raise his hand — the coworker next to him gives a single short look. Not hostile. Just — don't. The hand goes down.
 
-**The new employee's notebook:** He writes something down and underlines it. We don't need to see what — but if you can, it should say: _"beds??"_
+**The young employee's notebook:** He writes something down and underlines it. We don't need to see what — but if you can, it should say: _"beds??"_
 
 ---
 
 ### SCENE 16 — Karen
 
-**Karen is the world-building scene.** Her revelation that she also had a bed — the "Somna-Push 3000" — and that it "made her a VP" does two things:
+**Karen is the world-building scene.** Her revelation that she also had a bed — the "NudgeBase Pro" — and that it "made her a VP" does two things:
 
 1. Establishes that this is a real product people use
 2. Reframes the bed as aspirational
