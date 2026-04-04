@@ -304,17 +304,13 @@ _He manages to get the mug upright. Raises it to drink while still moving. It sl
 
 _The front door is approaching. Fast._
 
-_Dave looks at the mug. Looks at the door. There is no way to do both._
+_Dave is still sipping. looks at the door. Still moving. The counter is running out._
 
-_He tries anyway — one last desperate sip. The bed doesn't slow. He fumbles the mug onto the counter as the bed pushes him past it._
+looks at the mug — one last desperate sip. The bed doesn't slow. He fumbles the mug onto the counter as the bed pushes him past it.\_
 
-_He is pushed out the front door._
+_DOOR SLAM._
 
-_SLAM._
-
-_The kitchen. Empty. Quiet again._
-
-_The mug sits on the counter. Still steaming. About half a cup remaining. The coffee maker is still on. Nobody is here to drink any of it._
+_The kitchen. The coffee maker is still on. The mug is on the counter, steaming._
 
 _Hold on this. Two seconds longer than feels right._
 
@@ -332,7 +328,11 @@ _⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full
 
 _Dave is already outside. No coffee. The front door is closed behind him. We did not see him come through it._
 
-_Neighbors walking dogs stop and stare._
+_Low angle. Driveway concrete. sprinklers watering a green lawn in background. Small black casters roll into frame, steady and unhurried. The low hum of the motor._
+
+_Wide. For the first time, we see the full picture: Dave, the bed behind him, the suburban driveway, the morning light. It's worse than you imagined._
+
+_A neighbor walking a dog glances over. Keeps walking. The dog is more interested — watches longer than the human does._
 
 _Dave, coffeeless, is pushed down the driveway toward his car. He makes brief eye contact with a neighbor._
 
@@ -342,21 +342,19 @@ Morning.
 
 _The neighbor watches him pass._
 
-_The bed lines him up with the driver's door with alarming precision. The door opens. Dave drops into the driver's seat._
+_Dave is pushed toward his car._
 
 _Cut._
 
 ---
 
-### SCENE 10 — INT./EXT. CAR — DRIVING — MORNING
+### SCENE 10 — INT./EXT. CAR — MORNING
 
-_Dave is driving. In the rearview mirror — the bed, folded partially, filling the back seat. The hum continues through the upholstery. We did not see it get in. It is there._
+_Dave drops into the driver's seat. Keys in hand. He starts the car._
 
-_Dave looks in the rearview mirror at it._
+_He reaches up to adjust the rearview mirror. In the reflection — the bed, folded partially, filling the back seat. The hum continues through the upholstery. We did not see it get in. It is there._
 
-**DAVE**
-_(to mirror)_
-Buckle up.
+_Dave looks at it for a moment. Then forward._
 
 _He drives._
 
