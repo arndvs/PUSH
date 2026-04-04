@@ -357,27 +357,29 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 024
 
+**Scene:** Caster insert — first time audience sees wheels
+**Duration:** 2–3 seconds
+**Camera:** Low angle. Driveway concrete.
+
+**AI PROMPT:**
+
+> Low angle shot of suburban driveway concrete. Small black casters roll into frame from the right, steady and unhurried. The low hum of a motor. Morning light rakes across the pavement. The wheels move with quiet mechanical purpose.
+
+**NOTES:** This is the first time the audience sees the bed's casters. Keep it simple — wheels on concrete, motor hum. The wide shot that follows gives the full picture.
+
+---
+
+### SHOT 025
+
 **Scene:** Dave pushed down the driveway
 **Duration:** 5 seconds
 **Camera:** Wide. Static from the street.
 
 **AI PROMPT:**
 
-> Wide static shot from street level looking at a suburban driveway. A man in his early 30s, dressed in office clothes with a slightly crooked tie and a coffee mug, walks down the driveway being pushed from behind by a large vertical adjustable bed base. A neighbor walking a dog in the background stops and stares. Dave makes brief eye contact with the neighbor and gives a small nod. The neighbor does not nod back. Just stares. The bed continues pushing. Daytime. Suburban morning light.
+> Wide static shot from street level looking at a suburban driveway. A man in his early 30s, dressed in office clothes — shirt half-tucked, one shoe, no tie — walks down the driveway being pushed from behind by a large vertical adjustable bed base. No coffee. A neighbor walking a dog in the background glances over and keeps walking. The dog watches longer than the human does. The man makes brief eye contact with the neighbor. The bed continues pushing him toward a car parked at the end of the driveway. Daytime. Suburban morning light.
 
----
-
-### SHOT 025
-
-**Scene:** Bed lines Dave up with car door
-**Duration:** 4 seconds
-**Camera:** Medium. Side angle.
-
-**AI PROMPT:**
-
-> Medium shot of a car in a driveway from the side. A large vertical adjustable bed base approaches alongside the car, gently steering a man in his early 30s with precise nudges, lining him up perfectly with the driver's side door. The alignment is uncannily accurate. The door is pushed open. The man is nudged in. He drops into the driver's seat. Cut.
-
-**NOTES:** Per the Bed Proportions Guide: never show the bed getting into the car. End the shot at Dave dropping into the seat. The next shot (026, rearview mirror) confirms the bed is in the back seat on the other side of the cut. The edit does the work.
+**NOTES:** The neighbor glances — does not stop or stare. The dog's interest outlasts the human's. Dave has no coffee (lost it in the kitchen). The shot ends with Dave being pushed toward the car — we do not see him get in. Cut.
 
 ---
 
@@ -389,7 +391,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Close-up of a car's rearview mirror. Reflected in it: the adjustable bed base filling the back seat. The man in the front seat glances up at the mirror, making eye contact with the bed's reflection. He nods slowly. Turns back to the road. Morning commute light. Cinematic close-up.
+> Close-up of a car's rearview mirror. Reflected in it: the adjustable bed base filling the back seat. The hum continues through the upholstery. The man in the front seat glances up at the mirror — looks at the bed's reflection for a moment. Then forward. He drives. Morning commute light. Cinematic close-up.
+
+**NOTES:** Dave does not nod at the bed. He looks, then forward, then drives. The edit hid the bed getting into the car — it is simply there on the other side of the cut.
 
 ---
 
