@@ -1,8 +1,9 @@
 # THE PUSHER
+
 ### An Original Comedy Short
 
-*Written as a treatment/screenplay hybrid*
-*Approx. running time: 5–7 minutes*
+_Written as a treatment/screenplay hybrid_
+_Approx. running time: 5–7 minutes_
 
 ---
 
@@ -28,127 +29,127 @@
 
 ### SCENE 1 — INT. DAVE'S BEDROOM — PRE-DAWN
 
-*Black.*
+_Black._
 
-*Silence.*
+_Silence._
 
-*Then — the soft blue-gray of early morning light crawls across a bedroom ceiling. Everything is still. A glass of water sits on the nightstand, untouched, optimistic. A charging cable dangles off the edge like it gave up. Somewhere in the sheets is a man.*
+_Then — the soft blue-gray of early morning light crawls across a bedroom ceiling. Everything is still. A glass of water sits on the nightstand, untouched, optimistic. A charging cable dangles off the edge like it gave up. Somewhere in the sheets is a man._
 
-*We find DAVE. He is face-down, one arm hanging off the bed, one leg outside the covers. His hair has achieved a geometry that shouldn't be possible. He is alive. Technically.*
+_We find DAVE. He is face-down, one arm hanging off the bed, one leg outside the covers. His hair has achieved a geometry that shouldn't be possible. He is alive. Technically._
 
-*The room is quiet.*
+_The room is quiet._
 
-*SLAM.*
+_SLAM._
 
 **ALARM (V.O.)**
-*(phone, max volume, something aggressively upbeat)*
+_(phone, max volume, something aggressively upbeat)_
 🎵 GOOD MORNING! RISE AND—
 
-*Dave LAUNCHES upright like a man who has been electrocuted. Eyes wide. Completely uncomprehending. He slaps at the nightstand with one hand — blind, frantic, like he's trying to kill something in the dark. He knocks his phone off the first time. It clatters to the floor, still going.*
+_Dave LAUNCHES upright like a man who has been electrocuted. Eyes wide. Completely uncomprehending. He slaps at the nightstand with one hand — blind, frantic, like he's trying to kill something in the dark. He knocks his phone off the first time. It clatters to the floor, still going._
 
-*He leans over the edge, slaps the floor, finds it, silences it.*
+_He leans over the edge, slaps the floor, finds it, silences it._
 
-*Silence.*
+_Silence._
 
-*Dave sits there. Cradles his head in both hands. A long, low, animal groan — not of pain exactly, more of... profound regret.*
+_Dave sits there. Cradles his head in both hands. A long, low, animal groan — not of pain exactly, more of... profound regret._
 
 **DAVE**
-*(barely audible, into his hands)*
+_(barely audible, into his hands)_
 ...why.
 
-*A beat. He opens one eye. Then closes it.*
+_A beat. He opens one eye. Then closes it._
 
 **DAVE (CONT'D)**
 No.
 
-*He opens both eyes. Stares at the middle distance.*
+_He opens both eyes. Stares at the middle distance._
 
 ---
 
 ### SCENE 2 — FLASHBACK MONTAGE — "THE NIGHT BEFORE"
 
-*SMASH CUT. Fast and chaotic. The whole sequence feels like a memory that's already falling apart.*
+_SMASH CUT. Fast and chaotic. The whole sequence feels like a memory that's already falling apart._
 
 ---
 
 **FLASH — INT. BAR — NIGHT**
 
-*A round of shots arrives. Six guys around a high-top. Everyone cheers. Dave raises his, looks briefly at the camera with the expression of a man who absolutely knows better.*
+_A round of shots arrives. Six guys around a high-top. Everyone cheers. Dave raises his, looks briefly at the camera with the expression of a man who absolutely knows better._
 
 ---
 
 **FLASH — SAME BAR — LATER**
 
-*Dave is explaining something very important using three bar napkins arranged on the table like a diagram. Marcus and the other guys are nodding like this makes complete sense. Whatever Dave is saying, he believes it deeply.*
+_Dave is explaining something very important using three bar napkins arranged on the table like a diagram. Marcus and the other guys are nodding like this makes complete sense. Whatever Dave is saying, he believes it deeply._
 
 ---
 
 **FLASH — SAME BAR — LATER STILL**
 
-*Someone — not Dave, importantly — slides off a barstool in slow motion. Everyone watches. Nobody moves to help. This is not the first time tonight.*
+_Someone — not Dave, importantly — slides off a barstool in slow motion. Everyone watches. Nobody moves to help. This is not the first time tonight._
 
 ---
 
 **FLASH — BAR BATHROOM — NIGHT**
 
-*Dave stares at himself in the mirror. A long moment. He points at his reflection.*
+_Dave stares at himself in the mirror. A long moment. He points at his reflection._
 
 **DAVE**
-*(with great conviction)*
+_(with great conviction)_
 You're doing great.
 
-*He turns off the faucet. Walks out.*
+_He turns off the faucet. Walks out._
 
 ---
 
 **FLASH — OUTSIDE THE BAR — NIGHT**
 
-*Group selfie attempt. Someone's thumb is over the lens. Someone's eyes are closed. Dave is looking the wrong direction. Marcus is eating something. Flash goes off anyway.*
+_Group selfie attempt. Someone's thumb is over the lens. Someone's eyes are closed. Dave is looking the wrong direction. Marcus is eating something. Flash goes off anyway._
 
 ---
 
 **FLASH — BACK OF A CAB — NIGHT**
 
-*Dave, Marcus, and one other guy. Cab smells questionable. Someone is absolutely eating a gas station hot dog they should not have. Nobody is acknowledging it.*
+_Dave, Marcus, and one other guy. Cab smells questionable. Someone is absolutely eating a gas station hot dog they should not have. Nobody is acknowledging it._
 
 **MARCUS**
-*(staring straight ahead)*
+_(staring straight ahead)_
 Tomorrow's gonna be rough.
 
 **DAVE**
-*(also staring straight ahead)*
+_(also staring straight ahead)_
 Yeah.
 
-*Beat.*
+_Beat._
 
 **DAVE (CONT'D)**
 Worth it though.
 
-*Marcus considers this.*
+_Marcus considers this._
 
 **MARCUS**
 Yeah.
 
-*They ride in silence.*
+_They ride in silence._
 
 ---
 
 ### SCENE 3 — INT. DAVE'S BEDROOM — MORNING (PRESENT)
 
-*Back to Dave. The light is slightly brighter now. More accusatory.*
+_Back to Dave. The light is slightly brighter now. More accusatory._
 
-*Dave lowers his hands. Surveys the room with one eye. His gaze drifts to the nightstand.*
+_Dave lowers his hands. Surveys the room with one eye. His gaze drifts to the nightstand._
 
-*There, next to the untouched glass of water, is a slim black remote. One large button glows softly. Beside it, a small sticker on the device reads:*
+_There, next to the untouched glass of water, is a slim black remote. One large button glows softly. Beside it, a small sticker on the device reads:_
 
-***RiseTech Pro™ Smart Adjustable Base***
-*"For People Who Need A Little Push"*
+**_RiseTech Pro™ Smart Adjustable Base_**
+_"For People Who Need A Little Push"_
 
-*Dave stares at it.*
+_Dave stares at it._
 
-*He reaches out. Picks it up.*
+_He reaches out. Picks it up._
 
-*Clicks the button.*
+_Clicks the button._
 
 ---
 
@@ -160,118 +161,122 @@ Yeah.
 
 ### SCENE 4 — INT. DAVE'S BEDROOM — CONTINUOUS
 
-*A soft mechanical hum fills the room. Dignified. Almost gentle.*
+_A soft mechanical hum fills the room. Dignified. Almost gentle._
 
-*The back of the bed begins to rise. Slowly. Dave rides it up with his eyes still half-closed, one arm dangling, completely passive — like a man on a theme park ride he didn't choose.*
+_The back of the bed begins to rise. Slowly. Dave rides it up with his eyes still half-closed, one arm dangling, completely passive — like a man on a theme park ride he didn't choose._
 
-*The bed reaches 45 degrees. Keeps going.*
+_The bed reaches 45 degrees. Keeps going._
 
-*60 degrees. Dave starts to shift forward slightly.*
+_60 degrees. Dave starts to shift forward slightly._
 
-*90 degrees — sitting position. A natural stopping point. The bed does not stop.*
+_90 degrees — sitting position. A natural stopping point. The bed does not stop._
 
-*100 degrees. Dave's eyebrows go up.*
+_100 degrees. Dave's eyebrows go up._
 
-*110 degrees. He grabs the headboard.*
+_110 degrees. He grabs the headboard._
 
 **DAVE**
 Okay—
 
-*120 degrees. He's now leaning forward at an angle, feet finding the floor.*
+_120 degrees. He's now leaning forward at an angle, feet finding the floor._
 
 **DAVE (CONT'D)**
 Okay, okay—
 
-*He's standing. He looks behind him at the bed, which is now essentially vertical. He clicks the remote again. The hum doesn't change. He clicks it several more times. Nothing.*
+_He's standing. He looks behind him at the bed, which is now essentially vertical. He clicks the remote again. The hum doesn't change. He clicks it several more times. Nothing._
 
-*The bed — still humming — presses gently but firmly into his back.*
+_The bed — still humming — presses gently but firmly into his back._
 
-*It begins to walk him forward.*
+_It begins to walk him forward._
 
 **DAVE (CONT'D)**
-*(looking down at the remote)*
+_(looking down at the remote)_
 ...there's no off button?
 
-*He turns it over. On the back, in small text:*
+_He turns it over. On the back, in small text:_
 
-***Note: Morning Drive Mode cannot be manually interrupted. Have a productive day!***
+**_Note: Morning Drive Mode cannot be manually interrupted. Have a productive day!_**
 
-*Dave stares at this for a long moment.*
+_Dave stares at this for a long moment._
 
 **DAVE (CONT'D)**
-*(very quietly)*
+_(very quietly)_
 That's insane.
 
-*The bed nudges him again. He stumbles forward. And again. They're moving now — Dave in front, the bed behind, marching toward the bathroom.*
+_The bed nudges him again. He stumbles forward. And again. They're moving now — Dave in front, the bed behind, marching toward the bathroom._
 
-*The hum of the motor fills the hallway.*
+_The hum of the motor fills the hallway._
 
 ---
 
 ### SCENE 5 — INT. BATHROOM — CONTINUOUS
 
-*⏱ TIMING NOTE: This whole bathroom sequence should feel like a NASCAR pit stop — fast, functional, slightly out of control. The comedy is in Dave managing to ACTUALLY DO all the morning tasks while being continuously moved.*
+_⏱ TIMING NOTE: This whole bathroom sequence should feel like a NASCAR pit stop — fast, functional, slightly out of control. The comedy is in Dave managing to ACTUALLY DO all the morning tasks while the bed looms in the doorway, enforcing urgency through sound alone._
 
-*Dave is pushed through the bathroom door sideways. He catches himself on the sink. The bed idles in the doorway, humming, waiting.*
+_Dave is pushed through the bathroom door sideways. He catches himself on the sink. The bed idles in the doorway, humming, waiting. It fills the frame behind him — a dark rectangle that is not coming in but is absolutely not leaving._
 
-*Dave brushes his teeth. Fast. The bed gives him maybe ninety seconds — then nudges.*
+_Dave brushes his teeth. Fast. The bed's hum rises in pitch — not louder, just more pointed. A gentle escalation. Dave hears it. Brushes faster._
 
-*He spits. Gets nudged toward the shower. Steps in. Shower curtain closes around him.*
+_He spits. Glances at the doorway. The hum hasn't dropped. He moves to the shower on his own — he knows the drill. Steps in. Shower curtain closes around him._
 
-*The bed waits just outside. Humming patiently. Like a dog outside a bathroom stall.*
+_The bed waits in the doorway. Humming patiently. Like a dog outside a bathroom stall._
 
-*SFX: Water. Showering. Then:*
+_SFX: Water. Showering. Then:_
+
+_The bed's hum shifts pitch — a pointed, impatient note. The curtain sways from Dave flinching behind it._
 
 **DAVE (O.S.)**
-*(from behind curtain, somewhat defeated)*
+_(from behind curtain, somewhat defeated)_
 I'm going as fast as I can.
 
-*The bed's hum shifts pitch — a pointed, impatient note. The curtain sways from Dave flinching behind it.*
+_The hum shifts again. Higher. More insistent._
 
 **DAVE (O.S.) (CONT'D)**
 I HEARD you.
 
-*Water off. Curtain opens. Dave steps out, towel around waist.*
-
-*The bed resumes. He's pushed toward the mirror — has maybe time to run a hand through his wet hair and make brief, pained eye contact with himself.*
+_Water off. Curtain opens. Dave steps out, towel around waist. He catches his own reflection in the mirror above the sink — wet hair, wrecked face. He runs a hand through it. Makes brief, pained eye contact with himself._
 
 **DAVE**
-*(to mirror)*
+_(to mirror)_
 You're doing great.
 
-*He doesn't believe it this time.*
+_He doesn't believe it this time._
+
+_He turns toward the doorway. The bed is still there. Still filling the frame. Still humming._
+
+_Dave squeezes past it sideways — one shoulder, then the other. The bed shifts back just enough to let him through, then immediately resumes. They're moving again. Down the hallway. Toward the closet._
 
 ---
 
 ### SCENE 6 — INT. KITCHEN — INTERCUT
 
-*⏱ TIMING NOTE: This shot should cut away AT THE PERFECT MOMENT — right when Dave is being pushed fastest and the coffee feels most needed. Calm vs. chaos.*
+_⏱ TIMING NOTE: This shot should cut away AT THE PERFECT MOMENT — right when Dave is being pushed fastest and the coffee feels most needed. Calm vs. chaos._
 
-*The kitchen. Empty. Quiet. Beautiful morning light.*
+_The kitchen. Empty. Quiet. Beautiful morning light._
 
-*A coffee maker on the counter. Its timer light flicks on. A soft gurgle begins.*
+_A coffee maker on the counter. Its timer light flicks on. A soft gurgle begins._
 
-*The pot starts to fill.*
+_The pot starts to fill._
 
-*Cut back to Dave.*
+_Cut back to Dave._
 
 ---
 
 ### SCENE 7 — INT. CLOSET — CONTINUOUS
 
-*The bed pushes Dave into the walk-in closet at moderate speed. Clothes swipe past him. He grabs at things.*
+_The bed pushes Dave into the walk-in closet at moderate speed. Clothes swipe past him. He grabs at things._
 
-*He emerges with a dress shirt, one shoe, and his pants on backwards.*
+_He emerges with a dress shirt, one shoe, and his pants on backwards._
 
-*The bed reverses slightly. One firm nudge back in.*
+_The bed reverses slightly. One firm nudge back in._
 
-*A beat.*
+_A beat._
 
-*He emerges again. Shirt tucked. Both shoes. Pants correct. Tie — somehow — around his neck but not yet tied.*
+_He emerges again. Shirt tucked. Both shoes. Pants correct. Tie — somehow — around his neck but not yet tied._
 
-*The bed resumes. He ties the tie while moving.*
+_The bed resumes. He ties the tie while moving._
 
-*It's a bad knot. He looks down at it.*
+_It's a bad knot. He looks down at it._
 
 **DAVE**
 Good enough.
@@ -280,36 +285,36 @@ Good enough.
 
 ### SCENE 8 — INT. KITCHEN — CONTINUOUS
 
-*⏱ TIMING NOTE: The coffee scene is the centerpiece physical gag. Milk it. The bed should be visibly faster here — Dave is jogging slightly to stay ahead of it.*
+_⏱ TIMING NOTE: The coffee scene is the centerpiece physical gag. Milk it. The bed should be visibly faster here — Dave is jogging slightly to stay ahead of it._
 
-*The coffee is ready. The pot is full and gorgeous.*
+_The coffee is ready. The pot is full and gorgeous._
 
-*Dave rounds the corner into the kitchen, the bed behind him at noticeably increased speed. He sees the coffee. His eyes light up for the first time all morning.*
+_Dave rounds the corner into the kitchen, the bed behind him at noticeably increased speed. He sees the coffee. His eyes light up for the first time all morning._
 
 **DAVE**
 Oh thank God—
 
-*He reaches for a mug. Gets it. Reaches for the pot. The bed nudges — he stumbles, pours a chaotic stream, maybe half lands in the mug, some on the counter, a little on his hand.*
+_He reaches for a mug. Gets it. Reaches for the pot. The bed nudges — he stumbles, pours a chaotic stream, maybe half lands in the mug, some on the counter, a little on his hand._
 
 **DAVE (CONT'D)**
-*(hissing)*
+_(hissing)_
 Hot, hot, hot—
 
-*He manages to get the mug upright. Raises it to drink while still moving. It sloshes. He makes it work. He's essentially doing a moving coffee ceremony, adapting his entire body to the physics of being pushed.*
+_He manages to get the mug upright. Raises it to drink while still moving. It sloshes. He makes it work. He's essentially doing a moving coffee ceremony, adapting his entire body to the physics of being pushed._
 
-*The front door is approaching.*
+_The front door is approaching._
 
-*Dave looks at the mug. Looks at the door. Makes a decision. Takes one enormous gulp. Sets the mug on the counter as he passes.*
+_Dave looks at the mug. Looks at the door. Makes a decision. Takes one enormous gulp. Sets the mug on the counter as he passes._
 
-*He is pushed out the front door.*
+_He is pushed out the front door._
 
-*The mug sits on the counter. Still steaming. About 40% of a cup remaining.*
+_The mug sits on the counter. Still steaming. About 40% of a cup remaining._
 
-*Dave's hand reaches back in through the door and grabs it.*
+_Dave's hand reaches back in through the door and grabs it._
 
-*A beat.*
+_A beat._
 
-*He's pulled back out of frame.*
+_He's pulled back out of frame._
 
 ---
 
@@ -321,64 +326,64 @@ Hot, hot, hot—
 
 ### SCENE 9 — EXT. DRIVEWAY — MORNING
 
-*⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full absurdity — a man being escorted down a suburban driveway by a queen-size adjustable base.*
+_⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full absurdity — a man being escorted down a suburban driveway by a queen-size adjustable base._
 
-*Neighbors walking dogs stop and stare.*
+_Neighbors walking dogs stop and stare._
 
-*Dave, still clutching his coffee, is pushed down the driveway toward his car. He makes brief eye contact with a neighbor.*
+_Dave, still clutching his coffee, is pushed down the driveway toward his car. He makes brief eye contact with a neighbor._
 
 **DAVE**
-*(with tremendous dignity)*
+_(with tremendous dignity)_
 Morning.
 
-*The neighbor watches him pass.*
+_The neighbor watches him pass._
 
-*The bed lines him up with the driver's door with alarming precision. Opens it. Pushes him in.*
+_The bed lines him up with the driver's door with alarming precision. Opens it. Pushes him in._
 
-*Dave lands in the driver's seat. The bed wedges itself behind him — folded slightly, somehow fitting into the back seat, the hum continuing through the upholstery.*
+_Dave lands in the driver's seat. The bed wedges itself behind him — folded slightly, somehow fitting into the back seat, the hum continuing through the upholstery._
 
-*Dave looks in the rearview mirror at it.*
+_Dave looks in the rearview mirror at it._
 
 **DAVE (CONT'D)**
-*(to mirror)*
+_(to mirror)_
 Buckle up.
 
-*He drives.*
+_He drives._
 
 ---
 
 ### SCENE 10 — INT./EXT. CAR — DRIVING — MORNING
 
-*A series of quick driving beats:*
+_A series of quick driving beats:_
 
 ---
 
 **BEAT 1 — THE DRIVE-THROUGH**
 
-*Dave pulls into a coffee drive-through lane.*
+_Dave pulls into a coffee drive-through lane._
 
 **DRIVE-THROUGH SPEAKER**
 Welcome to—
 
-*The bed hums. The car rolls forward.*
+_The bed hums. The car rolls forward._
 
 **DAVE**
 No, wait—
 
-*He pulls up to the window. A WORKER hands out a cup.*
+_He pulls up to the window. A WORKER hands out a cup._
 
 **DRIVE-THROUGH WORKER**
 That'll be—
 
-*The bed hums. The car rolls forward. Dave's arm is fully extended, fingers grasping. He almost gets it.*
+_The bed hums. The car rolls forward. Dave's arm is fully extended, fingers grasping. He almost gets it._
 
-*He watches the drive-through disappear in his mirror.*
+_He watches the drive-through disappear in his mirror._
 
 **DAVE**
-*(under his breath)*
+_(under his breath)_
 I already had coffee. I didn't need that.
 
-*Beat.*
+_Beat._
 
 **DAVE (CONT'D)**
 I needed that.
@@ -387,63 +392,63 @@ I needed that.
 
 **BEAT 2 — THE BUS STOP**
 
-*Red light. A city bus pulls up alongside Dave's car. Windows full of commuters.*
+_Red light. A city bus pulls up alongside Dave's car. Windows full of commuters._
 
-*A few look over. They see the bed.*
+_A few look over. They see the bed._
 
-*They stare.*
+_They stare._
 
-*Dave looks back. Raises his coffee cup slightly. An acknowledgment.*
+_Dave looks back. Raises his coffee cup slightly. An acknowledgment._
 
-*One COMMUTER slowly raises their own thermos back.*
+_One COMMUTER slowly raises their own thermos back._
 
-*The light turns green.*
+_The light turns green._
 
 ---
 
 **BEAT 3 — THE RADIO**
 
-*Dave reaches for the radio. The bed bumps him — he hits scan by accident. It cycles rapidly through stations.*
+_Dave reaches for the radio. The bed bumps him — he hits scan by accident. It cycles rapidly through stations._
 
-*Static — pop song — talk radio — static — mariachi — static — NPR — static—*
+_Static — pop song — talk radio — static — mariachi — static — NPR — static—_
 
-*The bed bumps again. He accidentally hits it off entirely.*
+_The bed bumps again. He accidentally hits it off entirely._
 
-*He drives in silence.*
+_He drives in silence._
 
-*He's fine with it.*
+_He's fine with it._
 
 ---
 
 **BEAT 4 — THE COP**
 
-*A police cruiser clocks Dave from a side street. Pulls out behind him. Lights on.*
+_A police cruiser clocks Dave from a side street. Pulls out behind him. Lights on._
 
-*Dave pulls over. Cop approaches. Looks in the window at Dave. Looks in the back seat at the bed.*
+_Dave pulls over. Cop approaches. Looks in the window at Dave. Looks in the back seat at the bed._
 
-*Long pause.*
+_Long pause._
 
-*The cop slowly walks back to his car. Gets in. Drives away.*
+_The cop slowly walks back to his car. Gets in. Drives away._
 
-*Dave watches him go in the mirror.*
+_Dave watches him go in the mirror._
 
 **DAVE**
-*(nodding slowly)*
+_(nodding slowly)_
 Yeah.
 
 ---
 
 ### SCENE 11 — EXT. OFFICE BUILDING PARKING LOT — MORNING
 
-*Dave pulls in. Parks. The bed pushes him out of the car and toward the building.*
+_Dave pulls in. Parks. The bed pushes him out of the car and toward the building._
 
-*He walks through the parking lot, bed behind him, tie slightly askew, coffee in hand.*
+_He walks through the parking lot, bed behind him, tie slightly askew, coffee in hand._
 
-*An EMPLOYEE walking in from the other direction sees him. Makes a wide arc to avoid the path. Doesn't say anything.*
+_An EMPLOYEE walking in from the other direction sees him. Makes a wide arc to avoid the path. Doesn't say anything._
 
-*Dave doesn't say anything either.*
+_Dave doesn't say anything either._
 
-*This is fine.*
+_This is fine._
 
 ---
 
@@ -455,9 +460,9 @@ Yeah.
 
 ### SCENE 12 — INT. OFFICE — LOBBY — MORNING
 
-*⏱ TIMING NOTE: The office scenes should be the most "grounded" part. The bed is still there, still humming, but the world around Dave has just... accepted it. Play the comedy in the normalcy.*
+_⏱ TIMING NOTE: The office scenes should be the most "grounded" part. The bed is still there, still humming, but the world around Dave has just... accepted it. Play the comedy in the normalcy._
 
-*Dave walks through the lobby. Receptionist looks up from her desk.*
+_Dave walks through the lobby. Receptionist looks up from her desk._
 
 **RECEPTIONIST**
 Morning, Dave.
@@ -465,7 +470,7 @@ Morning, Dave.
 **DAVE**
 Morning.
 
-*She glances at the bed behind him.*
+_She glances at the bed behind him._
 
 **RECEPTIONIST**
 Rough one?
@@ -473,90 +478,90 @@ Rough one?
 **DAVE**
 Define rough.
 
-*She nods. Returns to her computer. He heads for the elevator.*
+_She nods. Returns to her computer. He heads for the elevator._
 
 ---
 
 ### SCENE 13 — INT. OFFICE ELEVATOR — MORNING
 
-*Dave and the bed get in. A COWORKER is already inside.*
+_Dave and the bed get in. A COWORKER is already inside._
 
-*The coworker looks at the bed.*
+_The coworker looks at the bed._
 
-*Looks at the floor numbers.*
+_Looks at the floor numbers._
 
-*Doesn't say anything.*
+_Doesn't say anything._
 
-*Dave doesn't say anything.*
+_Dave doesn't say anything._
 
-*The doors open. They both exit. The coworker goes right. Dave goes left.*
+_The doors open. They both exit. The coworker goes right. Dave goes left._
 
-*The bed follows Dave.*
+_The bed follows Dave._
 
 ---
 
 ### SCENE 14 — INT. OPEN OFFICE — MORNING
 
-*Dave rounds the corner into the main office floor.*
+_Dave rounds the corner into the main office floor._
 
-*And there — at the desk diagonal from his — is MARCUS.*
+_And there — at the desk diagonal from his — is MARCUS._
 
-*Marcus looks exactly as destroyed as Dave. Same suit, slightly more wrinkled. Same expression of a man enduring something. Hair that has been fought with and won.*
+_Marcus looks exactly as destroyed as Dave. Same suit, slightly more wrinkled. Same expression of a man enduring something. Hair that has been fought with and won._
 
-*Behind Marcus: a bed.*
+_Behind Marcus: a bed._
 
-*Different model. Same energy.*
+_Different model. Same energy._
 
-*Dave stops walking. The beds idle behind them both, humming softly.*
+_Dave stops walking. The beds idle behind them both, humming softly._
 
-*Dave and Marcus look at each other.*
+_Dave and Marcus look at each other._
 
-*A long beat.*
+_A long beat._
 
-*Marcus gives a single, slow nod.*
+_Marcus gives a single, slow nod._
 
-*Dave gives a single, slow nod back.*
+_Dave gives a single, slow nod back._
 
-*They sit down at their respective desks.*
+_They sit down at their respective desks._
 
-*The beds settle in behind them. Still humming. The two hums slightly out of sync, creating a low ambient chord.*
+_The beds settle in behind them. Still humming. The two hums slightly out of sync, creating a low ambient chord._
 
-*They both open their laptops.*
+_They both open their laptops._
 
 ---
 
 ### SCENE 15 — INT. CONFERENCE ROOM — LATER THAT MORNING
 
-*⏱ TIMING NOTE: The meeting is pure slow-burn. The comedy is in everyone pretending the beds are not there.*
+_⏱ TIMING NOTE: The meeting is pure slow-burn. The comedy is in everyone pretending the beds are not there._
 
-*A team meeting. Eight people around a table. Dave and Marcus are present. Their beds are behind their chairs.*
+_A team meeting. Eight people around a table. Dave and Marcus are present. Their beds are behind their chairs._
 
-*A MANAGER at the head of the table is presenting slides.*
+_A MANAGER at the head of the table is presenting slides._
 
 **MANAGER**
 —so if we look at Q3, the throughput numbers are—
 
-*A NEW EMPLOYEE, fresh-faced and confused, raises his hand.*
+_A NEW EMPLOYEE, fresh-faced and confused, raises his hand._
 
 **NEW EMPLOYEE**
 Sorry, quick question — are those... beds?
 
-*Six pairs of eyes slowly turn to look at the new employee.*
+_Six pairs of eyes slowly turn to look at the new employee._
 
-*Silence.*
+_Silence._
 
-*The manager clicks to the next slide.*
+_The manager clicks to the next slide._
 
 **MANAGER**
 —significantly up from last quarter—
 
-*The new employee looks around. Everyone has returned to the screen. He writes something in his notebook. Underlines it.*
+_The new employee looks around. Everyone has returned to the screen. He writes something in his notebook. Underlines it._
 
 ---
 
 ### SCENE 16 — INT. DAVE'S DESK — MIDDAY
 
-*Dave's boss, KAREN, stops by his desk. She looks at the bed. Looks at Dave.*
+_Dave's boss, KAREN, stops by his desk. She looks at the bed. Looks at Dave._
 
 **KAREN**
 Big night?
@@ -564,7 +569,7 @@ Big night?
 **DAVE**
 Reasonably big night.
 
-*She nods.*
+_She nods._
 
 **KAREN**
 Get the Hendricks report done by five.
@@ -572,26 +577,26 @@ Get the Hendricks report done by five.
 **DAVE**
 Done.
 
-*She starts to walk away. Stops.*
+_She starts to walk away. Stops._
 
 **KAREN**
-*(without turning around)*
+_(without turning around)_
 The RiseTech? Not bad. I had a Somna-Push 3000 for years.
 
-*Dave blinks.*
+_Dave blinks._
 
 **DAVE**
 ...Did it help?
 
 **KAREN**
-*(already walking)*
+_(already walking)_
 Made me a VP.
 
-*She's gone.*
+_She's gone._
 
-*Dave stares after her. Then looks back at the bed.*
+_Dave stares after her. Then looks back at the bed._
 
-*New respect.*
+_New respect._
 
 ---
 
@@ -603,7 +608,7 @@ Made me a VP.
 
 ### SCENE 17 — INT. OFFICE — AFTERNOON MONTAGE
 
-*⏱ TIMING NOTE: This sequence should visually track the passage of time and Dave's recovery through the behavior of the bed. Use clock cuts and gradual pacing changes.*
+_⏱ TIMING NOTE: This sequence should visually track the passage of time and Dave's recovery through the behavior of the bed. Use clock cuts and gradual pacing changes._
 
 ---
 
@@ -617,31 +622,31 @@ Made me a VP.
 
 **3:45 PM** — Dave stands to get water. The bed... lets him. It's still nearby, but it idles.
 
-*Dave looks back at it.*
+_Dave looks back at it._
 
-*He goes to get water. Comes back. The bed is where he left it.*
+_He goes to get water. Comes back. The bed is where he left it._
 
 **DAVE**
-*(quietly, surprised)*
+_(quietly, surprised)_
 Oh. We're doing this now.
 
 ---
 
 **4:30 PM** — Dave is up, at a whiteboard, explaining something to a colleague. The bed is parked at his desk. Still on. Still humming. But dormant.
 
-*Dave catches a glimpse of himself in the window — upright, presentable, functional.*
+_Dave catches a glimpse of himself in the window — upright, presentable, functional._
 
-*He looks almost like a person.*
+_He looks almost like a person._
 
 ---
 
 **4:58 PM** — Dave sits back down. Finishes the Hendricks report. Sends it.
 
-*He leans back.*
+_He leans back._
 
-*The bed gives a small, soft hum — almost like an exhale.*
+_The bed gives a small, soft hum — almost like an exhale._
 
-*Dave pats the headboard.*
+_Dave pats the headboard._
 
 **DAVE**
 Not bad.
@@ -650,38 +655,38 @@ Not bad.
 
 ### SCENE 18 — INT. DAVE'S DESK — 5:00 PM
 
-*Dave's phone buzzes.*
+_Dave's phone buzzes._
 
-*He picks it up. The group chat. Four messages in quick succession:*
+_He picks it up. The group chat. Four messages in quick succession:_
 
 > **MARCUS:** yo
 > **MARCUS:** round 2?
 > **TYLER:** 👀
 > **JAKE:** already there
 
-*Dave stares at the screen.*
+_Dave stares at the screen._
 
-*He looks at the bed. The bed hums softly — a low, steady sound. Almost like a warning. Or maybe a plea.*
+_He looks at the bed. The bed hums softly — a low, steady sound. Almost like a warning. Or maybe a plea._
 
-*Dave looks back at the phone.*
+_Dave looks back at the phone._
 
-*He types.*
+_He types._
 
 > **DAVE:** in
 
-*He puts the phone in his pocket. Starts packing his bag.*
+_He puts the phone in his pocket. Starts packing his bag._
 
-*He looks at the bed one more time.*
+_He looks at the bed one more time._
 
 **DAVE**
-*(gently)*
+_(gently)_
 See you tomorrow.
 
-*The bed hums.*
+_The bed hums._
 
-*Dave turns off his desk lamp. Heads for the elevator.*
+_Dave turns off his desk lamp. Heads for the elevator._
 
-*The bed slowly begins to fold itself.*
+_The bed slowly begins to fold itself._
 
 ---
 
@@ -693,33 +698,33 @@ See you tomorrow.
 
 ### SCENE 19 — INT. DAVE'S BEDROOM — THE NEXT MORNING
 
-*Black.*
+_Black._
 
-*Silence.*
+_Silence._
 
-*The soft blue-gray of early morning light.*
+_The soft blue-gray of early morning light._
 
-*The glass of water on the nightstand. Untouched. Optimistic.*
+_The glass of water on the nightstand. Untouched. Optimistic._
 
-*SLAM.*
+_SLAM._
 
-*Dave launches upright.*
+_Dave launches upright._
 
-*The remote glows on the nightstand.*
+_The remote glows on the nightstand._
 
-*He looks at it.*
+_He looks at it._
 
-*He picks it up.*
+_He picks it up._
 
-*He clicks the button.*
+_He clicks the button._
 
-*The hum begins.*
+_The hum begins._
 
 **SMASH CUT TO BLACK.**
 
-*The hum continues.*
+_The hum continues._
 
-*Fade out.*
+_Fade out._
 
 ---
 
@@ -727,15 +732,15 @@ See you tomorrow.
 
 ## END CREDITS
 
-*Roll over: the bed, alone in the apartment, slowly and methodically making itself. Smoothing the sheets. Adjusting the pillows.*
+_Roll over: the bed, alone in the apartment, slowly and methodically making itself. Smoothing the sheets. Adjusting the pillows._
 
-*It finishes.*
+_It finishes._
 
-*It idles.*
+_It idles._
 
-*Waiting.*
+_Waiting._
 
-*The remote glows softly on the nightstand.*
+_The remote glows softly on the nightstand._
 
 ---
 
@@ -746,18 +751,20 @@ See you tomorrow.
 ### Visual Comedy Timing — Key Principles
 
 **The Bed's Speed is the Punchline Engine.** The comedy of each sequence scales directly with how fast the bed is moving. Use this deliberately:
+
 - **Bedroom to bathroom:** Slow. Almost gentle. Dave is still confused.
 - **Bathroom through closet:** Medium. He's adapting. Still losing.
 - **Kitchen:** Fast. He's scrambling. The coffee scene works because he almost doesn't make it.
-- **Car:** The bed is contained — so it expresses speed through *sound* (louder hum) and subtle car movement.
-- **Office:** The bed is in rest mode. Comedically slow. The humor inverts — now it's *too* relaxed.
+- **Car:** The bed is contained — so it expresses speed through _sound_ (louder hum) and subtle car movement.
+- **Office:** The bed is in rest mode. Comedically slow. The humor inverts — now it's _too_ relaxed.
 - **End of day:** The bed barely moves. Dave moves on his own. We feel the arc complete.
 
 ### Sound Design Notes
 
 The bed's **motor hum** is a character. Consider:
+
 - A slightly musical quality — almost like a motif
-- It should feel *patient* — not aggressive, not punishing. The bed isn't angry. It just has a job.
+- It should feel _patient_ — not aggressive, not punishing. The bed isn't angry. It just has a job.
 - When the bed slows down in the afternoon, the pitch lowers. When it speeds up, it rises.
 - In the end credits scene, the bed making itself should have a satisfied, quiet hum — like a machine at peace.
 
@@ -773,11 +780,11 @@ The shared glance between Dave and Marcus is the emotional core of the piece. Tw
 
 ### Brand Consistency
 
-The **RiseTech Pro™ sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The tagline *"For People Who Need A Little Push"* is the thesis statement of the entire piece.
+The **RiseTech Pro™ sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The tagline _"For People Who Need A Little Push"_ is the thesis statement of the entire piece.
 
 ---
 
-*THE PUSHER — Screenplay v1.2*
-*Total estimated runtime: 5–7 minutes*
+_THE PUSHER — Screenplay v1.2_
+_Total estimated runtime: 5–7 minutes_
 
 ---

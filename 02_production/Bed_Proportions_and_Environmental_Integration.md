@@ -1,5 +1,6 @@
 # THE PUSHER — BED PROPORTIONS & ENVIRONMENTAL INTEGRATION GUIDE
-*The "Trash Truck" Problem: Making an Impossible Object Feel Inevitable*
+
+_The "Trash Truck" Problem: Making an Impossible Object Feel Inevitable_
 
 ---
 
@@ -21,7 +22,7 @@ This is exactly the problem Trash Truck solved with a full-size garbage truck in
 
 Trash Truck's design team (Chromosphere, led by Kevin Dart) solved their version of this problem through a specific philosophy: **the environment bends to accommodate the relationship, not the other way around.**
 
-They never called attention to the impossibility. They never showed the truck squeezing or struggling. The truck simply *belonged* wherever it was. The production design team built every environment with the truck in mind — wider doorframes, taller ceilings, slightly larger-scale furniture — but kept it subtle enough that the world still read as normal.
+They never called attention to the impossibility. They never showed the truck squeezing or struggling. The truck simply _belonged_ wherever it was. The production design team built every environment with the truck in mind — wider doorframes, taller ceilings, slightly larger-scale furniture — but kept it subtle enough that the world still read as normal.
 
 The key insight: **audiences don't measure. They feel.** If the bed feels right in the space — if the lighting wraps it correctly, if Dave reacts to it as something normal, if the camera frames it with the same casual authority it frames everything else — the audience accepts it. The moment you signal that the bed is weird or shouldn't fit, they start noticing that it doesn't.
 
@@ -79,9 +80,9 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **The doorframe:** The bathroom door is shown from the inside, the bed filling the entire frame. The audience sees a dark rectangle blocking the doorway. That's the bed. It fits perfectly in the sense that it occupies the space exactly — no gaps, no straining.
 
-**When Dave exits:** He steps out *around* the bed — squeezing past it sideways, not walking through it. The bed moves back slightly to let him pass, then resumes. This is a realistic and funny physical beat.
+**When Dave exits:** He steps out _around_ the bed — squeezing past it sideways, not walking through it. The bed moves back slightly to let him pass, then resumes. This is a realistic and funny physical beat.
 
-**The shower curtain nudge:** Because the bed is at the doorway — not inside the bathroom — it cannot physically reach the shower curtain. The nudge is communicated entirely through *sound and Dave's reaction*: the motor hum changes pitch slightly, Dave reacts from behind the curtain as if nudged, the curtain moves from his own movement. The audience has already accepted the bed's personality; they don't need to see the contact. This is actually funnier — the bed enforces its will without being visible.
+**The shower curtain nudge:** Because the bed is at the doorway — not inside the bathroom — it cannot physically reach the shower curtain. The nudge is communicated entirely through _sound and Dave's reaction_: the motor hum changes pitch slightly, Dave reacts from behind the curtain as if nudged, the curtain moves from his own movement. The audience has already accepted the bed's personality; they don't need to see the contact. This is actually funnier — the bed enforces its will without being visible.
 
 ---
 
@@ -101,7 +102,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Open-plan kitchens can be wide. The bed can plausibly fit here with environment design.
 
-**The Pusher version:** This is the easiest interior environment for the bed. The kitchen opens from the hallway and Dave is pushed through it quickly — the bed should feel *fast* here, which means we don't linger on spatial logistics. Speed sells it. Stay on Dave's face during the coffee pour.
+**The Pusher version:** This is the easiest interior environment for the bed. The kitchen opens from the hallway and Dave is pushed through it quickly — the bed should feel _fast_ here, which means we don't linger on spatial logistics. Speed sells it. Stay on Dave's face during the coffee pour.
 
 **The front door:** Apply Rule 1 — never show the transition. The shot before the door is Dave being pushed across the kitchen, coffee chaos, grabbing the mug. Cut. Next shot is exterior: Dave on the driveway, the door behind him already closed. We never see the bed pass through the front door. The edit does the work. This is consistent with every other impossible transition in the film.
 
@@ -111,7 +112,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** No adjustable bed base fits in a car.
 
-**The Pusher version:** This is where the Trash Truck principle is most important. The bed gets *in* the car. It's in the back seat. We accept this.
+**The Pusher version:** This is where the Trash Truck principle is most important. The bed gets _in_ the car. It's in the back seat. We accept this.
 
 **How to sell it:**
 
@@ -133,7 +134,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **The Pusher version:** The office environment is designed to make the bed feel almost normal. High ceilings, wide aisles between desk clusters, neutral colors that don't fight with the bed's dark frame.
 
-**Desk positioning:** Dave's desk (and Marcus's) should be positioned so the bed behind the chair has at least 2–3 feet of clearance on all sides. The bed should look *parked*, not crammed. Like someone brought in a standing desk, but weirder.
+**Desk positioning:** Dave's desk (and Marcus's) should be positioned so the bed behind the chair has at least 2–3 feet of clearance on all sides. The bed should look _parked_, not crammed. Like someone brought in a standing desk, but weirder.
 
 **The conference room:** This is the hardest office shot. Showing the bed at a conference table requires careful framing. The solution: Dave and Marcus sit at the end of the table, near the wall. Their beds are behind them, against the wall. The beds take up the "extra space" that always exists at the end of a conference table. Frame from the middle of the table looking toward the end — the beds are visible but integrated into the composition rather than jutting awkwardly.
 
@@ -144,21 +145,27 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 ## THE GOLDEN RULES OF BED PROPORTION
 
 ### Rule 1: Edit Around Impossibility
+
 The most powerful tool is the cut. When the geometry truly doesn't work — the car, the elevator — cut before the bed enters and cut after it's already inside. Never show the transition. The audience will fill it in.
 
 ### Rule 2: Frame Wide or Frame Close. Never Medium.
+
 Medium shots invite spatial analysis. When the audience can see both Dave, the bed, and the surrounding walls simultaneously in a medium shot, they start measuring. Avoid this. Either go wide enough that the whole composition reads as an illustration (and illustrations have their own logic), or go close enough on Dave's face that the background is shallow and soft.
 
 ### Rule 3: Light the Bed Like the Room
+
 The most common VFX mistake that breaks the illusion is lighting the subject differently from the environment. The bed should catch the same light sources as everything else in the room. Morning light from the window? The bed has a highlight from that window. Fluorescent office light? The bed's surfaces reflect that cooler tone. If the bed looks like it was shot on a different set, the illusion collapses.
 
 ### Rule 4: Dave Never Looks at the Bed Like It's Wrong-Sized
+
 If Dave ever glances at a doorframe and then at the bed with a "this shouldn't work" expression, the audience will adopt that confusion. Dave treats the bed as a normal thing that fits through normal spaces because it's his bed and it's doing what beds do. His complete acceptance is the audience's permission to accept.
 
 ### Rule 5: The Bed Has Weight
+
 A bed that floats through environments looks like a prop. A bed that has inertia, that takes a moment to stop, that causes Dave to stumble slightly when it nudges him — that bed feels real. Weight = mass = space. If the bed behaves like a heavy object, the audience grants it the physical reality of a heavy object, including the space it takes up.
 
 ### Rule 6: Design Environments First
+
 Before generating any shot where the bed moves through a space, design the environment with the bed's dimensions in mind. Widen doorframes slightly. Raise ceilings a foot. Push furniture back. Do this invisibly — the space should read as normal — but build the bed's path first, then put everything else around it. This is exactly what the Trash Truck production design team did: every environment was pre-solved for the truck before anything else was placed.
 
 ---
@@ -168,18 +175,23 @@ Before generating any shot where the bed moves through a space, design the envir
 When generating shots involving the bed in tight spaces, use this language:
 
 **For doorways (when using edit trick — don't show passage):**
+
 > "...the adjustable bed base is already on the other side of the doorframe. It belongs in this space. The movement is smooth and unhurried."
 
 **For hallways (environment design approach):**
+
 > "...the bed moves through a wide residential hallway, filling the space naturally. The walls are present but not constraining. The bed belongs here the way furniture belongs in a home."
 
 **For the car (edit approach — never show entry):**
+
 > "...in the back seat of a large SUV, the partially reclined adjustable bed base is visible in the rearview mirror. It occupies the back seat the way large luggage occupies a back seat — present, contained, accepted."
 
 **For the office (environment design — most forgiving space):**
+
 > "...parked behind a desk chair in a high-ceilinged open-plan office, the bed base sits with clear space around it on all sides. It reads as furniture in a large, generous space."
 
 **Avoid:**
+
 - Any language implying the bed is "squeezing," "barely fitting," "struggling," or "impossibly" present
 - Measurements or dimensions of any kind in prompts — these invite the AI to calculate and fail
 - Showing any transition where the bed passes through an opening that wouldn't work in reality — always cut around those moments
@@ -212,5 +224,5 @@ Before finalizing any shot:
 
 ---
 
-*THE PUSHER — Bed Proportions Guide v1.2*
-*"The truck always fits. The bed always fits. The audience always believes."*
+_THE PUSHER — Bed Proportions Guide v1.2_
+_"The truck always fits. The bed always fits. The audience always believes."_

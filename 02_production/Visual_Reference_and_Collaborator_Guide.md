@@ -1,5 +1,6 @@
 # THE PUSHER — VISUAL REFERENCE & COLLABORATOR GUIDE
-*For directors, editors, VFX artists, and production collaborators*
+
+_For directors, editors, VFX artists, and production collaborators_
 
 ---
 
@@ -19,6 +20,7 @@ This is **dry physical comedy**. The key tonal models are:
 - **Tim Robinson (I Think You Should Leave)** — escalating commitment to an absurd premise, zero winking at camera
 
 **What this is NOT:**
+
 - Slapstick (Dave doesn't get hurt)
 - Broad comedy (nobody screams, overreacts, or does takes to camera)
 - Surrealism (everything is grounded — this is a real product that simply has one very inconvenient feature)
@@ -33,15 +35,15 @@ The humor lives entirely in **Dave's resignation** and the **bed's relentless pr
 
 ### Color Palette
 
-| Sequence | Look | Notes |
-|----------|------|-------|
-| Pre-alarm bedroom | Blue-gray. Cold. Still. | Like the inside of a freezer at 5am |
-| Flashbacks | Desaturated. Warm but degraded. | Memory that's already falling apart |
-| Morning gauntlet | Increasingly warm/golden | The world waking up. Dave not. |
-| Commute | Normal. Unremarkable. | The absurdity needs a neutral container |
-| Office | Fluorescent. Flat. Corporate neutral. | Makes the beds look even more out of place |
-| End of day | Warmer. Golden hour. | He made it. The light earned. |
-| Epilogue | Exact match to opening | Circular. The cycle recognized. |
+| Sequence          | Look                                  | Notes                                      |
+| ----------------- | ------------------------------------- | ------------------------------------------ |
+| Pre-alarm bedroom | Blue-gray. Cold. Still.               | Like the inside of a freezer at 5am        |
+| Flashbacks        | Desaturated. Warm but degraded.       | Memory that's already falling apart        |
+| Morning gauntlet  | Increasingly warm/golden              | The world waking up. Dave not.             |
+| Commute           | Normal. Unremarkable.                 | The absurdity needs a neutral container    |
+| Office            | Fluorescent. Flat. Corporate neutral. | Makes the beds look even more out of place |
+| End of day        | Warmer. Golden hour.                  | He made it. The light earned.              |
+| Epilogue          | Exact match to opening                | Circular. The cycle recognized.            |
 
 ### Camera Philosophy
 
@@ -49,13 +51,13 @@ The humor lives entirely in **Dave's resignation** and the **bed's relentless pr
 
 The single most important rule: **keep both Dave AND the bed in the same frame as much as possible.** The comedy collapses if you cut between them. We need to see the full absurdity — a man being walked through his own apartment by a piece of furniture.
 
-| Camera style | When to use |
-|---|---|
-| **Wide static** | The Gauntlet sequences, the office arrival, the Marcus reveal |
-| **Medium tracking** | Hallway, parking lot, office floor walking |
-| **Close-up** | Remote details, face reactions, the phone screen |
-| **Handheld/slight shake** | Bar flashbacks, coffee kitchen scene |
-| **POV** | Dave looking at the nightstand, the rearview mirror |
+| Camera style              | When to use                                                   |
+| ------------------------- | ------------------------------------------------------------- |
+| **Wide static**           | The Gauntlet sequences, the office arrival, the Marcus reveal |
+| **Medium tracking**       | Hallway, parking lot, office floor walking                    |
+| **Close-up**              | Remote details, face reactions, the phone screen              |
+| **Handheld/slight shake** | Bar flashbacks, coffee kitchen scene                          |
+| **POV**                   | Dave looking at the nightstand, the rearview mirror           |
 
 **The camera should never be as distressed as Dave.** Even in the fastest moments, the camera stays composed. This is a documentary about a normal morning.
 
@@ -82,12 +84,14 @@ The bed is not evil. It is not malicious. It simply has **a job and it is going 
 Think of it as a very literal GPS — it doesn't care how you feel about the route, it just keeps saying "turn left in 200 feet."
 
 **It is:**
+
 - Patient
 - Relentless
 - Oddly precise (lines Dave up perfectly with the car door, etc.)
 - Slightly proud (the satisfied hum at 4:58pm when Dave finishes his report)
 
 **It is not:**
+
 - Aggressive
 - Punishing
 - Random
@@ -98,15 +102,15 @@ Every nudge should feel measured. The bed knows exactly how hard to push.
 
 The hum is the bed's voice. It should have a slightly musical quality — almost like a motif.
 
-| Moment | Hum character |
-|--------|---------------|
-| First activation | Dignified. Warm. Confident. |
-| Morning gauntlet (increasing speed) | Rising pitch. Still composed. |
-| Waiting outside the shower | Low and patient. Like a dog. |
-| In the car | Muffled through upholstery. Still present. |
-| Office hours | Barely audible. A presence, not a force. |
-| 4:58pm, report sent | One small exhale. Almost like satisfaction. |
-| End credits — making the bed | Quiet. Meditative. At peace. |
+| Moment                              | Hum character                               |
+| ----------------------------------- | ------------------------------------------- |
+| First activation                    | Dignified. Warm. Confident.                 |
+| Morning gauntlet (increasing speed) | Rising pitch. Still composed.               |
+| Waiting outside the shower          | Low and patient. Like a dog.                |
+| In the car                          | Muffled through upholstery. Still present.  |
+| Office hours                        | Barely audible. A presence, not a force.    |
+| 4:58pm, report sent                 | One small exhale. Almost like satisfaction. |
+| End credits — making the bed        | Quiet. Meditative. At peace.                |
 
 ---
 
@@ -127,6 +131,7 @@ The hum is the bed's voice. It should have a slightly musical quality — almost
 ### SCENE 2 — Flashback Montage
 
 **The look:** Each flashback should feel like a slightly different degraded format:
+
 - Bar shots: overexposed, slightly blown highlights
 - Bathroom mirror: greenish cast, lower contrast
 - Group selfie: flash-washed, nearly white
@@ -164,13 +169,13 @@ Shoot it from the side, wide enough to see the full bed. The comedy has three be
 
 **Pacing:** This whole sequence is a NASCAR pit stop. Every beat overlaps with movement.
 
-| Beat | Visual detail |
-|------|--------------|
-| Pushed through door | He goes in sideways — through the narrow gap, not straight |
-| Teeth brushing | He's already looking in the mirror for less than 5 seconds when the bed nudges |
-| Shower | The bed waiting outside the curtain is its own 3-second shot — don't cut away from it |
-| "I HEARD you" | Reaction to the curtain nudge. Delivered to empty air, behind a curtain |
-| Mirror — "you're doing great" | Callback to the bar flashback. Same phrase, completely different energy |
+| Beat                          | Visual detail                                                                         |
+| ----------------------------- | ------------------------------------------------------------------------------------- |
+| Pushed through door           | He goes in sideways — through the narrow gap, not straight                            |
+| Teeth brushing                | He's already looking in the mirror for less than 5 seconds when the bed nudges        |
+| Shower                        | The bed waiting outside the curtain is its own 3-second shot — don't cut away from it |
+| "I HEARD you"                 | Reaction to the curtain nudge. Delivered to empty air, behind a curtain               |
+| Mirror — "you're doing great" | Callback to the bar flashback. Same phrase, completely different energy               |
 
 ---
 
@@ -224,7 +229,7 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 **The bus:** Hold the mutual acknowledgment beat for one full second longer than feels right. The commuter raising their thermos back is the closest Dave gets to human connection all morning.
 
-**The cop:** The cop's face when he looks in the back seat is everything. He needs to sell the moment of: *I am choosing not to know what I am seeing.* The walk back to the cruiser should be measured. Professional. A man who has seen things.
+**The cop:** The cop's face when he looks in the back seat is everything. He needs to sell the moment of: _I am choosing not to know what I am seeing._ The walk back to the cruiser should be measured. Professional. A man who has seen things.
 
 ---
 
@@ -252,7 +257,7 @@ Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then 
 
 **Play this completely straight.** The manager should not acknowledge the beds with even a glance. The other coworkers return to the screen immediately after looking at the new employee.
 
-**The new employee's notebook:** He writes something down and underlines it. We don't need to see what — but if you can, it should say: *"beds??"*
+**The new employee's notebook:** He writes something down and underlines it. We don't need to see what — but if you can, it should say: _"beds??"_
 
 ---
 
@@ -308,6 +313,7 @@ He sends it. Packs his bag. The goodbye to the bed ("See you tomorrow") should b
 **This is the film's closing statement.**
 
 The bed, alone, making itself — slowly, precisely, without being asked — is simultaneously:
+
 - A joke (it's just a bed)
 - A character moment (it's preparing for tomorrow)
 - A slightly eerie image (it knows what's coming)
@@ -324,18 +330,18 @@ When it finishes, it idles. The remote glows.
 
 ## EDITING RHYTHM GUIDE
 
-| Section | Avg. Cut Rhythm | Feel |
-|---------|----------------|------|
-| Opening (silence → alarm) | Hold for 3–4 seconds | Dread before the drop |
-| Flashback montage | 2–3 seconds per flash | Memory degrading in real time |
-| Bed rising | 8–10 seconds continuous | Let it go. Don't cut. |
-| Bathroom gauntlet | 4–6 seconds per beat | Pit stop urgency |
-| Coffee intercut | 6–8 seconds | Intentionally too long |
-| Commute beats | 4–5 seconds each | Anthology rhythm |
-| Marcus reveal | 8–10 seconds continuous | Do not cut the pause |
-| Office afternoon | 3 seconds per time stamp | Time-lapse efficiency |
-| Epilogue | 5 seconds continuous | Recognition, not explanation |
-| End credits | 15 seconds, no cuts | Earned stillness |
+| Section                   | Avg. Cut Rhythm          | Feel                          |
+| ------------------------- | ------------------------ | ----------------------------- |
+| Opening (silence → alarm) | Hold for 3–4 seconds     | Dread before the drop         |
+| Flashback montage         | 2–3 seconds per flash    | Memory degrading in real time |
+| Bed rising                | 8–10 seconds continuous  | Let it go. Don't cut.         |
+| Bathroom gauntlet         | 4–6 seconds per beat     | Pit stop urgency              |
+| Coffee intercut           | 6–8 seconds              | Intentionally too long        |
+| Commute beats             | 4–5 seconds each         | Anthology rhythm              |
+| Marcus reveal             | 8–10 seconds continuous  | Do not cut the pause          |
+| Office afternoon          | 3 seconds per time stamp | Time-lapse efficiency         |
+| Epilogue                  | 5 seconds continuous     | Recognition, not explanation  |
+| End credits               | 15 seconds, no cuts      | Earned stillness              |
 
 ---
 
@@ -353,5 +359,5 @@ When it finishes, it idles. The remote glows.
 
 ---
 
-*THE PUSHER — Collaborator Visual Reference v1.2*
-*Questions? Start with the screenplay. The bed knows what it's doing.*
+_THE PUSHER — Collaborator Visual Reference v1.2_
+_Questions? Start with the screenplay. The bed knows what it's doing._
