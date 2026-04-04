@@ -625,7 +625,7 @@ Oh. We're doing this now.
 
 ---
 
-**4:30 PM** — Dave is up, at a whiteboard, explaining something to a colleague. The bed is parked at his desk. Still on. Still humming. But dormant.*
+**4:30 PM** — Dave is up, at a whiteboard, explaining something to a colleague. The bed is parked at his desk. Still on. Still humming. But dormant.
 
 *Dave catches a glimpse of himself in the window — upright, presentable, functional.*
 
@@ -633,7 +633,7 @@ Oh. We're doing this now.
 
 ---
 
-**4:58 PM** — Dave sits back down. Finishes the Hendricks report. Sends it.*
+**4:58 PM** — Dave sits back down. Finishes the Hendricks report. Sends it.
 
 *He leans back.*
 
