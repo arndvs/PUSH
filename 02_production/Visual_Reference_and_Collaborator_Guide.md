@@ -353,5 +353,5 @@ When it finishes, it idles. The remote glows.
 
 ---
 
-*THE PUSHER — Collaborator Visual Reference v1.0*
+*THE PUSHER — Collaborator Visual Reference v1.2*
 *Questions? Start with the screenplay. The bed knows what it's doing.*

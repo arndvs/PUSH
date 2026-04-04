@@ -602,5 +602,5 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
-*THE PUSHER — AI Shot List v1.0*
+*THE PUSHER — AI Shot List v1.2*
 *19 scenes / 46 shots / approx. 5–7 minute runtime*

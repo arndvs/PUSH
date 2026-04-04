@@ -212,5 +212,5 @@ Before finalizing any shot:
 
 ---
 
-*THE PUSHER — Bed Proportions Guide v1.1 — inconsistencies resolved*
+*THE PUSHER — Bed Proportions Guide v1.2*
 *"The truck always fits. The bed always fits. The audience always believes."*

@@ -44,4 +44,4 @@ _RiseTech Pro™ — "For People Who Need A Little Push"_
 
 ---
 
-_Version 1.1 — All documents current as of initial production package._
+_Version 1.2 — All documents current as of initial production package._
