@@ -270,9 +270,9 @@ Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then 
 1. Establishes that this is a real product people use
 2. Reframes the bed as aspirational
 
-Dave looking at the bed with new respect afterward is a small but important character beat. He's gone from victim to potential beneficiary.
+Karen's line is the end of the scene. She delivers the information and she's gone. No reaction shot from Dave.
 
-**Karen should not turn around when she delivers the Somna-Push line.** She's already walking. It's offhand. She doesn't care that it's incredible information.
+**Karen should not turn around when she delivers the NudgeBase Pro line.** She's already walking. It's offhand. She doesn't care that it's incredible information.
 
 ---
 
@@ -284,21 +284,17 @@ The visual key: as the clock advances, the bed's lean decreases. By 4:30 it's es
 
 **The whiteboard moment (4:30pm):** Dave is gesturing at a whiteboard, fully animated, explaining something to a coworker. He catches his own reflection in the window behind them — upright, dressed, functional. A flicker of surprise. He looks almost like a person.
 
-**The 4:58pm hum:** This needs to be in sound design. When Dave sends the report and leans back, the bed should emit one single, small, lower-pitched hum. An exhale. Dave hears it. Pats the headboard. "Not bad." This is genuine warmth.
+**The 4:58pm hum:** This needs to be in sound design. When Dave sends the report and leans back, the bed should emit one single, small, lower-pitched hum. An exhale. Dave stays. "Not bad." This is the one moment Dave breaks the pattern and acknowledges the bed directly. It lands because he hasn't done it all day.
 
 ---
 
 ### SCENE 18 — The Choice
 
-**Dave's phone buzzes and it's the group chat.** We see the screen — the invites rolling in. We see him look at the bed.
-
-**The bed hums.** Low. Steady. It could be a warning. It could be a plea. It could be acceptance. We don't know. The film doesn't tell us.
+**Dave's phone buzzes and it's the group chat.** We see the screen — the invites rolling in.
 
 **"In."**
 
-He sends it. Packs his bag. The goodbye to the bed ("See you tomorrow") should be quiet, sincere, and slightly guilty — like leaving a responsible friend behind to go make the same mistake again.
-
-**The bed folding itself as he walks away:** Hold this for the full duration. Let it fold completely. Let it settle. The room is empty. The bed is ready for tomorrow. The remote glows.
+He sends it. The bed's hum rises slightly. He packs his bag. Turns off the desk lamp. Heads for the elevator. No goodbye, no last look. He's already thinking about tonight.
 
 ---
 
