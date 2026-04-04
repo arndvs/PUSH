@@ -14,6 +14,8 @@
 
 **MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Different bed frame.
 
+**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former Somna-Push 3000 owner. Proof the system works.
+
 **THE BED** — A RiseTech Pro Smart Adjustable Base. The real protagonist.
 
 ---
