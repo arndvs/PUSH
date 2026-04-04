@@ -104,7 +104,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **The Pusher version:** This is the easiest interior environment for the bed. The kitchen opens from the hallway and Dave is pushed through it quickly — the bed should feel _fast_ here, which means we don't linger on spatial logistics. Speed sells it. Stay on Dave's face during the coffee pour.
 
-**The front door:** Apply Rule 1 — never show the transition. The shot before the door is Dave being pushed across the kitchen, coffee chaos, grabbing the mug. Cut. Next shot is exterior: Dave on the driveway, the door behind him already closed. We never see the bed pass through the front door. The edit does the work. This is consistent with every other impossible transition in the film.
+**The front door:** Apply Rule 1 — never show the transition. The shot before the door is Dave in the kitchen — coffee chaos, sipping while moving, then setting the mug down as the counter runs out. SLAM. Hold on the empty kitchen. Cut. Next shot is exterior: Dave on the driveway, the door behind him already closed. We never see the bed pass through the front door. The edit does the work. This is consistent with every other impossible transition in the film.
 
 ---
 
