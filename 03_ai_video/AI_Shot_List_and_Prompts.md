@@ -573,7 +573,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Wide. Static. Bedroom. Empty.
 
 **AI PROMPT:**
-> Wide static shot of an empty bedroom. Morning light. No people. An adjustable bed base at the far side of the room is slowly, methodically making itself — sheets pulling taut, pillows adjusting into position. The process is quiet and precise, like a machine at peace. No humans are present. The room is tidy. The remote glows softly on the nightstand. The bed finishes. Idles. Waits. Fade to black over 3 seconds.
+> Wide static shot of an empty bedroom. Morning light. No people. An adjustable bed base at the far side of the room is slowly, methodically making itself — sheets pulling taut, pillows adjusting into position. The process is quiet and precise, like a machine at peace. No humans are present. The room is tidy. The remote glows softly on the nightstand. The bed finishes. Idles. Waits. Fade to black over 5 seconds.
 
 **NOTES:** Play this completely straight. No music — just the low hum of the motor. It should feel almost meditative. Let it breathe.
 
