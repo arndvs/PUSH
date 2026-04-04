@@ -389,43 +389,11 @@ _Dave pulls forward. Past the window. Out of the drive-through._
 
 **BEAT 2 — THE BUS STOP**
 
-\_Red light. A city bus pulls up alongside Dave's car. Windows full of communters.
+_Red light. A city bus pulls up alongside Dave's car. Windows full of commuters._
 
 _A COMMUTER on the bus sips from a coffee thermos with a satisfied expression. Dave watches. Empty-handed._
 
 _The light turns green._
-
----
-
-**BEAT 3 — THE RADIO**
-
-_Dave reaches for the radio. The bed bumps him — he hits scan by accident. It cycles rapidly through stations._
-
-_Static — pop song — talk radio — static — mariachi — static — NPR — static—_
-
-_The bed bumps again. He accidentally hits it off entirely._
-
-_He drives in silence._
-
-_He's fine with it._
-
----
-
-**BEAT 4 — THE COP**
-
-_A police cruiser clocks Dave from a side street. Pulls out behind him. Lights on._
-
-_Dave pulls over. Cop approaches. Looks in the window at Dave. Looks in the back seat at the bed._
-
-_Long pause._
-
-_The cop slowly walks back to his car. Gets in. Drives away._
-
-_Dave watches him go in the mirror._
-
-**DAVE**
-_(nodding slowly)_
-Yeah.
 
 ---
 
