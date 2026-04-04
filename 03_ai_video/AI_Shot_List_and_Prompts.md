@@ -427,42 +427,6 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 029
 
-**Scene:** Radio station roulette
-**Duration:** 4–5 seconds
-**Camera:** Medium. Interior car, dashboard level.
-
-**AI PROMPT:**
-
-> Medium shot from the passenger side of a car interior. A man in his early 30s drives with one hand. He reaches for the radio dial. The car jolts slightly (implied: bed bump from behind). His hand slaps the scan button by accident. The radio display cycles rapidly — the man watches it helplessly, his hand hovering. After several seconds of cycling he accidentally hits the power button. The radio goes dark. Silence. He stares ahead. He's fine with it. Morning commute light through windshield. Slight dashboard reflections.
-
-**NOTES:** The comedy is in the acceptance. He doesn't try again. The silence is preferable to effort.
-
----
-
-### SHOT 030
-
-**Scene:** Cop encounter
-**Duration:** 5 seconds
-**Camera:** Intercutting. Side of road.
-
-**AI PROMPT (Shot A — Police lights):**
-
-> A police cruiser with flashing lights is reflected in a car's rearview mirror. The car pulls over to the side of a suburban road. Morning light.
-
-**AI PROMPT (Shot B — Cop approaches, looks in window):**
-
-> A police officer approaches a pulled-over car and leans down to look through the driver's window. He sees the driver (man, early 30s, slightly disheveled office attire). He looks into the back seat. His expression shifts from professional to completely blank — the look of a person choosing not to process what they're seeing. He stands up. He walks back to his cruiser without a word. The cruiser drives away.
-
----
-
----
-
-## ACT FOUR — THE OFFICE
-
----
-
-### SHOT 031
-
 **Scene:** Parking lot walk
 **Duration:** 4 seconds
 **Camera:** Wide. Tracking from the front.
@@ -473,7 +437,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 032
+### SHOT 030
 
 **Scene:** Receptionist lobby
 **Duration:** 4–5 seconds
@@ -487,7 +451,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 033
+### SHOT 031
 
 **Scene:** Elevator — silent coworker
 **Duration:** 5–6 seconds
@@ -501,7 +465,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 034
+### SHOT 032
 
 **Scene:** Dave arrives — sees Marcus
 **Duration:** 10–12 seconds
@@ -515,7 +479,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 035
+### SHOT 033
 
 **Scene:** Conference room — new employee notices
 **Duration:** 5 seconds
@@ -527,7 +491,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 036
+### SHOT 034
 
 **Scene:** Karen visits Dave's desk
 **Duration:** 6 seconds
@@ -545,7 +509,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 037
+### SHOT 035
 
 **Scene:** 2 PM — bed still pushing
 **Duration:** 3 seconds
@@ -557,7 +521,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 038
+### SHOT 036
 
 **Scene:** 3 PM — bed slowing
 **Duration:** 3 seconds
@@ -569,7 +533,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 039
+### SHOT 037
 
 **Scene:** 3:45 PM — Dave gets water, bed lets him
 **Duration:** 5 seconds
@@ -581,7 +545,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 040
+### SHOT 038
 
 **Scene:** 4:30 PM — whiteboard moment
 **Duration:** 5–6 seconds
@@ -595,7 +559,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 041
+### SHOT 039
 
 **Scene:** 4:58 PM — the Hendricks report
 **Duration:** 5–6 seconds
@@ -609,7 +573,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 042
+### SHOT 040
 
 **Scene:** 5:00 PM — the group chat
 **Duration:** 4 seconds
@@ -621,7 +585,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 043
+### SHOT 041
 
 **Scene:** The goodbye
 **Duration:** 8–10 seconds
@@ -641,7 +605,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 044
+### SHOT 042
 
 **Scene:** Next morning — exact repeat of SHOT 001 and 002
 **Duration:** 5 seconds
@@ -653,7 +617,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 045
+### SHOT 043
 
 **Scene:** Dave clicks the button again
 **Duration:** 4 seconds
@@ -671,7 +635,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-### SHOT 046
+### SHOT 044
 
 **Scene:** The bed makes itself
 **Duration:** 10–15 seconds
@@ -720,4 +684,4 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 ---
 
 _THE PUSHER — AI Shot List v1.2_
-_19 scenes / 46 shots / approx. 5–7 minute runtime_
+_19 scenes / 44 shots / approx. 5–7 minute runtime_
