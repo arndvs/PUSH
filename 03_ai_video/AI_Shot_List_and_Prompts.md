@@ -514,7 +514,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Medium. Static. Office desk.
 
 **AI PROMPT:**
-> Medium shot of a man in his early 30s at an office desk in late afternoon golden light. He looks at the adjustable bed base beside his chair. The bed is still — its hum barely audible, a low exhale. He pats the top of the headboard frame gently, like saying goodbye to a loyal dog. He turns off his desk lamp. The click is deliberate. He grabs his bag, gives one last look back. Walks toward the elevator. Behind him in the now-dim desk area, the bed slowly begins to fold itself flat — unhurried, methodical, already preparing for tomorrow. The remote on the nightstand glows. Office golden hour light fading.
+> Medium shot of a man in his early 30s at an office desk in late afternoon golden light. He looks at the adjustable bed base beside his chair. The bed is still — its hum barely audible, a low exhale. He pats the top of the headboard frame gently, like saying goodbye to a loyal dog. He turns off his desk lamp. The click is deliberate. He grabs his bag, gives one last look back. Walks toward the elevator. Behind him in the now-dim desk area, the bed slowly begins to fold itself flat — unhurried, methodical, already preparing for tomorrow. Office golden hour light fading.
 
 **NOTES:** This is the emotional close of the working day. The desk lamp click, the pat, and the bed folding should each get their own beat. Don't rush it. The bed folding itself is the transition into the epilogue's circular structure.
 
