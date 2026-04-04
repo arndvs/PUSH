@@ -187,9 +187,9 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 **Camera:** Wide. Static from the side.
 
 **AI PROMPT:**
-> Wide shot of a bedroom. An adjustable bed base stands completely vertical — essentially a large dark rectangle — pressing gently against the back of a man in his early 30s (dress shirt, disheveled hair). The bed nudges him forward, walking him slowly toward the bedroom door. The man stumbles slightly, looks back at the bed, looks at the remote in his hand, looks forward. He accepts this. The hum of the motor is implied in the stillness. Morning light.
+> Wide shot of a bedroom. An adjustable bed base stands completely vertical — essentially a large dark rectangle — pressing gently against the back of a man in his early 30s (t-shirt, boxers, disheveled hair). The bed nudges him forward, walking him slowly toward the bedroom door. The man stumbles slightly, looks back at the bed, looks at the remote in his hand, looks forward. He accepts this. The hum of the motor is implied in the stillness. Morning light.
 
-**NOTES:** This is the money shot — the full absurdity visible for the first time. Hold it wide.
+**NOTES:** This is the money shot — the full absurdity visible for the first time. Hold it wide. Dave is still in sleepwear here — he doesn't get dressed until the closet scene (Shot 022).
 
 ---
 
