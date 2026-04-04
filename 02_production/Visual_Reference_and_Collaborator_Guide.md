@@ -232,8 +232,6 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 **The office world has accepted the beds.** Nobody new says anything. Nobody stops. The receptionist asks "rough one?" with the same energy she'd ask about a bad commute. The elevator coworker stares at the floor numbers.
 
-**The only exception:** The new employee in the conference room. He is the audience surrogate — the last person in this universe who still thinks the beds are noteworthy.
-
 ---
 
 ### SCENE 14 — The Marcus Reveal
