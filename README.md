@@ -21,7 +21,7 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 
 ### 📝 Root
 
-- **concept.md** — Original pitch treatment. Superseded by the screenplay but preserved for reference.
+- **original-concept.md** — Original pitch treatment. Superseded by the screenplay but preserved for reference.
 
 ---
 
