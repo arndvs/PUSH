@@ -97,16 +97,11 @@ Think of it as a very literal GPS — it doesn't care how you feel about the rou
 - Punishing
 - Random
 
-Every nudge should feel measured. The- Slightly proud (the satisfied hum at 4:58pm when Dave finishes his report)
-bed knows exactly how hard to push.
+Every nudge should feel measured. The bed knows exactly how hard to push.
 
 ### The Bed's Motor Hum — Audio Character
 
 The hum is the bed's voice. It should have a slightly musical quality — almost like a motif. Warm, low, steady. Not mechanical in a threatening way. More like a high-quality HVAC system that has made peace with its purpose.
-
-The hum is the bed's voice. It should have a slightly musical quality — almost like a motif.
-
-| End credits — making the bed | Quiet. Meditative. At peace. |
 
 | Moment                              | Hum character                                                              |
 | ----------------------------------- | -------------------------------------------------------------------------- |
