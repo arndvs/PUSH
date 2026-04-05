@@ -186,9 +186,7 @@ Okay, okay—
 
 _He's standing. He looks behind him at the bed, which is now essentially vertical. He clicks the remote again. The hum doesn't change. He clicks it several more times. Nothing._
 
-_The bed — still humming — presses gently but firmly into his back._
-
-_It begins to roll him forward._
+_The bed — still humming — pushes into his back. Dave stumbles forward a step, startled. He catches himself. Looks back at it. The bed doesn't care. It pushes again — measured, patient, non-negotiable. He gets the point._
 
 **DAVE (CONT'D)**
 _(looking down at the remote)_
