@@ -1,4 +1,4 @@
-# THE PUSHER
+# THE REMOTE
 
 ### An Original Comedy Short
 
@@ -15,9 +15,9 @@ _Approx. running time: 5–7 minutes_
 
 **MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Different bed frame.
 
-**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former NudgeBase Pro owner. Proof the system works.
+**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former RISE 2 owner. Proof the system works.
 
-**THE BED** — A RiseTech Pro Smart Adjustable Base. The real protagonist.
+**THE BED** — A RISE™ Smart Adjustable Base. The real protagonist.
 
 **DRIVE-THROUGH WORKER** — Early 20s. Dyed hair, nose ring, sleeve tattoos. Completely indifferent. Delivers bad news like it has nothing to do with her. It doesn't.
 
@@ -146,7 +146,7 @@ _Dave lowers his hands. Surveys the room with one eye. His gaze drifts to the ni
 
 _There, next to the untouched glass of water, is a slim black remote. One large button glows softly. Beside it, a small sticker on the device reads:_
 
-**_RiseTech Pro™ Smart Adjustable Base_**
+**_RISE™ Smart Adjustable Base_**
 _"For People Who Need A Little Push"_
 
 _Dave stares at it._
@@ -177,7 +177,7 @@ _90 degrees — sitting position. A natural stopping point. The bed does not sto
 
 _100 degrees. Dave's eyebrows go up._
 
-_110 degrees. He grabs the headboard._
+_110 degrees. He grabs the frame._
 
 **DAVE**
 Okay—
@@ -191,7 +191,7 @@ _He's standing. He looks behind him at the bed, which is now essentially vertica
 
 _The bed — still humming — presses gently but firmly into his back._
 
-_It begins to walk him forward._
+_It begins to roll him forward._
 
 **DAVE (CONT'D)**
 _(looking down at the remote)_
@@ -199,7 +199,7 @@ _(looking down at the remote)_
 
 _He turns it over. On the back, in small text:_
 
-**_Note: Morning Drive Mode cannot be manually interrupted. Have a productive day!_**
+**_RISE™ — Note: Morning Drive Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!_**
 
 _Dave stares at this for a long moment._
 
@@ -358,7 +358,7 @@ _Cut._
 
 _Dave drops into the driver's seat. Keys in hand. He starts the car._
 
-_He reaches up to adjust the rearview mirror. In the reflection — the bed, folded partially, filling the back seat. The hum continues through the upholstery. We did not see it get in. It is there._
+_He reaches up to adjust the rearview mirror. In the reflection — the bed, folded in half like a taco, filling the back seat. The hum continues through the upholstery. We did not see it get in. It is there._
 
 _Dave looks at it for a moment. Then forward._
 
@@ -535,7 +535,7 @@ _She starts to walk away. Stops._
 
 **KAREN**
 _(without turning around)_
-The RiseTech? Not bad. I had a NudgeBase Pro for years.
+The RISE? Not bad. I had the RISE 2.
 
 **DAVE**
 ...Did it help?
@@ -657,13 +657,11 @@ _Fade out._
 
 ## END CREDITS
 
-_Roll over: the bed, alone in the apartment, slowly and methodically making itself. Smoothing the sheets. Adjusting the pillows._
+_Roll over: the bed, alone, rolling down a city sidewalk in late afternoon light. Vertical. Unhurried. Going home. People move around it the way people move around anything on a crowded sidewalk — slightly, automatically, without looking up. A dog watches it pass. Its owner does not._
 
-_It finishes._
+_The hum fades as it rounds the corner._
 
-_It idles._
-
-_Waiting._
+_The bed has been made since this morning. It has nowhere left to prepare. It simply goes home, folds itself flat, and waits._
 
 _The remote glows softly on the nightstand._
 
@@ -691,7 +689,7 @@ The bed's **motor hum** is a character. Consider:
 - A slightly musical quality — almost like a motif
 - It should feel _patient_ — not aggressive, not punishing. The bed isn't angry. It just has a job.
 - When the bed slows down in the afternoon, the pitch lowers. When it speeds up, it rises.
-- In the end credits scene, the bed making itself should have a satisfied, quiet hum — like a machine at peace.
+- In the end credits scene, the bed rolling home alone should have a quiet, unhurried hum — like a machine at peace.
 
 ### Performance Notes — Dave
 
@@ -705,11 +703,12 @@ The "'sup" exchange between Dave and Marcus is the emotional core of the piece. 
 
 ### Brand Consistency
 
-The **RiseTech Pro™ sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The tagline _"For People Who Need A Little Push"_ is the thesis statement of the entire piece.
+The **RISE™ sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The tagline _"For People Who Need A Little Push"_ is the thesis statement of the entire piece.
 
 ---
 
-_THE PUSHER — Screenplay v1.2_
+_THE REMOTE — Screenplay v2.0_
+_Updated: Title, brand (RISE™), end credits (commute home), car state (folded/taco), movement (rolls, not walks). Aligned with Prop Bible v2.2._
 _Total estimated runtime: 5–7 minutes_
 
 ---
