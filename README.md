@@ -12,7 +12,7 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 
 ### 🎬 02_production/
 
-- **prop_bible.md** — Canonical physical descriptions for the RISE™ bed and remote. Construction, materials, three states, hum language, movement personality, self-making mechanism, and the RISE™ remote in full detail. **This document is the single source of truth for all prop descriptions. All other documents defer to it.**
+- **prop_bible.md** — Canonical physical descriptions for the PUSH by RISE™ bed and remote. Construction, materials, four states, hum language, movement personality, self-making mechanism, and the PUSH remote in full detail. **This document is the single source of truth for all prop descriptions. All other documents defer to it.**
 - **Visual_Reference_and_Collaborator_Guide.md** — Tone references, color palette by sequence, camera philosophy, scene-by-scene visual notes, editing rhythm guide, and music notes. For directors, editors, and collaborators.
 - **Bed_Proportions_and_Environmental_Integration.md** — How to make the bed feel correctly sized in every environment (the "Trash Truck problem"). Essential for VFX, AI video generation, and production design.
 
@@ -42,7 +42,7 @@ A man with a hangover uses his smart adjustable bed to get himself up — and di
 
 ## The Tagline
 
-_RISE™ — "For People Who Need A Little Push"_
+_PUSH by RISE™ — "For People Who Need A Little Push"_
 
 ---
 
@@ -52,4 +52,4 @@ The **Prop Bible** is canonical. On any question of physical description, brand,
 
 ---
 
-_Version 2.0 — All documents aligned with Prop Bible v2.2._
+_Version 3.0 — All documents aligned with Prop Bible v3.0. Product rebrand: PUSH by RISE™._
