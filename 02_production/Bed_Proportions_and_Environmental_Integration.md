@@ -212,14 +212,9 @@ When generating shots involving the bed in tight spaces, use this language:
 
 ## A NOTE ON MARCUS'S BED
 
-Marcus has a RISE™ bed. Same brand. Different model — the RISE 2, previous generation. This is the same model Karen references when she tells Dave _"I had the RISE 2. Made me a VP."_
+Marcus has a PUSH by RISE™. Same product. Same generation. Different colorway (warm gray frame vs. Dave's dark charcoal) and different personal soft goods (duvet, sheets, pillowcase).
 
-Marcus's bed should be visually distinct — same height and width, but a different design language. Warm gray (slightly lighter, slightly warmer than Dave's dark charcoal), rounder corners, softer strut profile. This distinction matters for two reasons:
-
-1. It confirms these are consumer products with a model history — which grounds the world
-2. When both beds are in frame together at the office, the visual variety prevents them from reading as a single duplicated prop
-
-Both beds should follow all the same proportional rules. When they're in the conference room together, they should fit behind their respective chairs with the same "just barely right" quality.
+Marcus's bed follows all the same proportional rules. When they're in the conference room together, they should fit behind their respective chairs with the same "just barely right" quality. The visual variety (different colorway, different bedding) prevents them from reading as a single duplicated prop while the identical hardware confirms these are the same product.
 
 ---
 
@@ -234,10 +229,10 @@ Before finalizing any shot:
 - [ ] If the transition is impossible, is it hidden by an edit?
 - [ ] Does the bed have visible weight and inertia?
 - [ ] Is the bed's speed consistent with where we are in the story arc?
-- [ ] Is the RISE™ sticker visible in at least one shot per major environment?
+- [ ] Is the RISE™ / PUSH sticker visible in at least one shot per major environment?
 
 ---
 
-_THE REMOTE — Bed Proportions Guide v2.1_
-_Updated: Added document hierarchy front-matter. Staging decisions (shower curtain nudge, conference room framing, elevator handling) now cross-ref Visual Reference as canonical staging source. Camera Rule 2 cross-refs Visual Reference camera philosophy. Car AI prompt updated for folded taco state. Written against Prop Bible v2.3._
+_THE REMOTE — Bed Proportions Guide v3.0_
+_Updated: Product rebrand (PUSH by RISE™). Marcus: same PUSH, different colorway + personal soft goods (was RISE 2). Sticker ref updated. Written against Prop Bible v3.0._
 _"The truck always fits. The bed always fits. The audience always believes."_
