@@ -25,7 +25,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 **Aspect ratio:** 16:9 for all shots unless noted otherwise.
 
-**Frame rate:** 24fps (cinematic) for all shots. Exception: Shot 009 uses 240fps slow motion.
+**Frame rate:** 24fps (cinematic) for all shots. Exceptions: Shots 008 and 009 use 240fps slow motion.
 
 **Negative prompts (append to every generation):**
 
@@ -213,7 +213,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 **AI PROMPT:**
 
-> Wide shot from the side of a bedroom. A man in his early 30s sits on the edge of a modern adjustable bed base (dark gray, no headboard), holding a slim matte black remote. He presses the PUSH button. The back of the bed begins to slowly rise, lifting him with it. He sits passively, one arm dangling, eyes still half-closed. The movement is slow and dignified. Morning light. Cinematic. The bed should look mechanical and sleek.
+> Wide shot from the side of a bedroom. A man in his early 30s sits on the edge of a modern adjustable bed base (dark charcoal with a faint cool blue undertone, no headboard), holding a slim matte black remote. He presses the PUSH button. The back of the bed begins to slowly rise, lifting him with it. He sits passively, one arm dangling, eyes still half-closed. The movement is slow and dignified. Morning light. Cinematic. The bed should look mechanical and sleek.
 
 **NOTES:** Start wide so we can see the full bed rise. This is the mechanical reveal — make it clear what the device is.
 
@@ -413,7 +413,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide handheld shot in a kitchen. A man in his early 30s rushes around a kitchen counter, slightly jogging, being pushed from behind by a large vertical adjustable bed base moving at increased speed. He grabs a coffee mug. Reaches for the carafe. The bed nudges him mid-pour — coffee splashes chaotically, some lands in the mug, some on the counter. He hisses, adjusting. He raises the mug to drink while still moving, sloshing slightly. The front door approaches fast. He sets the mug down on the counter as the bed pushes him past it. SLAM. Hold on the empty kitchen — coffee maker still on, mug steaming on the counter. Morning light. Slight handheld energy.
+> Wide handheld shot in a kitchen. A man in his early 30s in office clothes rushes around a kitchen counter, slightly jogging, being pushed from behind by a large vertical adjustable bed base moving at increased speed. He grabs a coffee mug. Reaches for the carafe. The bed nudges him mid-pour — coffee splashes chaotically, some lands in the mug, some on the counter. He hisses, adjusting. He raises the mug to drink while still moving, sloshing slightly. The front door approaches fast. He sets the mug down on the counter as the bed pushes him past it. SLAM. Hold on the empty kitchen — coffee maker still on, mug steaming on the counter. Morning light. Slight handheld energy.
 
 **NOTES:** The arm-reaching-back gag is gone. Dave loses the coffee. The mug stays on the counter. The empty kitchen hold is the button on this scene.
 
@@ -473,6 +473,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **Duration:** 10–12 seconds
 **Camera:** Interior. Medium on Dave, with close-up insert on fuel gauge.
 
+⚠ MULTI-CLIP: Generate as 3 clips and edit together: (1) Mirror adjustment + whistle begins, 3–4s. (2) Fuel gauge INSERT — close-up on dashboard, needle past empty, amber warning light, 2–3s. (3) Whistle stops, radio off, silence, Dave drives, 3–4s.
+
 **AI PROMPT:**
 
 > Interior car shot, morning. A man in his early 30s sits in the driver’s seat, having just started the car. He adjusts the rearview mirror (reflection of the bed in the back seat visible briefly). He begins to whistle — quietly, unconsciously, matching something on the radio. His expression is not happy, not sad — just a man with a tune and a bed in his back seat. He pulls out of the driveway. Still whistling. Then he glances down. Close-up insert: the dashboard fuel gauge — the needle is well past the empty line, the low fuel warning light glowing amber. Cut back to his face — the whistle stops abruptly, mid-phrase. His expression flattens. He reaches over and turns off the radio. Silence. He stares at the road ahead. Morning commute light. Cinematic.
@@ -505,7 +507,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Shot from inside a car stopped at a red light. A city bus pulls up alongside. Through the bus window, a single COMMUTER sips from a coffee thermos with a satisfied expression. The driver of the car (man, early 30s, slightly disheveled) watches the commuter. Empty-handed. The light turns green. The car moves. Morning commute light.
 
-## **NOTES:** No one on the bus reacts to the bed. No acknowledgment, no staring. The only detail is one commuter sipping coffee in Dave's eyeline — he watches, empty-handed. The coffee thread pays off here: he lost it in the kitchen, the drive-through failed, and now someone else has it.
+**NOTES:** No one on the bus reacts to the bed. No acknowledgment, no staring. The only detail is one commuter sipping coffee in Dave's eyeline — he watches, empty-handed. The coffee thread pays off here: he lost it in the kitchen, the drive-through failed, and now someone else has it.
 
 ### SHOT 028A
 
@@ -545,7 +547,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Wide shot of a highway shoulder in morning light. A man in his early 30s in office clothes — shirt slightly untucked, tie loose — pushes a sedan from behind, both hands flat on the trunk. Behind him, a fully vertical adjustable bed base rolls forward steadily, pushing the man who is pushing the car. Three objects in a line on a highway shoulder — bed, man, car — all moving slowly forward. The scale of the empty highway around them. Other cars pass occasionally in the far lanes. The bed is upright, composed, unhurried. The man is not struggling dramatically — he has adapted. He is just pushing. Hold this image. Cinematic. Slightly wide lens to capture the absurd scale of the composition.
 
-## **NOTES:** This is the commute’s visual payoff and possibly the funniest single image in the film. The chain — PUSH → Dave → car — extends the central joke into new territory. Dave is passive even while pushing: he’s not solving anything, just moving forward because the bed is moving forward. Shoot it wide enough to feel the highway. Hold just long enough to land. Then HARD CUT to Shot 029.
+**NOTES:** This is the commute's visual payoff and possibly the funniest single image in the film. The chain — PUSH → Dave → car — extends the central joke into new territory. Dave is passive even while pushing: he's not solving anything, just moving forward because the bed is moving forward. Shoot it wide enough to feel the highway. Hold just long enough to land. Then HARD CUT to Shot 029.
 
 ### SHOT 029
 
@@ -595,9 +597,11 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **Duration:** 10–12 seconds
 **Camera:** Wide. Static. Open office floor.
 
+⚠ MULTI-CLIP: Generate as 3 clips and edit together: (1) Dave rounds corner, stops — sees Marcus, 3–4s. (2) Eye contact, nod exchange (“’Sup”), 2–3s. (3) Both sit, open laptops, beds settle, dual hum, 3–4s.
+
 **AI PROMPT:**
 
-> Wide static shot of a modern open-plan office floor. A man in his early 30s (brown hair, slightly disheveled) rounds the corner from the elevator area, a large vertical adjustable bed base behind him. He stops. Across the floor, at a diagonal desk, another man in his early 30s (Black, wrinkled suit jacket, equally tired) looks up. Behind him: a different model adjustable bed base. Both beds idle, humming quietly — slightly out of sync, creating a low ambient chord. The two men make eye contact across the office floor. A long beat. The first man gives a single nod up. The second man gives a single nod up back. They sit down at their respective desks. Both beds settle in behind them. They both open their laptops. Office lighting. Still shot.
+> Wide static shot of a modern open-plan office floor. A man in his early 30s (brown hair, slightly disheveled) rounds the corner from the elevator area, a large vertical adjustable bed base behind him. He stops. Across the floor, at a diagonal desk, another man in his early 30s (Black, wrinkled suit jacket, equally tired) looks up. Behind him: the same model adjustable bed base in a warm gray colorway. Both beds idle, humming quietly — slightly out of sync, creating a low ambient chord. The two men make eye contact across the office floor. A long beat. The first man gives a single nod up. The second man gives a single nod up back. They sit down at their respective desks. Both beds settle in behind them. They both open their laptops. Office lighting. Still shot.
 
 **NOTES:** This is the emotional centerpiece of the film. Do not rush it. The exchange is “’Sup, Marcus” / “’Sup.” Both nods are UP, not down. The two hums being slightly out of sync is a deliberate detail.
 
@@ -785,6 +789,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **Duration:** 10–15 seconds
 **Camera:** Wide. Static. City sidewalk. Late afternoon.
 
+⚠ MULTI-CLIP: Generate as 3 clips and edit together: (1) Bed enters frame, rolls down sidewalk, people part around it, 4–5s. (2) Dog watches, owner doesn’t — continued rolling, 3–4s. (3) Bed rounds corner, hum fades, 3–5s fade to black.
+
 **AI PROMPT:**
 
 > Wide static shot of a city sidewalk in late afternoon golden light. A fully vertical adjustable bed base rolls down the sidewalk alone — no one pushing it, no one riding it. It is unhurried. People on the sidewalk move around it slightly, automatically, without looking up. A dog on a leash watches it pass; its owner does not. The bed rolls steadily, humming faintly. The hum fades as it rounds the corner. Cinematic. Golden hour light. The bed is already made — sheets taut, pillow centered. It has been made all day. Fade to black over 5 seconds.
@@ -812,6 +818,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **Scene:** The bed folds flat — home
 **Duration:** 6–8 seconds
 **Camera:** Wide. Low angle from foot of bed.
+
+⚠ MULTI-CLIP: Generate as 2 clips and edit together: (1) Bed vertical, struts begin retracting, 3–4s. (2) Bed settles flat, motor exhale, hold on stillness + remote glow, 3–4s.
 
 **AI PROMPT:**
 
@@ -843,7 +851,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### Character Reference — MARCUS'S BED (PUSH by RISE™ — same model, different colorway)
 
-> Product reference image of a PUSH by RISE™ adjustable bed base in warm gray colorway (slightly lighter and warmer than Dave's dark charcoal). Same frame profile, same struts, same dimensions. No headboard or footboard — just the base and platform. A duvet in a warm domestic color (olive, rust, or deep burgundy) over different-colored sheets. Same product, different aesthetic choices. When vertical it reads as the same category of object in a different color. Clean studio lighting. Photorealistic.
+> Product reference image of a PUSH by RISE™ adjustable bed base in warm gray colorway (slightly lighter and warmer than Dave's dark charcoal). Same frame profile, same struts, same dimensions. No headboard or footboard — just the base and platform. A duvet in olive over olive sheets, with a coordinated warm-tone pillowcase. Same product, different aesthetic choices. When vertical it reads as the same category of object in a different color. Clean studio lighting. Photorealistic.
 
 ### Environment — DAVE'S BEDROOM
 
@@ -855,6 +863,6 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_THE REMOTE — AI Shot List v4.2_
-_Updated: Self-making mechanism intercut shots (019A, 022A, 022B) per Prop Bible 1.8 and Visual Reference Guide. Technical metadata (aspect ratio, frame rate, negative prompts, multi-clip flags, composite text flags). Bed departure sequence (Shots 041A, 044A, 044B). Aligned with Prop Bible v3.0._
+_THE REMOTE — AI Shot List v4.3_
+_Updated: Multi-clip flags (026A, 032, 044, 044B). Formatting fixes (028, 028C). Shot 008 added to 240fps exceptions. Shot 012 color corrected to Prop Bible. Shot 023 wardrobe. Marcus bed updated to same model, warm gray + olive colorway. Aligned with Prop Bible v3.0._
 _19 scenes / 54 shots / approx. 5–7 minute runtime_
