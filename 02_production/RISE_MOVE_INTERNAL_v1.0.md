@@ -528,6 +528,8 @@ Everything in Part Three through Part Six of this document. The engineering, the
 **The tonal mandate:**
 The Move is presented with the same complete earnestness as every other RISE™ product. The fact that a subscription is required to make your bed go up the stairs is stated as a matter of engineering necessity and commercial practice. The fact that the bed descends alone before dawn is noted in the autonomous navigation disclosure. The fact that current owners receive no discount is consistent with RISE™'s philosophy about the past. None of this is a joke. All of it is funny.
 
+**Creative assets:** The AI-generation-ready teaser script based on this strategy lives at [RISE_MOVE_teaser_script.md](../03_ai_video/RISE_MOVE_teaser_script.md).
+
 ---
 
 _RISE™ Move Internal Development Document v1.0_

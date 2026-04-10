@@ -11,6 +11,8 @@ _Estimated runtime: 75 seconds_
 
 Each shot and beat is written as a **self-contained AI video prompt**. Copy the prompt text directly into your tool of choice. For product consistency across shots, generate a **product reference image of the Move bed** first and use it as an image anchor in tools that support it (Runway Gen-3, Kling 1.6, etc.).
 
+**Strategic foundation and product canon:** See [RISE_MOVE_INTERNAL_v1.0.md](../02_production/RISE_MOVE_INTERNAL_v1.0.md) for all canonically established facts, open questions, and brand strategy for the Move.
+
 The teaser has two types of AI-generated content:
 
 1. **Actuator beauty shots (MOVE-A through MOVE-F)** — Macro product cinematography. Generate these first; several beats in the edit reuse them.
@@ -253,6 +255,7 @@ between you and the door.
 **Scene:** The PUSH — vertical, rolling down a hallway
 **Duration:** 3–4 seconds
 **Camera:** Wide. Tracking. Hallway.
+**Music sync:** Cut on the downbeat.
 
 **AI PROMPT:**
 
@@ -308,6 +311,7 @@ Move.
 **Scene:** The Move ascending stairs — attended
 **Duration:** 3–4 seconds
 **Camera:** Wide. Looking up the staircase from below.
+**Music sync:** Cut on the beat.
 
 **AI PROMPT:**
 
@@ -349,6 +353,7 @@ Down.
 **Scene:** The Move descending stairs — attended
 **Duration:** 3–4 seconds
 **Camera:** Wide. Looking down the staircase from above.
+**Music sync:** Cut on the beat.
 
 **AI PROMPT:**
 
@@ -424,6 +429,7 @@ We appreciate your original purchase.
 **Scene:** The Move — flat, made, bedroom, remote glows
 **Duration:** 3–4 seconds
 **Camera:** Wide. Static. Low angle.
+**Music sync:** Track fades into silence for Dr. Voss quote.
 
 **AI PROMPT:**
 
@@ -438,6 +444,7 @@ We appreciate your original purchase.
 **Scene:** Dr. Voss quote — white text on black
 **Duration:** 5–6 seconds
 **Camera:** N/A — text card.
+**Music sync:** Track silent — Dr. Voss gets the silence.
 
 **⚠ COMPOSITE TEXT:** Full text card. No AI generation needed. White text on black:
 
