@@ -295,7 +295,7 @@ _Stage 12 — Review_: Additional acknowledgments:
 
 ### 3.8 — The Move's Self-Making Mechanism
 
-The Push self-makes during the morning routine. The sheet tensioning bar and pneumatic pillow node operate across the gauntlet: bathroom wait, closet background detail, completing with the pillow centering during the tie beat.
+The Push self-makes during the morning routine. The sheet tensioning bar and pneumatic pillow node operate across the gauntlet: bathroom wait, closet background detail, completing with the pillow reshaping during the tie beat.
 
 The Move inherits this. But the Move's morning routine may span floors. New questions:
 
