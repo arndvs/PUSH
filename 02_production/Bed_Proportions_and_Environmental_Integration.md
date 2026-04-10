@@ -152,6 +152,34 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 ---
 
+### THE GAS STATION (APPROACH ONLY)
+
+**Reality:** A gas station forecourt is wide open — canopy overhead, pumps spaced for vehicles, ample clearance. But the bed never enters it.
+
+**The Remote version:** The gas station is a visual temptation, not a destination. Dave slows toward it. The bed hums its warning. Dave drives past. The station slides out of frame. The bed's proportions during this beat are STATE FOUR (FOLDED) — the bed is in the car, not navigating an exterior space. The gas station's spatial geometry is irrelevant because the bed never leaves the vehicle.
+
+**Camera rule:** Shoot from inside the car (Dave's POV toward the station through the windshield) or from a wide exterior showing the car passing the station. Never a shot of the bed at the gas station — the bed is folded in the back seat, experienced through the hum that shifts in pitch as Dave considers stopping. The gas station is something Dave sees, not something the bed navigates.
+
+**Why it works:** The proportional challenge doesn't exist here. The comedy is entirely in sound (the warning hum), performance (Dave's hesitation), and consequence (the car dying a beat later). The station is the road not taken. The bed made the choice for him.
+
+---
+
+### THE PARKING LOT
+
+**Reality:** Open exterior. No spatial constraints. The bed is back in STATE THREE (vertical) after a hidden transition from the car.
+
+**The Remote version:** Hard cut from the highway shoulder to the parking lot. Dave walking, bed rolling behind him. The office building fills the background, getting closer. We never saw the bed unfold from STATE FOUR — the edit did the work. The bed is simply vertical again, the same way it was simply folded in the car. The parking lot is a wide, flat, open space. The bed reads as a small vertical rectangle against the scale of the building and the lot.
+
+**Camera rule:** Tracking backward per the screenplay (Scene 11). Frame wide enough to show the building scale — the bed should feel like a confident presence against the architecture, not a prop in a tight space. The tracking movement gives the shot forward momentum that matches the bed's character: still going, still on schedule, despite everything.
+
+**Prompt language:**
+
+> "...a man in office clothes walks across a wide, open parking lot toward a modern office building. A fully vertical adjustable bed base rolls behind him, unhurried. The parking lot is empty enough that they have clear space. The building fills the background. Morning light. The bed belongs in this space the same way it has belonged everywhere else."
+
+**Why it works:** Like the highway shoulder, this is an unconstrained exterior where the bed's proportions are genuinely not an issue. The comedy is in Dave's disheveled state and the bed's pristine composure — not in spatial logistics.
+
+---
+
 ### THE OFFICE
 
 **Reality:** Open-plan offices have high ceilings and wide aisles. This is actually the most accommodating environment for the bed.
@@ -245,6 +273,6 @@ Before finalizing any shot:
 
 ---
 
-_THE REMOTE — Bed Proportions Guide v4.0_
-_Updated: Highway shoulder environment added (gas station beat). Sticker ref updated. Written against Prop Bible v3.0._
+_THE REMOTE — Bed Proportions Guide v4.1_
+_Updated: Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated. Written against Prop Bible v3.0._
 _"The truck always fits. The bed always fits. The audience always believes."_

@@ -21,6 +21,26 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 ---
 
+## TECHNICAL DEFAULTS
+
+**Aspect ratio:** 16:9 for all shots unless noted otherwise.
+
+**Frame rate:** 24fps (cinematic) for all shots. Exception: Shot 009 uses 240fps slow motion.
+
+**Negative prompts (append to every generation):**
+
+> No text overlays, no watermarks, no extra limbs, no morphing artifacts, no miniature/tilt-shift effect.
+
+For close-ups of faces, also add:
+
+> No distorted facial features, no asymmetric eyes.
+
+**Multi-clip shots:** Several shots describe sequences longer than what current AI video tools can generate as a single clip (~4–5 seconds max for complex action). These are flagged inline with ⚠ MULTI-CLIP and suggested breakpoints. Generate each sub-clip separately and edit together.
+
+**Text-rendering shots:** Current AI video models cannot reliably render readable text. Shots requiring legible text are flagged inline with ⚠ COMPOSITE TEXT and instructions for post-production compositing.
+
+---
+
 ---
 
 ## ACT ONE — THE WRECKAGE
@@ -235,6 +255,8 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 > Extreme close-up of the back of a slim matte black remote control being held in a man's hand. Small text reads: "PUSH by RISE™ — Note: Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!" The man's thumb is visible at the edge. Sharp focus on the text. The hand is very still. Cinematic close-up. Slightly warm light.
 
+**⚠ COMPOSITE TEXT:** Generate the visual without text — the remote held in hand, close-up, warm light, sharp focus on the back surface. Composite the fine print in post using the text from [Prop Bible 2.3](../02_production/prop_bible.md).
+
 ---
 
 ---
@@ -329,6 +351,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **Duration:** 8–10 seconds
 **Camera:** Medium. Static facing the closet.
 
+**⚠ MULTI-CLIP:** Generate as 3 clips and edit together: (1) Dave tumbles out half-dressed, 3s. (2) Bed nudges him back in, beat, 2–3s. (3) Dave re-emerges dressed, ties tie while moving, 3–4s.
+
 **AI PROMPT:**
 
 > Medium shot of a walk-in closet entrance. A man in his early 30s tumbles out of the closet half-dressed — dress shirt half-tucked, one shoe on, no tie. A large vertical adjustable bed base waits beside the closet entrance. The bed reverses slightly and nudges him firmly back in. He disappears. A beat. He re-emerges: shirt tucked, both shoes on, tie hanging unknotted around his neck. The bed resumes forward. He ties the tie while moving. Looks down at the knot. Shrugs. Morning light.
@@ -340,6 +364,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **Scene:** Coffee scene — the great pour
 **Duration:** 10–12 seconds
 **Camera:** Wide, slight handheld.
+
+**⚠ MULTI-CLIP:** Generate as 3 clips and edit together: (1) Dave grabs mug, reaches for carafe, 3–4s. (2) Bed nudges mid-pour, coffee splashes, Dave sips while moving, 3–4s. (3) Mug set down, door SLAM, hold on empty kitchen, 3–4s.
 
 **AI PROMPT:**
 
@@ -641,6 +667,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Close-up of a smartphone screen showing a group chat. Messages appear in rapid succession: "yo," "round 2?", a pair of eyes emoji, "already there." The man's thumb hovers over the screen. He types: "in". Sends it.
 
+**⚠ COMPOSITE TEXT:** Generate the visual — phone in hand, screen glowing, thumb hovering and tapping. Composite the message UI and text in post.
+
 ---
 
 ### SHOT 041
@@ -649,12 +677,26 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **Duration:** 8–10 seconds
 **Camera:** Medium tracking. Office desk to elevator.
 
+**⚠ MULTI-CLIP:** Generate as 3 clips and edit together: (1) Dave packs bag, turns off lamp, stands, 3s. (2) Dave walks through empty office whistling, enters elevator, doors close, 3–4s. (3) Empty office, bed waits a beat, turns, heads for exit, 3–4s.
+
 **AI PROMPT:**
 
 > Medium tracking shot of a man in his early 30s at an office desk in late afternoon golden light. The bed’s hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. He is whistling — quietly, the same melody from the car radio this morning, unhurried and complete. He walks through the empty office toward the elevator. The elevator doors open. He steps in, still whistling. The doors close. The whistle is gone. The office is empty and silent. Behind him at the desk, the adjustable bed base waits a beat. Then it turns — slowly, deliberately — and heads for the exit. Office golden hour light fading to evening.
 
 **NOTES:** The whistle is the callback — same song from the car this morning ("Move Bitch" intro by Ludacris), but complete this time. The morning version stopped mid-phrase when the fuel gauge killed it. This one resolves. No accompaniment. Just a man whistling on his way to round two. The bed’s departure bridges to the end credits sequence (Shot 044 — the bed commuting home alone). License note: the whistle melody matches Shot 026A. Instrumental reference only.
+---
 
+### SHOT 041A
+
+**Scene:** The bed exits the office alone
+**Duration:** 5–6 seconds
+**Camera:** Wide. Static. Office lobby.
+
+**AI PROMPT:**
+
+> Wide static shot of a modern office lobby in evening light. The lobby is empty — the receptionist's desk is dark. Elevator doors open and a fully vertical adjustable bed base rolls out alone. No one pushing it. No one riding it. It crosses the lobby toward the glass front doors with the same unhurried authority it has had all day. The bed is already made — sheets taut, pillow centered. It moves through the empty lobby the way it moves through everything: like it belongs. Evening light through the glass doors. The bed rolls toward them. Cinematic.
+
+**NOTES:** This bridges Shot 041 (Dave leaves, bed turns to go) to Shot 044 (city sidewalk). The lobby is empty. The bed doesn't hesitate at the doors — apply Rule 1 (edit around impossibility). Cut before it reaches the glass doors. Next shot is the sidewalk.
 ---
 
 ---
@@ -707,6 +749,34 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
+### SHOT 044A
+
+**Scene:** The bed returns to the bedroom
+**Duration:** 5–6 seconds
+**Camera:** Wide. Static. Dave's bedroom. Evening.
+
+**AI PROMPT:**
+
+> Wide static shot of a bedroom in dim evening light — the same bedroom from the opening, but now empty and still. The door is open. A fully vertical adjustable bed base rolls slowly into the room. It crosses to the center of the room. Stops. Then it begins a slow, patient rotation — turning in place until it faces the door. Positioned to receive someone when they return. The hum is very low. Almost ceremonial. Evening blue light from the window. The room is quiet. The bed is still vertical. It waits, facing the door.
+
+**NOTES:** This is Prop Bible 1.9, steps 3–4. The bed has come home. The slow turn to face the door is the emotional beat — it is positioning itself for Dave's return. Hold the rotation. Let it breathe.
+
+---
+
+### SHOT 044B
+
+**Scene:** The bed folds flat — home
+**Duration:** 6–8 seconds
+**Camera:** Wide. Low angle from foot of bed.
+
+**AI PROMPT:**
+
+> Wide low-angle shot from the foot of an adjustable bed base in a dim bedroom. The bed is vertical — sheets taut, pillow centered, already made. The struts begin to slowly retract. The back panel descends through its arc — dignified, unhurried, the reverse of the morning rise. The bed settles into flat position. A soft motor exhale — one low note, fading. Complete stillness. The sheets are already taut. The pillow already centered. On the nightstand, a slim matte black remote glows warm white. The room is dark. The bed is flat. The cycle is ready to begin again. Hold on the stillness for 3 seconds. Fade to black.
+
+**NOTES:** This mirrors Shot 012 (the bed rising) in reverse. The motor exhale is the last sound in the film before the epilogue alarm. The remote glow on the nightstand is the final image — the same remote from Shot 001. The self-making mechanism ran this morning; there is nothing left to prepare. The bed is ready.
+
+---
+
 ---
 
 ## APPENDIX — REUSABLE ASSET PROMPTS
@@ -741,6 +811,6 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_THE REMOTE — AI Shot List v4.0_
-_Updated: Commute rework — Shot 026A (Ludacris whistle / fuel gauge), Shots 028A–C (gas station approach, car dies, highway shoulder push), Shot 029 updated (hard cut landing), Shot 041 updated (whistle callback, bed departure). Aligned with Prop Bible v3.0._
-_19 scenes / 48 shots / approx. 5–7 minute runtime_
+_THE REMOTE — AI Shot List v4.1_
+_Updated: Technical metadata (aspect ratio, frame rate, negative prompts, multi-clip flags, composite text flags). Bed departure sequence (Shots 041A, 044A, 044B). Aligned with Prop Bible v3.0._
+_19 scenes / 51 shots / approx. 5–7 minute runtime_
