@@ -285,6 +285,8 @@ _Cut back to Dave._
 
 _The bed pushes Dave into the walk-in closet at moderate speed. Clothes swipe past him. He grabs at things._
 
+_The bed waits at the closet entrance. The sheet is nearly taut now — last few wrinkles smoothing toward the corners. The pillow at the top is fuller but not yet centered. The bed was further along than Dave before Dave had even started._
+
 _He emerges with a dress shirt half-tucked, one shoe, and no tie._
 
 _The bed reverses slightly. One firm nudge back in._
@@ -293,12 +295,24 @@ _A beat._
 
 _He emerges again. Shirt tucked. Both shoes. Tie — somehow — around his neck but not yet tied._
 
-_The bed resumes. He ties the tie while moving._
+_The bed resumes. They move down the hallway. Dave ties the tie while walking — hands working the knot in a stumbling, pushed walk toward the kitchen._
 
-_It's a bad knot. He looks down at it._
+---
+
+### SCENE 7A — INT. HALLWAY — CONTINUOUS
+
+_⏱ TIMING NOTE: This is the payoff. Hold both shots. Let the contrast land._
+
+_Close-up: the pillow at the top of the vertical bed. The pneumatic node completes its cycle — one slow, final exhale. The pillow settles. Plumped. Reshaped. Centered. Still. The self-making is complete._
+
+_Cut to: Dave's hands. The tie knot traveling sideways. Wrong. Still wrong. Slightly less wrong._
+
+_He looks down at it._
 
 **DAVE**
 Good enough.
+
+_The bed nudges him forward._
 
 ---
 
