@@ -629,9 +629,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium shot of a corporate office desk. A man in his early 30s sits at his desk, slightly slumped, but functional. A large adjustable bed base idles behind his chair. A woman in her late 40s (professional, sharp blazer, VP energy) walks up and stands beside his desk. She looks at him — not the bed. She nods once. Says something (implied: “Big night?”). He replies. She gives him a task (implied: "Get the Hendricks report done by five"). She starts to walk away. Stops without turning. Says something else (implied: a comment about the bed brand — she had the original PUSH). He asks a follow-up. She answers while already walking away (implied: “Made me a VP”). She’s gone. Office lighting. Played dry.
+> Medium shot of a corporate office desk. A man in his early 30s sits at his desk, slightly slumped, but functional. A large adjustable bed base idles behind his chair. A woman in her late 40s (professional, sharp blazer, VP energy) walks up and stands beside his desk. She looks at him — not the bed. She nods once. Says something (implied: “Big night?”). He replies. She gives him a task (implied: "Get the Hendricks report done by five"). She starts to walk away. Stops without turning. Says something else (implied: a comment about the bed brand — she had the NUDGE, the first-gen model). He asks a follow-up. She answers while already walking away (implied: “Made me a VP”). She’s gone. Office lighting. Played dry.
 
-**NOTES:** Karen looks at DAVE, not the bed. Her comment about the bed brand (the original PUSH) is the first time an authority figure validates the bed's existence — and she does it by referencing her own. Dave does not look at the bed after this exchange.
+**NOTES:** Karen looks at DAVE, not the bed. Her comment about the bed brand (the NUDGE — the first-gen RISE™ product) is the first time an authority figure validates the bed's existence — and she does it by referencing her own. Dave does not look at the bed after this exchange.
 
 ---
 

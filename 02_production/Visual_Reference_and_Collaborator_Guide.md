@@ -331,7 +331,7 @@ Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then 
 
 ### SCENE 16 — Karen
 
-**Karen is the world-building scene.** Her revelation that she had the original PUSH — the first generation — and that it "made her a VP" does two things:
+**Karen is the world-building scene.** Her revelation that she had the NUDGE — the first generation — and that it "made her a VP" does two things:
 
 1. Establishes that this is a real product people use
 2. Reframes the bed as aspirational

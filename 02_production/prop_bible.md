@@ -137,7 +137,7 @@ _Visual note: The complete-bed quality of STATE THREE must be preserved in every
 
 ### STATE FOUR: FOLDED (Car)
 
-Inside the car, the bed is folded in half — like a taco. The back panel and the foot section have hinged toward each other, creating a V-shape that wedges into the back seat. This is a variation of STATE TWO that exists only for containment. The back of the bed is visible behind Dave's headrest. The side rails are visible through the side windows. The mattress is folded with it — still held by the retention system, compressed between the two halves. The pillow is compressed at the apex of the V — barely visible, still askew.
+Inside the car, the bed is folded in half — like a taco. The back panel and the foot section have hinged toward each other, creating a V-shape that wedges into the back seat. This is a variation of STATE TWO that exists only for containment. The back of the bed is visible behind Dave's headrest. The side rails are visible through the side windows. The mattress is folded with it — still held by the retention system, compressed between the two halves. The pillow is compressed at the apex of the V — barely visible, already centered from the self-making in Scene 7A.
 
 The bed reads as "something large in the back seat" before your brain processes what it is. The hum continues through the upholstery — low, filtered, present but contained.
 
@@ -363,9 +363,9 @@ When both beds are in frame at the office, the visual variety prevents them from
 
 ### Karen's Relationship to the PUSH
 
-Karen had the original PUSH — the first generation, before Dave's current model. _"I had the original PUSH. Made me a VP."_ She sounds like a founding member of something. Her PUSH is gone now — she doesn't need it anymore. But it got her here.
+Karen had the NUDGE — the first generation, before Dave's current PUSH. _"I had the NUDGE. Made me a VP."_ She sounds like a founding member of something. Her NUDGE is gone now — she doesn't need it anymore. But it got her here.
 
-This implies a product timeline: RISE™ (company) → the original PUSH (first generation, Karen's era) → the current PUSH (Dave and Marcus's model). No model numbers are spoken in the film. The timeline is felt, not stated.
+This implies a product timeline: RISE™ (company) → the NUDGE (first generation, Karen's era) → the PUSH (current, Dave and Marcus's model) → the MOVE (next generation, not yet released). No model numbers are spoken in the film. The timeline is felt, not stated.
 
 ---
 
@@ -554,6 +554,6 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 ---
 
 _THE REMOTE — Prop Bible v3.1_
-_Changes from v3.0: Pillow resolution — node plumps/reshapes but stays askew (§1.3/Appendix canon, §1.8 updated). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE™ Move._
-_Changes from v2.3: Product rebrand — now "PUSH by RISE™" (company remains RISE™, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE™ / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the original PUSH." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
+_Changes from v3.0: Pillow resolution — node plumps/reshapes, then centers during self-making (§1.8 updated, aligned with Screenplay v5.0). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE™ Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
+_Changes from v2.3: Product rebrand — now "PUSH by RISE™" (company remains RISE™, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE™ / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
 _This document is canonical. All other prop descriptions defer to this one._

@@ -15,7 +15,7 @@ _Approx. running time: 5–7 minutes_
 
 **MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Different colorway, same bed.
 
-**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former original PUSH owner. Proof the system works.
+**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former NUDGE owner. Proof the system works.
 
 **THE BED** — A PUSH by RISE™. The real protagonist.
 
@@ -567,11 +567,11 @@ _Dave rounds the corner into the main office floor._
 
 _And there — at the desk diagonal from his — is MARCUS._
 
-_Marcus looks exactly as destroyed as Dave. Same suit as yesterday from montage, slightly more wrinkled. Same expression of a man enduring something. Hair that has been fought with and won._
+_Marcus looks exactly as destroyed as Dave. Same suit and tie as last night from montage, slightly more wrinkled. Same expression of a man enduring something. Hair that has been fought with and won._
 
 _Behind Marcus: a bed._
 
-_Different colorway. Same energy._
+_Same model. Different colorway. Same energy._
 
 _Dave stops walking. The beds idle behind them both, humming softly._
 
@@ -606,7 +606,7 @@ _A MANAGER at the head of the table is presenting slides._
 **MANAGER**
 —so if we look at Q3, the throughput numbers are—
 
-_A YOUNG EMPLOYEE glances at the beds. Confused. Glances around the table. Starts to raise his hand._
+_A YOUNG EMPLOYEE, giving off new employee/intern vibes, glances at the beds. Confused. Glances around the table. Starts to raise his hand._
 
 _The COWORKER next to him gives a single, short look. Not hostile. Just — don't._
 
@@ -643,7 +643,7 @@ _She starts to walk away. Stops._
 
 **KAREN**
 _(without turning around)_
-The PUSH? Not bad. I had the original PUSH.
+The PUSH? Not bad. I had the NUDGE.
 
 **DAVE**
 ...Did it help?

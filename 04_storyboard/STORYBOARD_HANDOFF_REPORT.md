@@ -68,7 +68,7 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 
 ### KAREN
 
-- Female, late 40s. Sharp blazer. VP energy. Former original PUSH owner.
+- Female, late 40s. Sharp blazer. VP energy. Former NUDGE owner (first-gen RISE™ product).
 - Appears Scene 16 only. Delivers her line while walking away without turning around.
 
 ### THE BED (Dave's PUSH by RISE™)
@@ -661,7 +661,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 **Image:** Medium shot, over-the-shoulder, slightly low. Dave at his desk, bed behind chair. KAREN (late 40s, sharp blazer, VP energy) standing beside desk. She looks at DAVE, not the bed.
 **Shot Type:** Medium, OTS slightly low
 **Action:** Karen acknowledges Dave's state. Assigns the Hendricks report. Starts to walk away. Stops WITHOUT TURNING AROUND. Delivers the key line. Dave asks a follow-up. She answers while already gone.
-**Dialogue:** KAREN: "Big night?" / DAVE: "Reasonably big night." / KAREN: "Get the Hendricks report done by five." / DAVE: "Done." / KAREN _(without turning):_ "The PUSH? Not bad. I had the original PUSH." / DAVE: "...Did it help?" / KAREN _(already walking):_ "Made me a VP."
+**Dialogue:** KAREN: "Big night?" / DAVE: "Reasonably big night." / KAREN: "Get the Hendricks report done by five." / DAVE: "Done." / KAREN _(without turning):_ "The PUSH? Not bad. I had the NUDGE." / DAVE: "...Did it help?" / KAREN _(already walking):_ "Made me a VP."
 **Camera:** Karen DOES NOT TURN AROUND to deliver the PUSH line. It's offhand. She doesn't care that it's incredible information.
 **Hum:** Very low.
 
@@ -876,4 +876,4 @@ When the storyboard artist needs more detail on any element, go to:
 _THE REMOTE — Storyboard Handoff Report v1.1_
 _53 panels across 19 scenes + end credits_
 _Changes from v1.0: Shot count 44→54 (10 new shots added to AI Shot List since initial handoff). Marcus soft goods locked to olive. Source version refs updated._
-_Source files: Screenplay v4.0, Prop Bible v3.1, Visual Reference & Collaborator Guide v4.0, AI Shot List v4.3, Bed Proportions Guide v4.2_
+_Source files: Screenplay v5.0, Prop Bible v3.1, Visual Reference & Collaborator Guide v4.0, AI Shot List v4.3, Bed Proportions Guide v4.2_
