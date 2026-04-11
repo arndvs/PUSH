@@ -29,9 +29,17 @@ _Approx. running time: 5–7 minutes_
 
 **RECEPTIONIST** — Office lobby. Warm, unbothered, asks "Rough one?" without expecting an answer.
 
-**ELEVATOR COWORKER** — Sharp suit, fresh haircut, whistling. Asks Dave to press seven. Does not acknowledge the bed.
+**COWORKER** — Sharp suit, fresh haircut, whistling. Asks Dave to press seven in the elevator. Does not acknowledge the bed.
 
 **MANAGER** — Conference room. Presenting Q3 throughput slides. Does not break stride for anything.
+
+**NEIGHBOR** — Walks a dog past Dave's driveway. Watches longer than necessary but says nothing.
+
+**EMPLOYEE** — Heading into the office building. Passes Dave without breaking stride.
+
+**YOUNG EMPLOYEE** — Conference room. New hire energy. Almost raises his hand about the beds. Doesn't.
+
+**COLLEAGUE** — Late afternoon. Dave explains something at a whiteboard. Background.
 
 ---
 
