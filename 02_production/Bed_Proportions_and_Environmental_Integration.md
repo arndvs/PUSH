@@ -18,11 +18,11 @@ _Written against Prop Bible v3.1._
 
 ## THE CORE CHALLENGE
 
-A real queen-size adjustable bed base is approximately **60 inches wide, 80 inches long, and 14–18 inches tall when flat.** When raised to vertical, it becomes a rectangle roughly **5 feet wide and 6.5 feet tall.**
+The PUSH is a queen-size adjustable bed base. Flat, it has the footprint you'd expect — wider than a doorframe, longer than most people are tall, and thick enough to contain a motorized frame. When raised to vertical, it becomes a tall, wide rectangle that nearly reaches the ceiling in a standard room.
 
-A standard interior doorframe is **32–36 inches wide and 80 inches tall.**
+A standard interior doorframe is narrower than the bed. The math doesn't work. The bed cannot fit through a door. And yet — it must, every time, without the audience ever being pulled out of the comedy to think about the logistics.
 
-The math doesn't work. The bed cannot fit through a door. And yet — it must, every time, without the audience ever being pulled out of the comedy to think about the logistics.
+> _Per Prop Bible v3.1: "Specific dimensions are not published because dimensions invite calculation, and calculation invites the question 'can this fit through that door?' — which is exactly the question the film must never ask its audience to ask."_
 
 This is exactly the problem Trash Truck solved with a full-size garbage truck in a boy's bedroom, at a movie theater, at a dentist's office. The truck shouldn't fit anywhere it goes. It always fits. Nobody questions it. The show's entire emotional reality depends on that not being questioned.
 
@@ -64,9 +64,9 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **The Remote version:** The bedroom is designed around the bed. It's clearly a bed-in-a-bedroom — the proportions feel right because we expect a bed to fill most of a bedroom. When the bed rises to vertical, it fits flush against the wall behind it. The room is just wide enough that Dave can walk ahead of it without touching the side walls.
 
-**Camera rule:** Always frame the bedroom with the bed taking up its natural 60–70% of the horizontal frame. Don't try to minimize it. It's a bedroom. A bed belongs there.
+**Camera rule:** Always frame the bedroom with the bed filling most of the horizontal frame. Don't try to minimize it. It's a bedroom. A bed belongs there.
 
-**The vertical moment:** When the bed stands up, it should fill the space from floor to near-ceiling. The slight gap at the top (maybe 6–12 inches) is important — it's not scraping the ceiling, it just nearly reaches it. This feels real without being cramped.
+**The vertical moment:** When the bed stands up, it should fill the space from floor to near-ceiling. There's a visible gap at the top — it's not scraping the ceiling, it just nearly reaches it. This feels real without being cramped.
 
 **Environmental accommodation:** The bedroom doorframe, when we see the bed pass through it, should be wide — a double doorframe, or an archway. Not dramatically oversized, just... generous. The kind of doorframe that makes you think "oh, nice old house." Never call attention to it.
 
@@ -74,7 +74,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 ### THE HALLWAY
 
-**Reality:** A 60-inch-wide bed cannot move through a standard 36-inch hallway. There is no realistic version of this working.
+**Reality:** A queen bed base is wider than any standard hallway. There is no realistic version of this working.
 
 **The Remote version:** Apply Rule 6 — design the environment first. The hallway is wider than normal. It reads as a hallway (walls, doors off it, a light fixture) but its proportions are generous enough that the bed moves through it without obvious strain. Don't specify or draw attention to the width. Just build it wide and light it like a hallway.
 
@@ -234,7 +234,7 @@ If the lobby must be shown: a brief wide shot, the bed already inside, rolling t
 
 ### THE CITY SIDEWALK
 
-**Reality:** City sidewalks are typically 5–15 feet wide. The bed at 5 feet wide takes up a significant portion. Pedestrians share this space.
+**Reality:** The bed takes up a significant portion of any sidewalk. Pedestrians share this space.
 
 **The Remote version:** This is the end-credits shot — the bed commuting home alone, rolling down a city sidewalk in late afternoon light. No Dave. No one pushing. The bed is simply going home. People move around it the way people move around anything on a crowded sidewalk — slightly, automatically, without looking up. A dog watches it pass. Its owner does not.
 
@@ -270,7 +270,7 @@ A bed that floats through environments looks like a prop. A bed that has inertia
 
 ### Rule 6: Design Environments First
 
-Before generating any shot where the bed moves through a space, design the environment with the bed's dimensions in mind. Widen doorframes slightly. Raise ceilings a foot. Push furniture back. Do this invisibly — the space should read as normal — but build the bed's path first, then put everything else around it. This is exactly what the Trash Truck production design team did: every environment was pre-solved for the truck before anything else was placed.
+Before generating any shot where the bed moves through a space, design the environment with the bed's proportions in mind. Widen doorframes slightly. Raise ceilings a foot. Push furniture back. Do this invisibly — the space should read as normal — but build the bed's path first, then put everything else around it. This is exactly what the Trash Truck production design team did: every environment was pre-solved for the truck before anything else was placed.
 
 ---
 
@@ -325,6 +325,7 @@ Before finalizing any shot:
 
 ---
 
-_THE REMOTE — Bed Proportions Guide v4.2_
-_Updated: Driveway, office lobby, apartment building lobby, and city sidewalk environments added. Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated. Written against Prop Bible v3.1._
+_THE REMOTE — Bed Proportions Guide v4.3_
+_Updated: Removed published dimensions from Core Challenge — aligned with Prop Bible v3.1 canon ("dimensions invite calculation"). Ceiling gap, hallway width, and camera framing rewritten to relative language. Written against Prop Bible v3.1._
+_Previous: v4.2 — Driveway, office lobby, apartment building lobby, and city sidewalk environments added. Gas station and parking lot environments added. Highway shoulder environment added (gas station beat). Sticker ref updated._
 _"The truck always fits. The bed always fits. The audience always believes."_
