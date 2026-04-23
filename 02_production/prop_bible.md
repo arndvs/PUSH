@@ -182,28 +182,28 @@ The hum is the bed's voice. It is the only way the bed communicates, and it comm
 
 **Pitch and volume modulation across the film:**
 
-| Moment                                | Pitch                                                         | Volume                                     | Character                          |
-| ------------------------------------- | ------------------------------------------------------------- | ------------------------------------------ | ---------------------------------- |
-| First activation (button press)       | Medium, rising slightly                                       | Low, building                              | Waking up. Dignified.              |
-| Bed rising (STATE TWO)                | Medium                                                        | Medium                                     | Confident. Unhurried.              |
-| First vertical nudge                  | Slightly higher                                               | Medium                                     | Patient. Matter of fact.           |
-| Hallway — first movement              | Medium                                                        | Medium                                     | The job has begun.                 |
-| Bathroom waiting + self-making        | Low hum + faint sheet-tensioning whisper + slow pillow exhale | Low                                        | Getting dressed. Parallel to Dave. |
-| Kitchen — coffee scene                | Higher                                                        | Higher                                     | Purposeful. This is important.     |
-| Car — muffled through upholstery      | Low (filtered)                                                | Low                                        | Present but contained.             |
-| Gas station — approach warning        | Slightly higher than baseline, pointed                        | Medium, brief                              | Schedule. No detours.              |
-| Gas station — Dave drives past        | Returns to baseline                                           | Low                                        | Satisfied. Correct.                |
-| Highway shoulder — car pushing        | Baseline                                                      | Low, steady                                | The destination has not changed.   |
-| Office hours                          | Very low                                                      | Barely audible                             | A presence, not a force.           |
-| 2PM — pressing firmly                 | Medium                                                        | Medium                                     | Still on duty.                     |
-| 3PM — easing off                      | Low, dropping                                                 | Lower                                      | The day is working.                |
-| 3:45PM — lets Dave get water          | Very low                                                      | Barely audible                             | Watchful. Not pushing.             |
-| 4:58PM — report sent                  | Single low exhale note                                        | Brief                                      | Satisfaction.                      |
-| "See you tomorrow" — turns and leaves | Low, steady                                                   | Low                                        | Unhurried. It has somewhere to be.                |
-| Commute home — city street            | Medium, warm                                                  | Medium                                     | Content. Moving by choice, not obligation.        |
-| Bedroom — turning to face door        | Very low, slowing                                             | Low                                        | Settling. Almost ceremonial.                      |
-| Bedroom — folding flat                | Low, fading                                                   | Fading                                     | Home.                                             |
-| End credits — commute home            | Medium, fading                                                | Low, fading                                | Going home. The hum fades around the corner.      |
+| Moment                                | Pitch                                                         | Volume         | Character                                    |
+| ------------------------------------- | ------------------------------------------------------------- | -------------- | -------------------------------------------- |
+| First activation (button press)       | Medium, rising slightly                                       | Low, building  | Waking up. Dignified.                        |
+| Bed rising (STATE TWO)                | Medium                                                        | Medium         | Confident. Unhurried.                        |
+| First vertical nudge                  | Slightly higher                                               | Medium         | Patient. Matter of fact.                     |
+| Hallway — first movement              | Medium                                                        | Medium         | The job has begun.                           |
+| Bathroom waiting + self-making        | Low hum + faint sheet-tensioning whisper + slow pillow exhale | Low            | Getting dressed. Parallel to Dave.           |
+| Kitchen — coffee scene                | Higher                                                        | Higher         | Purposeful. This is important.               |
+| Car — muffled through upholstery      | Low (filtered)                                                | Low            | Present but contained.                       |
+| Gas station — approach warning        | Slightly higher than baseline, pointed                        | Medium, brief  | Schedule. No detours.                        |
+| Gas station — Dave drives past        | Returns to baseline                                           | Low            | Satisfied. Correct.                          |
+| Highway shoulder — car pushing        | Baseline                                                      | Low, steady    | The destination has not changed.             |
+| Office hours                          | Very low                                                      | Barely audible | A presence, not a force.                     |
+| 2PM — pressing firmly                 | Medium                                                        | Medium         | Still on duty.                               |
+| 3PM — easing off                      | Low, dropping                                                 | Lower          | The day is working.                          |
+| 3:45PM — lets Dave get water          | Very low                                                      | Barely audible | Watchful. Not pushing.                       |
+| 4:58PM — report sent                  | Single low exhale note                                        | Brief          | Satisfaction.                                |
+| "See you tomorrow" — turns and leaves | Low, steady                                                   | Low            | Unhurried. It has somewhere to be.           |
+| Commute home — city street            | Medium, warm                                                  | Medium         | Content. Moving by choice, not obligation.   |
+| Bedroom — turning to face door        | Very low, slowing                                             | Low            | Settling. Almost ceremonial.                 |
+| Bedroom — folding flat                | Low, fading                                                   | Fading         | Home.                                        |
+| End credits — commute home            | Medium, fading                                                | Low, fading    | Going home. The hum fades around the corner. |
 
 **The most important hum:** The single exhale note at 4:58pm when Dave finishes the Hendricks report. This is the emotional peak of the bed's arc. It should be mixed so that Dave registers it. The audience should feel it as a moment of genuine communication between two beings who have spent a very long day together.
 
@@ -346,11 +346,11 @@ The PUSH comes in at least two colorways. Dave chose dark charcoal. Marcus chose
 
 ### Soft Goods (personal — not the product)
 
-| Element    | Dave                                | Marcus                                                                 |
-| ---------- | ----------------------------------- | ---------------------------------------------------------------------- |
-| Sheets     | Navy fitted sheet, slightly rumpled | Olive fitted sheet, slightly rumpled                                   |
-| Duvet      | None — just the fitted sheet        | Olive duvet cover. Someone who owns throw pillows.                     |
-| Pillowcase | White, standard                     | Warm-tone pillowcase — coordinated with his olive sheets               |
+| Element    | Dave                                | Marcus                                                   |
+| ---------- | ----------------------------------- | -------------------------------------------------------- |
+| Sheets     | Navy fitted sheet, slightly rumpled | Olive fitted sheet, slightly rumpled                     |
+| Duvet      | None — just the fitted sheet        | Olive duvet cover. Someone who owns throw pillows.       |
+| Pillowcase | White, standard                     | Warm-tone pillowcase — coordinated with his olive sheets |
 
 The pillow itself is PUSH hardware — it contains the pneumatic reshaping node. The pillowcase is Marcus's. The sheets are Marcus's. The duvet is Marcus's.
 

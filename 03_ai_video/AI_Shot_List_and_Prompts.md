@@ -737,8 +737,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Medium tracking shot of a man in his early 30s at an office desk in late afternoon golden light. The bed’s hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. He is whistling — quietly, the same melody from the car radio this morning, unhurried and complete. He walks through the empty office toward the elevator. The elevator doors open. He steps in, still whistling. The doors close. The whistle is gone. The office is empty and silent. Behind him at the desk, the adjustable bed base waits a beat. Then it turns — slowly, deliberately — and heads for the exit. Office golden hour light fading to evening.
 
-**NOTES:** The whistle is the callback — same song from the car this morning ("Move Bitch" intro by Ludacris), but complete this time. The morning version stopped mid-phrase when the fuel gauge killed it. This one resolves. No accompaniment. Just a man whistling on his way to round two. The bed’s departure bridges to the end credits sequence (Shot 044 — the bed commuting home alone). License note: the whistle melody matches Shot 026A. Instrumental reference only.
----
+## **NOTES:** The whistle is the callback — same song from the car this morning ("Move Bitch" intro by Ludacris), but complete this time. The morning version stopped mid-phrase when the fuel gauge killed it. This one resolves. No accompaniment. Just a man whistling on his way to round two. The bed’s departure bridges to the end credits sequence (Shot 044 — the bed commuting home alone). License note: the whistle melody matches Shot 026A. Instrumental reference only.
 
 ### SHOT 041A
 
@@ -750,8 +749,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Wide static shot of a modern office lobby in evening light. The lobby is empty — the receptionist's desk is dark. Elevator doors open and a fully vertical adjustable bed base rolls out alone. No one pushing it. No one riding it. It crosses the lobby toward the glass front doors with the same unhurried authority it has had all day. The bed is already made — sheets taut, pillow plumped but slightly askew. It moves through the empty lobby the way it moves through everything: like it belongs. Evening light through the glass doors. The bed rolls toward them. Cinematic.
 
-**NOTES:** This bridges Shot 041 (Dave leaves, bed turns to go) to Shot 044 (city sidewalk). The lobby is empty. The bed doesn't hesitate at the doors — apply Rule 1 (edit around impossibility). Cut before it reaches the glass doors. Next shot is the sidewalk.
----
+## **NOTES:** This bridges Shot 041 (Dave leaves, bed turns to go) to Shot 044 (city sidewalk). The lobby is empty. The bed doesn't hesitate at the doors — apply Rule 1 (edit around impossibility). Cut before it reaches the glass doors. Next shot is the sidewalk.
 
 ---
 

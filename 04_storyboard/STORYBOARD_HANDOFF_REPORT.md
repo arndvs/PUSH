@@ -39,15 +39,15 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 
 ### Structure
 
-| Act | Scenes | Content | Tone |
-|-----|--------|---------|------|
-| **Act 1: The Wreckage** | 1–3 | Wake up, flashbacks, discovers remote | Cold, quiet, accumulating dread |
-| **Act 2: The Gauntlet** | 4–8 | Bed rises, bathroom, closet, coffee | Escalating physical comedy |
-| **Act 3: The Commute** | 9–11 | Driveway, car, drive-through, bus, gas station, highway push | Road comedy, consequence |
-| **Act 4: The Office** | 12–16 | Lobby, elevator, Marcus reveal, meeting, Karen | Deadpan workplace absurdism |
-| **Act 5: The Wind Down** | 17–18 | Afternoon recovery, group chat, departure | Earned warmth |
-| **Epilogue** | 19 | Next morning — cycle repeats | Circular |
-| **End Credits** | — | Bed commutes home alone | Quiet, moving |
+| Act                      | Scenes | Content                                                      | Tone                            |
+| ------------------------ | ------ | ------------------------------------------------------------ | ------------------------------- |
+| **Act 1: The Wreckage**  | 1–3    | Wake up, flashbacks, discovers remote                        | Cold, quiet, accumulating dread |
+| **Act 2: The Gauntlet**  | 4–8    | Bed rises, bathroom, closet, coffee                          | Escalating physical comedy      |
+| **Act 3: The Commute**   | 9–11   | Driveway, car, drive-through, bus, gas station, highway push | Road comedy, consequence        |
+| **Act 4: The Office**    | 12–16  | Lobby, elevator, Marcus reveal, meeting, Karen               | Deadpan workplace absurdism     |
+| **Act 5: The Wind Down** | 17–18  | Afternoon recovery, group chat, departure                    | Earned warmth                   |
+| **Epilogue**             | 19     | Next morning — cycle repeats                                 | Circular                        |
+| **End Credits**          | —      | Bed commutes home alone                                      | Quiet, moving                   |
 
 ---
 
@@ -83,12 +83,12 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 
 **Four states the storyboard must depict:**
 
-| State | Description | When |
-|-------|-------------|------|
-| **STATE ONE: Flat** | Normal bed. Horizontal. Mundane. | Scenes 1–3, Epilogue |
-| **STATE TWO: Raised** | Back panel rising through its arc (45°→90°→120°+). Mattress and pillow rise with it. | Scene 4 (transition) |
+| State                     | Description                                                                                                             | When                     |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| **STATE ONE: Flat**       | Normal bed. Horizontal. Mundane.                                                                                        | Scenes 1–3, Epilogue     |
+| **STATE TWO: Raised**     | Back panel rising through its arc (45°→90°→120°+). Mattress and pillow rise with it.                                    | Scene 4 (transition)     |
 | **STATE THREE: Vertical** | Fully upright. Complete bed on end — mattress, sheet, pillow visible. Pillow slightly askew at top. Rolling on casters. | Scenes 4–18, End Credits |
-| **STATE FOUR: Folded** | Folded in half like a taco (V-shape). Wedged into car back seat. | Scene 10 (car only) |
+| **STATE FOUR: Folded**    | Folded in half like a taco (V-shape). Wedged into car back seat.                                                        | Scene 10 (car only)      |
 
 **CRITICAL:** The bed must always read as a complete bed, not a bare frame. Mattress, sheet, and pillow must be visible in every panel. This is what makes the joke land.
 
@@ -114,27 +114,27 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 
 **Wide shots are the comedy.** Keep both Dave AND the bed in the same frame as much as possible. The comedy collapses if they're separated.
 
-| Camera Style | When to Use |
-|-------------|-------------|
-| **Wide static** | Gauntlet sequences, office arrival, Marcus reveal, highway shoulder |
-| **Medium tracking** | Hallway, parking lot, office walking |
-| **Close-up** | Remote details, face reactions, phone screen, fuel gauge, rearview mirror |
-| **Handheld/slight shake** | Bar flashbacks, coffee kitchen scene |
-| **POV** | Dave looking at nightstand, rearview mirror |
+| Camera Style              | When to Use                                                               |
+| ------------------------- | ------------------------------------------------------------------------- |
+| **Wide static**           | Gauntlet sequences, office arrival, Marcus reveal, highway shoulder       |
+| **Medium tracking**       | Hallway, parking lot, office walking                                      |
+| **Close-up**              | Remote details, face reactions, phone screen, fuel gauge, rearview mirror |
+| **Handheld/slight shake** | Bar flashbacks, coffee kitchen scene                                      |
+| **POV**                   | Dave looking at nightstand, rearview mirror                               |
 
 **The camera is never as distressed as Dave.** Even in the fastest moments, the framing stays composed.
 
 ### Color Palette by Sequence
 
-| Sequence | Look |
-|----------|------|
-| Pre-alarm bedroom | Blue-gray. Cold. Still. |
-| Flashbacks | Desaturated. Each location slightly different — bar: overexposed/blown highlights, bathroom mirror: greenish, selfie: flash-washed, cab: warm tungsten with motion blur |
-| Morning gauntlet | Increasingly warm/golden |
-| Commute | Normal. Unremarkable. Neutral container for absurdity. |
-| Office | Fluorescent. Flat. Corporate neutral. |
-| End of day | Warmer. Golden hour. |
-| Epilogue | Exact match to opening blue-gray. |
+| Sequence          | Look                                                                                                                                                                    |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-alarm bedroom | Blue-gray. Cold. Still.                                                                                                                                                 |
+| Flashbacks        | Desaturated. Each location slightly different — bar: overexposed/blown highlights, bathroom mirror: greenish, selfie: flash-washed, cab: warm tungsten with motion blur |
+| Morning gauntlet  | Increasingly warm/golden                                                                                                                                                |
+| Commute           | Normal. Unremarkable. Neutral container for absurdity.                                                                                                                  |
+| Office            | Fluorescent. Flat. Corporate neutral.                                                                                                                                   |
+| End of day        | Warmer. Golden hour.                                                                                                                                                    |
+| Epilogue          | Exact match to opening blue-gray.                                                                                                                                       |
 
 ### The Bed's Size in Environments — Key Rules
 
@@ -146,18 +146,18 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 
 ### Environment-Specific Notes
 
-| Environment | How the bed works | Storyboard note |
-|-------------|-------------------|-----------------|
-| **Bedroom** | Bed fills 60–70% of frame naturally. Wide doorframe/archway. | Show the bed belonging. |
-| **Hallway** | Wider-than-normal hallway. Bed = moving wall. | Frame from front or wide tracking side. |
-| **Bathroom** | Bed stays in doorway. Does NOT enter. Fills doorframe. | Show it as a dark rectangle blocking the door. |
-| **Closet** | Dave enters first, bed pushes from behind. | Focus on Dave emerging wrong, then right. |
-| **Kitchen** | Open plan. Bed moves fast here. | Speed sells it. Stay on Dave during coffee chaos. |
-| **Car** | Bed is folded (STATE FOUR) in back seat. Never show it getting in. | Show rearview mirror reflection only. |
-| **Highway shoulder** | No spatial constraints. Go wide. | Widest shot in the film. Scale = comedy. |
-| **Office** | High ceilings, wide aisles. Beds parked behind chairs with clearance. | Beds as normal office furniture nobody notices. |
-| **Elevator** | Never show interior. Doors close/open. | Imply the bed is inside. Never confirm geometry. |
-| **Conference room** | Dave + Marcus at end of table, beds against wall behind. | Frame from middle of table looking toward end. |
+| Environment          | How the bed works                                                     | Storyboard note                                   |
+| -------------------- | --------------------------------------------------------------------- | ------------------------------------------------- |
+| **Bedroom**          | Bed fills 60–70% of frame naturally. Wide doorframe/archway.          | Show the bed belonging.                           |
+| **Hallway**          | Wider-than-normal hallway. Bed = moving wall.                         | Frame from front or wide tracking side.           |
+| **Bathroom**         | Bed stays in doorway. Does NOT enter. Fills doorframe.                | Show it as a dark rectangle blocking the door.    |
+| **Closet**           | Dave enters first, bed pushes from behind.                            | Focus on Dave emerging wrong, then right.         |
+| **Kitchen**          | Open plan. Bed moves fast here.                                       | Speed sells it. Stay on Dave during coffee chaos. |
+| **Car**              | Bed is folded (STATE FOUR) in back seat. Never show it getting in.    | Show rearview mirror reflection only.             |
+| **Highway shoulder** | No spatial constraints. Go wide.                                      | Widest shot in the film. Scale = comedy.          |
+| **Office**           | High ceilings, wide aisles. Beds parked behind chairs with clearance. | Beds as normal office furniture nobody notices.   |
+| **Elevator**         | Never show interior. Doors close/open.                                | Imply the bed is inside. Never confirm geometry.  |
+| **Conference room**  | Dave + Marcus at end of table, beds against wall behind.              | Frame from middle of table looking toward end.    |
 
 ---
 
@@ -791,19 +791,19 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 The bed's motor hum is its only voice. The storyboard should annotate hum state on every panel where the bed is present.
 
-| Hum State | Quality | When |
-|-----------|---------|------|
-| **OFF** | Silence | Scenes 1–3 (bed is inert) |
-| **Waking** | Medium, rising slightly | Button press, 0.5s before motion |
-| **Baseline** | Warm, low, steady. Like well-made machinery. | Default active state |
-| **Patient** | Low, slow. Dog-outside-a-stall energy. | Bathroom wait, office hours |
-| **Escalating** | Rising pitch, not louder. Pointed. | Bathroom nudge, drive-through |
-| **Impatient** | Higher baseline, shorter. Contemptuous. | Gas station approach |
-| **Satisfied** | Returns to baseline, settling. | After Dave drives past gas station |
-| **Fast** | Higher pitch, higher volume. Still composed. | Kitchen, coffee scene |
-| **Contained** | Low, filtered through upholstery. | Car interior |
-| **Exhale** | Single low drop. Brief. Almost satisfaction. | 4:58 PM report sent |
-| **Fading** | Low, decreasing. Home. | End credits, bedroom return |
+| Hum State      | Quality                                      | When                               |
+| -------------- | -------------------------------------------- | ---------------------------------- |
+| **OFF**        | Silence                                      | Scenes 1–3 (bed is inert)          |
+| **Waking**     | Medium, rising slightly                      | Button press, 0.5s before motion   |
+| **Baseline**   | Warm, low, steady. Like well-made machinery. | Default active state               |
+| **Patient**    | Low, slow. Dog-outside-a-stall energy.       | Bathroom wait, office hours        |
+| **Escalating** | Rising pitch, not louder. Pointed.           | Bathroom nudge, drive-through      |
+| **Impatient**  | Higher baseline, shorter. Contemptuous.      | Gas station approach               |
+| **Satisfied**  | Returns to baseline, settling.               | After Dave drives past gas station |
+| **Fast**       | Higher pitch, higher volume. Still composed. | Kitchen, coffee scene              |
+| **Contained**  | Low, filtered through upholstery.            | Car interior                       |
+| **Exhale**     | Single low drop. Brief. Almost satisfaction. | 4:58 PM report sent                |
+| **Fading**     | Low, decreasing. Home.                       | End credits, bedroom return        |
 
 ---
 
@@ -845,16 +845,16 @@ A running visual thread across three beats:
 
 ## PART 8: PANEL COUNT SUMMARY
 
-| Section | Panels | Notes |
-|---------|--------|-------|
-| Act 1: The Wreckage | 12 | Panels 1–12 |
-| Act 2: The Gauntlet | 15 | Panels 13–27 (includes self-making intercut) |
-| Act 3: The Commute | 11 | Panels 28–38 |
-| Act 4: The Office | 5 | Panels 39–43 |
-| Act 5: The Wind Down | 8 | Panels 44–51 |
-| Epilogue | 1 | Panel 52 |
-| End Credits | 1 | Panel 53 |
-| **TOTAL** | **53 panels** | |
+| Section              | Panels        | Notes                                        |
+| -------------------- | ------------- | -------------------------------------------- |
+| Act 1: The Wreckage  | 12            | Panels 1–12                                  |
+| Act 2: The Gauntlet  | 15            | Panels 13–27 (includes self-making intercut) |
+| Act 3: The Commute   | 11            | Panels 28–38                                 |
+| Act 4: The Office    | 5             | Panels 39–43                                 |
+| Act 5: The Wind Down | 8             | Panels 44–51                                 |
+| Epilogue             | 1             | Panel 52                                     |
+| End Credits          | 1             | Panel 53                                     |
+| **TOTAL**            | **53 panels** |                                              |
 
 ---
 
@@ -862,14 +862,14 @@ A running visual thread across three beats:
 
 When the storyboard artist needs more detail on any element, go to:
 
-| Question | Source File |
-|----------|------------|
-| What does the bed/remote look like physically? | [Prop Bible](../02_production/prop_bible.md) |
-| How should a shot be framed/lit? | [Visual Reference Guide](../02_production/Visual_Reference_and_Collaborator_Guide.md) |
-| What's the exact dialogue for a scene? | [Screenplay](../01_screenplay/THE_REMOTE_Screenplay.md) |
-| How does the bed fit in environment X? | [Bed Proportions Guide](../02_production/Bed_Proportions_and_Environmental_Integration.md) |
-| What does the gas station beat mean narratively? | [Gas Station Beat Breakdown](../01_screenplay/gas-station-beat-breakdown.md) |
-| What's the AI prompt for generating shot X? | [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md) |
+| Question                                         | Source File                                                                                |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| What does the bed/remote look like physically?   | [Prop Bible](../02_production/prop_bible.md)                                               |
+| How should a shot be framed/lit?                 | [Visual Reference Guide](../02_production/Visual_Reference_and_Collaborator_Guide.md)      |
+| What's the exact dialogue for a scene?           | [Screenplay](../01_screenplay/THE_REMOTE_Screenplay.md)                                    |
+| How does the bed fit in environment X?           | [Bed Proportions Guide](../02_production/Bed_Proportions_and_Environmental_Integration.md) |
+| What does the gas station beat mean narratively? | [Gas Station Beat Breakdown](../01_screenplay/gas-station-beat-breakdown.md)               |
+| What's the AI prompt for generating shot X?      | [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md)                                 |
 
 ---
 
