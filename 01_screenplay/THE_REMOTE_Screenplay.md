@@ -105,7 +105,11 @@ _A round of shots arrives. Six guys around a high-top. Everyone cheers. Dave rai
 
 **FLASH — SAME BAR — LATER**
 
-_Dave is explaining something very important using three bar napkins arranged on the table like a diagram. Marcus and the other guys are nodding like this makes complete sense. Whatever Dave is saying, he believes it deeply._
+_Marcus is hunched over three bar napkins arranged on the table like a diagram, drawing arrows between them with a pen he stole from the bartender. He's explaining something with absolute drunk conviction. Dave is shaking his head — not buying it. Jake is eating someone else's fries and not listening._
+
+_Marcus jabs the napkin with his pen. Dave waves him off. Marcus keeps drawing._
+
+_Tyler is already filming on his phone — has been for a while. He pans down to the napkins, catches Marcus jabbing the pen, catches Dave waving him off, and sends the video to the group chat. Not because it's important — because it's funny._
 
 ---
 
@@ -645,10 +649,10 @@ Reasonably big night.
 _She nods._
 
 **KAREN**
-Get the Hendricks report done by five.
+The Hendricks model is off. Fix it by five.
 
 **DAVE**
-Done.
+...the model?
 
 _She starts to walk away. Stops._
 
@@ -675,25 +679,29 @@ _She's gone._
 
 ### SCENE 17 — INT. OFFICE — AFTERNOON MONTAGE
 
-_⏱ TIMING NOTE: This sequence should visually track the passage of time and Dave's recovery through the behavior of the bed. Use clock cuts and gradual pacing changes._
+_⏱ TIMING NOTE: This sequence tracks Dave's struggle with the Hendricks model. The physical gauntlet is over — this is the professional one. The bed is still there, but the obstacle is on his screen. Use clock cuts._
 
 ---
 
-**2:00 PM** — Dave is typing. The bed leans against the back of his chair. The hum is steady. Dave is working.
+**2:00 PM** — Dave opens the Hendricks model. Scrolls. Karen was right — something's off. He stares at it the way he stared at the remote this morning. The bed leans against the back of his chair. The hum is steady.
 
 ---
 
-**3:00 PM** — The hum is lower. The lean is lighter. Dave is still at it.
+**3:00 PM** — Dave is at the whiteboard. Markers. Arrows. Wrong approach. He erases half of it. Sits back down. Stares at his screen. Looks at the clock.
 
 ---
 
-**3:45 PM** — Dave stands. Gets water. Comes back. The bed hasn't moved.
+**3:45 PM** — Dave picks up his phone. Scrolls back through the group chat — way back, past the morning, to last night. He stops. Taps something.
+
+_We don't see the screen. We hear it — muffled bar noise, glasses clinking, Marcus's voice mid-argument, drunk and certain: something about the model, the structure, how it connects. Dave's own voice, dismissive, cutting him off._
+
+_But Dave's face now — in the quiet office, sober, stuck — is not dismissive. His eyes widen. He watches the whole video._
+
+_He puts the phone down. Sits there for a beat._
 
 ---
 
-**4:30 PM** — Dave is up at a whiteboard, explaining something to a colleague. The bed is parked at his desk. Still on. Dormant.
-
-_Dave catches a glimpse of himself in the window — upright, presentable, functional._
+**4:15 PM** — Dave is at the whiteboard again. Writing. It's working.
 
 ---
 
@@ -843,15 +851,23 @@ His relationship with the bed should feel like a **grumpy roommate dynamic** tha
 
 The "'sup" exchange between Dave and Marcus is the emotional core of the piece. Two men. Two beds. Zero explanation needed. Play it completely straight — no mugging, no winking at camera. The longer the beat before the "'sup," the funnier it lands.
 
+### The Napkin Thread
+
+The napkins are planted at the bar (Scene 2) — Marcus draws them, Dave rejects them, Tyler films the argument and sends the video to the group chat as a joke. It sits there for twelve hours. At 3:45 PM (Scene 17), stuck on the Hendricks model, Dave scrolls back and plays the video. We don't see the screen — we hear the bar: muffled glasses, Marcus's drunk conviction, Dave's own dismissive voice. But Dave's face in the quiet office tells a different story. His eyes widen. He watches the whole thing. 4:15, he's writing. 4:58, done.
+
+Nobody in the film connects the napkins to the solution. Marcus never finds out his drunk diagram solved anything. Dave never credits it. Tyler sent the video as mockery. The audience is the only one who sees the thread complete.
+
+The napkins mirror the bed: a system that moves Dave forward without his awareness. The bed is physical momentum he didn't choose. The napkin is intellectual momentum he didn't choose. Both got the job done. Neither is acknowledged.
+
 ### Brand Consistency
 
 The **RISE™ / PUSH sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The product name _PUSH_ on the button and the sticker is the thesis statement of the entire piece.
 
 ---
 
-_THE REMOTE — Screenplay v5.0_
-_Updated: Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave — sheet tensioning during the shower, pillow plumped during the tie. "Good enough" relocated to Scene 7A payoff. End credits updated. Pillow payoff: askew (Prop Bible v3.1 §1.3/§1.8 canonical). Aligned with Prop Bible v3.1 §1.8 and Visual Reference Guide v4.0._
-_Previous: v4.0 — Commute rework — Ludacris whistle thread (Scene 10 opening, Scene 18 callback), gas station Beat 3 (fuel gauge, warning hum, car dies, PUSH→Dave→car, hard cut to parking lot), Scene 11 updated for post-gas-station state, bed departure added to Scene 18. Aligned with Prop Bible v3.1._
+_THE REMOTE — Screenplay v6.0_
+_Updated: Lean napkin thread — bar plant (Scene 2, Marcus draws/Dave rejects/Tyler films video to group chat), Karen escalated ("the model's off"), afternoon rewritten as struggle with video playback at 3:45 (Scene 17). Bar audio over sober silence. No added dialogue. No Marcus payoff scene. The audience connects the thread; nobody in the film does._
+_Previous: v5.0 — Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave. Pillow payoff: askew. Aligned with Prop Bible v3.1._
 _Total estimated runtime: 5–7 minutes_
 
 ---
