@@ -1,4 +1,4 @@
-# RISE™ Move — Internal Product Development Document
+# RISE Move — Internal Product Development Document
 
 ## Brainstorming & Strategic Foundation
 
@@ -12,7 +12,7 @@
 
 ## PART ONE: WHAT IS ALREADY CANON
 
-_These facts are established in published RISE™ materials. They cannot be changed without updating public-facing documents. They are the foundation everything else must build on._
+_These facts are established in published RISE materials. They cannot be changed without updating public-facing documents. They are the foundation everything else must build on._
 
 ---
 
@@ -20,7 +20,7 @@ _These facts are established in published RISE™ materials. They cannot be chan
 
 The following has been confirmed in the February 3, 2025 press release and reflected across riseawake.com:
 
-- The RISE™ Move is in active development
+- The RISE Move is in active development
 - R&D began Q3 2022
 - It is a **distinct product** — not an update, patch, or accessory to the Push
 - It supports **staircase traversal in both directions** — ascending and descending
@@ -35,7 +35,7 @@ The following has been confirmed in the February 3, 2025 press release and refle
 
 ### 1.2 — What Has Been Explicitly Not Confirmed
 
-RISE™ has publicly declined to comment on:
+RISE has publicly declined to comment on:
 
 - Timeline
 - Hardware price
@@ -48,7 +48,7 @@ RISE™ has publicly declined to comment on:
 
 ### 1.3 — The Naming Logic
 
-**RISE™ Move** was chosen deliberately:
+**RISE Move** was chosen deliberately:
 
 - Every prior product name describes what the product does _to the user_: Nudge nudges, Push pushes. Move continues this — the bed moves the user. But Move is broader — it doesn't specify a direction or mechanism. It is the most complete statement of the product line's philosophy.
 - Move is bidirectional by definition. Climb would imply only upward. Level implies horizontal. Move is neutral on direction — which matters because the product navigates both up and down.
@@ -66,7 +66,7 @@ The Push uses a caster base. Casters are wheels. Wheels and stairs are a fundame
 - Referenced in Section 7 of the Terms of Service
 - A hardware constraint, not a software one
 
-Approximately **34% of US residential housing stock** involves multi-story navigation. This is a documented figure referenced in investor materials. RISE™ has not addressed this market. The Move is the address.
+Approximately **34% of US residential housing stock** involves multi-story navigation. This is a documented figure referenced in investor materials. RISE has not addressed this market. The Move is the address.
 
 ### 1.5 — The Vertical Navigation Services (VNS) Subscription
 
@@ -79,10 +79,10 @@ This is the Move's most significant business model innovation and the detail mos
 
 ### 1.6 — Relationship to Existing Product Line
 
-- The **RISE™ Nudge** (discontinued 2019) — passive, no navigation, 74% compliance. Karen's model.
-- The **RISE™ Push** (current, sold out) — autonomous flat navigation, 98% compliance. Dave and Marcus.
-- The **RISE™ Move** (in development) — autonomous vertical + flat navigation, compliance rate not yet determined.
-- The **Push Pro** — separately referenced across the site. Status: in development. RISE™ is not currently accepting questions about the Push Pro. Relationship to the Move: unknown and intentionally unaddressed.
+- The **RISE Nudge** (discontinued 2019) — passive, no navigation, 74% compliance. Karen's model.
+- The **RISE Push** (current, sold out) — autonomous flat navigation, 98% compliance. Dave and Marcus.
+- The **RISE Move** (in development) — autonomous vertical + flat navigation, compliance rate not yet determined.
+- The **Push Pro** — separately referenced across the site. Status: in development. RISE is not currently accepting questions about the Push Pro. Relationship to the Move: unknown and intentionally unaddressed.
 
 ### 1.7 — The Staircase Disclosure in Activation
 
@@ -92,11 +92,11 @@ The staircase limitation surfaces at **Stage 5 of 12** in the device activation 
 2. User proceeds through Stages 1–4
 3. Stage 5: "Does your morning routine require navigating a staircase?"
 4. If yes: the Staircase Detected panel appears
-5. Panel discloses the limitation, references RISE™ Move, references Section 7 of Terms
+5. Panel discloses the limitation, references RISE Move, references Section 7 of Terms
 6. The note: _"Activation was initiated when you entered your serial number on this page. Section 7 applies from that moment."_
 7. Checkbox required to continue. Form proceeds.
 
-This is not a bug in the activation flow. It is a feature of RISE™'s refund policy architecture.
+This is not a bug in the activation flow. It is a feature of RISE's refund policy architecture.
 
 ---
 
@@ -133,7 +133,7 @@ The base extends a telescoping column mechanism that descends/ascends stair geom
 **Option D: Hybrid**
 Casters for flat navigation (preserving the Push's smooth-rolling character on flat surfaces) combined with a secondary stair-navigation mechanism that deploys when stairs are detected. More mechanically complex but preserves the flat-surface experience.
 
-**The design constraint RISE™ has already implied**: The Move's character must be consistent with the product line. The Push rolls. It doesn't walk. The Move should feel continuous, inevitable, smooth — not mechanical, stepping, or rhythmic. Whatever the base architecture, the character of movement should feel like the world accommodating the bed rather than the bed struggling with the world.
+**The design constraint RISE has already implied**: The Move's character must be consistent with the product line. The Push rolls. It doesn't walk. The Move should feel continuous, inevitable, smooth — not mechanical, stepping, or rhythmic. Whatever the base architecture, the character of movement should feel like the world accommodating the bed rather than the bed struggling with the world.
 
 ### 2.3 — The VNS Compute Stack
 
@@ -153,7 +153,7 @@ The engineering challenges of the solo stair transit:
 
 - Nobody to catch it if something goes wrong
 - No user weight to help stabilize (the user provides grounding force during attended transit)
-- Must be reliable enough that RISE™ is comfortable with it happening in occupied buildings with other people who didn't consent to sharing an elevator with a returning bed
+- Must be reliable enough that RISE is comfortable with it happening in occupied buildings with other people who didn't consent to sharing an elevator with a returning bed
 - Must navigate a staircase that may have changed since the morning — an object left on the stairs, a person in the way, a door that wasn't open before
 - Must do all of this quietly enough not to disturb neighbors, building staff, or sleeping household members
 
@@ -169,7 +169,7 @@ _Everything in this section is unconfirmed and open for creative and strategic d
 
 **What does the Move look like?**
 
-The Push has a strong visual identity: matte dark charcoal, cool blue undertone, brushed aluminum/powder-coated steel, no headboard, matte casters, the RISE™ sticker on the lower-right frame. The Move should be identifiable as a RISE™ product — same family — but visually differentiated in a way that communicates its expanded capability.
+The Push has a strong visual identity: matte dark charcoal, cool blue undertone, brushed aluminum/powder-coated steel, no headboard, matte casters, the RISE sticker on the lower-right frame. The Move should be identifiable as a RISE product — same family — but visually differentiated in a way that communicates its expanded capability.
 
 **Questions:**
 
@@ -177,7 +177,7 @@ The Push has a strong visual identity: matte dark charcoal, cool blue undertone,
 - The base will look different from the Push — it can't use casters in the same way. Does the new base architecture become a visual signature, or is it hidden?
 - Is the Move taller than the Push? (A stair-capable base might have more vertical mechanical complexity, implying a taller/more substantial profile)
 - Does the Move have a different STATE THREE silhouette — the vertical bed image? Or does it maintain the same read as a complete upright bed?
-- The RISE™ sticker on the Move — same design as Push, or Move-specific variant?
+- The RISE sticker on the Move — same design as Push, or Move-specific variant?
 
 **Possible direction**: The Move is visibly heavier than the Push. Substantially so. The base architecture that handles stairs is more substantial. The Move doesn't look fragile. It looks like something that has already decided it can handle whatever's in front of it. The charcoal is darker. The profile is wider at the base. When vertical, it fills a staircase landing the way the Push fills a doorframe — with complete indifference to whether it fits.
 
@@ -189,10 +189,10 @@ The PM-1 remote for the Push is a canonical design: matte black, one button, war
 
 - **Same remote** — the Move activates with the same PM-1. Push Mode is Push Mode. One button. No additions.
 - **Move-specific remote** — same design language but different. Perhaps two buttons: one for flat routing, one for vertical routing. Though this might undercut the product's philosophy — why give the user two choices?
-- **The VNS button** — a second button that enables/disables VNS. Without VNS active, the Move operates flat only. With VNS, stairs are available. But "disabling VNS" implies the user could turn off stair capability — which creates a choice RISE™ might not want to offer.
+- **The VNS button** — a second button that enables/disables VNS. Without VNS active, the Move operates flat only. With VNS, stairs are available. But "disabling VNS" implies the user could turn off stair capability — which creates a choice RISE might not want to offer.
 - **No remote at all** — the Move is activated by app only. This would be a significant departure from the PM-1 philosophy, but might be consistent with the product's increased complexity.
 
-**The off switch question**: RISE™ has explicitly declined to confirm whether the Move will have an off switch. This is the most interesting open question in the product line. The Push's lack of an off switch is its defining feature. The Move operating on stairs creates new scenarios — physical failure modes, emergency situations — that might make the no-off-switch position harder to maintain publicly. Or might make it more important to maintain.
+**The off switch question**: RISE has explicitly declined to confirm whether the Move will have an off switch. This is the most interesting open question in the product line. The Push's lack of an off switch is its defining feature. The Move operating on stairs creates new scenarios — physical failure modes, emergency situations — that might make the no-off-switch position harder to maintain publicly. Or might make it more important to maintain.
 
 ### 3.3 — Move Mode — What Is It Called?
 
@@ -208,17 +208,17 @@ The Push has **Push Mode**. The Move needs a mode name.
 - **Range Mode** — the bed's full range. Anywhere in the home, any floor. Has a slightly military quality that might be right.
 - **No new name** — the Move runs **Push Mode**. Push Mode on the Move now includes stair navigation. This is the boldest choice: the mode didn't change. The bed got bigger.
 
-**Recommendation for brainstorming**: "No new name" is the most RISE™ choice. Push Mode is Push Mode. The Move runs it. The fact that Push Mode now navigates stairs is simply what Push Mode does on this product. Calling it something new implies the new thing is a different experience. It isn't. It's the same morning. Just all of it.
+**Recommendation for brainstorming**: "No new name" is the most RISE choice. Push Mode is Push Mode. The Move runs it. The fact that Push Mode now navigates stairs is simply what Push Mode does on this product. Calling it something new implies the new thing is a different experience. It isn't. It's the same morning. Just all of it.
 
 ### 3.4 — The VNS Subscription — Pricing Architecture
 
 This is the most commercially significant open question. What does VNS actually cost, and how is it structured?
 
-**The constraint**: VNS must be expensive enough to be taken seriously as a revenue line and absurd enough to fit the RISE™ brand. Too cheap and it feels like a token add-on. Too expensive and it becomes a legitimate consumer protection issue.
+**The constraint**: VNS must be expensive enough to be taken seriously as a revenue line and absurd enough to fit the RISE brand. Too cheap and it feels like a token add-on. Too expensive and it becomes a legitimate consumer protection issue.
 
 **Pricing considerations:**
 
-_Monthly vs annual_: Monthly is more consistent with SaaS convention but creates a more obvious recurring obligation. Annual is less visible but implies a larger upfront commitment. RISE™ might offer both, with an annual discount that is described as a courtesy, not a savings.
+_Monthly vs annual_: Monthly is more consistent with SaaS convention but creates a more obvious recurring obligation. Annual is less visible but implies a larger upfront commitment. RISE might offer both, with an annual discount that is described as a courtesy, not a savings.
 
 _Price range_: The Push hardware is sold at premium price (unspecified but implied to be significant given the $180 CAC, $2,400 LTV metrics). VNS is described as "above" the Push in terms of total cost. If the Move hardware is, say, $3,000–5,000 (pure speculation for brainstorming), VNS might be $50–150/month. That's $600–$1,800/year — a meaningful recurring cost that is described as necessary for a feature the user cannot live without, because they have stairs.
 
@@ -229,7 +229,7 @@ _Tiered VNS_: Could there be VNS tiers?
 
 This is interesting because it creates a scenario where a Move owner without VNS Complete has a bed that can do the stairs while they're there, but stops at the bottom waiting for them at the end of the day. The bed sits at the foot of the stairs. It hums. It waits. This is funnier than the off switch situation and more commercially interesting.
 
-_What happens if VNS lapses_: The Move operates as a flat-surface bed. It navigates as it did before stair capability was enabled. If the user's primary path involves stairs, the bed stops at the bottom and waits. The user goes up the stairs. The bed is still at the bottom. The user's morning continues without Push Mode's guidance above the ground floor. RISE™ considers this a natural consequence of the subscription lapsing.
+_What happens if VNS lapses_: The Move operates as a flat-surface bed. It navigates as it did before stair capability was enabled. If the user's primary path involves stairs, the bed stops at the bottom and waits. The user goes up the stairs. The bed is still at the bottom. The user's morning continues without Push Mode's guidance above the ground floor. RISE considers this a natural consequence of the subscription lapsing.
 
 ### 3.5 — The Solo Return Commute — Dramatic Questions
 
@@ -261,7 +261,7 @@ The Push buyer profile: someone who knows they need external accountability for 
 
 **The Move as upgrade/replacement**: The largest single buyer segment might be existing Push owners who have moved to a multi-story environment. They know the product works. They have stairs now. They need the Move. They will pay full price. They knew this was the policy when they bought the Push, because it's in Section 7. They bought it anyway.
 
-**Enterprise buyers**: If RISE™ sells to corporate wellness programs (established in investor materials), the Move opens the market to office buildings, hotels, and any multi-story commercial environment. This is a significantly different customer with different procurement requirements, different risk tolerance for autonomous stair navigation in public spaces, and different relationships with the regulatory landscape. Worth exploring in depth separately.
+**Enterprise buyers**: If RISE sells to corporate wellness programs (established in investor materials), the Move opens the market to office buildings, hotels, and any multi-story commercial environment. This is a significantly different customer with different procurement requirements, different risk tolerance for autonomous stair navigation in public spaces, and different relationships with the regulatory landscape. Worth exploring in depth separately.
 
 ### 3.7 — The Activation Process — Move-Specific
 
@@ -322,13 +322,13 @@ The Move's hum on stairs is an open question. The physics are different. The mec
 
 The Push's autonomous navigation has already generated regulatory inquiry in three jurisdictions (established in investor materials, annual report risk factors). The Move escalates every one of these concerns:
 
-**Staircase incidents**: A bed falling on a staircase is categorically different from a bed rolling into someone in a hallway. The consequences of a mechanical failure on stairs are more severe. The liability exposure is higher. The liability cap in Section 7 of the Terms — the lesser of purchase price or one morning's RISE™ Index-calculated productivity value — will be tested in new ways.
+**Staircase incidents**: A bed falling on a staircase is categorically different from a bed rolling into someone in a hallway. The consequences of a mechanical failure on stairs are more severe. The liability exposure is higher. The liability cap in Section 7 of the Terms — the lesser of purchase price or one morning's RISE Index-calculated productivity value — will be tested in new ways.
 
 **Unattended staircase navigation in occupied buildings**: The Push's solo return commute has generated incidents (referenced vaguely in the annual report: "all claims to date have been resolved"). The Move's solo stair transit in an occupied building introduces new third-party exposure. A neighbor descending stairs at 8am encounters the returning Move ascending. This interaction has not been addressed in existing legal documents.
 
 **New legal document needed**: An **Autonomous Vertical Navigation Disclosure** — separate from the existing Autonomous Navigation Disclosure, which addresses the Push's flat-surface solo commute. The VAN Disclosure covers the Move's stair-specific scenarios: attended transit, unattended transit, solo stair commute, third-party encounters on stairs, liability for staircase incidents.
 
-**Regulatory landscape**: If three jurisdictions have already initiated inquiries about flat-surface autonomous navigation, vertical navigation in occupied buildings will generate more. The Move's regulatory posture — RISE™'s argument that the user authorized all of this by pressing the button — becomes harder to sustain when the button also authorizes unattended staircase descent in a building with other people who didn't press any button.
+**Regulatory landscape**: If three jurisdictions have already initiated inquiries about flat-surface autonomous navigation, vertical navigation in occupied buildings will generate more. The Move's regulatory posture — RISE's argument that the user authorized all of this by pressing the button — becomes harder to sustain when the button also authorizes unattended staircase descent in a building with other people who didn't press any button.
 
 ---
 
@@ -346,14 +346,14 @@ The product line tells a story. Each product is more committed than the last:
 
 The Move closes the argument. The Nudge addressed the willingness problem. The Push addressed the getting-started problem. The Move addresses the environment problem — the last structural reason someone might say _"this product can't work for me."_ With the Move, it can work for anyone. In any home. On any floor.
 
-**The campaign idea that lives inside this**: RISE™ has spent 15 years eliminating excuses. The Nudge eliminated the excuse of not wanting to. The Push eliminated the excuse of not starting. The Move eliminates the excuse of where you live. There are no more excuses. This is not a threat. It is a product roadmap.
+**The campaign idea that lives inside this**: RISE has spent 15 years eliminating excuses. The Nudge eliminated the excuse of not wanting to. The Push eliminated the excuse of not starting. The Move eliminates the excuse of where you live. There are no more excuses. This is not a threat. It is a product roadmap.
 
 ### 4.2 — What the Move Teaser Page Is Doing
 
 The current `/move` page is intentionally sparse. This is the right call. The design principles:
 
 - The page is almost entirely white space and the single word "Move."
-- The confirmed/not confirmed grid is the page's primary content — it's an honest accounting of what RISE™ is and isn't saying. This honesty reads as confidence, not hedging.
+- The confirmed/not confirmed grid is the page's primary content — it's an honest accounting of what RISE is and isn't saying. This honesty reads as confidence, not hedging.
 - The notification signup has the smallest CTA language on the site: "Notify Me." Not "Join the Revolution." Not "Get Early Access." Just: notify you. When there's something to say.
 - The Push owner note at the bottom is the funniest and most honest thing on the page: _"Your Push works. The Move is different. We appreciate your understanding and your original purchase."_
 
@@ -366,9 +366,9 @@ Vertical Navigation Services is the most interesting commercial concept in the w
 - **Genuinely logical**: Cloud compute for real-time stair navigation is a real ongoing cost
 - **Commercially significant**: Recurring revenue on top of hardware is a better business model
 - **Absurd in the best way**: A subscription to make your bed go up the stairs
-- **Completely consistent with RISE™'s philosophy**: The company has always operated on the principle that the user's comfort is not the primary consideration. A subscription that makes stair navigation possible — and whose absence makes stair navigation impossible — is the product line's philosophy applied to the business model.
+- **Completely consistent with RISE's philosophy**: The company has always operated on the principle that the user's comfort is not the primary consideration. A subscription that makes stair navigation possible — and whose absence makes stair navigation impossible — is the product line's philosophy applied to the business model.
 
-**The VNS failure scenario as comedy**: A user whose VNS subscription lapses wakes up. Presses the button. The Move activates. Routes them through the bedroom, hallway, bathroom, closet. Arrives at the bottom of the stairs. Stops. Hums. Waits. The user looks at the bed. The bed is at the foot of the stairs. The subscription has lapsed. The bed will not go up. The user goes up the stairs alone. The bed remains at the bottom, humming, in a flat-surface bed's relationship with a staircase it can see but cannot use. This is the most RISE™ scenario the product line has yet produced.
+**The VNS failure scenario as comedy**: A user whose VNS subscription lapses wakes up. Presses the button. The Move activates. Routes them through the bedroom, hallway, bathroom, closet. Arrives at the bottom of the stairs. Stops. Hums. Waits. The user looks at the bed. The bed is at the foot of the stairs. The subscription has lapsed. The bed will not go up. The user goes up the stairs alone. The bed remains at the bottom, humming, in a flat-surface bed's relationship with a staircase it can see but cannot use. This is the most RISE scenario the product line has yet produced.
 
 ### 4.4 — Dr. Voss's Statement — The Canonical Quote
 
@@ -377,7 +377,7 @@ Vertical Navigation Services is the most interesting commercial concept in the w
 
 This is the Move's founding statement. It should be treated as canonical. Everything the Move is follows from this: awareness, completeness (all of them), bidirectionality (both directions), and active commitment (doing something about it).
 
-The statement's genius is in what it doesn't say. It doesn't say when. It doesn't say how. It doesn't say how much. It says: we know, we're working on it, and we're not explaining ourselves further. This is consistent with every other RISE™ public communication.
+The statement's genius is in what it doesn't say. It doesn't say when. It doesn't say how. It doesn't say how much. It says: we know, we're working on it, and we're not explaining ourselves further. This is consistent with every other RISE public communication.
 
 ---
 
@@ -408,33 +408,33 @@ The Push uses elevators during the solo return commute (established in the Auton
 
 ### 5.3 — Commercial Applications
 
-Corporate wellness programs are an established RISE™ channel (investor materials). The Move opens commercial real estate:
+Corporate wellness programs are an established RISE channel (investor materials). The Move opens commercial real estate:
 
 - **Hotels**: A Move in every room. The bed navigates the hallway to deliver the guest to the elevator. The VNS subscription is bundled into the room rate.
 - **Office buildings**: The Move for executives who need the product to work across multiple floors of a building.
 - **Healthcare**: A Move configured for patient mobility assistance. The regulatory landscape for this is different and potentially favorable — medical device classification might unlock different market access.
 - **Residential high-rises**: A Move configured for buildings with mixed staircase/elevator access, learning the building's routing over time.
 
-### 5.4 — The RISE™ Index — Move Edition
+### 5.4 — The RISE Index — Move Edition
 
-The Push's RISE™ Index measures compliance, sleep consistency, and push resistance. The Move generates additional data points:
+The Push's RISE Index measures compliance, sleep consistency, and push resistance. The Move generates additional data points:
 
 - Stair navigation compliance (did the user let the bed take them up the stairs, or did they go around?)
 - Vertical transit time efficiency
 - VNS utilization rate
 - Floor-specific compliance (do they comply better on floors they're comfortable with?)
 
-Does the Move's RISE™ Index score include all of this? Is it a separate score? Does having a Move improve your RISE™ Index, because the product is more capable and therefore compliance is more complete?
+Does the Move's RISE Index score include all of this? Is it a separate score? Does having a Move improve your RISE Index, because the product is more capable and therefore compliance is more complete?
 
 ### 5.5 — The Relationship Between Push and Move
 
 A household could, in theory, have both a Push and a Move. The Push handles the flat portions. The Move handles the stairs. This is:
 
-- Commercially attractive for RISE™
+- Commercially attractive for RISE
 - Logistically complicated (two beds, two remotes, two activation profiles)
 - Funnier than anything else on this list
 
-Does RISE™ offer a household discount for Push + Move bundles? No. This is consistent with RISE™'s policy about the past and the push.
+Does RISE offer a household discount for Push + Move bundles? No. This is consistent with RISE's policy about the past and the push.
 
 ---
 
@@ -480,7 +480,7 @@ _A clean list of everything that needs to be decided before the Move can be deve
 ### Legal
 
 - [ ] Autonomous Vertical Navigation Disclosure — new document needed
-- [ ] VNS subscription terms — what happens on lapse, what's the cancellation policy (RISE™'s answer: there isn't one)
+- [ ] VNS subscription terms — what happens on lapse, what's the cancellation policy (RISE's answer: there isn't one)
 - [ ] Staircase incident liability — new clauses in Terms, Disclaimer
 - [ ] Third-party encounters on stairs during solo commute
 - [ ] Medical device classification consideration
@@ -489,7 +489,7 @@ _A clean list of everything that needs to be decided before the Move can be deve
 
 - [ ] Move visual identity — how does the design differentiate from Push?
 - [ ] Move hum character — stair navigation audio profile
-- [ ] The Move's brand sticker — same RISE™ design or Move variant?
+- [ ] The Move's brand sticker — same RISE design or Move variant?
 - [ ] Activation flow — 12 stages + new stair-specific stages
 - [ ] The Move teaser page evolution — when does it get more information?
 - [ ] The campaign when the Move is finally announced
@@ -500,13 +500,13 @@ _A clean list of everything that needs to be decided before the Move can be deve
 
 _For the new Claude session: start here._
 
-You are working on **RISE™ Move** — a product in development by a fictional smart adjustable bed company called RISE™ Technologies, Inc. The Move is the successor to the RISE™ Push, which is a bed that autonomously navigates a user through their morning routine and then returns home alone.
+You are working on **RISE Move** — a product in development by a fictional smart adjustable bed company called RISE Technologies, Inc. The Move is the successor to the RISE Push, which is a bed that autonomously navigates a user through their morning routine and then returns home alone.
 
 The Move solves the staircase problem. The Push can't do stairs. The Move can. Both directions. Attended and unattended.
 
 **The established universe:**
 
-- RISE™ is a deadpan, absurdist brand that plays completely straight. It never winks. It is always earnest. The humor comes from the confidence, not the acknowledgment of absurdity.
+- RISE is a deadpan, absurdist brand that plays completely straight. It never winks. It is always earnest. The humor comes from the confidence, not the acknowledgment of absurdity.
 - The product line: Nudge (passive, discontinued) → Push (autonomous flat navigation, current) → Move (autonomous flat + vertical navigation, in development)
 - The Push's character: patient, relentless, professional. It hums. It nudges. It reverses when you're dressed wrong. It makes the bed while you shower.
 - The Move inherits all of that and adds stairs.
@@ -526,13 +526,13 @@ The Move solves the staircase problem. The Push can't do stairs. The Move can. B
 Everything in Part Three through Part Six of this document. The engineering, the product design, the hum, the VNS pricing, the legal architecture, the campaign, the visual identity, the commercial expansion.
 
 **The tonal mandate:**
-The Move is presented with the same complete earnestness as every other RISE™ product. The fact that a subscription is required to make your bed go up the stairs is stated as a matter of engineering necessity and commercial practice. The fact that the bed descends alone before dawn is noted in the autonomous navigation disclosure. The fact that current owners receive no discount is consistent with RISE™'s philosophy about the past. None of this is a joke. All of it is funny.
+The Move is presented with the same complete earnestness as every other RISE product. The fact that a subscription is required to make your bed go up the stairs is stated as a matter of engineering necessity and commercial practice. The fact that the bed descends alone before dawn is noted in the autonomous navigation disclosure. The fact that current owners receive no discount is consistent with RISE's philosophy about the past. None of this is a joke. All of it is funny.
 
 **Creative assets:** The AI-generation-ready teaser script based on this strategy lives at [RISE_MOVE_teaser_script.md](../03_ai_video/RISE_MOVE_teaser_script.md).
 
 ---
 
-_RISE™ Move Internal Development Document v1.0_
+_RISE Move Internal Development Document v1.0_
 _Not for external distribution. This document contains speculative product development content that has not been approved for public communication. All confirmed public-facing information is at riseco.online/move._
 
 ---
