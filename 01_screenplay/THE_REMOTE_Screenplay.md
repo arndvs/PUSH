@@ -20,7 +20,7 @@ This screenplay may not be reproduced, distributed, or used without written perm
 
 **KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former NUDGE owner. Proof the system works.
 
-**THE BED** — A PUSH by RISE™. The real protagonist.
+**THE BED** — A PUSH by RISE. The real protagonist.
 
 **DRIVE-THROUGH WORKER** — Early 20s. Dyed hair, nose ring, sleeve tattoos. Completely indifferent. Delivers bad news like it has nothing to do with her. It doesn't.
 
@@ -165,7 +165,7 @@ _Back to Dave. The light is slightly brighter now. More accusatory._
 
 _Dave lowers his hands. Surveys the room with one eye. His gaze drifts to the nightstand._
 
-_There, next to the untouched glass of water, is a slim black remote. One large button glows softly. A small wordmark on the body reads RISE™. The button reads PUSH._
+_There, next to the untouched glass of water, is a slim black remote. One large button glows softly. A small wordmark on the body reads RISE. The button reads PUSH._
 
 _Dave stares at it._
 
@@ -215,7 +215,7 @@ _(looking down at the remote)_
 
 _He turns it over. On the back, in small text:_
 
-**_PUSH by RISE™ — Note: Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!_**
+**_PUSH by RISE — Note: Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!_**
 
 _Dave stares at this for a long moment._
 
@@ -831,7 +831,7 @@ Dave whistles the intro to "Move Bitch" by Ludacris twice in the film. Both time
 
 The audience who recognizes the song gets a private joke about a man being pushed through his day whistling a song about making people move out of your way. The audience who doesn't just sees a man whistling on his commute.
 
-**The cross-video thread:** The RISE™ Move product teaser runs "Stand Up" by Ludacris ft. Shawnna — _"when I move you move, just like that."_ Both Ludacris. Both movement. The connection is never stated. The universe runs on Ludacris.
+**The cross-video thread:** The RISE Move product teaser runs "Stand Up" by Ludacris ft. Shawnna — _"when I move you move, just like that."_ Both Ludacris. Both movement. The connection is never stated. The universe runs on Ludacris.
 
 ### Performance Notes — Dave
 
@@ -845,7 +845,7 @@ The "'sup" exchange between Dave and Marcus is the emotional core of the piece. 
 
 ### Brand Consistency
 
-The **RISE™ / PUSH sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The product name _PUSH_ on the button and the sticker is the thesis statement of the entire piece.
+The **RISE / PUSH sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The product name _PUSH_ on the button and the sticker is the thesis statement of the entire piece.
 
 ---
 

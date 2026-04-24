@@ -27,7 +27,7 @@ A man with a hangover uses his smart adjustable bed to get himself up — and di
 
 ### Tagline
 
-_PUSH by RISE™ — "For People Who Need A Little Push"_
+_PUSH by RISE — "For People Who Need A Little Push"_
 
 ### Tone
 
@@ -68,10 +68,10 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 
 ### KAREN
 
-- Female, late 40s. Sharp blazer. VP energy. Former NUDGE owner (first-gen RISE™ product).
+- Female, late 40s. Sharp blazer. VP energy. Former NUDGE owner (first-gen RISE product).
 - Appears Scene 16 only. Delivers her line while walking away without turning around.
 
-### THE BED (Dave's PUSH by RISE™)
+### THE BED (Dave's PUSH by RISE)
 
 The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 
@@ -79,7 +79,7 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 - **Construction:** Adjustable base frame + mattress (navy fitted sheet, slightly rumpled) + one white pillow. No headboard. No decorative elements.
 - **Struts:** Visible on each side. Articulating arms that extend as the bed raises.
 - **Casters:** Low-profile, beneath the frame base. Nearly invisible when flat. Functional when vertical.
-- **Brand sticker:** Lower-right front face. "RISE™ / The PUSH / Smart Adjustable Base." Obscured in flat state by mattress overhang; visible when vertical.
+- **Brand sticker:** Lower-right front face. "RISE / The PUSH / Smart Adjustable Base." Obscured in flat state by mattress overhang; visible when vertical.
 
 **Four states the storyboard must depict:**
 
@@ -94,7 +94,7 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 
 ### MARCUS'S BED
 
-- Same PUSH by RISE™. Same hardware/dimensions.
+- Same PUSH by RISE. Same hardware/dimensions.
 - **Different colorway:** Warm gray frame (lighter, warmer than Dave's charcoal).
 - **Different soft goods:** Olive fitted sheet, olive duvet cover, warm-tone pillowcase.
 - Appears Scene 14 onward.
@@ -102,7 +102,7 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 ### THE REMOTE
 
 - 5" × 2" × 0.5". Matte black. Rectangular with rounded short edges.
-- **Front:** Small debossed RISE™ wordmark at top. One large circular button (1.25" diameter) labeled "PUSH" — backlit warm white, steady glow.
+- **Front:** Small debossed RISE wordmark at top. One large circular button (1.25" diameter) labeled "PUSH" — backlit warm white, steady glow.
 - **Back:** Fine print including _"Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!"_
 - Visible on nightstand in Scenes 1, 3, Epilogue. In Dave's hand in Scene 4. Close-up of back in Scene 4.
 
@@ -331,7 +331,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 15 — Bed Fully Vertical — First Push (Scene 4)
 
-**Image:** Wide shot. The bed is fully vertical — a complete bed standing on end (mattress, sheet, pillow at top, slightly askew). It presses into Dave's back. He stumbles forward. He turns the remote over, reads the back. The RISE™/PUSH sticker is now visible on the lower-right frame.
+**Image:** Wide shot. The bed is fully vertical — a complete bed standing on end (mattress, sheet, pillow at top, slightly askew). It presses into Dave's back. He stumbles forward. He turns the remote over, reads the back. The RISE/PUSH sticker is now visible on the lower-right frame.
 **Shot Type:** Wide, static, from side
 **Action:** Dave reads fine print on remote back. Looks at the bed. The bed nudges again. They're moving toward the bathroom.
 **Dialogue:** DAVE: "...there's no off button?" _(reads back)_ / Fine print: "Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!" / DAVE: "That's insane."
@@ -342,7 +342,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 16 — Close-up: Remote Back (Scene 4)
 
-**Image:** Extreme close-up of the remote's back in Dave's hand. White fine print clearly readable: "PUSH by RISE™ Smart Adjustable Base Remote / Model: PM-1 (Push Mode) / Note: Push Mode cannot be manually interrupted once initiated. This is a feature, not a limitation. Have a productive day! / For support: riseawake.com/help"
+**Image:** Extreme close-up of the remote's back in Dave's hand. White fine print clearly readable: "PUSH by RISE Smart Adjustable Base Remote / Model: PM-1 (Push Mode) / Note: Push Mode cannot be manually interrupted once initiated. This is a feature, not a limitation. Have a productive day! / For support: riseawake.com/help"
 **Shot Type:** ECU, POV
 **Action:** Dave reads. His thumb visible at edge.
 **Dialogue:** None (text is the dialogue)

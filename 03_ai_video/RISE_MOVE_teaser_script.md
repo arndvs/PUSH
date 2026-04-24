@@ -1,4 +1,4 @@
-# RISE™ MOVE — TEASER VIDEO
+# RISE MOVE — TEASER VIDEO
 
 ### "Both Directions"
 
@@ -20,7 +20,7 @@ The teaser has two types of AI-generated content:
 
 **Character & product anchors to generate first:**
 
-- **THE MOVE (bed):** A RISE™ Move — same dark charcoal frame as the PUSH, same faint cool blue undertone, same no-headboard design. The key addition: a stair navigation system with precision actuators on the base that allow it to climb and descend stairs. The frame has a small RISE™ branding element on the rail. When flat, it looks identical to the PUSH. When vertical and on stairs, the actuator mechanism is visible beneath the base.
+- **THE MOVE (bed):** A RISE Move — same dark charcoal frame as the PUSH, same faint cool blue undertone, same no-headboard design. The key addition: a stair navigation system with precision actuators on the base that allow it to climb and descend stairs. The frame has a small RISE branding element on the rail. When flat, it looks identical to the PUSH. When vertical and on stairs, the actuator mechanism is visible beneath the base.
 - **THE PUSH (bed — context only):** The PUSH from _The Remote_ — dark charcoal frame, no headboard, with a slim matte black remote. Already familiar to the audience. Appears in Beats 2, 4, and 5 to establish the product the Move supersedes.
 - **ACTUATOR MECHANISM:** The Move's stair navigation hardware. Precision-engineered. The aesthetic is Swiss watch meets industrial robot — machined metal surfaces, purposeful geometry, warm directional light catching edges. Visible in all actuator beauty shots.
 - **DR. ELEANOR VOSS:** Does not appear on camera. Her quote appears as white text on black — composite only.
@@ -41,7 +41,7 @@ The teaser has two types of AI-generated content:
 
 For product close-ups, also add:
 
-> No visible branding except RISE™, no scratches or damage, no unrealistic scale.
+> No visible branding except RISE, no scratches or damage, no unrealistic scale.
 
 **Text-rendering shots:** Most beats include text on screen. Current AI video models cannot reliably render readable text. All text elements are flagged with ⚠ COMPOSITE TEXT — generate the visual without text, composite in post.
 
@@ -53,7 +53,7 @@ For product close-ups, also add:
 
 This video is made by a company that believes in what it has built. It does not acknowledge absurdity. It does not wink. It states facts in the order they become relevant and stops when the facts are done.
 
-The humor — if the audience finds it — is entirely their own. RISE™ is not in on the joke. RISE™ is the joke's straight man, and the straight man never breaks.
+The humor — if the audience finds it — is entirely their own. RISE is not in on the joke. RISE is the joke's straight man, and the straight man never breaks.
 
 **Tone references:** Apple's earliest iPhone teasers. Dyson product films. The Rivian launch video. Companies that know something you don't yet, and are comfortable with that. And now — with the track — something with more swagger. Still earnest. Just moving.
 
@@ -77,7 +77,7 @@ This is the video's entire thesis in one line. When the Move moves, you move. Ju
 - No voiceover competes with it
 - Text on screen reads between bars
 - The track fades only for Dr. Voss's quote — which lands in the pocket of silence between the final chorus and the outro
-- Returns for the RISE™ Move wordmark, then fades out clean
+- Returns for the RISE Move wordmark, then fades out clean
 
 **The track does not comment on the product. The track IS the product's energy.** Confident. Forward. Synchronized. When the Move moves, you move. Just like that.
 
@@ -135,7 +135,7 @@ _Generate these first. They are the video's visual backbone — shot like a luxu
 
 ### MOVE-D
 
-**Scene:** Rail detail — RISE™ branding under load
+**Scene:** Rail detail — RISE branding under load
 **Duration:** 3–4 seconds (240fps → 24fps playback)
 **Camera:** Close-up. Static.
 
@@ -143,7 +143,7 @@ _Generate these first. They are the video's visual backbone — shot like a luxu
 
 > Close-up of a bed frame's side rail during stair transit. Dark charcoal metal surface, matte finish — dense, weighted, absorbing light. A small brand badge on the rail catches the warm directional light. The rail is under load, the frame resolving the forces of stair navigation. Surface texture visible — brushed aluminum or powder-coated steel, precision-finished. Ultra slow motion. Warm single-source light. Cinematic macro. 240fps aesthetic.
 
-**⚠ COMPOSITE TEXT:** Generate without legible branding. Composite the RISE™ badge in post if it needs to read clearly.
+**⚠ COMPOSITE TEXT:** Generate without legible branding. Composite the RISE badge in post if it needs to read clearly.
 
 **NOTES:** Reused in MOVE-03. The branding element is subtle — more appliance serial plate than consumer logo. The rail under load is the real subject.
 
@@ -463,7 +463,7 @@ We are doing something about it."
 
 ### MOVE-TAG
 
-**Scene:** RISE™ Move wordmark + URL
+**Scene:** RISE Move wordmark + URL
 **Duration:** 4–5 seconds
 **Camera:** N/A — text card.
 **Music sync:** Track returns — just the outro, low, fading.
@@ -471,7 +471,7 @@ We are doing something about it."
 **⚠ COMPOSITE TEXT:** Full text card. No AI generation needed:
 
 ```
-RISE™ Move
+RISE Move
 ```
 
 _Beat._
@@ -509,7 +509,7 @@ Notify Me.
 ## SOCIAL CUTS
 
 **15-second cut — "The Stairs":**
-MOVE-05 (PUSH stops at stairs) → MOVE-A (actuator close-up) → TEXT: _"Move."_ → RISE™ Move wordmark.
+MOVE-05 (PUSH stops at stairs) → MOVE-A (actuator close-up) → TEXT: _"Move."_ → RISE Move wordmark.
 Track: just the hook. _"When I move you move, just like that."_
 
 **30-second cut — "Both Directions":**
@@ -517,7 +517,7 @@ MOVE-05 → MOVE-07 (up) → MOVE-09 (down) → MOVE-F (solo dawn) → Dr. Voss 
 Track: verse into chorus, fade on quote.
 
 **6-second cut — "Move.":**
-Black. The beat drops. MOVE-A (one actuator close-up). TEXT: _"RISE™ Move."_ Black.
+Black. The beat drops. MOVE-A (one actuator close-up). TEXT: _"RISE Move."_ Black.
 Track: the first four beats. Nothing else.
 
 ---
@@ -542,11 +542,11 @@ At 5PM, heading for the elevator, Dave whistles it again. The same phrase. Compl
 
 _The Move_ teaser runs **"Stand Up"** by Ludacris ft. Shawnna — _"when I move you move, just like that"_ — the product's entire thesis in one lyric.
 
-Both Ludacris. Both movement. Both completely earnest in context. The connection is never stated. It doesn't need to be. The audience who knows both pieces feels it. RISE™ didn't plan this. Dave didn't plan this. The universe just runs on Ludacris.
+Both Ludacris. Both movement. Both completely earnest in context. The connection is never stated. It doesn't need to be. The audience who knows both pieces feels it. RISE didn't plan this. Dave didn't plan this. The universe just runs on Ludacris.
 
 ---
 
-_RISE™ Move Teaser — "Both Directions" v2.0_
+_RISE Move Teaser — "Both Directions" v2.0_
 _Production script with AI generation prompts — "Stand Up" by Ludacris ft. Shawnna_
 _6 actuator beauty shots / 12 edit beats + 2 text cards / 75-second target runtime_
 _riseco.online/move — Notify Me._

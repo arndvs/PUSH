@@ -313,7 +313,7 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then we see, across the floor, Marcus. Then we see Marcus's bed.
 
-**Marcus's bed:** Same brand, same product — the PUSH by RISE™, same generation as Dave's. Different colorway: warm gray frame (slightly lighter, slightly warmer than Dave's dark charcoal). Different soft goods: a duvet in a warm domestic color over different sheets, different pillowcase. Same hardware, same hum, same behavior. The visual variety prevents the beds from reading as a single duplicated prop, while the identical hardware confirms they made the same purchase.
+**Marcus's bed:** Same brand, same product — the PUSH by RISE, same generation as Dave's. Different colorway: warm gray frame (slightly lighter, slightly warmer than Dave's dark charcoal). Different soft goods: a duvet in a warm domestic color over different sheets, different pillowcase. Same hardware, same hum, same behavior. The visual variety prevents the beds from reading as a single duplicated prop, while the identical hardware confirms they made the same purchase.
 
 **The pause:** Let it go at least 3 full seconds. Maybe 4. The longer the silence, the more it lands.
 
@@ -431,7 +431,7 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 **The car — Ludacris:** The radio plays the intro whistle of "Move Bitch" by Ludacris. Not the lyrics — just the distinctive opening bars and the whistle. Dave picks it up and whistles along. This is the only non-diegetic-adjacent music in the commute. The radio is diegetic. Dave's whistle is diegetic. The song was already playing when the car turned on — Dave didn't choose it. The whistle is interrupted mid-phrase when the fuel gauge registers. Dave kills the radio. Silence. The bed hums. **The whistle returns at 5PM** — same phrase, complete this time. Two bookends, one found song. License the intro instrumental only.
 
-**The Ludacris thread — cross-video:** The RISE™ Move teaser runs "Stand Up" by Ludacris ft. Shawnna — _"when I move you move, just like that."_ Both videos feature Ludacris. Both are about movement. "Move Bitch" is Dave's song — found on the radio, whistled by a man being pushed through his day. "Stand Up" is the product's song — the bed's energy, the brand promise. The connection is never stated. The audience who watches both pieces feels it.
+**The Ludacris thread — cross-video:** The RISE Move teaser runs "Stand Up" by Ludacris ft. Shawnna — _"when I move you move, just like that."_ Both videos feature Ludacris. Both are about movement. "Move Bitch" is Dave's song — found on the radio, whistled by a man being pushed through his day. "Stand Up" is the product's song — the bed's energy, the brand promise. The connection is never stated. The audience who watches both pieces feels it.
 
 **Office afternoon montage:** Something that evolves — starts a little urgent, ends mellow. The music should mirror the bed's deceleration.
 

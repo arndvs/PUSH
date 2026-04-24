@@ -202,7 +202,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Camera rule:** Wide static from the street per the screenplay (Scene 9). Frame the full driveway with the house visible behind Dave and the bed. The neighborhood normalcy — the house, the car, the neighbor walking a dog — is the container that makes the image absurd.
 
-**Environmental accommodation:** None needed. The driveway is wide, flat, open. The bed's proportions are genuinely not an issue here. The challenge is tonal, not spatial. The neighbor's casual reaction (glance and keep walking) does more to sell the image than any environmental design. A small RISE™ yard sign near the front walk — the same kind of sign as a home security placard — is set dressing, not a framing target. It tells the audience the house is on the system without anyone commenting on it.
+**Environmental accommodation:** None needed. The driveway is wide, flat, open. The bed's proportions are genuinely not an issue here. The challenge is tonal, not spatial. The neighbor's casual reaction (glance and keep walking) does more to sell the image than any environmental design. A small RISE yard sign near the front walk — the same kind of sign as a home security placard — is set dressing, not a framing target. It tells the audience the house is on the system without anyone commenting on it.
 
 **Why it works:** The bed has been in interior spaces until now — bedroom, hallway, bathroom, closet, kitchen. The driveway is the first moment the bed is fully outdoors, in daylight, visible to the world. The lack of spatial constraint is the point: out here, there is nothing between the bed and the sky, and the bed is still just going to work.
 
@@ -292,7 +292,7 @@ When generating shots involving the bed in tight spaces, use this language:
 
 ## A NOTE ON MARCUS'S BED
 
-Marcus has a PUSH by RISE™. Same product. Same generation. Different colorway (warm gray frame vs. Dave's dark charcoal) and different personal soft goods (duvet, sheets, pillowcase).
+Marcus has a PUSH by RISE. Same product. Same generation. Different colorway (warm gray frame vs. Dave's dark charcoal) and different personal soft goods (duvet, sheets, pillowcase).
 
 Marcus's bed follows all the same proportional rules. When they're in the conference room together, they should fit behind their respective chairs with the same "just barely right" quality. The visual variety (different colorway, different bedding) prevents them from reading as a single duplicated prop while the identical hardware confirms these are the same product.
 
@@ -309,12 +309,12 @@ Before finalizing any shot:
 - [ ] If the transition is impossible, is it hidden by an edit?
 - [ ] Does the bed have visible weight and inertia?
 - [ ] Is the bed's speed consistent with where we are in the story arc?
-- [ ] Is the RISE™ / PUSH sticker visible in at least one shot per major environment? (Minimum per Prop Bible §1.5: readable once in the bedroom and once in the office. Additional environments are bonus.)
+- [ ] Is the RISE / PUSH sticker visible in at least one shot per major environment? (Minimum per Prop Bible §1.5: readable once in the bedroom and once in the office. Additional environments are bonus.)
 
 ---
 
 _THE REMOTE — Bed Proportions Guide v4.4_
-_Updated: Apartment building lobby section removed — Dave lives in a house, not an apartment (Prop Bible §1.9 corrected). RISE™ yard sign added to driveway environment. Sticker checklist aligned with Prop Bible §1.5 minimum._
+_Updated: Apartment building lobby section removed — Dave lives in a house, not an apartment (Prop Bible §1.9 corrected). RISE yard sign added to driveway environment. Sticker checklist aligned with Prop Bible §1.5 minimum._
 _Previous: v4.3 — Removed published dimensions from Core Challenge — aligned with Prop Bible v3.1 canon ("dimensions invite calculation"). Ceiling gap, hallway width, and camera framing rewritten to relative language._
 _"The truck always fits. The bed always fits. The audience always believes."_
 

@@ -1,6 +1,6 @@
 # THE REMOTE — PROP BIBLE
 
-### The PUSH by RISE™ & The PUSH Remote
+### The PUSH by RISE & The PUSH Remote
 
 _Canonical physical descriptions for all production use_
 _This document supersedes all prop descriptions in all other production documents_
@@ -40,7 +40,7 @@ If you are designing an environment the bed will move through: build it so the b
 
 ---
 
-# PART ONE: THE PUSH BY RISE™
+# PART ONE: THE PUSH BY RISE
 
 ### _"The Bed"_
 
@@ -110,7 +110,7 @@ This state must read as completely normal. Not interesting. Not ominous. A bed. 
 
 In this state the bed is completely inert. It does not hum. It does not move. It simply is.
 
-_Visual note: In STATE ONE, the RISE™ / PUSH brand sticker on the lower-right corner of the frame is partially obscured by the mattress overhang. It is not readable. This is correct — the branding reveals itself later, when the bed reveals itself._
+_Visual note: In STATE ONE, the RISE / PUSH brand sticker on the lower-right corner of the frame is partially obscured by the mattress overhang. It is not readable. This is correct — the branding reveals itself later, when the bed reveals itself._
 
 ### STATE TWO: RAISED (Transition)
 
@@ -126,7 +126,7 @@ _Visual note: The hum begins the moment the button is pressed, before any visibl
 
 Fully upright. A complete bed — mattress, fitted sheet, pillow — standing on end. This is the central image of the film and it should be unmistakable: not a frame, not a piece of equipment, a _bed_. Vertical. Rolling.
 
-The pillow sits at the top, slightly askew from the transition. The sheet has the wrinkles of someone who slept in it and then got pushed out of it. The mattress is flush against the frame, held. The RISE™ / PUSH sticker is visible on the lower right, no longer obscured.
+The pillow sits at the top, slightly askew from the transition. The sheet has the wrinkles of someone who slept in it and then got pushed out of it. The mattress is flush against the frame, held. The RISE / PUSH sticker is visible on the lower right, no longer obscured.
 
 From the front this looks like a painting of a bed rotated 90 degrees and set in motion. From the side you can see the frame depth, the struts, the low-profile casters beneath the base. The front view is funnier. The side view is more honest. Both are useful.
 
@@ -150,7 +150,7 @@ _Visual note: The folded bed in the rearview mirror is a confirmation shot, not 
 
 ## 1.5 — THE BRAND STICKER
 
-The RISE™ / PUSH brand sticker is a small, precisely placed element on the lower-right corner of the bed frame's front face.
+The RISE / PUSH brand sticker is a small, precisely placed element on the lower-right corner of the bed frame's front face.
 
 **Size:** Approximately 3 inches wide by 1.5 inches tall.
 
@@ -159,12 +159,12 @@ The RISE™ / PUSH brand sticker is a small, precisely placed element on the low
 **Content:**
 
 ```
-RISE™
+RISE
 The PUSH
 Smart Adjustable Base
 ```
 
-The RISE™ wordmark at the top uses a clean, slightly geometric sans-serif. Not quite a tech font, not quite a medical font. The kind of typography that says: _we have thought carefully about this product._ The ™ mark is small and precise.
+The RISE wordmark at the top uses a clean, slightly geometric sans-serif. Not quite a tech font, not quite a medical font. The kind of typography that says: _we have thought carefully about this product._ The ™ mark is small and precise.
 
 Below the company name, _The PUSH_ in the same typeface, slightly bolder — the product name, centered, unmistakable. Below that, _Smart Adjustable Base_ in a smaller weight. The tagline — _"For People Who Need A Little Push"_ — does not appear on the sticker. It lives on marketing materials. On the product itself, the word PUSH does all the work.
 
@@ -257,7 +257,7 @@ The bed makes itself. Not eventually, not in the end credits — _during the mor
 
 ### The Concept
 
-The bed has a job. The job is not just to get Dave out of the apartment — it is to be _ready_ for his return. RISE™ engineered the self-making system for exactly this reason: a bed that rolls you to work should be made and waiting when you get home. Push Mode initiates both functions simultaneously. While the bed is vertical and rolling Dave through his routine, it is also tidying itself.
+The bed has a job. The job is not just to get Dave out of the apartment — it is to be _ready_ for his return. RISE engineered the self-making system for exactly this reason: a bed that rolls you to work should be made and waiting when you get home. Push Mode initiates both functions simultaneously. While the bed is vertical and rolling Dave through his routine, it is also tidying itself.
 
 This is the parallel that earns its comedy: Dave is getting ready for the day. So is the bed.
 
@@ -287,7 +287,7 @@ The self-making mechanism is visible at three points during the morning sequence
 
 A vertical bed making itself is a stranger and funnier image than a horizontal bed making itself. The sheet tensioning on a vertical surface — smoothing sideways rather than downward, against gravity — looks slightly wrong in a way that is deeply right. It is a machine doing something a machine should not need to do, in a position a bed should not be in, and it is doing it with complete competence.
 
-The self-making should never look magical or instantaneous. It should look _mechanical_ — slow, deliberate, the visible result of engineering decisions someone made in a boardroom at RISE™. Every movement is purposeful. Every sound is small and precise. This is a feature. It is on the spec sheet.
+The self-making should never look magical or instantaneous. It should look _mechanical_ — slow, deliberate, the visible result of engineering decisions someone made in a boardroom at RISE. Every movement is purposeful. Every sound is small and precise. This is a feature. It is on the spec sheet.
 
 ### The Payoff
 
@@ -323,13 +323,13 @@ This shot is the tonal counterpart to every Gauntlet shot in the film. All day t
 
 ## 1.10 — MARCUS'S BED
 
-Marcus has a PUSH by RISE™. Same product. Same generation. Same hardware.
+Marcus has a PUSH by RISE. Same product. Same generation. Same hardware.
 
 **The distinction is personal, not mechanical.** Marcus and Dave both own the current PUSH. The frame, casters, struts, retention system, sticker, remote, and pillow are identical between them. What differs is everything the owner chose: the colorway and the soft goods.
 
 ### Hardware (identical — the PUSH)
 
-Same frame construction, same strut profile, same caster base, same motor, same hum baseline, same PUSH remote. The sticker reads the same: RISE™ / The PUSH / Smart Adjustable Base.
+Same frame construction, same strut profile, same caster base, same motor, same hum baseline, same PUSH remote. The sticker reads the same: RISE / The PUSH / Smart Adjustable Base.
 
 Marcus's bed is in STATE THREE at the office — vertical, on casters, fully made.
 
@@ -365,7 +365,7 @@ When both beds are in frame at the office, the visual variety prevents them from
 
 Karen had the NUDGE — the first generation, before Dave's current PUSH. _"I had the NUDGE. Made me a VP."_ She sounds like a founding member of something. Her NUDGE is gone now — she doesn't need it anymore. But it got her here.
 
-This implies a product timeline: RISE™ (company) → the NUDGE (first generation, Karen's era) → the PUSH (current, Dave and Marcus's model) → the MOVE (next generation, not yet released). No model numbers are spoken in the film. The timeline is felt, not stated.
+This implies a product timeline: RISE (company) → the NUDGE (first generation, Karen's era) → the PUSH (current, Dave and Marcus's model) → the MOVE (next generation, not yet released). No model numbers are spoken in the film. The timeline is felt, not stated.
 
 ---
 
@@ -403,11 +403,11 @@ The remote should feel, when you first see it, completely benign. It is a small 
 
 ## 2.3 — THE FRONT FACE
 
-The front face of the remote is nearly featureless. This is the design philosophy of RISE™ as a company: restraint. The product communicates confidence through what it omits. The only thing that speaks is the button — and the button says what it does.
+The front face of the remote is nearly featureless. This is the design philosophy of RISE as a company: restraint. The product communicates confidence through what it omits. The only thing that speaks is the button — and the button says what it does.
 
 **Layout, top to bottom:**
 
-**The RISE™ wordmark:** Centered, approximately 1 inch from the top. Very small — roughly 8-point size in real-world terms. Clean, geometric sans-serif. The letters are slightly wider than standard — a custom modification that gives the wordmark a grounded, deliberate quality. The ™ sits tight to the final E, slightly superscripted. The wordmark is not backlit. It is debossed slightly into the surface — present by texture, not by light. In standard lighting you can read it. In very dim light you might trace it with a fingertip.
+**The RISE wordmark:** Centered, approximately 1 inch from the top. Very small — roughly 8-point size in real-world terms. Clean, geometric sans-serif. The letters are slightly wider than standard — a custom modification that gives the wordmark a grounded, deliberate quality. The ™ sits tight to the final E, slightly superscripted. The wordmark is not backlit. It is debossed slightly into the surface — present by texture, not by light. In standard lighting you can read it. In very dim light you might trace it with a fingertip.
 
 **The gap:** Between the wordmark and the button, approximately 1.5 inches of uninterrupted matte black surface. Nothing. This gap is intentional. The company has thought about this space and decided it should be empty.
 
@@ -423,7 +423,7 @@ The button surface itself reads: **PUSH**
 
 The word PUSH is laser-etched into the button's surface — not printed, not a separate label. Etched. In the same font family as the wordmark on the body, but bolder, slightly larger. When the button is unlit, PUSH is visible as a texture. When the button glows, PUSH is backlit and reads cleanly in white against the slightly translucent button surface.
 
-This is the design tension: the company name is aspirational (RISE™) but the button label is honest (PUSH). The brand promises elevation. The mechanism just shoves you out the door. You press PUSH and it pushes. The remote does not need to explain anything else.
+This is the design tension: the company name is aspirational (RISE) but the button label is honest (PUSH). The brand promises elevation. The mechanism just shoves you out the door. You press PUSH and it pushes. The remote does not need to explain anything else.
 
 **Below the button:** Approximately 0.75 inches of matte black surface. Nothing. The bottom edge is rounded, matching the top.
 
@@ -431,12 +431,12 @@ This is the design tension: the company name is aspirational (RISE™) but the b
 
 ## 2.4 — THE BACK FACE
 
-The back of the remote is where RISE™ keeps its honesty.
+The back of the remote is where RISE keeps its honesty.
 
 **Surface:** Same matte black finish as the front. In the center of the back face, a rectangle of very fine print — white text, approximately 5-point size — contains the following:
 
 ```
-PUSH by RISE™ Smart Adjustable Base Remote
+PUSH by RISE Smart Adjustable Base Remote
 Model: PM-1 (Push Mode)
 
 Note: Push Mode cannot be manually
@@ -448,7 +448,7 @@ For support: riseawake.com/help
 
 **Typography:** The same font family as the front wordmark, but in its lightest weight. This text is meant to be readable in good light by someone who is specifically trying to read it. It is not meant to be noticed casually. It rewards the specific act of turning the remote over and looking — which is exactly what Dave does.
 
-**The tone of the fine print:** This is important. The copy does not read as a disclaimer. It reads as a brand statement. _"This is a feature, not a limitation"_ is the line that tells you everything about RISE™ as a company. They know Push Mode cannot be turned off. They decided this. They are proud of it. _"Have a productive day!"_ is not ironic from their perspective. They mean it sincerely.
+**The tone of the fine print:** This is important. The copy does not read as a disclaimer. It reads as a brand statement. _"This is a feature, not a limitation"_ is the line that tells you everything about RISE as a company. They know Push Mode cannot be turned off. They decided this. They are proud of it. _"Have a productive day!"_ is not ironic from their perspective. They mean it sincerely.
 
 **Battery compartment:** On the lower third of the back, a small battery door — same matte black, flush with the surface, a small slot for a fingernail. It contains two AAA batteries. This detail should not be shown in the film. But it should exist. The prop should be a real object.
 
@@ -516,7 +516,7 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 
 ---
 
-**Note — Part Three:** The RISE™ Move product (actuator mechanism, stair navigation, VNS subscription) is documented in `RISE_MOVE_INTERNAL_v1.0.md`. A full Part Three will be added when the Move spec stabilizes.
+**Note — Part Three:** The RISE Move product (actuator mechanism, stair navigation, VNS subscription) is documented in `RISE_MOVE_INTERNAL_v1.0.md`. A full Part Three will be added when the Move spec stabilizes.
 
 ---
 
@@ -524,7 +524,7 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 
 ### THE BED AT A GLANCE
 
-- **Brand:** RISE™
+- **Brand:** RISE
 - **Product:** The PUSH (Smart Adjustable Base)
 - **Color:** Matte dark charcoal, cool blue undertone
 - **Size:** Large. Fills every space it occupies. Belongs in all of them.
@@ -532,30 +532,30 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 - **Pillow:** One. PUSH hardware (contains pneumatic reshaping node). Pillowcase is personal (Dave's: white). Always present. Slightly askew in STATE THREE initially. Plumped and reshaped by the self-making mechanism during the morning routine, but not repositioned — remains slightly askew.
 - **Movement:** Continuous rolling via low-profile caster base beneath the frame. Smooth, quiet, inevitable. No stepping, no rhythm, no visible effort.
 - **Sound:** Warm low hum + faint caster whisper
-- **Sticker:** Lower-right front face. Obscured in STATE ONE by mattress overhang. Visible in STATE THREE. "RISE™ / The PUSH / Smart Adjustable Base"
+- **Sticker:** Lower-right front face. Obscured in STATE ONE by mattress overhang. Visible in STATE THREE. "RISE / The PUSH / Smart Adjustable Base"
 - **States:** Flat (resting bed) / Raised (transitioning bed) / Vertical (upright complete bed, rolling) / Folded (car — V-shape in back seat)
 - **Struts:** Visible on each side. Articulate for the raising mechanism only. Not the movement mechanism.
 
 ### THE REMOTE AT A GLANCE
 
-- **Brand:** RISE™
+- **Brand:** RISE
 - **Dimensions:** 5" H × 2" W × 0.5" D
 - **Color:** Matte black
-- **Front:** RISE™ wordmark (debossed, top center) + single circular PUSH button (backlit warm white, centered)
+- **Front:** RISE wordmark (debossed, top center) + single circular PUSH button (backlit warm white, centered)
 - **Back:** Fine print — model PM-1, Push Mode disclaimer, _"This is a feature, not a limitation."_
 - **Function:** One button. Initiates Push Mode. That is all it does.
 - **Button action:** Soft click, brief glow intensification, half-second delay before bed activates
 - **Glow:** Steady warm white. Always on. Patient.
 
-### THE RISE™ / PUSH BRAND IN THREE WORDS
+### THE RISE / PUSH BRAND IN THREE WORDS
 
 **Simple. Confident. Relentless.**
 
 ---
 
 _THE REMOTE — Prop Bible v3.1_
-_Changes from v3.0: Pillow resolution — node plumps/reshapes but does not reposition; pillow remains slightly askew (§1.3, §1.8, §1.9, Appendix aligned). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE™ Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
-_Changes from v2.3: Product rebrand — now "PUSH by RISE™" (company remains RISE™, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE™ / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
+_Changes from v3.0: Pillow resolution — node plumps/reshapes but does not reposition; pillow remains slightly askew (§1.3, §1.8, §1.9, Appendix aligned). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
+_Changes from v2.3: Product rebrand — now "PUSH by RISE" (company remains RISE, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
 _This document is canonical. All other prop descriptions defer to this one._
 
 ---

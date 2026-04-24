@@ -112,7 +112,7 @@ All day the PUSH has been pushing Dave through his life. Now Dave is pushing som
 
 Dave is passive in this moment even while physically pushing — he's not solving the problem, he's not thinking, he's just moving forward because the bed is moving forward and the car is between them. He has been so thoroughly processed by the morning that pushing a car down a highway in office clothes while being pushed by his bed is just the situation. He adapts. He always adapts.
 
-This shot should be wide. The highway around them. The scale of it. A man in office clothes, slightly untucked shirt, bad tie, hands on the trunk of a dead car, a PUSH by RISE™ rolling behind him. Hold it just long enough to land. Then cut.
+This shot should be wide. The highway around them. The scale of it. A man in office clothes, slightly untucked shirt, bad tie, hands on the trunk of a dead car, a PUSH by RISE rolling behind him. Hold it just long enough to land. Then cut.
 
 ---
 

@@ -15,7 +15,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 - **DAVE (office look — Shots 022+):** White male, early 30s, slightly disheveled but not homeless. Brown hair, stubble. Dress shirt and slacks. Slightly undone tie. Looks like someone who got 4 hours of sleep and is functioning anyway.
 - **DAVE (sleepwear — Shots 001–021):** Same face and build. Wearing a wrinkled t-shirt and boxers. Hair chaotic. This is how Dave appears from the bedroom through the bathroom — he doesn't get dressed until the closet scene (Shot 022).
 - **MARCUS:** Black male, early 30s. Wrinkled suit jacket. Slightly more put-together than Dave but not by much. The look of a man who has been here before.
-- **THE BED:** A PUSH by RISE™ — dark charcoal frame with a faint cool blue undertone, no headboard, with a slim matte black remote. The remote has one large circular button labeled PUSH that glows warm white. Clean, sleek, slightly corporate. When vertical it resembles a monolith.
+- **THE BED:** A PUSH by RISE — dark charcoal frame with a faint cool blue undertone, no headboard, with a slim matte black remote. The remote has one large circular button labeled PUSH that glows warm white. Clean, sleek, slightly corporate. When vertical it resembles a monolith.
 
 **Runtime note:** Individual shot durations represent the core action of each AI-generated clip. The assembled edit will include additional held beats, transitions, reaction inserts, and pacing pauses documented in the [Visual Reference Guide's Editing Rhythm section](../02_production/Visual_Reference_and_Collaborator_Guide.md). Total assembled runtime target: 5–7 minutes.
 
@@ -215,7 +215,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 > Wide shot from the side of a bedroom. A man in his early 30s sits on the edge of a modern adjustable bed base (dark charcoal with a faint cool blue undertone, no headboard), holding a slim matte black remote. He presses the PUSH button. The back of the bed begins to slowly rise, lifting him with it. He sits passively, one arm dangling, eyes still half-closed. The movement is slow and dignified. Morning light. Cinematic. The bed should look mechanical and sleek.
 
-**NOTES:** Start wide so we can see the full bed rise. This is the mechanical reveal — make it clear what the device is. The RISE™ / PUSH brand sticker on the lower-right corner of the frame should be readable in this shot — it faces camera as the bed rises. Do not emphasize it; it is a background detail the audience discovers, not a product placement beat (Prop Bible §1.5).
+**NOTES:** Start wide so we can see the full bed rise. This is the mechanical reveal — make it clear what the device is. The RISE / PUSH brand sticker on the lower-right corner of the frame should be readable in this shot — it faces camera as the bed rises. Do not emphasize it; it is a background detail the audience discovers, not a product placement beat (Prop Bible §1.5).
 
 ---
 
@@ -253,7 +253,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 **AI PROMPT:**
 
-> Extreme close-up of the back of a slim matte black remote control being held in a man's hand. Small text reads: "PUSH by RISE™ — Note: Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!" The man's thumb is visible at the edge. Sharp focus on the text. The hand is very still. Cinematic close-up. Slightly warm light.
+> Extreme close-up of the back of a slim matte black remote control being held in a man's hand. Small text reads: "PUSH by RISE — Note: Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!" The man's thumb is visible at the edge. Sharp focus on the text. The hand is very still. Cinematic close-up. Slightly warm light.
 
 **⚠ COMPOSITE TEXT:** Generate the visual without text — the remote held in hand, close-up, warm light, sharp focus on the back surface. Composite the fine print in post using the text from [Prop Bible 2.4](../02_production/prop_bible.md).
 
@@ -447,9 +447,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide static shot from street level looking at a suburban driveway. A man in his early 30s, dressed in office clothes — shirt tucked, both shoes, tie badly knotted — walks down the driveway being pushed from behind by a large vertical adjustable bed base. No coffee. Near the front walk, a small yard sign reads RISE™ — the same kind of sign as a home security placard, understated, not emphasized, just part of the lawn. A neighbor walking a dog in the background glances over and keeps walking. The dog watches longer than the human does. The man makes brief eye contact with the neighbor. The bed continues pushing him toward a car parked at the end of the driveway. Daytime. Suburban morning light.
+> Wide static shot from street level looking at a suburban driveway. A man in his early 30s, dressed in office clothes — shirt tucked, both shoes, tie badly knotted — walks down the driveway being pushed from behind by a large vertical adjustable bed base. No coffee. Near the front walk, a small yard sign reads RISE — the same kind of sign as a home security placard, understated, not emphasized, just part of the lawn. A neighbor walking a dog in the background glances over and keeps walking. The dog watches longer than the human does. The man makes brief eye contact with the neighbor. The bed continues pushing him toward a car parked at the end of the driveway. Daytime. Suburban morning light.
 
-**NOTES:** Walk of shame / perp walk energy — Dave knows he’s being escorted by a bed in broad daylight. The RISE™ yard sign is world-building — like an ADT or SimpliSafe sign, it tells you the house is on the system without calling attention to itself. Do not frame it; it is set dressing. The neighbor glances — does not stop or stare. The dog’s interest outlasts the human’s. Dave has no coffee (lost it in the kitchen). The shot ends with Dave being pushed toward the car — we do not see him get in. Cut.
+**NOTES:** Walk of shame / perp walk energy — Dave knows he’s being escorted by a bed in broad daylight. The RISE yard sign is world-building — like an ADT or SimpliSafe sign, it tells you the house is on the system without calling attention to itself. Do not frame it; it is set dressing. The neighbor glances — does not stop or stare. The dog’s interest outlasts the human’s. Dave has no coffee (lost it in the kitchen). The shot ends with Dave being pushed toward the car — we do not see him get in. Cut.
 
 ---
 
@@ -609,7 +609,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Wide static shot of a modern open-plan office floor. A man in his early 30s (brown hair, slightly disheveled) rounds the corner from the elevator area, a large vertical adjustable bed base behind him. He stops. Across the floor, at a diagonal desk, another man in his early 30s (Black, wrinkled suit jacket, equally tired) looks up. Behind him: the same model adjustable bed base in a warm gray colorway. Both beds idle, humming quietly — slightly out of sync, creating a low ambient chord. The two men make eye contact across the office floor. A long beat. The first man gives a single nod up. The second man gives a single nod up back. They sit down at their respective desks. Both beds settle in behind them. They both open their laptops. Office lighting. Still shot.
 
-**NOTES:** This is the emotional centerpiece of the film. Do not rush it. The exchange is "‘Sup, Marcus" / "‘Sup." Both nods are UP, not down. The two hums being slightly out of sync is a deliberate detail. In the wide, the RISE™ / PUSH sticker on Dave’s bed should be readable as a background detail — the second of the two required readability moments (Prop Bible §1.5: bedroom + office).
+**NOTES:** This is the emotional centerpiece of the film. Do not rush it. The exchange is "‘Sup, Marcus" / "‘Sup." Both nods are UP, not down. The two hums being slightly out of sync is a deliberate detail. In the wide, the RISE / PUSH sticker on Dave’s bed should be readable as a background detail — the second of the two required readability moments (Prop Bible §1.5: bedroom + office).
 
 ---
 
@@ -637,7 +637,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Medium shot of a corporate office desk. A man in his early 30s sits at his desk, slightly slumped, but functional. A large adjustable bed base idles behind his chair. A woman in her late 40s (professional, sharp blazer, VP energy) walks up and stands beside his desk. She looks at him — not the bed. She nods once. Says something (implied: “Big night?”). He replies. She gives him a task (implied: "Get the Hendricks report done by five"). She starts to walk away. Stops without turning. Says something else (implied: a comment about the bed brand — she had the NUDGE, the first-gen model). He asks a follow-up. She answers while already walking away (implied: “Made me a VP”). She’s gone. Office lighting. Played dry.
 
-**NOTES:** Karen looks at DAVE, not the bed. Her comment about the bed brand (the NUDGE — the first-gen RISE™ product) is the first time an authority figure validates the bed's existence — and she does it by referencing her own. Dave does not look at the bed after this exchange.
+**NOTES:** Karen looks at DAVE, not the bed. Her comment about the bed brand (the NUDGE — the first-gen RISE product) is the first time an authority figure validates the bed's existence — and she does it by referencing her own. Dave does not look at the bed after this exchange.
 
 ---
 
@@ -801,7 +801,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **NOTES:** The bed made itself this morning, during the gauntlet, in parallel with Dave getting dressed. It has been made all day. It is going home to fold itself flat and wait. No music — just the hum, fading. Let it breathe.
 
-**EDITORIAL GAP (intentional):** The cut from sidewalk (044) to bedroom (044A) *is* the edit — per Rule 1 (Bed Proportions Guide), we cut around impossible transitions. Dave lives in a house; the bed reaches the front door and we skip to it already inside the bedroom. The audience fills in the gap. The bed always arrives.
+**EDITORIAL GAP (intentional):** The cut from sidewalk (044) to bedroom (044A) _is_ the edit — per Rule 1 (Bed Proportions Guide), we cut around impossible transitions. Dave lives in a house; the bed reaches the front door and we skip to it already inside the bedroom. The audience fills in the gap. The bed always arrives.
 
 ---
 
@@ -851,13 +851,13 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Portrait reference image of a Black man in his early 30s. Medium build, slightly stocky. Wearing a dark suit jacket over a light blue dress shirt. His jacket has one or two wrinkles. He has a close-cropped fade. His expression is that of a man enduring something familiar. Natural lighting. Photorealistic.
 
-### Character Reference — THE BED (Dave's — PUSH by RISE™)
+### Character Reference — THE BED (Dave's — PUSH by RISE)
 
-> Product reference image of a PUSH by RISE™ adjustable base. Dark charcoal gray frame with a faint cool blue undertone. Matte finish. No headboard or footboard — just the adjustable base, mattress with navy fitted sheet, and one white pillow. Mechanical struts visible at the sides when raised. A slim matte black remote with a single large circular button labeled PUSH that glows warm white sits on the frame. When fully raised to vertical, it resembles a large rectangular monolith. Slightly industrial, slightly sleek. Photorealistic.
+> Product reference image of a PUSH by RISE adjustable base. Dark charcoal gray frame with a faint cool blue undertone. Matte finish. No headboard or footboard — just the adjustable base, mattress with navy fitted sheet, and one white pillow. Mechanical struts visible at the sides when raised. A slim matte black remote with a single large circular button labeled PUSH that glows warm white sits on the frame. When fully raised to vertical, it resembles a large rectangular monolith. Slightly industrial, slightly sleek. Photorealistic.
 
-### Character Reference — MARCUS'S BED (PUSH by RISE™ — same model, different colorway)
+### Character Reference — MARCUS'S BED (PUSH by RISE — same model, different colorway)
 
-> Product reference image of a PUSH by RISE™ adjustable bed base in warm gray colorway (slightly lighter and warmer than Dave's dark charcoal). Same frame profile, same struts, same dimensions. No headboard or footboard — just the base and platform. A duvet in olive over olive sheets, with a coordinated warm-tone pillowcase. Same product, different aesthetic choices. When vertical it reads as the same category of object in a different color. Clean studio lighting. Photorealistic.
+> Product reference image of a PUSH by RISE adjustable bed base in warm gray colorway (slightly lighter and warmer than Dave's dark charcoal). Same frame profile, same struts, same dimensions. No headboard or footboard — just the base and platform. A duvet in olive over olive sheets, with a coordinated warm-tone pillowcase. Same product, different aesthetic choices. When vertical it reads as the same category of object in a different color. Clean studio lighting. Photorealistic.
 
 ### Environment — DAVE'S BEDROOM
 
@@ -870,7 +870,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 ---
 
 _THE REMOTE — AI Shot List v4.5_
-_Updated: Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE™ yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v3.1._
+_Updated: Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v3.1._
 _Previous: v4.4 — ACT FOUR header added. Shot 015 section ref fixed (2.3→2.4). Shot 011 cab dialogue restored from screenplay. Shot 030 lobby fix. Pillow askew applied (Shots 022B, 041A, 044, 044B)._
 _19 scenes / 54 shots / approx. 5–7 minute runtime_
 

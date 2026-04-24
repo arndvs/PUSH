@@ -14,7 +14,7 @@
 
 |                 |                                                                                                                   |
 | --------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Name**        | RISE Technologies, Inc. (stylized: RISE™)                                                                         |
+| **Name**        | RISE Technologies, Inc. (stylized: RISE)                                                                          |
 | **HQ**          | San Francisco, California                                                                                         |
 | **Domain**      | riseawake.com                                                                                                     |
 | **Tagline**     | "For People Who Need A Little Push."                                                                              |
@@ -91,7 +91,7 @@ Autonomous **vertical** navigation. Navigates stairs. Both directions. Requires 
 
 **Dr. Voss:** _"We are aware of the stairs. All of them. Both directions. We are doing something about it."_
 
-**VNS Lapse Scenario:** The bed stops at the bottom of the stairs and waits. The user goes up alone. _"This is the most RISE™ scenario the product line has yet produced."_
+**VNS Lapse Scenario:** The bed stops at the bottom of the stairs and waits. The user goes up alone. _"This is the most RISE scenario the product line has yet produced."_
 
 ---
 
