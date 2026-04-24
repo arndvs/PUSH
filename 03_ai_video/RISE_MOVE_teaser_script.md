@@ -194,7 +194,7 @@ _The track drops._
 ### MOVE-01
 
 **Scene:** Opening — actuator first contact (= MOVE-A)
-**Duration:** 4 seconds (four bars)
+**Duration:** 4 seconds (four bars — timing approximate, adjust to final mix)
 **Camera:** (Uses MOVE-A)
 **Music sync:** Track drops over black. Cut to this shot on the first downbeat.
 
@@ -202,7 +202,7 @@ _The track drops._
 
 > (Uses MOVE-A — no additional generation needed. See Actuator Beauty Shots above.)
 
-**NOTES:** No text. Just the mechanism. Just the music. Four bars. The audience does not know what they are looking at yet. That is correct.
+**NOTES:** No text. Just the mechanism. Just the music. Four bars. The audience does not know what they are looking at yet. That is correct. Bar count is evocative — exact duration locks in the edit to the track's BPM.
 
 ---
 
