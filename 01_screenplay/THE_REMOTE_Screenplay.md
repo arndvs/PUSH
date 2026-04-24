@@ -693,21 +693,34 @@ _⏱ TIMING NOTE: This sequence tracks Dave's struggle with the Hendricks model.
 
 **3:45 PM** — Dave picks up his phone. Scrolls back through the group chat — way back, past the morning, to last night. He stops. Taps something.
 
-_We don't see the screen. We hear it — bar noise, music, glasses._
+_We don't see the screen. Bar noise. Louder. Someone laughing nearby. A glass hitting the table._
 
 **MARCUS (V.O., PHONE SPEAKER)**
-—you keep stacking them, nothing's talking to each other—
+No no no no — you're not — DAVE. Dave. You can't just STACK them —
 
 **DAVE (V.O., PHONE SPEAKER)**
-They're napkins, Marcus—
+That doesn't MEAN anything —
 
 **MARCUS (V.O., PHONE SPEAKER)**
-Across first, then down. Look at the arrows.
+Nothing's TALKING to each other! You see what I'm — nothing is TALKING —
 
-_Beat._
+**DAVE (V.O., PHONE SPEAKER)**
+Marcus that is a NAPKIN —
 
 **MARCUS (V.O., PHONE SPEAKER)**
-Where do the arrows go?
+It's a SYSTEM! Across first, THEN down — look at the arrows, look at the — LOOK AT THE ARROWS, DAVE —
+
+**DAVE (V.O., PHONE SPEAKER)**
+_(over him)_
+That's NOT how it WORKS —
+
+**MARCUS (V.O., PHONE SPEAKER)**
+I am COMPLETELY right and you are COMPLETELY wrong — WHERE. DO. THE. ARROWS. GO.
+
+_Someone laughs. A glass. Bar noise._
+
+**MARCUS (V.O., PHONE SPEAKER)**
+Dave. Where do the arrows go?
 
 _The video ends._
 
