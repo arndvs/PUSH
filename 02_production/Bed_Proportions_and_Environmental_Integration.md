@@ -202,7 +202,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Camera rule:** Wide static from the street per the screenplay (Scene 9). Frame the full driveway with the house visible behind Dave and the bed. The neighborhood normalcy — the house, the car, the neighbor walking a dog — is the container that makes the image absurd.
 
-**Environmental accommodation:** None needed. The driveway is wide, flat, open. The bed's proportions are genuinely not an issue here. The challenge is tonal, not spatial. The neighbor's casual reaction (glance and keep walking) does more to sell the image than any environmental design.
+**Environmental accommodation:** None needed. The driveway is wide, flat, open. The bed's proportions are genuinely not an issue here. The challenge is tonal, not spatial. The neighbor's casual reaction (glance and keep walking) does more to sell the image than any environmental design. A small RISE™ yard sign near the front walk — the same kind of sign as a home security placard — is set dressing, not a framing target. It tells the audience the house is on the system without anyone commenting on it.
 
 **Why it works:** The bed has been in interior spaces until now — bedroom, hallway, bathroom, closet, kitchen. The driveway is the first moment the bed is fully outdoors, in daylight, visible to the world. The lack of spatial constraint is the point: out here, there is nothing between the bed and the sky, and the bed is still just going to work.
 
