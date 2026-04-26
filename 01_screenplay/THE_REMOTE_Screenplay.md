@@ -12,42 +12,6 @@ This screenplay may not be reproduced, distributed, or used without written perm
 
 ---
 
-## CAST
-
-**DAVE** — Male, 30s. Not a mess, exactly. More like a man perpetually one bad decision away from being a mess. Likable. Relatable. Currently a mess.
-
-**MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Different colorway, same bed.
-
-**KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former NUDGE owner. Proof the system works.
-
-**THE BED** — A PUSH by RISE™. The real protagonist.
-
-**DRIVE-THROUGH WORKER** — Early 20s. Dyed hair, nose ring, sleeve tattoos. Completely indifferent. Delivers bad news like it has nothing to do with her. It doesn't.
-
-**BUS COMMUTER** — Anybody. Sipping from a thermos on autopilot. Doesn't know they're ruining someone's morning.
-
-**TYLER** — Friend. Group chat presence. Already at the bar.
-
-**JAKE** — Friend. Group chat presence. Already at the bar.
-
-**RECEPTIONIST** — Office lobby. Warm, unbothered, asks "Rough one?" without expecting an answer.
-
-**COWORKER** — Sharp suit, fresh haircut, whistling. Asks Dave to press seven in the elevator. Does not acknowledge the bed.
-
-**MANAGER** — Conference room. Presenting Q3 throughput slides. Does not break stride for anything.
-
-**NEIGHBOR** — Walks a dog past Dave's driveway. Watches longer than necessary but says nothing.
-
-**EMPLOYEE** — Heading into the office building. Passes Dave without breaking stride.
-
-**YOUNG EMPLOYEE** — Conference room. New hire energy. Almost raises his hand about the beds. Doesn't.
-
-**COLLEAGUE** — Late afternoon. Dave explains something at a whiteboard. Background.
-
----
-
----
-
 ## ACT ONE: THE WRECKAGE
 
 ---
@@ -105,7 +69,11 @@ _A round of shots arrives. Six guys around a high-top. Everyone cheers. Dave rai
 
 **FLASH — SAME BAR — LATER**
 
-_Dave is explaining something very important using three bar napkins arranged on the table like a diagram. Marcus and the other guys are nodding like this makes complete sense. Whatever Dave is saying, he believes it deeply._
+_Marcus is hunched over three bar napkins arranged on the table like a diagram, drawing arrows between them with a pen he stole from the bartender. He's explaining something with absolute drunk conviction. Dave is shaking his head — not buying it. Jake is eating someone else's fries and not listening._
+
+_Marcus jabs the napkin with his pen. Dave waves him off. Marcus keeps drawing._
+
+_Tyler is already filming on his phone — has been for a while. He pans down to the napkins, catches Marcus jabbing the pen, catches Dave waving him off, and sends the video to the group chat. Not because it's important — because it's funny._
 
 ---
 
@@ -165,7 +133,7 @@ _Back to Dave. The light is slightly brighter now. More accusatory._
 
 _Dave lowers his hands. Surveys the room with one eye. His gaze drifts to the nightstand._
 
-_There, next to the untouched glass of water, is a slim black remote. One large button glows softly. A small wordmark on the body reads RISE™. The button reads PUSH._
+_There, next to the untouched glass of water, is a slim black remote. One large button glows softly. A small wordmark on the body reads RISE. The button reads PUSH._
 
 _Dave stares at it._
 
@@ -215,7 +183,7 @@ _(looking down at the remote)_
 
 _He turns it over. On the back, in small text:_
 
-**_PUSH by RISE™ — Note: Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!_**
+**_PUSH by RISE — Note: Push Mode cannot be manually interrupted. This is a feature, not a limitation. Have a productive day!_**
 
 _Dave stares at this for a long moment._
 
@@ -645,10 +613,10 @@ Reasonably big night.
 _She nods._
 
 **KAREN**
-Get the Hendricks report done by five.
+The Hendricks model is off. Fix it by five.
 
 **DAVE**
-Done.
+...the model?
 
 _She starts to walk away. Stops._
 
@@ -675,25 +643,58 @@ _She's gone._
 
 ### SCENE 17 — INT. OFFICE — AFTERNOON MONTAGE
 
-_⏱ TIMING NOTE: This sequence should visually track the passage of time and Dave's recovery through the behavior of the bed. Use clock cuts and gradual pacing changes._
+_⏱ TIMING NOTE: This sequence tracks Dave's struggle with the Hendricks model. The physical gauntlet is over — this is the professional one. The bed is still there, but the obstacle is on his screen. Use clock cuts._
 
 ---
 
-**2:00 PM** — Dave is typing. The bed leans against the back of his chair. The hum is steady. Dave is working.
+**2:00 PM** — Dave opens the Hendricks model. Scrolls. Karen was right — something's off. He stares at it the way he stared at the remote this morning. The bed leans against the back of his chair. The hum is steady.
 
 ---
 
-**3:00 PM** — The hum is lower. The lean is lighter. Dave is still at it.
+**3:00 PM** — Dave is at the whiteboard. Markers. Arrows. Wrong approach. He erases half of it. Sits back down. Stares at his screen. Looks at the clock.
 
 ---
 
-**3:45 PM** — Dave stands. Gets water. Comes back. The bed hasn't moved.
+**3:45 PM** — Dave picks up his phone. Scrolls back through the group chat — way back, past the morning, to last night. He stops. Taps something.
+
+_We don't see the screen. Bar noise. Louder. Someone laughing nearby. A glass hitting the table._
+
+**MARCUS (V.O., PHONE SPEAKER)**
+No no no no — you're not — DAVE. Dave. You can't just STACK them —
+
+**DAVE (V.O., PHONE SPEAKER)**
+That doesn't MEAN anything —
+
+**MARCUS (V.O., PHONE SPEAKER)**
+Nothing's TALKING to each other! You see what I'm — nothing is TALKING —
+
+**DAVE (V.O., PHONE SPEAKER)**
+Marcus that is a NAPKIN —
+
+**MARCUS (V.O., PHONE SPEAKER)**
+It's a SYSTEM! Across first, THEN down — look at the arrows, look at the — LOOK AT THE ARROWS, DAVE —
+
+**DAVE (V.O., PHONE SPEAKER)**
+_(over him)_
+That's NOT how it WORKS —
+
+**MARCUS (V.O., PHONE SPEAKER)**
+I am COMPLETELY right and you are COMPLETELY wrong — WHERE. DO. THE. ARROWS. GO.
+
+_Someone laughs. A glass. Bar noise._
+
+**MARCUS (V.O., PHONE SPEAKER)**
+Dave. Where do the arrows go?
+
+_The video ends._
+
+_Dave sits there. The office is quiet. The question hangs._
+
+_He puts the phone down._
 
 ---
 
-**4:30 PM** — Dave is up at a whiteboard, explaining something to a colleague. The bed is parked at his desk. Still on. Dormant.
-
-_Dave catches a glimpse of himself in the window — upright, presentable, functional._
+**4:15 PM** — Dave is at the whiteboard again. Writing. Multiple Arrows. It's working.
 
 ---
 
@@ -831,7 +832,7 @@ Dave whistles the intro to "Move Bitch" by Ludacris twice in the film. Both time
 
 The audience who recognizes the song gets a private joke about a man being pushed through his day whistling a song about making people move out of your way. The audience who doesn't just sees a man whistling on his commute.
 
-**The cross-video thread:** The RISE™ Move product teaser runs "Stand Up" by Ludacris ft. Shawnna — _"when I move you move, just like that."_ Both Ludacris. Both movement. The connection is never stated. The universe runs on Ludacris.
+**The cross-video thread:** The RISE Move product teaser runs "Stand Up" by Ludacris ft. Shawnna — _"when I move you move, just like that."_ Both Ludacris. Both movement. The connection is never stated. The universe runs on Ludacris.
 
 ### Performance Notes — Dave
 
@@ -843,15 +844,23 @@ His relationship with the bed should feel like a **grumpy roommate dynamic** tha
 
 The "'sup" exchange between Dave and Marcus is the emotional core of the piece. Two men. Two beds. Zero explanation needed. Play it completely straight — no mugging, no winking at camera. The longer the beat before the "'sup," the funnier it lands.
 
+### The Napkin Thread
+
+The napkins are planted at the bar (Scene 2) — Marcus draws them, Dave rejects them, Tyler films the argument and sends the video to the group chat as a joke. It sits there for twelve hours. At 3:45 PM (Scene 17), stuck on the Hendricks model, Dave scrolls back and plays the video. We don't see the screen — we hear the bar: muffled glasses, Marcus's drunk conviction, Dave's own dismissive voice. But Dave's face in the quiet office tells a different story. His eyes widen. He watches the whole thing. 4:15, he's writing. 4:58, done.
+
+Nobody in the film connects the napkins to the solution. Marcus never finds out his drunk diagram solved anything. Dave never credits it. Tyler sent the video as mockery. The audience is the only one who sees the thread complete.
+
+The napkins mirror the bed: a system that moves Dave forward without his awareness. The bed is physical momentum he didn't choose. The napkin is intellectual momentum he didn't choose. Both got the job done. Neither is acknowledged.
+
 ### Brand Consistency
 
-The **RISE™ / PUSH sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The product name _PUSH_ on the button and the sticker is the thesis statement of the entire piece.
+The **RISE / PUSH sticker** should be readable at least twice — once in the bedroom, once in a quick background shot at the office. The product name _PUSH_ on the button and the sticker is the thesis statement of the entire piece.
 
 ---
 
-_THE REMOTE — Screenplay v5.0_
-_Updated: Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave — sheet tensioning during the shower, pillow plumped during the tie. "Good enough" relocated to Scene 7A payoff. End credits updated. Pillow payoff: askew (Prop Bible v3.1 §1.3/§1.8 canonical). Aligned with Prop Bible v3.1 §1.8 and Visual Reference Guide v4.0._
-_Previous: v4.0 — Commute rework — Ludacris whistle thread (Scene 10 opening, Scene 18 callback), gas station Beat 3 (fuel gauge, warning hum, car dies, PUSH→Dave→car, hard cut to parking lot), Scene 11 updated for post-gas-station state, bed departure added to Scene 18. Aligned with Prop Bible v3.1._
+_THE REMOTE — Screenplay v6.0_
+_Updated: Lean napkin thread — bar plant (Scene 2, Marcus draws/Dave rejects/Tyler films video to group chat), Karen escalated ("the model's off"), afternoon rewritten as struggle with video playback at 3:45 (Scene 17). Bar audio over sober silence. No added dialogue. No Marcus payoff scene. The audience connects the thread; nobody in the film does._
+_Previous: v5.0 — Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave. Pillow payoff: askew. Aligned with Prop Bible v3.1._
 _Total estimated runtime: 5–7 minutes_
 
 ---

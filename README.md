@@ -13,15 +13,15 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 
 ### 🎬 02_production/
 
-- **prop_bible.md** — Canonical physical descriptions for the PUSH by RISE™ bed and remote. Construction, materials, four states, hum language, movement personality, self-making mechanism, and the PUSH remote in full detail. **This document is the single source of truth for all prop descriptions. All other documents defer to it.**
+- **prop_bible.md** — Canonical physical descriptions for the PUSH by RISE bed and remote. Construction, materials, four states, hum language, movement personality, self-making mechanism, and the PUSH remote in full detail. **This document is the single source of truth for all prop descriptions. All other documents defer to it.**
 - **Visual_Reference_and_Collaborator_Guide.md** — Tone references, color palette by sequence, camera philosophy, scene-by-scene visual notes, editing rhythm guide, and music notes. For directors, editors, and collaborators.
 - **Bed_Proportions_and_Environmental_Integration.md** — How to make the bed feel correctly sized in every environment (the "Trash Truck problem"). Essential for VFX, AI video generation, and production design.
-- **RISE_MOVE_INTERNAL_v1.0.md** — Internal brainstorming and strategic foundation for the RISE™ Move product. Canon facts, open questions, and creative development notes.
+- **RISE_MOVE_INTERNAL_v1.0.md** — Internal brainstorming and strategic foundation for the RISE Move product. Canon facts, open questions, and creative development notes.
 
 ### 🤖 03_ai_video/
 
 - **AI_Shot_List_and_Prompts.md** — 54 shots with copy-paste prompts formatted for Sora, Runway, Kling, and Pika. Includes character reference prompts to generate first for consistency across shots.
-- **RISE_MOVE_teaser_script.md** — AI-generation-ready production script for the RISE™ Move teaser video ("Both Directions"). 6 actuator beauty shots, 12 edit beats cut to "Stand Up" by Ludacris. 75-second runtime.
+- **RISE_MOVE_teaser_script.md** — AI-generation-ready production script for the RISE Move teaser video ("Both Directions"). 6 actuator beauty shots, 12 edit beats cut to "Stand Up" by Ludacris. 75-second runtime.
 
 ### 🎨 04_storyboard/
 
@@ -49,7 +49,7 @@ A man with a hangover uses his smart adjustable bed to get himself up — and di
 
 ## The Tagline
 
-_PUSH by RISE™ — "For People Who Need A Little Push"_
+_PUSH by RISE — "For People Who Need A Little Push"_
 
 ---
 
