@@ -42,7 +42,7 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 | Act                      | Scenes | Content                                                      | Tone                            |
 | ------------------------ | ------ | ------------------------------------------------------------ | ------------------------------- |
 | **Act 1: The Wreckage**  | 1–3    | Wake up, flashbacks, discovers remote                        | Cold, quiet, accumulating dread |
-| **Act 2: The Gauntlet**  | 4–8    | Bed rises, bathroom, closet, coffee                          | Escalating physical comedy      |
+| **Act 2: The Gauntlet**  | 4–8 (includes 7A) | Bed rises, bathroom, closet, hallway/tie, coffee   | Escalating physical comedy      |
 | **Act 3: The Commute**   | 9–11   | Driveway, car, drive-through, bus, gas station, highway push | Road comedy, consequence        |
 | **Act 4: The Office**    | 12–16A | Lobby, elevator, Marcus reveal, meeting, Karen, Marcus/Priya | Deadpan workplace absurdism     |
 | **Act 5: The Wind Down** | 17–18  | Afternoon recovery, group chat, departure                    | Earned warmth                   |
