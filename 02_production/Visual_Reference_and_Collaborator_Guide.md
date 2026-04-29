@@ -344,6 +344,18 @@ Karen's line is the end of the scene. She delivers the information and she's gon
 
 ---
 
+### SCENE 16A — Marcus/Priya
+
+**This is the bed's clearest no-exceptions moment.** Across the floor, Marcus is at Priya's desk — jacket off, relaxed, conversation going well. His bed rolls forward. One measured nudge. Not aggressive. Just present. Marcus leaves without explanation.
+
+Dave watches from his desk. His own bed is silent. Dave says "Yeah, I know" — barely audible, to himself. He goes back to work.
+
+**The bed does not weigh the situation.** It does not care that this was going well. Push Mode does not have a Priya stop in it. This is the moment Dave and the bed arrive at something approaching understanding. He isn't fighting it anymore. He's just in it.
+
+**Play Marcus's departure completely straight.** No frustration, no longing look. He just goes. Priya is slightly confused, slightly not.
+
+---
+
 ### SCENE 17 — The Wind Down Montage
 
 **This is a time-lapse of recovery told through the bed's behavior.**
@@ -363,6 +375,8 @@ The visual key: as the clock advances, the bed's lean decreases. By 4:30 it's es
 **"In."**
 
 He sends it. The bed's hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator.
+
+**The closing nod.** As Dave passes Marcus's desk — Marcus is still there, still working, bed behind him. Marcus glances up. Gives a single nod up. Dave gives one back. Quick. Don't linger.
 
 **The whistle returns.** Dave is whistling. The same song from the car this morning — "Move Bitch" intro, just the whistle. But this one is different. The morning's version stopped mid-phrase when the fuel gauge killed it. This one is unhurried. Complete. The phrase resolves. The morning's interruption is over.
 
@@ -439,9 +453,9 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 ---
 
-_PUSH — Visual Reference & Collaborator Guide v4.1_
-_Updated: Pillow payoff locked to askew (Prop Bible v4.0 §1.3/§1.8 canonical). Aligned with Prop Bible v4.0._
-_Previous: v4.0 — Commute rework — Scene 10 expanded (Ludacris whistle thread, fuel gauge plant, gas station Beat 3, car-pushing shot, hard cut), Scene 11 updated for post-gas-station state, Scene 18 expanded (whistle callback, bed departure). Music Notes expanded (Ludacris cross-video thread). Editing rhythm table updated._
+_PUSH — Visual Reference & Collaborator Guide v4.2_
+_Updated: Scene 16A added (Marcus/Priya). Scene 18 closing nod added. Aligned with Screenplay v7.0._
+_Previous: v4.1 — Pillow payoff locked to askew (Prop Bible v4.0 §1.3/§1.8 canonical). Aligned with Prop Bible v4.0._
 _The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
 _Questions? Start with the screenplay. The bed knows what it's doing._
 

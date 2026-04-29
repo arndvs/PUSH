@@ -641,6 +641,20 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
+### SHOT 034A
+
+**Scene:** Marcus/Priya — the bed makes no exceptions (Scene 16A)
+**Duration:** 8–10 seconds
+**Camera:** Medium-wide. Two-shot with Dave in background.
+
+**AI PROMPT:**
+
+> Medium-wide shot of a modern open-plan office. A man in his early 30s (same suit from last night, slightly wrinkled — MARCUS) leans against a desk partition, relaxed, jacket off. A woman in her early 30s (sharp, professional — PRIYA) sits at the desk, laughing. Behind Marcus, an adjustable bed base in a different colorway idles at his desk. In the background, another man (DAVE) watches from his own desk, his bed behind him. The bed behind Marcus rolls forward — one measured nudge. Marcus glances back at it. He straightens up, says something brief to the woman, pushes off the partition, walks back to his desk. Sits down. Opens his laptop. The woman watches him go. In the background, Dave looks at his own bed. Office afternoon light.
+
+**NOTES:** This is the clearest demonstration that the bed makes no exceptions. It does not weigh the situation. It does not care that this was going well. Push Mode does not have a Priya stop in it. Dave's quiet "Yeah, I know" to his own bed is the moment Dave and the bed arrive at something approaching understanding.
+
+---
+
 ---
 
 ## ACT FIVE — THE WIND DOWN
@@ -735,7 +749,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium tracking shot of a man in his early 30s at an office desk in late afternoon golden light. The bed’s hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. He is whistling — quietly, the same melody from the car radio this morning, unhurried and complete. He walks through the empty office toward the elevator. The elevator doors open. He steps in, still whistling. The doors close. The whistle is gone. The office is empty and silent. Behind him at the desk, the adjustable bed base waits a beat. Then it turns — slowly, deliberately — and heads for the exit. Office golden hour light fading to evening.
+> Medium tracking shot of a man in his early 30s at an office desk in late afternoon golden light. The bed's hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. As he passes another man's desk (MARCUS — still working, bed behind him), Marcus glances up and gives a single nod. Dave nods back. He is whistling — quietly, the same melody from the car radio this morning, unhurried and complete. He walks through the empty office toward the elevator. The elevator doors open. He steps in, still whistling. The doors close. The whistle is gone. The office is empty and silent. Behind him at the desk, the adjustable bed base waits a beat. Then it turns — slowly, deliberately — and heads for the exit. Office golden hour light fading to evening.
 
 ## **NOTES:** The whistle is the callback — same song from the car this morning ("Move Bitch" intro by Ludacris), but complete this time. The morning version stopped mid-phrase when the fuel gauge killed it. This one resolves. No accompaniment. Just a man whistling on his way to round two. The bed’s departure bridges to the end credits sequence (Shot 044 — the bed commuting home alone). License note: the whistle melody matches Shot 026A. Instrumental reference only.
 
@@ -869,9 +883,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_PUSH — AI Shot List v4.5_
-_Updated: Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
-_Previous: v4.4 — ACT FOUR header added. Shot 015 section ref fixed (2.3→2.4). Shot 011 cab dialogue restored from screenplay. Shot 030 lobby fix. Pillow askew applied (Shots 022B, 041A, 044, 044B)._
+_PUSH — AI Shot List v4.6_
+_Updated: Shot 034A added (Scene 16A — Marcus/Priya). Shot 041 updated with closing nod. Aligned with Screenplay v7.0._
+_Previous: v4.5 — Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
 _19 scenes / 54 shots / approx. 5–7 minute runtime_
 
 ---

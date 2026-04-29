@@ -635,6 +635,41 @@ _She's gone._
 
 ---
 
+### SCENE 16A — INT. OPEN OFFICE — AFTERNOON
+
+_Across the floor, Marcus is at the desk of PRIYA — early 30s, sharp, laughing at something Marcus just said. Marcus is leaning against her desk partition, relaxed, jacket off. This is going well. This is clearly going well._
+
+_Dave watches from his desk. His bed is behind him, idling._
+
+_Marcus makes Priya laugh again. She touches his arm briefly. Marcus's posture shifts — the specific posture of a person deciding whether to stay or do the responsible thing._
+
+_Marcus's bed rolls forward. One measured nudge. Not aggressive. Just present._
+
+_Marcus glances at it. Back at Priya._
+
+**MARCUS**
+_(completely calm, to Priya)_
+I have to get back to something.
+
+**PRIYA**
+Oh — yeah, of course.
+
+_Marcus nods once, pushes off the partition, and walks back to his desk. Sits down. Opens his laptop. Doesn't look at the bed._
+
+_Priya watches him go, slightly confused, slightly not._
+
+_Dave has watched the whole thing. He looks at his own bed now. The bed is perfectly still. Baseline hum. It has no opinion about Priya._
+
+_Dave looks back at his screen. Then at the bed again._
+
+**DAVE**
+_(very quietly)_
+Yeah, I know.
+
+_He goes back to work. The bed does not respond. It already said what it needed to say by saying nothing._
+
+---
+
 ---
 
 ## ACT FIVE: THE WIND DOWN
@@ -732,6 +767,10 @@ _He types._
 _The bed's hum rises slightly._
 
 _He packs his bag. Turns off the desk lamp. Heads for the elevator._
+
+_As he passes Marcus's desk — Marcus is still there, still working, bed behind him. Marcus glances up. Gives a single nod up._
+
+_Dave gives one back._
 
 _And he's whistling. Quietly. The same whistle from the car this morning — "Move Bitch" — just the intro. Not the same whistle as before. That one stopped mid-phrase when the fuel gauge got to it. This one is unhurried. Complete. A man thinking about tonight, about round two, about the friends already at the bar._
 
@@ -844,6 +883,10 @@ His relationship with the bed should feel like a **grumpy roommate dynamic** tha
 
 The "'sup" exchange between Dave and Marcus is the emotional core of the piece. Two men. Two beds. Zero explanation needed. Play it completely straight — no mugging, no winking at camera. The longer the beat before the "'sup," the funnier it lands.
 
+### The Marcus/Priya Beat
+
+Marcus's bed nudging him away from Priya is the clearest demonstration in the film that the bed makes no exceptions. It does not weigh the situation. It does not care that this was going well. Push Mode does not have a Priya stop in it. Dave witnessing this — and his quiet "Yeah, I know" to his own bed — is the moment Dave and the bed arrive at something approaching understanding. He isn't fighting it anymore. He's just in it.
+
 ### The Napkin Thread
 
 The napkins are planted at the bar (Scene 2) — Marcus draws them, Dave rejects them, Tyler films the argument and sends the video to the group chat as a joke. It sits there for twelve hours. At 3:45 PM (Scene 17), stuck on the Hendricks model, Dave scrolls back and plays the video. We don't see the screen — we hear the bar: muffled glasses, Marcus's drunk conviction, Dave's own dismissive voice. But Dave's face in the quiet office tells a different story. His eyes widen. He watches the whole thing. 4:15, he's writing. 4:58, done.
@@ -858,9 +901,9 @@ The **RISE / PUSH sticker** should be readable at least twice — once in the be
 
 ---
 
-_PUSH — Screenplay v6.0_
-_Updated: Lean napkin thread — bar plant (Scene 2, Marcus draws/Dave rejects/Tyler films video to group chat), Karen escalated ("the model's off"), afternoon rewritten as struggle with video playback at 3:45 (Scene 17). Bar audio over sober silence. No added dialogue. No Marcus payoff scene. The audience connects the thread; nobody in the film does._
-_Previous: v5.0 — Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave. Pillow payoff: askew. Aligned with Prop Bible v4.0._
+_PUSH — Screenplay v7.0_
+_Updated: Scene 16A (Marcus/Priya) added. Scene 18 closing nod between Dave and Marcus added. Marcus/Priya Beat production note added._
+_Previous: v6.0 — Lean napkin thread — bar plant (Scene 2, Marcus draws/Dave rejects/Tyler films video to group chat), Karen escalated ("the model's off"), afternoon rewritten as struggle with video playback at 3:45 (Scene 17). Bar audio over sober silence. No added dialogue. No Marcus payoff scene. The audience connects the thread; nobody in the film does._
 _Total estimated runtime: 5–7 minutes_
 
 ---
