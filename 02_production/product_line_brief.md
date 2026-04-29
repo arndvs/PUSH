@@ -32,13 +32,13 @@ The PUSH is a genuinely good product. It raises, rolls, folds, self-makes, and g
 | PUSH pillow | One. Contains pneumatic reshaping node. Standard cotton pillowcase (owner provides their own or uses the included white) |
 | Fitted sheet | One. Standard cotton (owner provides their own or uses the included navy) |
 | Remote | The PUSH remote. One button. |
-| Casters | Low-profile, recessed. Functional, slightly audible on hard floors |
+| Tracks | Continuous track system — low-profile, recessed when flat. Faint mechanical rhythm on hard floors |
 | Self-making | One tensioning bar (fitted sheet only). One pneumatic node (one pillow only) |
 | Badge | `RISE / The PUSH / Smart Adjustable Base` |
 
 **What the self-making handles:** The fitted sheet (tensioning bar draws it taut, center outward) and the one PUSH pillow (pneumatic node plumps and reshapes it). That's it. A flat sheet, duvet, or additional pillows the owner adds are not touched by the mechanism. The PUSH makes *its* bed. It doesn't make yours.
 
-**Sound profile:** Warm low hum, 42Hz baseline. Faint caster whisper on hard floors. Sheet tensioning is a faint continuous whisper. Pillow node is a slow, patient exhale. The sound of a machine that works well.
+**Sound profile:** Warm low hum, 42Hz baseline. Faint track rhythm on hard floors — individual links passing, drive sprockets engaging. Sheet tensioning is a faint continuous whisper. Pillow node is a slow, patient exhale. The sound of a machine that works well.
 
 ---
 
@@ -57,12 +57,12 @@ The PUSH+ is what happens when someone with taste and budget looks at the PUSH c
 | Additional soft goods | Two Euro shams (structural backing, coordinated). Two accent pillows (complementary tone, decorative). Premium silk/sateen fitted sheet. Premium flat sheet. Duvet + cover (high-thread-count, properly weighted) |
 | Enhanced self-making | Enhanced tensioning system handles fitted sheet + flat sheet + duvet. Three pneumatic nodes (one per PUSH pillow). Faster, quieter |
 | Atmosphere Suite | Frame-integrated mood lighting (warm, dimmable). Spatial audio module. Ambient wake/sleep programs |
-| Casters | Dampened, whisper-quiet. The difference between economy and business class luggage wheels |
+| Tracks | Dampened, whisper-quiet. The difference between a work truck and a luxury SUV |
 | Badge | `RISE / The PUSH+ / Smart Adjustable Base` |
 
 **What the enhanced self-making handles:** Fitted sheet, flat sheet, and duvet (enhanced tensioning system covers all three layers). All three PUSH pillows (one pneumatic node per pillow). Euro shams and accent pillows stay wherever the owner placed them — the mechanism handles the functional items, not the decorative ones. The Atmosphere Suite shifts from warm amber (sleep) to cool daylight (wake) as part of the morning sequence.
 
-**Sound profile:** Same frequency architecture as the PUSH, refined. Lower, smoother motor hum — you feel it more than hear it. Dampened caster roll. Pneumatic exhale is barely there — a breath, not a mechanism. Sheet tensioning is nearly inaudible. Panel and strut movement is solid, muted, damped — the "door closing" feel. Nothing rattles. Nothing clicks. It just moves. The sound of a machine engineered to disappear.
+**Sound profile:** Same frequency architecture as the PUSH, refined. Lower, smoother motor hum — you feel it more than hear it. Dampened track roll. Pneumatic exhale is barely there — a breath, not a mechanism. Sheet tensioning is nearly inaudible. Panel and strut movement is solid, muted, damped — the "door closing" feel. Nothing rattles. Nothing clicks. It just moves. The sound of a machine engineered to disappear.
 
 ---
 
@@ -118,7 +118,7 @@ Same position (lower-right front face). Same layout. Same typeface. One characte
 | Quality | PUSH (Dave) | PUSH+ (Marcus) |
 | --- | --- | --- |
 | Motor hum | Low, present, slightly industrial | Lower, smoother, almost silent — you feel it more than hear it |
-| Caster roll | Audible on hard floors, faint rattle | Dampened, whisper-quiet |
+| Track roll | Audible on hard floors, faint mechanical rhythm | Dampened, whisper-quiet |
 | Pneumatic exhale | Soft but clearly mechanical — you hear the air | Barely there — a breath, not a mechanism |
 | Sheet tensioning | Faint continuous whisper | Nearly inaudible — the sheet just smooths |
 | Panel/strut movement | Functional clicks and shifts | Solid, muted, damped — nothing rattles, nothing clicks, it just moves |

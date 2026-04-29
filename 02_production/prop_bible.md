@@ -88,15 +88,17 @@ This is the most important prop decision in the document: **the bed is always a 
 
 **The mechanical struts:** On each side of the base, visible from any wide angle shot, are the articulating struts that allow the back panel to raise. These should be visible — not hidden inside the frame. They are part of the design language. Clean, purposeful, slightly industrial. When the bed is flat they fold flush against the side. As the bed raises they extend, and as the bed goes vertical they are fully extended — two rigid arms on each side, angled slightly outward, like a figure with its arms held stiffly at its sides.
 
-The struts are the raising mechanism. They are not the movement mechanism. Movement across the floor is handled entirely separately by the caster base beneath the frame.
+The struts are the raising mechanism. They are not the movement mechanism. Movement across the floor is handled entirely separately by the continuous track system beneath the frame.
 
 These struts are important because they give the bed its silhouette when vertical. From the front, the bed in STATE THREE is a complete upright bed — mattress, sheet, pillow — like a painting of a bed rotated 90 degrees. From the side or at an angle, you can see the struts, the frame depth, the mechanical reality of how this is possible. Both views are correct. Both are funny for different reasons.
 
-**The base:** Beneath the frame, a set of low-profile casters — recessed enough that they are not visible when the bed is flat, present and functional when the bed is vertical and rolling. The casters are wide-set and smooth-rolling, the kind designed to move heavy furniture across hardwood or carpet without marking either. They make almost no sound — just a faint whisper of rolling contact, barely audible beneath the motor hum.
+**The base:** Beneath the frame, a continuous track system — functionally analogous to a tank tread. Low-profile, recessed enough that the tracks are not visible when the bed is flat, present and functional when the bed is vertical and rolling. Drive sprockets at rear corners where track teeth engage the links. Return rollers along the upper track run. Front idler wheels. Track links with visible articulation. The ground contact surface changes texture visibly on hardwood vs. carpet vs. concrete — a detail that reinforces presence without requiring visual confirmation.
 
-The bed rolls. It does not walk, step, or cycle. It moves the way heavy furniture moves when you put felt pads under it and push — smooth, continuous, inevitable. There is no rhythmic clicking, no visible effort, no mechanical stepping. The bed simply advances. Quietly. As if the floor itself is accommodating it.
+Tracks navigate carpet, hardwood, tile, and concrete reliably. A caster system that catches on a rug edge or tile grout is a prop problem. A track system that rides over surface transitions is a vehicle. The tracks generate distinct sound design at each floor type.
 
-This is more unsettling than any walking mechanism would be, and funnier. Something that walks looks like it's trying. Something that rolls looks like it was always going to end up here.
+The bed rolls. It does not walk, step, or cycle. It moves with smooth, continuous, inevitable forward progress. There is no visible effort, no mechanical stepping. The bed simply advances. Quietly. As if the floor itself is accommodating it. The tracks have rhythm — individual links passing, drive sprockets engaging — that implies _locomotion_ rather than just _movement_. Casters suggest furniture being pushed. Tracks suggest a vehicle with a destination.
+
+This is more unsettling than any walking mechanism would be, and funnier. Something that walks looks like it's trying. Something on tracks looks like it was always going to end up here.
 
 ---
 
@@ -130,9 +132,9 @@ Fully upright. A complete bed — mattress, fitted sheet, pillow — standing on
 
 The pillow sits at the top, slightly askew from the transition. The sheet has the wrinkles of someone who slept in it and then got pushed out of it. The mattress is flush against the frame, held. The RISE / PUSH sticker is visible on the lower right, no longer obscured.
 
-From the front this looks like a painting of a bed rotated 90 degrees and set in motion. From the side you can see the frame depth, the struts, the low-profile casters beneath the base. The front view is funnier. The side view is more honest. Both are useful.
+From the front this looks like a painting of a bed rotated 90 degrees and set in motion. From the side you can see the frame depth, the struts, the track system beneath the base. The front view is funnier. The side view is more honest. Both are useful.
 
-In this state the bed is no longer furniture — it is a presence. It stands with the same authority as a wall, and it rolls with the same patience as something that has nowhere else to be. The struts are fully extended, angled slightly outward. The casters roll silently beneath.
+In this state the bed is no longer furniture — it is a presence. It stands with the same authority as a wall, and it rolls with the same patience as something that has nowhere else to be. The struts are fully extended, angled slightly outward. The tracks roll beneath with quiet mechanical purpose.
 
 This is the bed for the entire Gauntlet sequence — through the bedroom, hallway, bathroom, closet, kitchen, and driveway. In the car, the bed transitions to a folded configuration (see below). It does not return to STATE ONE until the bed arrives home at the end of the day.
 
@@ -190,7 +192,7 @@ Below the company name, _The PUSH_ (or _The PUSH+_) in the same typeface, slight
 
 The hum is the bed's voice. It is the only way the bed communicates, and it communicates constantly.
 
-**Baseline character:** Warm. Low. Steady. 42Hz baseline — deep enough to feel physically, high enough to be clearly audible. Not mechanical in a threatening way — more like the hum of something well-made doing what it was built to do. The closest sonic reference is the sustained low note of a cello, filtered slightly to remove the organic quality, combined with the undertone of a high-quality HVAC system. It should feel, at baseline, almost _comfortable_. Like white noise with intention. Beneath it, barely audible: the faint whisper of the casters rolling.
+**Baseline character:** Warm. Low. Steady. 42Hz baseline — deep enough to feel physically, high enough to be clearly audible. Not mechanical in a threatening way — more like the hum of something well-made doing what it was built to do. The closest sonic reference is the sustained low note of a cello, filtered slightly to remove the organic quality, combined with the undertone of a high-quality HVAC system. It should feel, at baseline, almost _comfortable_. Like white noise with intention. Beneath it, barely audible: the faint rhythm of the tracks rolling.
 
 **Pitch and volume modulation across the film:**
 
@@ -229,7 +231,7 @@ The hum is the bed's voice. It is the only way the bed communicates, and it comm
 
 The bed moves with what can only be described as **professional patience**. It is not in a hurry. It is also not going to stop.
 
-It rolls. Smoothly and continuously — like heavy furniture on felt pads, pushed by someone who knows where they're going and has all day to get there. No lurching, no stepping, no visible effort. The casters make almost no sound. The only indication that the bed is moving is the motor hum, the slow change of position, and the fact that Dave is being pushed forward whether he wants to be or not.
+It rolls. Smoothly and continuously — like heavy furniture on felt pads, pushed by someone who knows where they’re going and has all day to get there. No lurching, no stepping, no visible effort. The tracks make almost no sound — just a faint mechanical rhythm, barely audible beneath the motor hum.
 
 **Speed calibration across the film:**
 
@@ -347,9 +349,9 @@ Marcus didn't add his own pillows and sheets to a base model. He bought the PUSH
 
 ### Hardware (PUSH+ — upgraded)
 
-Same frame construction and strut profile as Dave's, but in warm gray (PUSH+ premium colorway). Same caster design, dampened and whisper-quiet. Enhanced motor — lower, smoother, almost silent. Same PUSH remote (one button). The sticker reads: RISE / The PUSH+ / Smart Adjustable Base.
+Same frame construction and strut profile as Dave’s, but in warm gray (PUSH+ premium colorway). Same track design, dampened and whisper-quiet. Enhanced motor — lower, smoother, almost silent. Same PUSH remote (one button). The sticker reads: RISE / The PUSH+ / Smart Adjustable Base.
 
-Marcus's bed is in STATE THREE at the office — vertical, on casters, fully made.
+Marcus’s bed is in STATE THREE at the office — vertical, tracks engaged, fully made.
 
 ### Visual Comparison
 
@@ -368,11 +370,11 @@ Marcus's bed is in STATE THREE at the office — vertical, on casters, fully mad
 | Throw | None | At foot, warm tone |
 | Atmosphere Suite | None | Frame-integrated mood lighting + spatial audio |
 | Self-making | One tensioning bar (fitted sheet only), one node | Enhanced tensioning (fitted + flat + duvet), three nodes |
-| Sound | Warm hum, faint caster whisper | Smoother, quieter — you feel it more than hear it |
+| Sound | Warm hum, faint track rhythm | Smoother, quieter — you feel it more than hear it |
 
 ### The Sound Difference
 
-Dave's PUSH hums. Marcus's PUSH+ _purrs_. Same frequency architecture, different texture entirely — lower, smoother motor; dampened casters; a pneumatic exhale that's barely there; panel movement that's solid and muted. The difference between a Camry door and an LS door. You feel it without being able to articulate it.
+Dave's PUSH hums. Marcus's PUSH+ _purrs_. Same frequency architecture, different texture entirely — lower, smoother motor; dampened tracks; a pneumatic exhale that's barely there; panel movement that's solid and muted. The difference between a Camry door and an LS door. You feel it without being able to articulate it.
 
 ### Marcus's Bedroom
 
@@ -573,8 +575,8 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 - **Personal pillow:** One. Flat, generic white, from college. Not PUSH hardware — the mechanism does not interact with it.
 - **Flat sheet:** White, Dave's own. Usually untucked or balled at the foot. Not handled by the self-making mechanism.
 - **Duvet:** None.
-- **Movement:** Continuous rolling via low-profile caster base beneath the frame. Smooth, quiet, inevitable. No stepping, no rhythm, no visible effort.
-- **Sound:** Warm low hum + faint caster whisper
+- **Movement:** Continuous rolling via track system beneath the frame. Smooth, quiet, inevitable. No stepping, no rhythm, no visible effort.
+- **Sound:** Warm low hum + faint track rhythm
 - **Badge:** Lower-right front face. Obscured in STATE ONE by mattress overhang. Visible in STATE THREE. "RISE / The PUSH / Smart Adjustable Base"
 - **Self-making:** One tensioning bar (fitted sheet only) + one pneumatic node (one PUSH pillow only). Dave's flat sheet and personal pillow are untouched.
 - **States:** Flat (resting bed) / Raised (transitioning bed) / Vertical (upright complete bed, rolling) / Folded (car — V-shape in back seat)
@@ -592,7 +594,7 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 - **Badge:** "RISE / The PUSH+ / Smart Adjustable Base"
 - **Atmosphere Suite:** Frame-integrated mood lighting + spatial audio.
 - **Self-making:** Enhanced tensioning (fitted sheet + flat sheet + duvet) + three pneumatic nodes.
-- **Sound:** Smoother, quieter — you feel it more than hear it. Dampened casters, muted panels.
+- **Sound:** Smoother, quieter — you feel it more than hear it. Dampened tracks, muted panels.
 
 ### THE REMOTE AT A GLANCE
 
@@ -612,7 +614,7 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 ---
 
 _PUSH — Prop Bible v4.0_
-_Changes from v3.1: Product line architecture — PUSH (base, Dave) and PUSH+ (premium, Marcus). Badge differentiation: "The PUSH" vs "The PUSH+". Marcus rewritten as PUSH+ owner: three PUSH pillows (three pneumatic nodes), premium silk/sateen soft goods, enhanced self-making (handles fitted sheet + flat sheet + duvet), Atmosphere Suite (mood lighting + spatial audio), dampened/quieter sound profile. Dave's full bedding canonized: one PUSH pillow + one personal pillow (college), navy fitted sheet, white flat sheet (usually balled at foot), no duvet. Self-making scoped by tier (§1.8): base handles fitted sheet + one pillow only; PUSH+ handles all layers + three pillows. §1.3 reframed as base model spec. §1.5 badge updated for PUSH+ variant. Product Line Brief (new doc) established for tier architecture, website content, and full product comparison._
+_Changes from v3.1: Product line architecture — PUSH (base, Dave) and PUSH+ (premium, Marcus). Badge differentiation: "The PUSH" vs "The PUSH+". Marcus rewritten as PUSH+ owner: three PUSH pillows (three pneumatic nodes), premium silk/sateen soft goods, enhanced self-making (handles fitted sheet + flat sheet + duvet), Atmosphere Suite (mood lighting + spatial audio), dampened/quieter sound profile. Dave's full bedding canonized: one PUSH pillow + one personal pillow (college), navy fitted sheet, white flat sheet (usually balled at foot), no duvet. Self-making scoped by tier (§1.8): base handles fitted sheet + one pillow only; PUSH+ handles all layers + three pillows. §1.3 reframed as base model spec. §1.5 badge updated for PUSH+ variant. Product Line Brief (new doc) established for tier architecture, website content, and full product comparison. Track system replaces casters throughout — continuous track (tank tread) for reliable surface navigation and cinematic texture (§1.3, §1.7, §1.10, Appendix, Product Line Brief aligned)._
 _Changes from v3.0: Pillow resolution — node plumps/reshapes but does not reposition; pillow remains slightly askew (§1.3, §1.8, §1.9, Appendix aligned). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
 _Changes from v2.3: Product rebrand — now "PUSH by RISE" (company remains RISE, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
 _This document is canonical. All other prop descriptions defer to this one._
