@@ -49,7 +49,7 @@ The humor lives entirely in **Dave's resignation** and the **bed's relentless pr
 
 **Wide shots are the comedy.**
 
-The single most important rule: **keep both Dave AND the bed in the same frame as much as possible.** The comedy collapses if you cut between them. We need to see the full absurdity — a man being pushed through his own apartment by a piece of furniture.
+The single most important rule: **keep both Dave AND the bed in the same frame as much as possible.** The comedy collapses if you cut between them. We need to see the full absurdity — a man being pushed through his own house by a piece of furniture.
 
 | Camera style              | When to use                                                   |
 | ------------------------- | ------------------------------------------------------------- |
@@ -313,13 +313,13 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then we see, across the floor, Marcus. Then we see Marcus's bed.
 
-**Marcus's bed:** Same brand, same product — the PUSH by RISE, same generation as Dave's. Different colorway: warm gray frame (slightly lighter, slightly warmer than Dave's dark charcoal). Different soft goods: a duvet in a warm domestic color over different sheets, different pillowcase. Same hardware, same hum, same behavior. The visual variety prevents the beds from reading as a single duplicated prop, while the identical hardware confirms they made the same purchase.
+**Marcus's bed:** Same brand, premium tier — the PUSH+ by RISE. Warm gray frame (slightly lighter, slightly warmer than Dave's dark charcoal). Seven pillows (three PUSH+ hardware pillows with silk/sateen pillowcases, two Euro shams, two accent pillows), olive duvet, premium bedding throughout. "PUSH+" badge where Dave's says "PUSH." Enhanced self-making: handles fitted sheet, flat sheet, and duvet. Atmosphere Suite: integrated mood lighting and spatial audio. The visual contrast is immediate — same brand, wildly different investment in that brand. Dave notices. Everyone notices. It's unspoken.
+
+**The dual hum:** When both beds are in frame and idling, their hums are slightly different — not just in pitch and sync, but in _quality_. Dave's has a faint industrial edge. Marcus's PUSH+ is smoother, more refined. The chord they create together is the sound of two men who made the same bad decision at wildly different price points.
 
 **The pause:** Let it go at least 3 full seconds. Maybe 4. The longer the silence, the more it lands.
 
 **The 'sup:** "'Sup, Marcus." "'Sup." That's it. They sit down. Open their laptops. Move on.
-
-**The dual hum:** When both beds are in frame and idling, their hums should be slightly out of sync and slightly different in pitch — creating a quiet, inadvertent chord. Two men, two mornings, two machines. The dissonance is not unpleasant. It is just honest.
 
 ---
 
@@ -344,6 +344,18 @@ Karen's line is the end of the scene. She delivers the information and she's gon
 
 ---
 
+### SCENE 16A — Marcus/Priya
+
+**This is the bed's clearest no-exceptions moment.** Across the floor, Marcus is at Priya's desk — jacket off, relaxed, conversation going well. His bed rolls forward. One measured nudge. Not aggressive. Just present. Marcus leaves without explanation.
+
+Dave watches from his desk. His own bed is silent. Dave says "Yeah, I know" — barely audible, to himself. He goes back to work.
+
+**The bed does not weigh the situation.** It does not care that this was going well. Push Mode does not have a Priya stop in it. This is the moment Dave and the bed arrive at something approaching understanding. He isn't fighting it anymore. He's just in it.
+
+**Play Marcus's departure completely straight.** No frustration, no longing look. He just goes. Priya is slightly confused, slightly not.
+
+---
+
 ### SCENE 17 — The Wind Down Montage
 
 **This is a time-lapse of recovery told through the bed's behavior.**
@@ -363,6 +375,8 @@ The visual key: as the clock advances, the bed's lean decreases. By 4:30 it's es
 **"In."**
 
 He sends it. The bed's hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator.
+
+**The closing nod.** As Dave passes Marcus's desk — Marcus is still there, still working, bed behind him. Marcus glances up. Gives a single nod up. Dave gives one back. Quick. Don't linger.
 
 **The whistle returns.** Dave is whistling. The same song from the car this morning — "Move Bitch" intro, just the whistle. But this one is different. The morning's version stopped mid-phrase when the fuel gauge killed it. This one is unhurried. Complete. The phrase resolves. The morning's interruption is over.
 
@@ -439,9 +453,9 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 ---
 
-_PUSH — Visual Reference & Collaborator Guide v4.1_
-_Updated: Pillow payoff locked to askew (Prop Bible v4.0 §1.3/§1.8 canonical). Aligned with Prop Bible v4.0._
-_Previous: v4.0 — Commute rework — Scene 10 expanded (Ludacris whistle thread, fuel gauge plant, gas station Beat 3, car-pushing shot, hard cut), Scene 11 updated for post-gas-station state, Scene 18 expanded (whistle callback, bed departure). Music Notes expanded (Ludacris cross-video thread). Editing rhythm table updated._
+_PUSH — Visual Reference & Collaborator Guide v4.2_
+_Updated: Scene 16A added (Marcus/Priya). Scene 18 closing nod added. Aligned with Screenplay v7.0._
+_Previous: v4.1 — Pillow payoff locked to askew (Prop Bible v4.0 §1.3/§1.8 canonical). Aligned with Prop Bible v4.0._
 _The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
 _Questions? Start with the screenplay. The bed knows what it's doing._
 
