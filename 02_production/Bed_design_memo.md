@@ -1,8 +1,8 @@
-# THE REMOTE — Design Memorandum
+# PUSH — Design Memorandum
 
 ## The Bed as Cinematic Character: Environmental Integration & Physical Design
 
-**Project:** The Remote  
+**Project:** PUSH  
 **Author:** Aaron Davis  
 **Date:** April 27, 2026  
 **Version:** 1.0  
@@ -16,7 +16,7 @@
 
 This memorandum documents a design conversation initiated by research into Netflix's animated series _Trash Truck_ (2020, creator Max Keane). The central question: how does a full-size garbage truck function as a child's best friend — appearing in bedrooms, movie theaters, dental offices — without ever breaking the spatial logic of the scene?
 
-The answer to that question became the design foundation for _The Remote_.
+The answer to that question became the design foundation for _PUSH_.
 
 The specific concern: there is no published craft documentation on _Trash Truck_'s production design decisions at the level of detail that would be useful — no Cartoon Brew deep dive, no AWN pipeline breakdown. The show is under-covered in the animation trade press. What exists are creator interviews that touch on tone and influence, not on the mechanics of making an impossible object feel inevitable. The production design team's work is felt rather than explained.
 
@@ -48,7 +48,7 @@ The production design team pre-solved every environment for the truck before pla
 
 ## 3. Applying the Principle: The Six Golden Rules
 
-These rules govern every shot involving the PUSH in _The Remote_.
+These rules govern every shot involving the PUSH in _PUSH_.
 
 **Rule 1: Edit Around Impossibility.**
 Never show the bed passing through an opening that wouldn't work in reality. Cut before it enters. Cut after it has arrived. The audience fills in the gap.
@@ -376,6 +376,6 @@ The audience who recognizes the song gets a private joke about a man being pushe
 
 ---
 
-_THE REMOTE — Design Memorandum v1.0_
+_PUSH — Design Memorandum v1.0_
 _Synthesized from production conversation, April 27, 2026_
 _© 2026 Aaron Davis. All rights reserved._

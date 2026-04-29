@@ -1,4 +1,4 @@
-# THE REMOTE — PROP BIBLE
+# PUSH — PROP BIBLE
 
 ### The PUSH by RISE & The PUSH Remote
 
@@ -10,7 +10,7 @@ _Version: 3.1_
 
 ## HOW TO USE THIS DOCUMENT
 
-This is the single authoritative reference for the two hero props in _The Remote_. Every other document — the screenplay, the visual reference guide, the shot list, the bed proportions guide — defers to this one on questions of physical description.
+This is the single authoritative reference for the two hero props in _PUSH_. Every other document — the screenplay, the visual reference guide, the shot list, the bed proportions guide — defers to this one on questions of physical description.
 
 If a description in another document conflicts with this one, this one is correct.
 
@@ -26,7 +26,7 @@ This film faces the same creative challenge as the Netflix animated series _Tras
 
 Their principle: **the environment bends to accommodate the relationship, not the other way around.** Every space was designed with the truck in mind. The truck was never made to look like it was struggling or straining. It simply belonged. The audience felt that belonging and accepted it.
 
-_The Remote_ follows the same principle for the bed.
+_PUSH_ follows the same principle for the bed.
 
 **What this means for this document:** The physical descriptions that follow are written to help collaborators understand how the bed looks, moves, and feels — not to establish measurements that environments must conform to. The bed is large. It fills spaces. It dominates rooms. That is all the production team needs to know about its size. Specific dimensions are not published here because dimensions invite calculation, and calculation invites the question _"can this fit through that door?"_ — which is exactly the question the film must never ask its audience to ask.
 
@@ -48,7 +48,7 @@ If you are designing an environment the bed will move through: build it so the b
 
 ## 1.1 — OVERVIEW & CHARACTER
 
-The bed is the co-protagonist of _The Remote_. It is not a prop that sits in the background. It is an _actor_ that shares every scene with Dave from the moment it activates until the film ends.
+The bed is the co-protagonist of _PUSH_. It is not a prop that sits in the background. It is an _actor_ that shares every scene with Dave from the moment it activates until the film ends.
 
 Its character is built entirely through its physical presence and behavior. It never speaks. It never malfunctions in an interesting way. It does exactly what it was designed to do — which is the problem.
 
@@ -504,11 +504,13 @@ While the bed commutes home through the city, the remote rests on the nightstand
 
 ---
 
-## 2.7 — THE REMOTE AS TITLE
+## 2.7 — PUSH AS TITLE
 
-The film is called _The Remote_.
+The film is called _PUSH_.
 
-This means the remote earns its close-ups. Every shot of the remote on the nightstand should be composed with the same care as a shot of a character's face. The remote is not background. The remote is not set dressing. It is a subject.
+The title is the button. One word. One action. One irreversible consequence. Dave pushes a button and his entire day is decided for him. The remote earns its close-ups because the PUSH button is the thesis statement of the entire film — a single act of faith in a product that does not offer a second opinion.
+
+Every shot of the remote on the nightstand should be composed with the same care as a shot of a character's face. The remote is not background. The remote is not set dressing. It is a subject.
 
 When the remote glows in the pre-dawn dark, it should feel like the only warm thing in a cold room. It has been waiting there all night — patient, constant, ready. This quality — warmth in darkness, patience over time — is what connects the remote to the bed. They are the same product. They have the same character. They were built by the same company that wrote _"Have a productive day!"_ on the back of a device with no off button and meant it with complete sincerity.
 
@@ -553,7 +555,7 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 
 ---
 
-_THE REMOTE — Prop Bible v3.1_
+_PUSH — Prop Bible v3.1_
 _Changes from v3.0: Pillow resolution — node plumps/reshapes but does not reposition; pillow remains slightly askew (§1.3, §1.8, §1.9, Appendix aligned). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
 _Changes from v2.3: Product rebrand — now "PUSH by RISE" (company remains RISE, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
 _This document is canonical. All other prop descriptions defer to this one._

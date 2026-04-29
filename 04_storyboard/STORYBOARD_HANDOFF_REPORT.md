@@ -1,6 +1,6 @@
-# THE REMOTE — Storyboard Creation Handoff Report
+# PUSH — Storyboard Creation Handoff Report
 
-_Prepared for the storyboard team. This document contains everything needed to produce a panel-by-panel storyboard for the comedy short "The Remote."_
+_Prepared for the storyboard team. This document contains everything needed to produce a panel-by-panel storyboard for the comedy short "PUSH."_
 
 ---
 
@@ -11,7 +11,7 @@ This report distills the full production package into a storyboard-ready brief. 
 **Source documents (in order of authority):**
 
 1. [Prop Bible](../02_production/prop_bible.md) — canonical physical descriptions (overrides all others)
-2. [Screenplay](../01_screenplay/THE_REMOTE_Screenplay.md) — story, dialogue, scene order
+2. [Screenplay](../01_screenplay/PUSH_Screenplay.md) — story, dialogue, scene order
 3. [Visual Reference Guide](../02_production/Visual_Reference_and_Collaborator_Guide.md) — camera, tone, editing philosophy
 4. [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md) — 54 shots with detailed descriptions
 5. [Bed Proportions Guide](../02_production/Bed_Proportions_and_Environmental_Integration.md) — how the bed fits in every environment
@@ -866,14 +866,14 @@ When the storyboard artist needs more detail on any element, go to:
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | What does the bed/remote look like physically?   | [Prop Bible](../02_production/prop_bible.md)                                               |
 | How should a shot be framed/lit?                 | [Visual Reference Guide](../02_production/Visual_Reference_and_Collaborator_Guide.md)      |
-| What's the exact dialogue for a scene?           | [Screenplay](../01_screenplay/THE_REMOTE_Screenplay.md)                                    |
+| What's the exact dialogue for a scene?           | [Screenplay](../01_screenplay/PUSH_Screenplay.md)                                    |
 | How does the bed fit in environment X?           | [Bed Proportions Guide](../02_production/Bed_Proportions_and_Environmental_Integration.md) |
 | What does the gas station beat mean narratively? | [Gas Station Beat Breakdown](../01_screenplay/gas-station-beat-breakdown.md)               |
 | What's the AI prompt for generating shot X?      | [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md)                                 |
 
 ---
 
-_THE REMOTE — Storyboard Handoff Report v1.2_
+_PUSH — Storyboard Handoff Report v1.2_
 _53 panels across 19 scenes + end credits_
 _Changes from v1.1: Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
 _Previous: v1.1 — Shot count 44→54 (10 new shots added to AI Shot List since initial handoff). Marcus soft goods locked to olive. Source version refs updated._

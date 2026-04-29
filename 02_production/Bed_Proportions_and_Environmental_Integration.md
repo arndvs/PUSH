@@ -1,4 +1,4 @@
-# THE REMOTE — BED PROPORTIONS & ENVIRONMENTAL INTEGRATION GUIDE
+# PUSH — BED PROPORTIONS & ENVIRONMENTAL INTEGRATION GUIDE
 
 _The "Trash Truck" Problem: Making an Impossible Object Feel Inevitable_
 
@@ -38,7 +38,7 @@ They never called attention to the impossibility. They never showed the truck sq
 
 The key insight: **audiences don't measure. They feel.** If the bed feels right in the space — if the lighting wraps it correctly, if Dave reacts to it as something normal, if the camera frames it with the same casual authority it frames everything else — the audience accepts it. The moment you signal that the bed is weird or shouldn't fit, they start noticing that it doesn't.
 
-**For The Remote, the rule is: the bed always fits, and nobody ever comments on the fact that it fits.**
+**For PUSH, the rule is: the bed always fits, and nobody ever comments on the fact that it fits.**
 
 ---
 
@@ -62,7 +62,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** A queen bed base is nearly as wide as most bedrooms are deep. It would dominate the room.
 
-**The Remote version:** The bedroom is designed around the bed. It's clearly a bed-in-a-bedroom — the proportions feel right because we expect a bed to fill most of a bedroom. When the bed rises to vertical, it fits flush against the wall behind it. The room is just wide enough that Dave can walk ahead of it without touching the side walls.
+**PUSH version:** The bedroom is designed around the bed. It's clearly a bed-in-a-bedroom — the proportions feel right because we expect a bed to fill most of a bedroom. When the bed rises to vertical, it fits flush against the wall behind it. The room is just wide enough that Dave can walk ahead of it without touching the side walls.
 
 **Camera rule:** Always frame the bedroom with the bed filling most of the horizontal frame. Don't try to minimize it. It's a bedroom. A bed belongs there.
 
@@ -76,7 +76,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** A queen bed base is wider than any standard hallway. There is no realistic version of this working.
 
-**The Remote version:** Apply Rule 6 — design the environment first. The hallway is wider than normal. It reads as a hallway (walls, doors off it, a light fixture) but its proportions are generous enough that the bed moves through it without obvious strain. Don't specify or draw attention to the width. Just build it wide and light it like a hallway.
+**PUSH version:** Apply Rule 6 — design the environment first. The hallway is wider than normal. It reads as a hallway (walls, doors off it, a light fixture) but its proportions are generous enough that the bed moves through it without obvious strain. Don't specify or draw attention to the width. Just build it wide and light it like a hallway.
 
 **Key visual choice:** Frame it from the front (Dave's POV walking ahead) or from a wide tracking shot from the side. Either way, keep the camera far enough back that the hallway reads as a complete environment rather than an exact space. The bed should feel like a moving wall — present, filling the space, unhurried.
 
@@ -88,7 +88,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Bathrooms are small. A bed base absolutely cannot enter one.
 
-**The Remote version:** The bed doesn't enter the bathroom. It waits in the doorway — this is actually the correct comedic choice. The bed as a patient, humming presence filling the doorframe is funnier than trying to cram it inside.
+**PUSH version:** The bed doesn't enter the bathroom. It waits in the doorway — this is actually the correct comedic choice. The bed as a patient, humming presence filling the doorframe is funnier than trying to cram it inside.
 
 **The doorframe:** The bathroom door is shown from the inside, the bed filling the entire frame. The audience sees a dark rectangle blocking the doorway. That's the bed. It fits perfectly in the sense that it occupies the space exactly — no gaps, no straining.
 
@@ -102,7 +102,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Walk-in closets vary, but most are 5–8 feet wide. This is actually the most realistic environment for the bed — the one place where the geometry is closest to working.
 
-**The Remote version:** Dave is always in front of the bed, not beside it. The bed pushes him into the closet from behind — he enters first, the bed follows. Inside, the closet is just wide enough for the bed with Dave standing in front of it. Clothes hang on both sides close to Dave's shoulders, swiping him as he moves, because he's pressed forward by the bed behind him — not because the space itself is tight around both of them simultaneously.
+**PUSH version:** Dave is always in front of the bed, not beside it. The bed pushes him into the closet from behind — he enters first, the bed follows. Inside, the closet is just wide enough for the bed with Dave standing in front of it. Clothes hang on both sides close to Dave's shoulders, swiping him as he moves, because he's pressed forward by the bed behind him — not because the space itself is tight around both of them simultaneously.
 
 **Key visual:** When Dave emerges wrong the first time, the bed is visible behind him in the closet opening, filling the frame. When the bed nudges him back in, it simply advances — he retreats. The bed rolls forward. Dave walks backward.
 
@@ -114,7 +114,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Open-plan kitchens can be wide. The bed can plausibly fit here with environment design.
 
-**The Remote version:** This is the easiest interior environment for the bed. The kitchen opens from the hallway and Dave is pushed through it quickly — the bed should feel _fast_ here, which means we don't linger on spatial logistics. Speed sells it. Stay on Dave's face during the coffee pour.
+**PUSH version:** This is the easiest interior environment for the bed. The kitchen opens from the hallway and Dave is pushed through it quickly — the bed should feel _fast_ here, which means we don't linger on spatial logistics. Speed sells it. Stay on Dave's face during the coffee pour.
 
 **The front door:** Apply Rule 1 — never show the transition. The shot before the door is Dave in the kitchen — coffee chaos, sipping while moving, then setting the mug down as the counter runs out. SLAM. Hold on the empty kitchen. Cut. Next shot is exterior: Dave on the driveway, the door behind him already closed. We never see the bed pass through the front door. The edit does the work. This is consistent with every other impossible transition in the film.
 
@@ -124,7 +124,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** No adjustable bed base fits in a car.
 
-**The Remote version:** This is where the Trash Truck principle is most important. The bed gets _in_ the car. It's in the back seat. We accept this.
+**PUSH version:** This is where the Trash Truck principle is most important. The bed gets _in_ the car. It's in the back seat. We accept this.
 
 **How to sell it:**
 
@@ -144,7 +144,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Open road. No spatial constraints. The first environment in the film where the bed's proportions are genuinely not an issue.
 
-**The Remote version:** The bed is behind Dave, who is behind the car. Wide shot. The highway around them gives the composition scale and absurdity. This is the most visually straightforward environment in the film — no doorframes, no ceilings, no furniture to navigate around. The bed rolls on asphalt the same way it rolls on hardwood — smoothly, inevitably, without visible effort.
+**PUSH version:** The bed is behind Dave, who is behind the car. Wide shot. The highway around them gives the composition scale and absurdity. This is the most visually straightforward environment in the film — no doorframes, no ceilings, no furniture to navigate around. The bed rolls on asphalt the same way it rolls on hardwood — smoothly, inevitably, without visible effort.
 
 **Camera rule:** Go wide. Wider than any interior shot. The scale of the highway — cars passing, lanes, the shoulder stretching ahead — is what makes the image funny. A man in office clothes pushing a dead car while a bed pushes him. The highway is the neutral container. The bed belongs here because the bed belongs everywhere.
 
@@ -156,7 +156,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** A gas station forecourt is wide open — canopy overhead, pumps spaced for vehicles, ample clearance. But the bed never enters it.
 
-**The Remote version:** The gas station is a visual temptation, not a destination. Dave slows toward it. The bed hums its warning. Dave drives past. The station slides out of frame. The bed's proportions during this beat are STATE FOUR (FOLDED) — the bed is in the car, not navigating an exterior space. The gas station's spatial geometry is irrelevant because the bed never leaves the vehicle.
+**PUSH version:** The gas station is a visual temptation, not a destination. Dave slows toward it. The bed hums its warning. Dave drives past. The station slides out of frame. The bed's proportions during this beat are STATE FOUR (FOLDED) — the bed is in the car, not navigating an exterior space. The gas station's spatial geometry is irrelevant because the bed never leaves the vehicle.
 
 **Camera rule:** Shoot from inside the car (Dave's POV toward the station through the windshield) or from a wide exterior showing the car passing the station. Never a shot of the bed at the gas station — the bed is folded in the back seat, experienced through the hum that shifts in pitch as Dave considers stopping. The gas station is something Dave sees, not something the bed navigates.
 
@@ -168,7 +168,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Open exterior. No spatial constraints. The bed is back in STATE THREE (vertical) after a hidden transition from the car.
 
-**The Remote version:** Hard cut from the highway shoulder to the parking lot. Dave walking, bed rolling behind him. The office building fills the background, getting closer. We never saw the bed unfold from STATE FOUR — the edit did the work. The bed is simply vertical again, the same way it was simply folded in the car. The parking lot is a wide, flat, open space. The bed reads as a small vertical rectangle against the scale of the building and the lot.
+**PUSH version:** Hard cut from the highway shoulder to the parking lot. Dave walking, bed rolling behind him. The office building fills the background, getting closer. We never saw the bed unfold from STATE FOUR — the edit did the work. The bed is simply vertical again, the same way it was simply folded in the car. The parking lot is a wide, flat, open space. The bed reads as a small vertical rectangle against the scale of the building and the lot.
 
 **Camera rule:** Tracking backward per the screenplay (Scene 11). Frame wide enough to show the building scale — the bed should feel like a confident presence against the architecture, not a prop in a tight space. The tracking movement gives the shot forward momentum that matches the bed's character: still going, still on schedule, despite everything.
 
@@ -184,7 +184,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Open-plan offices have high ceilings and wide aisles. This is actually the most accommodating environment for the bed.
 
-**The Remote version:** The office environment is designed to make the bed feel almost normal. High ceilings, wide aisles between desk clusters, neutral colors that don't fight with the bed's dark frame.
+**PUSH version:** The office environment is designed to make the bed feel almost normal. High ceilings, wide aisles between desk clusters, neutral colors that don't fight with the bed's dark frame.
 
 **Desk positioning:** Dave's desk (and Marcus's) should be positioned so the bed behind the chair has at least 2–3 feet of clearance on all sides. The bed should look _parked_, not crammed. Like someone brought in a standing desk, but weirder.
 
@@ -198,7 +198,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Open exterior. A suburban driveway is typically 10–20 feet wide. No spatial constraints for a vertical bed.
 
-**The Remote version:** The driveway is the first fully exterior shot of the bed in STATE THREE. The visual challenge is not geometry — it is social context. The bed is out of the house. A neighbor sees it. A dog watches it. The bed should feel enormous against the residential scale — a dark vertical monolith rolling down a suburban driveway toward a parked car.
+**PUSH version:** The driveway is the first fully exterior shot of the bed in STATE THREE. The visual challenge is not geometry — it is social context. The bed is out of the house. A neighbor sees it. A dog watches it. The bed should feel enormous against the residential scale — a dark vertical monolith rolling down a suburban driveway toward a parked car.
 
 **Camera rule:** Wide static from the street per the screenplay (Scene 9). Frame the full driveway with the house visible behind Dave and the bed. The neighborhood normalcy — the house, the car, the neighbor walking a dog — is the container that makes the image absurd.
 
@@ -212,7 +212,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** Office building lobbies vary widely — some are tight vestibules, some are grand atriums. The bed passes through twice: once with Dave in the morning, once alone on the evening commute home.
 
-**The Remote version:** Apply Rule 1 — edit around the impossibility of entrance doors. The morning arrival: cut from the parking lot (exterior, bed rolling behind Dave) to the elevator (doors closing, bed implied). The lobby is either skipped entirely or is a brief tracking shot designed wide. The evening return (Prop Bible 1.9): the bed moves through the lobby with the same quiet authority it moves through everything else.
+**PUSH version:** Apply Rule 1 — edit around the impossibility of entrance doors. The morning arrival: cut from the parking lot (exterior, bed rolling behind Dave) to the elevator (doors closing, bed implied). The lobby is either skipped entirely or is a brief tracking shot designed wide. The evening return (Prop Bible 1.9): the bed moves through the lobby with the same quiet authority it moves through everything else.
 
 **Environmental accommodation:** If the lobby is shown, build it generous — high ceiling, wide open floor, glass doors wide enough to feel plausible. Corporate lobbies are already the most accommodating interior spaces in the film. A reception desk, some seating, polished floors. The bed should feel like visiting corporate equipment being wheeled in — strange, but not impossible in a space that regularly accommodates deliveries and furniture.
 
@@ -224,7 +224,7 @@ The bed never shrinks or grows. It's the same object in every environment. What 
 
 **Reality:** The bed takes up a significant portion of any sidewalk. Pedestrians share this space.
 
-**The Remote version:** This is the end-credits shot — the bed commuting home alone, rolling down a city sidewalk in late afternoon light. No Dave. No one pushing. The bed is simply going home. People move around it the way people move around anything on a crowded sidewalk — slightly, automatically, without looking up. A dog watches it pass. Its owner does not.
+**PUSH version:** This is the end-credits shot — the bed commuting home alone, rolling down a city sidewalk in late afternoon light. No Dave. No one pushing. The bed is simply going home. People move around it the way people move around anything on a crowded sidewalk — slightly, automatically, without looking up. A dog watches it pass. Its owner does not.
 
 **Environmental accommodation:** The sidewalk should be generous — a wide urban sidewalk with enough room for the bed and pedestrian flow around it. Not a narrow residential sidewalk. The kind of sidewalk in a commercial district where you'd walk around a sandwich board or a sidewalk cafe without thinking about it. The bed occupies the same kind of space: an obstacle that pedestrians navigate automatically.
 
@@ -313,7 +313,7 @@ Before finalizing any shot:
 
 ---
 
-_THE REMOTE — Bed Proportions Guide v4.4_
+_PUSH — Bed Proportions Guide v4.4_
 _Updated: Apartment building lobby section removed — Dave lives in a house, not an apartment (Prop Bible §1.9 corrected). RISE yard sign added to driveway environment. Sticker checklist aligned with Prop Bible §1.5 minimum._
 _Previous: v4.3 — Removed published dimensions from Core Challenge — aligned with Prop Bible v3.1 canon ("dimensions invite calculation"). Ceiling gap, hallway width, and camera framing rewritten to relative language._
 _"The truck always fits. The bed always fits. The audience always believes."_

@@ -1,12 +1,12 @@
 # RISE Technologies — Complete Intelligence Report
 
-> Generated April 23, 2026 — Deep exploration across `rise-awake` and `the-remote` codebases.
+> Generated April 23, 2026 — Deep exploration across `rise-awake` and `push` codebases.
 
 ---
 
 ## Executive Summary
 
-**RISE Technologies, Inc.** is a fully realized fictional company operating as the in-universe corporate entity behind two interconnected creative projects: **riseawake.com** (an interactive satirical product website) and **The Remote** (a ~5–7 minute comedy short film). The fictional world is built with extraordinary depth — investor relations, legal documents, internal security posture, product history, financial data, and leadership bios — all played completely straight. The comedy is never in the writing _being_ funny. It's in the writing being _perfectly earnest_ about something absurd.
+**RISE Technologies, Inc.** is a fully realized fictional company operating as the in-universe corporate entity behind two interconnected creative projects: **riseawake.com** (an interactive satirical product website) and **PUSH** (a ~5–7 minute comedy short film). The fictional world is built with extraordinary depth — investor relations, legal documents, internal security posture, product history, financial data, and leadership bios — all played completely straight. The comedy is never in the writing _being_ funny. It's in the writing being _perfectly earnest_ about something absurd.
 
 ---
 
@@ -177,7 +177,7 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Sanity v5 (blog CMS) 
 
 ---
 
-## The Remote (Comedy Short Film)
+## PUSH (Comedy Short Film)
 
 **Format:** ~5–7 minute comedy short
 **Tone:** Buster Keaton meets Office Space
@@ -207,7 +207,7 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Sanity v5 (blog CMS) 
 
 ### The Ludacris Thread
 
-- **The Remote** uses "Move Bitch" — Dave's song, found in the car radio, interrupted by the fuel gauge, completed as a whistle at 5PM
+- **PUSH** uses "Move Bitch" — Dave's song, found in the car radio, interrupted by the fuel gauge, completed as a whistle at 5PM
 - **The MOVE teaser** uses "Stand Up" — _"when I move you move, just like that"_
 - Both Ludacris. Both about movement. The connection is never stated. _"The universe runs on Ludacris."_
 
@@ -322,7 +322,7 @@ The .rsm format is proprietary. Waitlist position 4,891 is revealed during purch
 | Workstream               | Status                                                                                                                                                                                                                      |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Website (rise-awake)** | ~41 page components serving 50+ distinct URLs. Zero TS errors. Clean build. Blog needs RISE content. Branch: `ai/chore/remove-trademark-symbols`.                                                                           |
-| **The Remote (film)**    | Screenplay + production package complete. 3 audit slices still open. Pre-production.                                                                                                                                        |
+| **PUSH (film)**    | Screenplay + production package complete. 3 audit slices still open. Pre-production.                                                                                                                                        |
 | **Brand System**         | v4 canonical. Teal + coral palette. Full design tokens defined.                                                                                                                                                             |
 | **Sanity CMS**           | Blog schema deployed (post, author, category). Studio at `/studio`. Seed data is placeholder Radiant template.                                                                                                              |
 | **Investor section**     | 7 pages: hub, vision, shareholder letter, annual report, meeting minutes, financials (interactive Recharts), press.                                                                                                         |
@@ -331,7 +331,7 @@ The .rsm format is proprietary. Waitlist position 4,891 is revealed during purch
 | **Security**             | 2 pages: security overview + trust-center ("Coming Soon" since Q4 2024).                                                                                                                                                    |
 | **Press**                | 2 pages: press hub (4 releases) + Move announcement.                                                                                                                                                                        |
 | **Hidden / Easter eggs** | PM-1 remote page, Arvin's final commit, Konami code, push listener, sitemap confession, robots.txt essay, 404 narrative.                                                                                                    |
-| **MOVE product**         | Page live. Internal product doc (500+ lines) in The Remote project. Teaser video scripted.                                                                                                                                  |
+| **MOVE product**         | Page live. Internal product doc (500+ lines) in the PUSH project. Teaser video scripted.                                                                                                                                  |
 | **Unbuilt**              | Changelog, status, careers, enterprise, /institute, compliance calculator, index estimator, referral dead-end, community, accessibility, reviews (Supabase), OG images, light mode CSS, blog rebranding, Spotify playlists. |
 
 ---
@@ -993,7 +993,7 @@ A proprietary score that affects liability caps (§6 of Disclaimer), is availabl
 
 ### "David K." / Dave
 
-The customer avatar canvas (DOC-016) names the target customer "David K." — the same name as Dave, the protagonist of The Remote. This is the film character appearing in the marketing consultant's customer persona. Section 9 was crossed out and rewritten by Dr. Voss.
+The customer avatar canvas (DOC-016) names the target customer "David K." — the same name as Dave, the protagonist of PUSH. This is the film character appearing in the marketing consultant's customer persona. Section 9 was crossed out and rewritten by Dr. Voss.
 
 ---
 
@@ -1015,7 +1015,7 @@ The customer avatar canvas (DOC-016) names the target customer "David K." — th
 
 ### Video Placeholder
 
-A rounded container with play button, corner badges ("RISE" / "Push Mode"), and text: _"'The Remote' — a short film. One morning. One button."_ Subtext: _"Dave did not consent to this film. Dave arrived at work on time. Results typical."_
+A rounded container with play button, corner badges ("RISE" / "Push Mode"), and text: _"'PUSH' — a short film. One morning. One button."_ Subtext: _"Dave did not consent to this film. Dave arrived at work on time. Results typical."_
 
 ---
 
@@ -1817,7 +1817,7 @@ A proprietary score that affects liability caps (§6 of Disclaimer), is availabl
 
 ### "David K." / Dave
 
-The customer avatar canvas (DOC-016) names the target customer "David K." — the same name as Dave, the protagonist of The Remote. This is the film character appearing in the marketing consultant's customer persona. Section 9 was crossed out and rewritten by Dr. Voss.
+The customer avatar canvas (DOC-016) names the target customer "David K." — the same name as Dave, the protagonist of PUSH. This is the film character appearing in the marketing consultant's customer persona. Section 9 was crossed out and rewritten by Dr. Voss.
 
 ---
 
@@ -1839,7 +1839,7 @@ The customer avatar canvas (DOC-016) names the target customer "David K." — th
 
 ### Video Placeholder
 
-A rounded container with play button, corner badges ("RISE" / "Push Mode"), and text: _"'The Remote' — a short film. One morning. One button."_ Subtext: _"Dave did not consent to this film. Dave arrived at work on time. Results typical."_
+A rounded container with play button, corner badges ("RISE" / "Push Mode"), and text: _"'PUSH' — a short film. One morning. One button."_ Subtext: _"Dave did not consent to this film. Dave arrived at work on time. Results typical."_
 
 ---
 
