@@ -174,7 +174,7 @@ The PUSH+
 Smart Adjustable Base
 ```
 
-The RISE wordmark at the top uses a clean, slightly geometric sans-serif. Not quite a tech font, not quite a medical font. The kind of typography that says: _we have thought carefully about this product._ The ™ mark is small and precise.
+The RISE wordmark at the top uses a clean, slightly geometric sans-serif. Not quite a tech font, not quite a medical font. The kind of typography that says: _we have thought carefully about this product._
 
 Below the company name, _The PUSH_ (or _The PUSH+_) in the same typeface, slightly bolder — the product name, centered, unmistakable. Below that, _Smart Adjustable Base_ in a smaller weight. The tagline — _"For People Who Need A Little Push"_ — does not appear on the sticker. It lives on marketing materials. On the product itself, the word PUSH does all the work.
 
@@ -416,7 +416,7 @@ This implies a product timeline: RISE (company) → the NUDGE (first generation,
 
 ## 2.1 — OVERVIEW & NARRATIVE ROLE
 
-The remote is the film's inciting object. The title of the film. The first and last thing the audience sees on the nightstand. It is smaller than any other character in the film, and more consequential than any of them.
+The remote is the film's inciting object. The first and last thing the audience sees on the nightstand. It is smaller than any other character in the film, and more consequential than any of them.
 
 It has one button. The button does one thing. There is no way to undo it.
 

@@ -440,7 +440,7 @@ The end credits roll over this shot. The bed going home is the film's closing im
 ---
 
 _PUSH — Visual Reference & Collaborator Guide v4.1_
-_Updated: Pillow payoff locked to askew (Prop Bible v3.1 §1.3/§1.8 canonical). Aligned with Prop Bible v3.1._
+_Updated: Pillow payoff locked to askew (Prop Bible v4.0 §1.3/§1.8 canonical). Aligned with Prop Bible v4.0._
 _Previous: v4.0 — Commute rework — Scene 10 expanded (Ludacris whistle thread, fuel gauge plant, gas station Beat 3, car-pushing shot, hard cut), Scene 11 updated for post-gas-station state, Scene 18 expanded (whistle callback, bed departure). Music Notes expanded (Ludacris cross-video thread). Editing rhythm table updated._
 _The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
 _Questions? Start with the screenplay. The bed knows what it's doing._

@@ -8,7 +8,7 @@
 **Version:** 1.0  
 **Status:** Working Document
 
-**Companion documents:** Prop Bible v3.1 · Bed Proportions Guide v4.4 · Visual Reference Guide v4.1 · AI Shot List v4.5
+**Companion documents:** Prop Bible v4.0 · Bed Proportions Guide v4.4 · Visual Reference Guide v4.1 · AI Shot List v4.5
 
 ---
 
