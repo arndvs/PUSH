@@ -13,7 +13,7 @@ This report distills the full production package into a storyboard-ready brief. 
 1. [Prop Bible](../02_production/prop_bible.md) — canonical physical descriptions (overrides all others)
 2. [Screenplay](../01_screenplay/PUSH_Screenplay.md) — story, dialogue, scene order
 3. [Visual Reference Guide](../02_production/Visual_Reference_and_Collaborator_Guide.md) — camera, tone, editing philosophy
-4. [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md) — 54 shots with detailed descriptions
+4. [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md) — 55 shots with detailed descriptions
 5. [Bed Proportions Guide](../02_production/Bed_Proportions_and_Environmental_Integration.md) — how the bed fits in every environment
 6. [Gas Station Beat Breakdown](../01_screenplay/gas-station-beat-breakdown.md) — deep-dive on the commute's climactic beat
 
@@ -35,7 +35,7 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 
 ### Runtime
 
-5–7 minutes. 19 scenes. 54 shots (per AI Shot List). The storyboard should target ~60–80 panels.
+5–7 minutes. 21 scene headings (19 numbered scenes + inserts 7A and 16A). 55 shots (per AI Shot List). The storyboard should target ~60–80 panels.
 
 ### Structure
 
@@ -887,7 +887,7 @@ When the storyboard artist needs more detail on any element, go to:
 ---
 
 _PUSH — Storyboard Handoff Report v1.3_
-_54 panels across 20 scenes + end credits_
+_54 panels across 21 scene headings (19 numbered + inserts 7A, 16A) + end credits_
 _Changes from v1.2: Panel 43A added (Scene 16A — Marcus/Priya). Panel 50 updated with closing nod. Aligned with Screenplay v7.0._
 _Previous: v1.2 — Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
 _Source files: Screenplay v7.0, Prop Bible v4.0, Visual Reference & Collaborator Guide v4.2, AI Shot List v4.6, Bed Proportions Guide v4.4_
