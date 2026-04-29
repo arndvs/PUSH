@@ -863,11 +863,11 @@ A running visual thread across three beats:
 | Act 1: The Wreckage  | 12            | Panels 1–12                                  |
 | Act 2: The Gauntlet  | 15            | Panels 13–27 (includes self-making intercut) |
 | Act 3: The Commute   | 11            | Panels 28–38                                 |
-| Act 4: The Office    | 5             | Panels 39–43                                 |
+| Act 4: The Office    | 6             | Panels 39–43A (includes 43A: Marcus/Priya)   |
 | Act 5: The Wind Down | 8             | Panels 44–51                                 |
 | Epilogue             | 1             | Panel 52                                     |
 | End Credits          | 1             | Panel 53                                     |
-| **TOTAL**            | **53 panels** |                                              |
+| **TOTAL**            | **54 panels** |                                              |
 
 ---
 

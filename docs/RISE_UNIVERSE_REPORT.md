@@ -183,7 +183,7 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Sanity v5 (blog CMS) 
 **Tone:** Buster Keaton meets Office Space
 **Core Rule:** Nobody acknowledges the bed. Dave never fights it. He adapts instantly.
 
-### Story Arc (20 scenes)
+### Story Arc (21 scene headings: Scenes 1–19, plus inserts 7A and 16A)
 
 | Act                      | Summary                                                                                                                       |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |

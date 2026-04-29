@@ -886,7 +886,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 _PUSH — AI Shot List v4.6_
 _Updated: Shot 034A added (Scene 16A — Marcus/Priya). Shot 041 updated with closing nod. Aligned with Screenplay v7.0._
 _Previous: v4.5 — Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
-_19 scenes / 54 shots / approx. 5–7 minute runtime_
+_20 scenes / 55 shots / approx. 5–7 minute runtime_
 
 ---
 

@@ -121,7 +121,7 @@ The production-critical hum moments:
 
 The bed rolls. Always. See Prop Bible 1.7 for the full speed calibration table and movement personality spec. What matters for camera and editing:
 
-- There is no rhythm to the movement, no mechanical stepping. The camera has nothing to sync to. That's the point.
+- There is a **faint** track rhythm underneath the movement (individual links passing, drive sprockets engaging), but no pronounced mechanical stepping or jolting for the camera to sync to. That's the point.
 - The tracks are nearly silent. The motor hum is the primary audio signal of movement.
 - **Speed is the bed's primary emotional register.** Slow = patient/supervisory. Medium = purposeful. Medium-fast = the day is not waiting.
 - The bed does not hesitate at doorways. It does not adjust for tight spaces. This is never commented on. (See the [Bed Proportions Guide](Bed_Proportions_and_Environmental_Integration.md) for how each environment accommodates it.)
