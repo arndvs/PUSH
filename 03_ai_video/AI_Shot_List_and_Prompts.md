@@ -1,4 +1,4 @@
-# THE REMOTE — AI VIDEO SHOT LIST
+# PUSH — AI VIDEO SHOT LIST
 
 ### Formatted for Sora / Runway / Kling / Pika
 
@@ -869,8 +869,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_THE REMOTE — AI Shot List v4.5_
-_Updated: Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v3.1._
+_PUSH — AI Shot List v4.5_
+_Updated: Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
 _Previous: v4.4 — ACT FOUR header added. Shot 015 section ref fixed (2.3→2.4). Shot 011 cab dialogue restored from screenplay. Shot 030 lobby fix. Pillow askew applied (Shots 022B, 041A, 044, 044B)._
 _19 scenes / 54 shots / approx. 5–7 minute runtime_
 
