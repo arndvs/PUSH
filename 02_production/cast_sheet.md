@@ -6,7 +6,9 @@
 
 **DAVE** — Male, 30s. Not a mess, exactly. More like a man perpetually one bad decision away from being a mess. Likable. Relatable. Currently a mess.
 
-**MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Different colorway, same bed.
+**MARCUS** — Dave's work buddy and co-conspirator. Equal wreckage. Owns a PUSH+ — same brand, premium tier, different colorway.
+
+**PRIYA** — Early 30s. Sharp. Colleague Marcus is talking to when his bed nudges him away. Slightly confused, slightly not.
 
 **KAREN** — Dave's boss. Sharp, no-nonsense, already a VP. Former NUDGE owner. Proof the system works.
 

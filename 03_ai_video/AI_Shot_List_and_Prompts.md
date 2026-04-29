@@ -607,9 +607,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Wide static shot of a modern open-plan office floor. A man in his early 30s (brown hair, slightly disheveled) rounds the corner from the elevator area, a large vertical adjustable bed base behind him. He stops. Across the floor, at a diagonal desk, another man in his early 30s (Black, wrinkled suit jacket, equally tired) looks up. Behind him: the same model adjustable bed base in a warm gray colorway. Both beds idle, humming quietly — slightly out of sync, creating a low ambient chord. The two men make eye contact across the office floor. A long beat. The first man gives a single nod up. The second man gives a single nod up back. They sit down at their respective desks. Both beds settle in behind them. They both open their laptops. Office lighting. Still shot.
+> Wide static shot of a modern open-plan office floor. A man in his early 30s (brown hair, slightly disheveled) rounds the corner from the elevator area, a large vertical adjustable bed base behind him. He stops. Across the floor, at a diagonal desk, another man in his early 30s (Black, wrinkled suit jacket, equally tired) looks up. Behind him: a visibly premium adjustable bed base in warm gray — same brand, seven pillows with silk pillowcases, olive duvet, a "PUSH+" badge where Dave's says "PUSH." Both beds idle, humming quietly — slightly out of sync and slightly different in quality (Dave's has a faint industrial edge, Marcus's is smoother), creating a low ambient chord. The two men make eye contact across the office floor. A long beat. The first man gives a single nod up. The second man gives a single nod up back. They sit down at their respective desks. Both beds settle in behind them. They both open their laptops. Office lighting. Still shot.
 
-**NOTES:** This is the emotional centerpiece of the film. Do not rush it. The exchange is "‘Sup, Marcus" / "‘Sup." Both nods are UP, not down. The two hums being slightly out of sync is a deliberate detail. In the wide, the RISE / PUSH sticker on Dave’s bed should be readable as a background detail — the second of the two required readability moments (Prop Bible §1.5: bedroom + office).
+**NOTES:** This is the emotional centerpiece of the film. Do not rush it. The exchange is "'Sup, Marcus" / "'Sup." Both nods are UP, not down. The two hums being slightly out of sync — and slightly different in quality — is a deliberate detail. Dave's dark charcoal PUSH vs Marcus's warm gray PUSH+ tells the whole tier story visually: same bad decision, wildly different investment. In the wide, the RISE / PUSH sticker on Dave's bed should be readable as a background detail — the second of the two required readability moments (Prop Bible §1.5: bedroom + office).
 
 ---
 
@@ -638,6 +638,20 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 > Medium shot of a corporate office desk. A man in his early 30s sits at his desk, slightly slumped, but functional. A large adjustable bed base idles behind his chair. A woman in her late 40s (professional, sharp blazer, VP energy) walks up and stands beside his desk. She looks at him — not the bed. She nods once. Says something (implied: “Big night?”). He replies. She gives him a task (implied: "Get the Hendricks report done by five"). She starts to walk away. Stops without turning. Says something else (implied: a comment about the bed brand — she had the NUDGE, the first-gen model). He asks a follow-up. She answers while already walking away (implied: “Made me a VP”). She’s gone. Office lighting. Played dry.
 
 **NOTES:** Karen looks at DAVE, not the bed. Her comment about the bed brand (the NUDGE — the first-gen RISE product) is the first time an authority figure validates the bed's existence — and she does it by referencing her own. Dave does not look at the bed after this exchange.
+
+---
+
+### SHOT 034A
+
+**Scene:** Marcus/Priya — the bed makes no exceptions (Scene 16A)
+**Duration:** 8–10 seconds
+**Camera:** Medium-wide. Two-shot with Dave in background.
+
+**AI PROMPT:**
+
+> Medium-wide shot of a modern open-plan office. A man in his early 30s (same suit from last night, slightly wrinkled — MARCUS) leans against a desk partition, relaxed, jacket off. A woman in her early 30s (sharp, professional — PRIYA) sits at the desk, laughing. Behind Marcus, an adjustable bed base in a different colorway idles at his desk. In the background, another man (DAVE) watches from his own desk, his bed behind him. The bed behind Marcus rolls forward — one measured nudge. Marcus glances back at it. He straightens up, says something brief to the woman, pushes off the partition, walks back to his desk. Sits down. Opens his laptop. The woman watches him go. In the background, Dave looks at his own bed. Office afternoon light.
+
+**NOTES:** This is the clearest demonstration that the bed makes no exceptions. It does not weigh the situation. It does not care that this was going well. Push Mode does not have a Priya stop in it. Dave's quiet "Yeah, I know" to his own bed is the moment Dave and the bed arrive at something approaching understanding.
 
 ---
 
@@ -735,7 +749,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium tracking shot of a man in his early 30s at an office desk in late afternoon golden light. The bed’s hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. He is whistling — quietly, the same melody from the car radio this morning, unhurried and complete. He walks through the empty office toward the elevator. The elevator doors open. He steps in, still whistling. The doors close. The whistle is gone. The office is empty and silent. Behind him at the desk, the adjustable bed base waits a beat. Then it turns — slowly, deliberately — and heads for the exit. Office golden hour light fading to evening.
+> Medium tracking shot of a man in his early 30s at an office desk in late afternoon golden light. The bed's hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. As he passes another man's desk (MARCUS — still working, bed behind him), Marcus glances up and gives a single nod. Dave nods back. He is whistling — quietly, the same melody from the car radio this morning, unhurried and complete. He walks through the empty office toward the elevator. The elevator doors open. He steps in, still whistling. The doors close. The whistle is gone. The office is empty and silent. Behind him at the desk, the adjustable bed base waits a beat. Then it turns — slowly, deliberately — and heads for the exit. Office golden hour light fading to evening.
 
 ## **NOTES:** The whistle is the callback — same song from the car this morning ("Move Bitch" intro by Ludacris), but complete this time. The morning version stopped mid-phrase when the fuel gauge killed it. This one resolves. No accompaniment. Just a man whistling on his way to round two. The bed’s departure bridges to the end credits sequence (Shot 044 — the bed commuting home alone). License note: the whistle melody matches Shot 026A. Instrumental reference only.
 
@@ -855,9 +869,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Product reference image of a PUSH by RISE adjustable base. Dark charcoal gray frame with a faint cool blue undertone. Matte finish. No headboard or footboard — just the adjustable base, mattress with navy fitted sheet, and one white pillow. Mechanical struts visible at the sides when raised. A slim matte black remote with a single large circular button labeled PUSH that glows warm white sits on the frame. When fully raised to vertical, it resembles a large rectangular monolith. Slightly industrial, slightly sleek. Photorealistic.
 
-### Character Reference — MARCUS'S BED (PUSH by RISE — same model, different colorway)
+### Character Reference — MARCUS'S BED (PUSH+ by RISE — premium tier, different colorway)
 
-> Product reference image of a PUSH by RISE adjustable bed base in warm gray colorway (slightly lighter and warmer than Dave's dark charcoal). Same frame profile, same struts, same dimensions. No headboard or footboard — just the base and platform. A duvet in olive over olive sheets, with a coordinated warm-tone pillowcase. Same product, different aesthetic choices. When vertical it reads as the same category of object in a different color. Clean studio lighting. Photorealistic.
+> Product reference image of a PUSH+ by RISE adjustable bed base in warm gray colorway (slightly lighter and warmer than Dave's dark charcoal). Same frame profile, same struts, same dimensions. No headboard or footboard — just the base and platform. Seven pillows: three PUSH+ hardware pillows with warm-tone silk/sateen pillowcases (forming the "crown"), two deep olive Euro shams, two complementary accent pillows. Olive duvet over olive sheets. "PUSH+" badge where Dave's says "PUSH." Faint ambient glow from integrated Atmosphere Suite. When vertical it reads as the same category of object with visibly premium finishing. Clean studio lighting. Photorealistic.
 
 ### Environment — DAVE'S BEDROOM
 
@@ -869,9 +883,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_PUSH — AI Shot List v4.5_
-_Updated: Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
-_Previous: v4.4 — ACT FOUR header added. Shot 015 section ref fixed (2.3→2.4). Shot 011 cab dialogue restored from screenplay. Shot 030 lobby fix. Pillow askew applied (Shots 022B, 041A, 044, 044B)._
+_PUSH — AI Shot List v4.6_
+_Updated: Shot 034A added (Scene 16A — Marcus/Priya). Shot 041 updated with closing nod. Aligned with Screenplay v7.0._
+_Previous: v4.5 — Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
 _19 scenes / 54 shots / approx. 5–7 minute runtime_
 
 ---

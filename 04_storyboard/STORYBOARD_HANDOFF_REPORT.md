@@ -44,7 +44,7 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 | **Act 1: The Wreckage**  | 1–3    | Wake up, flashbacks, discovers remote                        | Cold, quiet, accumulating dread |
 | **Act 2: The Gauntlet**  | 4–8    | Bed rises, bathroom, closet, coffee                          | Escalating physical comedy      |
 | **Act 3: The Commute**   | 9–11   | Driveway, car, drive-through, bus, gas station, highway push | Road comedy, consequence        |
-| **Act 4: The Office**    | 12–16  | Lobby, elevator, Marcus reveal, meeting, Karen               | Deadpan workplace absurdism     |
+| **Act 4: The Office**    | 12–16A | Lobby, elevator, Marcus reveal, meeting, Karen, Marcus/Priya | Deadpan workplace absurdism     |
 | **Act 5: The Wind Down** | 17–18  | Afternoon recovery, group chat, departure                    | Earned warmth                   |
 | **Epilogue**             | 19     | Next morning — cycle repeats                                 | Circular                        |
 | **End Credits**          | —      | Bed commutes home alone                                      | Quiet, moving                   |
@@ -63,7 +63,7 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 ### MARCUS
 
 - Black male, early 30s. Wrinkled dark suit jacket over light blue shirt. Close-cropped fade.
-- Equally destroyed as Dave. Different colorway, same energy.
+- Equally destroyed as Dave. PUSH+ owner — same brand, premium tier, different colorway.
 - Appears Scene 14 onward.
 
 ### KAREN
@@ -94,9 +94,11 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 
 ### MARCUS'S BED
 
-- Same PUSH by RISE. Same hardware/dimensions.
+- PUSH+ by RISE. Same frame profile and dimensions, premium tier.
 - **Different colorway:** Warm gray frame (lighter, warmer than Dave's charcoal).
-- **Different soft goods:** Olive fitted sheet, olive duvet cover, warm-tone pillowcase.
+- **Different soft goods:** Seven pillows (three PUSH+ hardware pillows with silk/sateen pillowcases, two Euro shams, two accent pillows). Olive fitted sheet, olive duvet cover.
+- **Badge:** "PUSH+" where Dave's says "PUSH."
+- **Atmosphere Suite:** Faint ambient glow from integrated mood lighting.
 - Appears Scene 14 onward.
 
 ### THE REMOTE
@@ -636,7 +638,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 41 — The Marcus Reveal (Scene 14)
 
-**Image:** Wide static shot. Open office floor. Dave enters from elevator side. Across the floor: MARCUS at his desk. Behind Marcus: a bed — different colorway (warm gray), different bedding (duvet), same brand. Both beds idle, humming slightly out of sync. Dave and Marcus make eye contact. Long beat.
+**Image:** Wide static shot. Open office floor. Dave enters from elevator side. Across the floor: MARCUS at his desk. Behind Marcus: a bed — premium tier (warm gray frame, seven pillows, silk/sateen, olive duvet, "PUSH+" badge, faint ambient glow). Both beds idle, humming slightly out of sync — Dave's with a faint industrial edge, Marcus's smoother and more refined. Dave and Marcus make eye contact. Long beat.
 **Shot Type:** WIDE. Static. The emotional centerpiece.
 **Action:** Dave stops. Sees Marcus. Sees Marcus's bed. 3–4 seconds of silence. Single upward nod from each. They sit. Open laptops.
 **Dialogue:** DAVE: "'Sup, Marcus." / MARCUS: "'Sup."
@@ -664,6 +666,17 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 **Dialogue:** KAREN: "Big night?" / DAVE: "Reasonably big night." / KAREN: "Get the Hendricks report done by five." / DAVE: "Done." / KAREN _(without turning):_ "The PUSH? Not bad. I had the NUDGE." / DAVE: "...Did it help?" / KAREN _(already walking):_ "Made me a VP."
 **Camera:** Karen DOES NOT TURN AROUND to deliver the PUSH line. It's offhand. She doesn't care that it's incredible information.
 **Hum:** Very low.
+
+---
+
+#### PANEL 43A — Marcus/Priya Beat (Scene 16A)
+
+**Image:** Medium-wide. Across the open office floor. Marcus leans against the desk partition of PRIYA (early 30s, sharp), jacket off, relaxed. She laughs at something he said. This is going well. Dave watches from his desk in the background, bed idling behind him.
+**Shot Type:** Medium-wide, two-shot with Dave in background
+**Action:** Marcus's bed rolls forward — one measured nudge. Not aggressive. Just present. Marcus glances at the bed, back at Priya. "I have to get back to something." He pushes off the partition, walks to his desk, opens his laptop. Doesn't look at the bed. Priya watches him go — slightly confused, slightly not. Dave looks at his own bed. "Yeah, I know." Goes back to work.
+**Dialogue:** MARCUS: "I have to get back to something." / PRIYA: "Oh — yeah, of course." / DAVE _(very quietly):_ "Yeah, I know."
+**Camera:** Hold the wide shot. Let the audience see Dave watching Marcus get nudged away. Dave's line is almost inaudible — play it to himself.
+**Hum:** Marcus's bed: one brief, measured hum on the nudge. Dave's bed: silent. It already said what it needed to say by saying nothing.
 
 ---
 
@@ -737,11 +750,11 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 50 — Dave Leaves, Whistling (Scene 18)
 
-**Image:** Medium tracking. Dave packs bag. Turns off desk lamp (click is deliberate). Heads for elevator. He's WHISTLING — the same "Move Bitch" intro from the car. But this time it's unhurried. Complete. The phrase resolves. He steps into elevator, still whistling. Doors close. Whistle is gone.
+**Image:** Medium tracking. Dave packs bag. Turns off desk lamp (click is deliberate). Heads for elevator. As he passes Marcus's desk — Marcus is still there, still working, bed behind him. Marcus glances up. Gives a single nod up. Dave gives one back. He's WHISTLING — the same "Move Bitch" intro from the car. But this time it's unhurried. Complete. The phrase resolves. He steps into elevator, still whistling. Doors close. Whistle is gone.
 **Shot Type:** Medium tracking, desk to elevator
-**Action:** Dave departs. Whistling the song from this morning — complete this time. The morning interrupted. The afternoon earned.
-**Dialogue:** None (whistling only)
-**Camera:** No accompaniment. Just a man whistling on his way to round two. The whistle is the bookend.
+**Action:** Dave departs. Passes Marcus — they exchange a single nod. Then Dave is whistling the song from this morning — complete this time. The morning interrupted. The afternoon earned.
+**Dialogue:** None (whistling only, single nod exchange)
+**Camera:** No accompaniment. The nod between Dave and Marcus is quick — don't linger. Just a man whistling on his way to round two. The whistle is the bookend.
 **Hum:** Background, rising slightly.
 
 ---
@@ -838,7 +851,7 @@ A running visual thread across three beats:
 6. **Edit around impossible transitions.** Before the bed is in the car → after the bed is in the car. Never the middle.
 7. **The glass of water** appears on the nightstand in Scenes 1, 3, and 19 (Epilogue). Always untouched. A running visual joke.
 8. **The fuel gauge warning light** has been on since yesterday. It should read as decorative, not fresh.
-9. **Marcus's bed** is the same product, different color and bedding. Both nods are UP. The hums are slightly out of sync.
+9. **Marcus's bed** is the same brand, premium tier (PUSH+) — different colorway, different bedding, different hum quality. Both nods are UP. The hums are slightly out of sync and slightly different in quality.
 10. **No music during end credits.** Just the hum, fading.
 
 ---
@@ -873,11 +886,11 @@ When the storyboard artist needs more detail on any element, go to:
 
 ---
 
-_PUSH — Storyboard Handoff Report v1.2_
-_53 panels across 19 scenes + end credits_
-_Changes from v1.1: Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
-_Previous: v1.1 — Shot count 44→54 (10 new shots added to AI Shot List since initial handoff). Marcus soft goods locked to olive. Source version refs updated._
-_Source files: Screenplay v5.0, Prop Bible v3.1, Visual Reference & Collaborator Guide v4.1, AI Shot List v4.5, Bed Proportions Guide v4.4_
+_PUSH — Storyboard Handoff Report v1.3_
+_54 panels across 20 scenes + end credits_
+_Changes from v1.2: Panel 43A added (Scene 16A — Marcus/Priya). Panel 50 updated with closing nod. Aligned with Screenplay v7.0._
+_Previous: v1.2 — Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
+_Source files: Screenplay v7.0, Prop Bible v4.0, Visual Reference & Collaborator Guide v4.2, AI Shot List v4.6, Bed Proportions Guide v4.4_
 
 ---
 
