@@ -11,7 +11,7 @@ _Version: 1.0_
 
 RISE Technologies does not sell one bed. It sells a product line — a base product with a clear upgrade path designed to extract maximum value from affluent customers. The NUDGE (first-gen, Karen's era) was a single configuration. It taught RISE the market. The PUSH taught RISE the margin.
 
-The full product line lives on riseawake.com. In the film, only two tiers appear: the **PUSH** and the **PUSH+**. The audience reads the difference through a single character on the badge. Everything else — the five-pillow crown, the silk sheets, the warm glow, the quieter hum — is what that `+` buys you.
+The full product line lives on riseawake.com. In the film, only two tiers appear: the **PUSH** and the **PUSH+**. The audience reads the difference through a single character on the badge. Everything else — the seven-pillow stack, the silk sheets, the warm glow, the quieter hum — is what that `+` buys you.
 
 ---
 

@@ -46,7 +46,7 @@ The production design team pre-solved every environment for the truck before pla
 
 ---
 
-## 3. Applying the Principle: The Six Golden Rules
+## 3. Applying the Principle: The Seven Golden Rules
 
 These rules govern every shot involving the PUSH in _PUSH_.
 
@@ -90,7 +90,7 @@ The goal is five distinct angle types that can be cut together the way _Trash Tr
 | ------------- | --------------------------- | -------------------- |
 | Face          | Pillow stack + top frame    | Watching / character |
 | Back          | Rear panel + motor housings | Mechanical / vehicle |
-| Undercarriage | Track system + base         | Weight / locomotion  |
+| Undercarriage | Caster base + frame         | Weight / locomotion  |
 | Flank         | Side rail + struts          | Posture / scale      |
 | Texture       | Soft goods close-up         | Domestic / intimate  |
 
@@ -102,7 +102,9 @@ No single angle tells the whole story. Together they establish a character with 
 
 ### 5.1 Track System (Replacing Casters)
 
-The original prop spec used low-profile casters. These are replaced by a **continuous track system** — functionally analogous to a tank tread.
+> **Status: Not adopted.** The canonical PUSH uses low-profile casters (Prop Bible v4.0 §1.2). This section is retained as a design exploration that may inform future products (e.g., RISE MOVE).
+
+The original prop spec used low-profile casters. This section explored replacing them with a **continuous track system** — functionally analogous to a tank tread.
 
 **Rationale — engineering:** Tracks navigate carpet, hardwood, tile, and concrete reliably. A caster system that catches on a rug edge or tile grout is a prop problem. A track system that rides over surface transitions is a vehicle.
 
@@ -120,7 +122,9 @@ The track system also generates distinct sound design at each floor type — a d
 
 ### 5.2 Rear Engine Panel
 
-The back of the bed was previously a blank panel — cinematically inert from behind. It becomes the bed's engine room: the angle that reveals what the bed actually is underneath its domestic surface.
+> **Status: Not adopted.** The canonical PUSH rear panel is clean and minimal (Prop Bible v4.0). This section is retained as a design exploration.
+
+The back of the bed was previously a blank panel — cinematically inert from behind. This section explored making it the bed's engine room: the angle that reveals what the bed actually is underneath its domestic surface.
 
 | Component                | Function                                          | Cinematic Value                              |
 | ------------------------ | ------------------------------------------------- | -------------------------------------------- |
@@ -227,7 +231,7 @@ stateDiagram-v2
 
     FLAT : FLAT — STATE ONE\nHorizontal. A bed. Completely mundane.\nSelf-making not yet run.
 
-    RAISED : RAISED — STATE TWO\nBack panel rising through arc.\nHum begins. Track system engaging.
+    RAISED : RAISED — STATE TWO\nBack panel rising through arc.\nHum begins. Casters engaging.
 
     VERTICAL : VERTICAL — STATE THREE\nFully upright. Complete bed on end.\nPrimary operating state. Self-making runs.
 
@@ -329,7 +333,7 @@ The motor hum is the bed's only dialogue. It modulates pitch and volume to expre
 | Environment      | Challenge           | Solution                                                          |
 | ---------------- | ------------------- | ----------------------------------------------------------------- |
 | Bedroom          | Dominates room      | Design room around bed — it's a bedroom                           |
-| Hallway          | Wider than standard | Build wide; track system sells movement                           |
+| Hallway          | Wider than standard | Build wide; caster movement sells locomotion                      |
 | Bathroom         | Cannot enter        | Bed waits in doorway — funnier anyway                             |
 | Closet           | Tight               | Dave always in front; bed fills entrance                          |
 | Kitchen          | Fastest sequence    | Speed sells it; stay on Dave's face                               |
@@ -362,12 +366,12 @@ The audience who recognizes the song gets a private joke about a man being pushe
 
 | Decision                                  | Rationale                                                                                       |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Track system replaces casters             | Engineered correctness + cinematic richness + character (locomotion vs. furniture being pushed) |
-| Rear engine panel with visible components | Back of bed becomes vehicle; rear crops now cinematically readable                              |
+| Low-profile casters (canonical)           | Domestic silhouette; tracks explored but not adopted (see §5.1)                                 |
+| Rear panel — clean and minimal            | Explored as engine room (§5.2) but not adopted; rear remains domestic                           |
 | Layered soft goods as costume             | Every angle has texture; bed has topography; five distinct crop zones                           |
 | Multiple pillows, character-specific      | Pillow stack changes head silhouette; becomes a crown                                           |
 | Costume designer framework per bed        | Dave / Marcus / Karen each have a dossier; same product, different human                        |
-| Six golden rules codified                 | Environmental integration rules formalized from Trash Truck principle                           |
+| Seven golden rules codified               | Environmental integration rules formalized from Trash Truck principle                           |
 | Rule 7 added                              | Dave's eyeline never checks the fit; implicit in screenplay, now explicit                       |
 | Edit hides all impossible transitions     | Front door, car entry, elevator interior never shown                                            |
 
@@ -377,7 +381,7 @@ The audience who recognizes the song gets a private joke about a man being pushe
 
 - **The PUSH Pro** physical design — not documented, not shown, "We are not currently accepting questions about The Push Pro."
 - **The MOVE track system** for stair navigation — engineering in progress, Test 4 was not successful
-- **Specific pillow count per character** — framework established; final dressings to be determined by production designer
+- ~~**Specific pillow count per character**~~ — Resolved: Dave = 2 (1 PUSH + 1 personal); Marcus = 7 (3 PUSH+ + 2 Euro shams + 2 accent). See Prop Bible v4.0 §1.3, §1.10.
 - **Track link material and finish** — rubber compound? Metal? Hybrid? To be resolved with practical model
 
 ---

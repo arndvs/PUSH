@@ -63,7 +63,7 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 ### MARCUS
 
 - Black male, early 30s. Wrinkled dark suit jacket over light blue shirt. Close-cropped fade.
-- Equally destroyed as Dave. Different colorway, same energy.
+- Equally destroyed as Dave. PUSH+ owner — same brand, premium tier, different colorway.
 - Appears Scene 14 onward.
 
 ### KAREN
@@ -94,9 +94,11 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 
 ### MARCUS'S BED
 
-- Same PUSH by RISE. Same hardware/dimensions.
+- PUSH+ by RISE. Same frame profile and dimensions, premium tier.
 - **Different colorway:** Warm gray frame (lighter, warmer than Dave's charcoal).
-- **Different soft goods:** Olive fitted sheet, olive duvet cover, warm-tone pillowcase.
+- **Different soft goods:** Seven pillows (three PUSH+ hardware pillows with silk/sateen pillowcases, two Euro shams, two accent pillows). Olive fitted sheet, olive duvet cover.
+- **Badge:** "PUSH+" where Dave's says "PUSH."
+- **Atmosphere Suite:** Faint ambient glow from integrated mood lighting.
 - Appears Scene 14 onward.
 
 ### THE REMOTE
@@ -636,7 +638,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 41 — The Marcus Reveal (Scene 14)
 
-**Image:** Wide static shot. Open office floor. Dave enters from elevator side. Across the floor: MARCUS at his desk. Behind Marcus: a bed — different colorway (warm gray), different bedding (duvet), same brand. Both beds idle, humming slightly out of sync. Dave and Marcus make eye contact. Long beat.
+**Image:** Wide static shot. Open office floor. Dave enters from elevator side. Across the floor: MARCUS at his desk. Behind Marcus: a bed — premium tier (warm gray frame, seven pillows, silk/sateen, olive duvet, "PUSH+" badge, faint ambient glow). Both beds idle, humming slightly out of sync — Dave's with a faint industrial edge, Marcus's smoother and more refined. Dave and Marcus make eye contact. Long beat.
 **Shot Type:** WIDE. Static. The emotional centerpiece.
 **Action:** Dave stops. Sees Marcus. Sees Marcus's bed. 3–4 seconds of silence. Single upward nod from each. They sit. Open laptops.
 **Dialogue:** DAVE: "'Sup, Marcus." / MARCUS: "'Sup."
@@ -838,7 +840,7 @@ A running visual thread across three beats:
 6. **Edit around impossible transitions.** Before the bed is in the car → after the bed is in the car. Never the middle.
 7. **The glass of water** appears on the nightstand in Scenes 1, 3, and 19 (Epilogue). Always untouched. A running visual joke.
 8. **The fuel gauge warning light** has been on since yesterday. It should read as decorative, not fresh.
-9. **Marcus's bed** is the same product, different color and bedding. Both nods are UP. The hums are slightly out of sync.
+9. **Marcus's bed** is the same brand, premium tier (PUSH+) — different colorway, different bedding, different hum quality. Both nods are UP. The hums are slightly out of sync and slightly different in quality.
 10. **No music during end credits.** Just the hum, fading.
 
 ---
@@ -877,7 +879,7 @@ _PUSH — Storyboard Handoff Report v1.2_
 _53 panels across 19 scenes + end credits_
 _Changes from v1.1: Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
 _Previous: v1.1 — Shot count 44→54 (10 new shots added to AI Shot List since initial handoff). Marcus soft goods locked to olive. Source version refs updated._
-_Source files: Screenplay v5.0, Prop Bible v3.1, Visual Reference & Collaborator Guide v4.1, AI Shot List v4.5, Bed Proportions Guide v4.4_
+_Source files: Screenplay v6.0, Prop Bible v4.0, Visual Reference & Collaborator Guide v4.1, AI Shot List v4.5, Bed Proportions Guide v4.4_
 
 ---
 

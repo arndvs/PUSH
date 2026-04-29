@@ -550,7 +550,7 @@ _Marcus looks exactly as destroyed as Dave. Same suit and tie as last night from
 
 _Behind Marcus: a bed._
 
-_Same model. Different colorway. Same energy._
+_Same brand. Premium tier. Different colorway. Same energy._
 
 _Dave stops walking. The beds idle behind them both, humming softly._
 
@@ -860,7 +860,7 @@ The **RISE / PUSH sticker** should be readable at least twice — once in the be
 
 _PUSH — Screenplay v6.0_
 _Updated: Lean napkin thread — bar plant (Scene 2, Marcus draws/Dave rejects/Tyler films video to group chat), Karen escalated ("the model's off"), afternoon rewritten as struggle with video playback at 3:45 (Scene 17). Bar audio over sober silence. No added dialogue. No Marcus payoff scene. The audience connects the thread; nobody in the film does._
-_Previous: v5.0 — Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave. Pillow payoff: askew. Aligned with Prop Bible v3.1._
+_Previous: v5.0 — Self-making juxtaposition added (Scenes 5, 7, 7A). Bed gets dressed in parallel with Dave. Pillow payoff: askew. Aligned with Prop Bible v4.0._
 _Total estimated runtime: 5–7 minutes_
 
 ---

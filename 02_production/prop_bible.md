@@ -80,7 +80,7 @@ The mattress has a fitted sheet — navy blue or dark gray, slightly rumpled fro
 
 **The mattress stays on the bed in all four states.** The PUSH base has a retention system — a low lip along the frame edge and integrated strapping — that holds the mattress securely whether the bed is flat, raised, fully vertical, or folded in the car. This is a deliberate product feature. A company that engineered Push Mode absolutely engineered this. It does not need to be explained or shown. The mattress simply stays. Nobody comments on it.
 
-This is the most important prop decision in the document: **the bed is always a complete bed.** In STATE THREE — fully vertical, rolling Dave through his apartment — what's behind him is not a frame or a piece of equipment. It is a bed. Upright. With a mattress, a fitted sheet, and a pillow. That is the image. A complete, made bed standing on end, rolling a hungover man to work. The recognizability of the object at its most absurd is what makes the joke land.
+This is the most important prop decision in the document: **the bed is always a complete bed.** In STATE THREE — fully vertical, rolling Dave through his house — what's behind him is not a frame or a piece of equipment. It is a bed. Upright. With a mattress, a fitted sheet, and a pillow. That is the image. A complete, made bed standing on end, rolling a hungover man to work. The recognizability of the object at its most absurd is what makes the joke land.
 
 **The pillow:** The base PUSH ships with one pillow. Standard size, slightly compressed from use. The pillow is PUSH hardware — it contains the pneumatic reshaping node that runs during the self-making sequence. The pillowcase is personal: Dave's is white, standard, unremarkable. It sits at the head of the bed when flat — which becomes the top when vertical. In STATE THREE, the pillow is at the top of the upright bed, slightly askew from the transition. It stays that way. The pneumatic node reshapes and plumps it during the morning routine, but does not reposition it — the pillow ends up fuller and better, still slightly askew. Before the self-making, this small imperfection gives the object a faint quality of dishevelment that mirrors Dave's own.
 
@@ -269,7 +269,7 @@ The bed makes itself. Not eventually, not in the end credits — _during the mor
 
 ### The Concept
 
-The bed has a job. The job is not just to get Dave out of the apartment — it is to be _ready_ for his return. RISE engineered the self-making system for exactly this reason: a bed that rolls you to work should be made and waiting when you get home. Push Mode initiates both functions simultaneously. While the bed is vertical and rolling Dave through his routine, it is also tidying itself.
+The bed has a job. The job is not just to get Dave out of the house — it is to be _ready_ for his return. RISE engineered the self-making system for exactly this reason: a bed that rolls you to work should be made and waiting when you get home. Push Mode initiates both functions simultaneously. While the bed is vertical and rolling Dave through his routine, it is also tidying itself.
 
 This is the parallel that earns its comedy: Dave is getting ready for the day. So is the bed.
 
@@ -380,7 +380,7 @@ The PUSH+ Atmosphere Suite isn't just on the bed — it integrates with the room
 
 ### The Pillow Stack
 
-Marcus's bed has five pillows total: three PUSH+ hardware pillows (each with a pneumatic node, warm-tone silk/sateen pillowcases), two Euro shams (deep olive, structural backing), and two accent pillows (complementary warm tone, decorative). When vertical in STATE THREE, the pillow stack creates a "crown" silhouette at the top. The three PUSH+ pillows are plumped by the self-making mechanism. The Euro shams and accent pillows stay exactly where Marcus placed them — which, because Marcus is Marcus, already looks perfect.
+Marcus's bed has seven pillows total: three PUSH+ hardware pillows (each with a pneumatic node, warm-tone silk/sateen pillowcases), two Euro shams (deep olive, structural backing), and two accent pillows (complementary warm tone, decorative). When vertical in STATE THREE, the top five — the three PUSH+ pillows backed by the two Euro shams — create a "crown" silhouette. The two accent pillows sit lower in front. The three PUSH+ pillows are plumped by the self-making mechanism. The Euro shams and accent pillows stay exactly where Marcus placed them — which, because Marcus is Marcus, already looks perfect.
 
 ### The Self-Making Difference
 
@@ -537,7 +537,7 @@ The remote is turned over. Close-up on the fine print. Dave's thumb is visible a
 Exact visual repeat of the opening. The same blue-gray light. The same glow. The remote has been here all night. The remote will be here every morning. The cycle is complete. Dave picks it up. Presses PUSH.
 
 **End credits — On the nightstand, alone**
-While the bed commutes home through the city, the remote rests on the nightstand in an empty apartment. It glows. It will glow until Dave comes home. It will glow while he is at the bar. It will glow when he stumbles in. It will glow all night. Tomorrow it will still be glowing.
+While the bed commutes home through the city, the remote rests on the nightstand in an empty house. It glows. It will glow until Dave comes home. It will glow while he is at the bar. It will glow when he stumbles in. It will glow all night. Tomorrow it will still be glowing.
 
 ---
 

@@ -49,7 +49,7 @@ The humor lives entirely in **Dave's resignation** and the **bed's relentless pr
 
 **Wide shots are the comedy.**
 
-The single most important rule: **keep both Dave AND the bed in the same frame as much as possible.** The comedy collapses if you cut between them. We need to see the full absurdity — a man being pushed through his own apartment by a piece of furniture.
+The single most important rule: **keep both Dave AND the bed in the same frame as much as possible.** The comedy collapses if you cut between them. We need to see the full absurdity — a man being pushed through his own house by a piece of furniture.
 
 | Camera style              | When to use                                                   |
 | ------------------------- | ------------------------------------------------------------- |
@@ -313,13 +313,13 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 Setup the shot: Dave enters from the elevator side. Hold wide. We see him. Then we see, across the floor, Marcus. Then we see Marcus's bed.
 
-**Marcus's bed:** Same brand, same product — the PUSH by RISE, same generation as Dave's. Different colorway: warm gray frame (slightly lighter, slightly warmer than Dave's dark charcoal). Different soft goods: a duvet in a warm domestic color over different sheets, different pillowcase. Same hardware, same hum, same behavior. The visual variety prevents the beds from reading as a single duplicated prop, while the identical hardware confirms they made the same purchase.
+**Marcus's bed:** Same brand, premium tier — the PUSH+ by RISE. Warm gray frame (slightly lighter, slightly warmer than Dave's dark charcoal). Seven pillows (three PUSH+ hardware pillows with silk/sateen pillowcases, two Euro shams, two accent pillows), olive duvet, premium bedding throughout. "PUSH+" badge where Dave's says "PUSH." Enhanced self-making: handles fitted sheet, flat sheet, and duvet. Atmosphere Suite: integrated mood lighting and spatial audio. The visual contrast is immediate — same brand, wildly different investment in that brand. Dave notices. Everyone notices. It's unspoken.
+
+**The dual hum:** When both beds are in frame and idling, their hums are slightly different — not just in pitch and sync, but in _quality_. Dave's has a faint industrial edge. Marcus's PUSH+ is smoother, more refined. The chord they create together is the sound of two men who made the same bad decision at wildly different price points.
 
 **The pause:** Let it go at least 3 full seconds. Maybe 4. The longer the silence, the more it lands.
 
 **The 'sup:** "'Sup, Marcus." "'Sup." That's it. They sit down. Open their laptops. Move on.
-
-**The dual hum:** When both beds are in frame and idling, their hums should be slightly out of sync and slightly different in pitch — creating a quiet, inadvertent chord. Two men, two mornings, two machines. The dissonance is not unpleasant. It is just honest.
 
 ---
 

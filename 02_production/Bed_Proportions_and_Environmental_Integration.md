@@ -12,7 +12,7 @@ This document governs how to solve the bed's geometry in each environment. It is
 - **[Visual Reference Guide](Visual_Reference_and_Collaborator_Guide.md)** — governs how to shoot the film (camera, editing, staging decisions, editorial intercuts).
 - **This document** — governs how to make the impossible geometry work in every specific environment. For the production designer, environment builder, VFX supervisor, and AI prompt operator.
 
-_Written against Prop Bible v3.1._
+_Written against Prop Bible v4.0._
 
 ---
 
@@ -22,7 +22,7 @@ The PUSH is a queen-size adjustable bed base. Flat, it has the footprint you'd e
 
 A standard interior doorframe is narrower than the bed. The math doesn't work. The bed cannot fit through a door. And yet — it must, every time, without the audience ever being pulled out of the comedy to think about the logistics.
 
-> _Per Prop Bible v3.1: "Specific dimensions are not published because dimensions invite calculation, and calculation invites the question 'can this fit through that door?' — which is exactly the question the film must never ask its audience to ask."_
+> _Per Prop Bible v4.0: "Specific dimensions are not published because dimensions invite calculation, and calculation invites the question 'can this fit through that door?' — which is exactly the question the film must never ask its audience to ask."_
 
 This is exactly the problem Trash Truck solved with a full-size garbage truck in a boy's bedroom, at a movie theater, at a dentist's office. The truck shouldn't fit anywhere it goes. It always fits. Nobody questions it. The show's entire emotional reality depends on that not being questioned.
 
@@ -292,9 +292,9 @@ When generating shots involving the bed in tight spaces, use this language:
 
 ## A NOTE ON MARCUS'S BED
 
-Marcus has a PUSH by RISE. Same product. Same generation. Different colorway (warm gray frame vs. Dave's dark charcoal) and different personal soft goods (duvet, sheets, pillowcase).
+Marcus has a PUSH+ by RISE — same brand, premium tier. Different colorway (warm gray frame vs. Dave's dark charcoal), seven-pillow stack (three PUSH+ hardware pillows, two Euro shams, two accent pillows), premium silk/sateen soft goods, and a "PUSH+" badge where Dave's says "PUSH."
 
-Marcus's bed follows all the same proportional rules. When they're in the conference room together, they should fit behind their respective chairs with the same "just barely right" quality. The visual variety (different colorway, different bedding) prevents them from reading as a single duplicated prop while the identical hardware confirms these are the same product.
+Marcus's bed follows all the same proportional rules. When they're in the conference room together, they should fit behind their respective chairs with the same "just barely right" quality. The visual contrast — different tier, different bedding, different ambient glow from the Atmosphere Suite — tells the story of two men who made the same bad decision at wildly different price points.
 
 ---
 
@@ -315,7 +315,7 @@ Before finalizing any shot:
 
 _PUSH — Bed Proportions Guide v4.4_
 _Updated: Apartment building lobby section removed — Dave lives in a house, not an apartment (Prop Bible §1.9 corrected). RISE yard sign added to driveway environment. Sticker checklist aligned with Prop Bible §1.5 minimum._
-_Previous: v4.3 — Removed published dimensions from Core Challenge — aligned with Prop Bible v3.1 canon ("dimensions invite calculation"). Ceiling gap, hallway width, and camera framing rewritten to relative language._
+_Previous: v4.3 — Removed published dimensions from Core Challenge — aligned with Prop Bible v4.0 canon ("dimensions invite calculation"). Ceiling gap, hallway width, and camera framing rewritten to relative language._
 _"The truck always fits. The bed always fits. The audience always believes."_
 
 ---

@@ -55,8 +55,8 @@ The **Prop Bible** is canonical. On any question of physical description, brand,
 
 ---
 
-_Version 3.4 — Audit remediation: pillow payoff locked to askew (Prop Bible v3.1 canonical). Screenplay v5.0, AI Shot List v4.4, Visual Reference Guide v4.1, Storyboard Handoff v1.2 aligned. Cast cleanup. Mechanical fixes across Move Internal and gas station breakdown._
-_Previous: Version 3.3 — Screenplay v5.0: self-making juxtaposition added (Scenes 5, 7, 7A). Production docs updated. All documents aligned with Prop Bible v3.1._
+_Version 3.5 — Canon audit remediation: PUSH/PUSH+ tier alignment across all docs. Prop Bible v4.0 canonical. Screenplay v6.0. Universe Report duplicate Part Two removed (819 lines). Design Memo tracks/engine panel marked not-adopted. All downstream Marcus refs updated for PUSH+ tier. Version refs aligned._
+_Previous: Version 3.4 — Audit remediation: pillow payoff locked to askew (Prop Bible v3.1 canonical). Screenplay v5.0, AI Shot List v4.4, Visual Reference Guide v4.1, Storyboard Handoff v1.2 aligned. Cast cleanup. Mechanical fixes across Move Internal and gas station breakdown._
 
 ---
 
