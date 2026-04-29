@@ -122,7 +122,7 @@ The production-critical hum moments:
 The bed rolls. Always. See Prop Bible 1.7 for the full speed calibration table and movement personality spec. What matters for camera and editing:
 
 - There is no rhythm to the movement, no mechanical stepping. The camera has nothing to sync to. That's the point.
-- The casters are nearly silent. The motor hum is the primary audio signal of movement.
+- The tracks are nearly silent. The motor hum is the primary audio signal of movement.
 - **Speed is the bed's primary emotional register.** Slow = patient/supervisory. Medium = purposeful. Medium-fast = the day is not waiting.
 - The bed does not hesitate at doorways. It does not adjust for tight spaces. This is never commented on. (See the [Bed Proportions Guide](Bed_Proportions_and_Environmental_Integration.md) for how each environment accommodates it.)
 - **The shower curtain nudge** (Scene 5): The bed stays at the bathroom doorway — it cannot physically reach the curtain. The "nudge" is communicated entirely through the motor hum shifting pitch and Dave's reaction. The curtain moves from Dave's own movement, not from contact with the bed. This is funnier — the bed enforces its will without being visible.
@@ -267,7 +267,7 @@ The bed is faster here. Dave is jogging slightly. The kitchen should feel tight 
 
 **Wide is essential here.** This is the first time we see the full absurdity in outdoor daylight — a suburban driveway, normal neighborhood, and a man being escorted by his bed.
 
-**How the bed moves:** The casters are low-profile and nearly silent. The bed does not step or cycle — it rolls, smoothly and continuously, the way heavy furniture moves when pushed by someone who knows where they're going. No rhythm to it. No visible effort. A low angle insert — concrete, the casters rolling into frame, the faint hum — establishes this cleanly without over-explaining it.
+**How the bed moves:** The tracks are low-profile and nearly silent. The bed does not step or cycle — it rolls, smoothly and continuously, the way heavy furniture moves when pushed by someone who knows where they're going. No visible effort. A low angle insert — concrete, the tracks rolling into frame, the faint hum — establishes this cleanly without over-explaining it.
 
 **Walk of shame / perp walk energy:** Dave's walk down the driveway should feel like a walk of shame — almost a perp walk. He's being escorted by a bed in broad daylight, and he knows it.
 

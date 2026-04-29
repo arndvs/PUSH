@@ -338,11 +338,11 @@ _Hold on this. Two seconds longer than feels right._
 
 ### SCENE 9 — EXT. DRIVEWAY — MORNING
 
-_⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full absurdity — a man being escorted down a suburban driveway by a queen-size adjustable base. This is the first time we see the bed's casters in motion._
+_⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full absurdity — a man being escorted down a suburban driveway by a queen-size adjustable base. This is the first time we see the bed's tracks in motion._
 
 _Dave is already outside. No coffee. The front door is closed behind him. We did not see him come through it._
 
-_Low angle. Driveway concrete. Small black casters roll into frame, steady and unhurried. The low hum of the motor._
+_Low angle. Driveway concrete. The bed's continuous tracks roll into frame, steady and unhurried. The low hum of the motor._
 
 _Wide. For the first time, we see the full picture: Dave, the bed behind him, the suburban driveway, the morning light. It's worse than you imagined._
 
