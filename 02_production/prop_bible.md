@@ -575,7 +575,7 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 - **Personal pillow:** One. Flat, generic white, from college. Not PUSH hardware — the mechanism does not interact with it.
 - **Flat sheet:** White, Dave's own. Usually untucked or balled at the foot. Not handled by the self-making mechanism.
 - **Duvet:** None.
-- **Movement:** Continuous rolling via track system beneath the frame. Smooth, quiet, inevitable. No stepping, no rhythm, no visible effort.
+- **Movement:** Continuous rolling via track system beneath the frame. Smooth, quiet, inevitable. No stepping, no jolting, no visible effort.
 - **Sound:** Warm low hum + faint track rhythm
 - **Badge:** Lower-right front face. Obscured in STATE ONE by mattress overhang. Visible in STATE THREE. "RISE / The PUSH / Smart Adjustable Base"
 - **Self-making:** One tensioning bar (fitted sheet only) + one pneumatic node (one PUSH pillow only). Dave's flat sheet and personal pillow are untouched.
