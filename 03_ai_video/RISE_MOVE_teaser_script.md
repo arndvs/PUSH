@@ -21,7 +21,7 @@ The teaser has two types of AI-generated content:
 **Character & product anchors to generate first:**
 
 - **THE MOVE (bed):** A RISE Move — same dark charcoal frame as the PUSH, same faint cool blue undertone, same no-headboard design. The key addition: a stair navigation system with precision actuators on the base that allow it to climb and descend stairs. The frame has a small RISE branding element on the rail. When flat, it looks identical to the PUSH. When vertical and on stairs, the actuator mechanism is visible beneath the base.
-- **THE PUSH (bed — context only):** The PUSH from _The Remote_ — dark charcoal frame, no headboard, with a slim matte black remote. Already familiar to the audience. Appears in Beats 2, 4, and 5 to establish the product the Move supersedes.
+- **THE PUSH (bed — context only):** The PUSH from _PUSH_ — dark charcoal frame, no headboard, with a slim matte black remote. Already familiar to the audience. Appears in Beats 2, 4, and 5 to establish the product the Move supersedes.
 - **ACTUATOR MECHANISM:** The Move's stair navigation hardware. Precision-engineered. The aesthetic is Swiss watch meets industrial robot — machined metal surfaces, purposeful geometry, warm directional light catching edges. Visible in all actuator beauty shots.
 - **DR. ELEANOR VOSS:** Does not appear on camera. Her quote appears as white text on black — composite only.
 
@@ -222,7 +222,7 @@ _The track drops._
 The PUSH navigates your morning.
 ```
 
-**NOTES:** This is the PUSH — the product the audience knows from _The Remote_. The bed is flat and normal. The next shots establish what it cannot do.
+**NOTES:** This is the PUSH — the product the audience knows from _PUSH_. The bed is flat and normal. The next shots establish what it cannot do.
 
 ---
 
@@ -261,7 +261,7 @@ between you and the door.
 
 > Wide tracking shot of a residential hallway. A dark charcoal adjustable bed base — fully vertical, mattress and fitted sheet and pillow visible — rolls confidently down the hallway. The full bed in frame. Humming. The movement is smooth, purposeful. Morning light from a window at the end of the hall. The bed looks like a monolith with bedding. Cinematic. Film grain.
 
-**NOTES:** No text. Let the image land. This is the full PUSH in its vertical state — rolling, confident, complete. The audience who has seen _The Remote_ recognizes this immediately.
+**NOTES:** No text. Let the image land. This is the full PUSH in its vertical state — rolling, confident, complete. The audience who has seen _PUSH_ recognizes this immediately.
 
 ---
 
@@ -536,7 +536,7 @@ Track: the first four beats. Nothing else.
 
 ## THE LUDACRIS CONNECTION
 
-_The Remote_ features Dave whistling **"Move Bitch"** by Ludacris twice. The song finds him on the car radio — just the intro whistle, no lyrics. He picks it up unconsciously, whistling along as he pulls out of the driveway with the bed folded in his back seat. Then the fuel gauge registers — past empty, warning light decorative at this point — and the whistle stops mid-phrase. He kills the radio. Says "yeah" to nobody. Keeps driving. Two coffee denials and one dead car later, the gas station beat pays off what the whistle planted.
+_PUSH_ features Dave whistling **"Move Bitch"** by Ludacris twice. The song finds him on the car radio — just the intro whistle, no lyrics. He picks it up unconsciously, whistling along as he pulls out of the driveway with the bed folded in his back seat. Then the fuel gauge registers — past empty, warning light decorative at this point — and the whistle stops mid-phrase. He kills the radio. Says "yeah" to nobody. Keeps driving. Two coffee denials and one dead car later, the gas station beat pays off what the whistle planted.
 
 At 5PM, heading for the elevator, Dave whistles it again. The same phrase. Complete this time. Unhurried. The morning interrupted it. The afternoon earned its resolution.
 

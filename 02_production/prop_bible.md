@@ -1,16 +1,16 @@
-# THE REMOTE — PROP BIBLE
+# PUSH — PROP BIBLE
 
 ### The PUSH by RISE & The PUSH Remote
 
 _Canonical physical descriptions for all production use_
 _This document supersedes all prop descriptions in all other production documents_
-_Version: 3.1_
+_Version: 4.0_
 
 ---
 
 ## HOW TO USE THIS DOCUMENT
 
-This is the single authoritative reference for the two hero props in _The Remote_. Every other document — the screenplay, the visual reference guide, the shot list, the bed proportions guide — defers to this one on questions of physical description.
+This is the single authoritative reference for the two hero props in _PUSH_. Every other document — the screenplay, the visual reference guide, the shot list, the bed proportions guide — defers to this one on questions of physical description.
 
 If a description in another document conflicts with this one, this one is correct.
 
@@ -26,7 +26,7 @@ This film faces the same creative challenge as the Netflix animated series _Tras
 
 Their principle: **the environment bends to accommodate the relationship, not the other way around.** Every space was designed with the truck in mind. The truck was never made to look like it was struggling or straining. It simply belonged. The audience felt that belonging and accepted it.
 
-_The Remote_ follows the same principle for the bed.
+_PUSH_ follows the same principle for the bed.
 
 **What this means for this document:** The physical descriptions that follow are written to help collaborators understand how the bed looks, moves, and feels — not to establish measurements that environments must conform to. The bed is large. It fills spaces. It dominates rooms. That is all the production team needs to know about its size. Specific dimensions are not published here because dimensions invite calculation, and calculation invites the question _"can this fit through that door?"_ — which is exactly the question the film must never ask its audience to ask.
 
@@ -48,7 +48,7 @@ If you are designing an environment the bed will move through: build it so the b
 
 ## 1.1 — OVERVIEW & CHARACTER
 
-The bed is the co-protagonist of _The Remote_. It is not a prop that sits in the background. It is an _actor_ that shares every scene with Dave from the moment it activates until the film ends.
+The bed is the co-protagonist of _PUSH_. It is not a prop that sits in the background. It is an _actor_ that shares every scene with Dave from the moment it activates until the film ends.
 
 Its character is built entirely through its physical presence and behavior. It never speaks. It never malfunctions in an interesting way. It does exactly what it was designed to do — which is the problem.
 
@@ -68,7 +68,7 @@ What matters is how the bed _feels_ in a space — and it should always feel ine
 
 ## 1.3 — CONSTRUCTION & MATERIALS
 
-The bed consists of three components: the adjustable base frame, the mattress, and one pillow. There is no headboard. There are no decorative elements of any kind beyond these three things.
+The base PUSH consists of three core components: the adjustable base frame, the mattress, and one PUSH pillow. There is no headboard. The product itself has no decorative elements of any kind — it is purely functional. Owners add their own soft goods (sheets, additional pillows, blankets); the PUSH ships with these three components and a fitted sheet. What you put on top is your business. For the premium PUSH+ configuration (Marcus's bed), see the Product Line Brief.
 
 **The frame** is constructed from what appears to be brushed aluminum or powder-coated steel — the distinction doesn't matter so much as the impression it gives, which is: _precision engineering, built to last, built to work_. It reads as medical-grade adjacent. The kind of material you see in an ergonomic office chair or a high-end piece of gym equipment. Not domestic. Not cozy.
 
@@ -82,7 +82,9 @@ The mattress has a fitted sheet — navy blue or dark gray, slightly rumpled fro
 
 This is the most important prop decision in the document: **the bed is always a complete bed.** In STATE THREE — fully vertical, rolling Dave through his apartment — what's behind him is not a frame or a piece of equipment. It is a bed. Upright. With a mattress, a fitted sheet, and a pillow. That is the image. A complete, made bed standing on end, rolling a hungover man to work. The recognizability of the object at its most absurd is what makes the joke land.
 
-**The pillow:** One pillow. Standard size, slightly compressed from use. The pillow is PUSH hardware — it contains the pneumatic reshaping node that runs during the self-making sequence. The pillowcase is personal: Dave's is white, standard, unremarkable. It sits at the head of the bed when flat — which becomes the top when vertical. In STATE THREE, the pillow is at the top of the upright bed, slightly askew from the transition. It stays that way. The pneumatic node reshapes and plumps it during the morning routine, but does not reposition it — the pillow ends up fuller and better, still slightly askew. Before the self-making, this small imperfection gives the object a faint quality of dishevelment that mirrors Dave's own.
+**The pillow:** The base PUSH ships with one pillow. Standard size, slightly compressed from use. The pillow is PUSH hardware — it contains the pneumatic reshaping node that runs during the self-making sequence. The pillowcase is personal: Dave's is white, standard, unremarkable. It sits at the head of the bed when flat — which becomes the top when vertical. In STATE THREE, the pillow is at the top of the upright bed, slightly askew from the transition. It stays that way. The pneumatic node reshapes and plumps it during the morning routine, but does not reposition it — the pillow ends up fuller and better, still slightly askew. Before the self-making, this small imperfection gives the object a faint quality of dishevelment that mirrors Dave's own.
+
+**Dave's bedding beyond the product:** Dave has a second pillow — a flat, generic white pillow from college, the kind you get at Target and never replace. It sits next to the PUSH pillow but is not PUSH hardware — the mechanism does not interact with it. He also has a white flat sheet, usually untucked or balled at the foot. No duvet. No decorative anything. The bed is dressed the way Dave is dressed: functional, bare minimum, not quite assembled.
 
 **The mechanical struts:** On each side of the base, visible from any wide angle shot, are the articulating struts that allow the back panel to raise. These should be visible — not hidden inside the frame. They are part of the design language. Clean, purposeful, slightly industrial. When the bed is flat they fold flush against the side. As the bed raises they extend, and as the bed goes vertical they are fully extended — two rigid arms on each side, angled slightly outward, like a figure with its arms held stiffly at its sides.
 
@@ -156,7 +158,7 @@ The RISE / PUSH brand sticker is a small, precisely placed element on the lower-
 
 **Design:** White or very light gray text and logo on a slightly darker charcoal background — or a subtle metallic finish, like an appliance label. The aesthetic is premium but restrained. Not a flashy consumer product sticker. More like a serial plate on a piece of medical equipment.
 
-**Content:**
+**Content (base PUSH — Dave's bed):**
 
 ```
 RISE
@@ -164,9 +166,19 @@ The PUSH
 Smart Adjustable Base
 ```
 
+**Content (PUSH+ — Marcus's bed):**
+
+```
+RISE
+The PUSH+
+Smart Adjustable Base
+```
+
 The RISE wordmark at the top uses a clean, slightly geometric sans-serif. Not quite a tech font, not quite a medical font. The kind of typography that says: _we have thought carefully about this product._ The ™ mark is small and precise.
 
-Below the company name, _The PUSH_ in the same typeface, slightly bolder — the product name, centered, unmistakable. Below that, _Smart Adjustable Base_ in a smaller weight. The tagline — _"For People Who Need A Little Push"_ — does not appear on the sticker. It lives on marketing materials. On the product itself, the word PUSH does all the work.
+Below the company name, _The PUSH_ (or _The PUSH+_) in the same typeface, slightly bolder — the product name, centered, unmistakable. Below that, _Smart Adjustable Base_ in a smaller weight. The tagline — _"For People Who Need A Little Push"_ — does not appear on the sticker. It lives on marketing materials. On the product itself, the word PUSH does all the work.
+
+**The `+` in the office:** In the dual-bed scene, both badges are visible at knee height in STATE THREE. Same position, same layout, same typeface. One character different. The audience reads it the way you read the badge on a car in the lane next to you — you just know.
 
 **Placement:** Lower-right corner of the front face of the frame. When the bed is flat, the sticker faces the room and is roughly at floor-plus-sixteen-inches height. When the bed is vertical, the sticker is at approximately knee height on what is now the front face of the monolith.
 
@@ -267,7 +279,11 @@ Embedded in the frame's inner rails is a single integrated remaking system that 
 
 **The sheet tensioning system:** A thin tensioning bar travels along a channel inside the top and bottom rails of the frame, drawing the fitted sheet progressively taut from the center outward toward the corners. It moves slowly. Deliberately. The kind of slow that makes you aware of how much work is being done. Wrinkles smooth one at a time, not all at once — the bar makes its way across the surface, and the sheet follows, pulling flat against the mattress, corners drawing snug. The full pass takes several minutes. It is not in a hurry. It sounds like almost nothing: a faint, continuous whisper beneath the motor hum, the sound of something being drawn very carefully across a surface.
 
-**The pillow node:** A single pneumatic node at the top edge of the frame — not two, one — handles the pillow in the same unhurried register. It does not puff twice and finish. It works gradually: a slow, sustained inflation that reshapes the pillow from the base up, then a brief hold, then a calibrated deflation that settles the pillow into its final position — plumped and reshaped, but not repositioned. The node works the pillow where it sits. The whole cycle takes longer than it should. Longer than feels necessary. That is the point. One soft sound, extended — less a puff than a quiet, patient exhale. Then stillness. The pillow is plumped and reshaped. Fuller. Better. Still sitting slightly askew — where it landed, not where it was placed. Good enough.
+**The pillow node:** On the base PUSH, a single pneumatic node at the top edge of the frame — not two, one — handles the pillow in the same unhurried register. It does not puff twice and finish. It works gradually: a slow, sustained inflation that reshapes the pillow from the base up, then a brief hold, then a calibrated deflation that settles the pillow into its final position — plumped and reshaped, but not repositioned. The node works the pillow where it sits. The whole cycle takes longer than it should. Longer than feels necessary. That is the point. One soft sound, extended — less a puff than a quiet, patient exhale. Then stillness. The pillow is plumped and reshaped. Fuller. Better. Still sitting slightly askew — where it landed, not where it was placed. Good enough.
+
+**The base model's scope:** The base PUSH self-making handles exactly two items: the fitted sheet (tensioning bar) and the one PUSH pillow (pneumatic node). Any other bedding the owner adds — flat sheets, duvets, additional personal pillows — remains exactly where the owner left it. Dave's flat sheet stays balled at the foot. His college pillow sits undisturbed. The PUSH makes its bed. It doesn't make yours.
+
+**The PUSH+ self-making:** The PUSH+ includes an enhanced tensioning system that handles the fitted sheet, flat sheet, and duvet — all three layers. It also includes three pneumatic nodes (one per PUSH pillow). The PUSH+ Atmosphere Suite integrates mood lighting and spatial audio into the wake cycle. The enhanced mechanism is faster and quieter — the same unhurried character, refined. For a full comparison of self-making capabilities by tier, see the Product Line Brief.
 
 **The character of the mechanism:** Slow. Measured. Methodical. Calm. It does not rush because the bed does not rush. The remaking happens across the entire morning — beginning during the bathroom wait, still running at the closet, finishing with the pillow during the tie. The bed is not trying to get this done before Dave notices. It is simply doing it, at its own pace, in parallel with everything else. The morning is long enough. The mechanism knows this.
 
@@ -323,49 +339,70 @@ This shot is the tonal counterpart to every Gauntlet shot in the film. All day t
 
 ## 1.10 — MARCUS'S BED
 
-Marcus has a PUSH by RISE. Same product. Same generation. Same hardware.
+Marcus has a PUSH+ by RISE. Same product line as Dave's. Different tier.
 
-**The distinction is personal, not mechanical.** Marcus and Dave both own the current PUSH. The frame, casters, struts, retention system, sticker, remote, and pillow are identical between them. What differs is everything the owner chose: the colorway and the soft goods.
+**The distinction is the tier, not just personal taste.** Dave owns a base PUSH. Marcus owns a PUSH+. Same chassis, same core engineering — different everything else. Toyota and Lexus. Same platform. The Lexus drives quieter, the doors feel fuller, everything is more considered. People notice. Nobody says anything.
 
-### Hardware (identical — the PUSH)
+Marcus didn't add his own pillows and sheets to a base model. He bought the PUSH+ with everything built in. His bed is a status symbol people recognize — the top-of-the-line model, and people notice.
 
-Same frame construction, same strut profile, same caster base, same motor, same hum baseline, same PUSH remote. The sticker reads the same: RISE / The PUSH / Smart Adjustable Base.
+### Hardware (PUSH+ — upgraded)
+
+Same frame construction and strut profile as Dave's, but in warm gray (PUSH+ premium colorway). Same caster design, dampened and whisper-quiet. Enhanced motor — lower, smoother, almost silent. Same PUSH remote (one button). The sticker reads: RISE / The PUSH+ / Smart Adjustable Base.
 
 Marcus's bed is in STATE THREE at the office — vertical, on casters, fully made.
 
-### Colorway (personal choice)
+### Visual Comparison
 
-| Element       | Dave's PUSH                   | Marcus's PUSH                                 |
-| ------------- | ----------------------------- | --------------------------------------------- |
-| Frame color   | Dark charcoal, cool undertone | Warm gray — slightly lighter, slightly warmer |
-| Frame profile | Identical                     | Identical                                     |
-| Brand sticker | Current PUSH design           | Same PUSH design, same layout                 |
+| Element | Dave's PUSH | Marcus's PUSH+ |
+| --- | --- | --- |
+| Frame color | Dark charcoal, cool undertone | Warm gray — slightly lighter, slightly warmer (PUSH+ premium colorway) |
+| Frame profile | Identical | Identical |
+| Brand badge | `RISE / The PUSH / Smart Adjustable Base` | `RISE / The PUSH+ / Smart Adjustable Base` |
+| PUSH pillows | One (one pneumatic node) | Three (three pneumatic nodes) |
+| Pillowcase | White, standard | Warm-tone silk/sateen, coordinated |
+| Fitted sheet | Navy, standard cotton | Olive silk/sateen |
+| Flat sheet | White, his own (untucked, balled at foot) | Coordinated warm tone, properly tucked (PUSH+ premium) |
+| Duvet | None | Rich olive/warm tone, fuller, properly cornered (PUSH+ premium) |
+| Euro shams | None | Two, deep olive (PUSH+ included) |
+| Accent pillows | None | Two, complementary warm tone (PUSH+ included) |
+| Throw | None | At foot, warm tone |
+| Atmosphere Suite | None | Frame-integrated mood lighting + spatial audio |
+| Self-making | One tensioning bar (fitted sheet only), one node | Enhanced tensioning (fitted + flat + duvet), three nodes |
+| Sound | Warm hum, faint caster whisper | Smoother, quieter — you feel it more than hear it |
 
-The PUSH comes in at least two colorways. Dave chose dark charcoal. Marcus chose warm gray. This is a consumer product with options — which grounds the world.
+### The Sound Difference
 
-### Soft Goods (personal — not the product)
+Dave's PUSH hums. Marcus's PUSH+ _purrs_. Same frequency architecture, different texture entirely — lower, smoother motor; dampened casters; a pneumatic exhale that's barely there; panel movement that's solid and muted. The difference between a Camry door and an LS door. You feel it without being able to articulate it.
 
-| Element    | Dave                                | Marcus                                                   |
-| ---------- | ----------------------------------- | -------------------------------------------------------- |
-| Sheets     | Navy fitted sheet, slightly rumpled | Olive fitted sheet, slightly rumpled                     |
-| Duvet      | None — just the fitted sheet        | Olive duvet cover. Someone who owns throw pillows.       |
-| Pillowcase | White, standard                     | Warm-tone pillowcase — coordinated with his olive sheets |
+### Marcus's Bedroom
 
-The pillow itself is PUSH hardware — it contains the pneumatic reshaping node. The pillowcase is Marcus's. The sheets are Marcus's. The duvet is Marcus's.
+The PUSH+ Atmosphere Suite isn't just on the bed — it integrates with the room. Mood lighting: warm, dimmable, frame-integrated. Spatial audio module for ambient programs. Marcus's bedroom is curated. He's a ladies' man who takes his bedroom's appearance seriously, knowing the vibe it gives the girls he invites back. His PUSH+ is visible taste — the five-pillow crown, the silk sheets, the warm glow. The S-Class in the parking lot.
 
-This split matters: the PUSH doesn't care about your aesthetic choices. It makes your bed regardless. Dave's navy sheet gets pulled taut by the tensioning bar. Marcus's duvet gets pulled taut by the same tensioning bar. Same machine, different person on top of it.
+### The Pillow Stack
 
-### Why Two Colorways, Not Two Models
+Marcus's bed has five pillows total: three PUSH+ hardware pillows (each with a pneumatic node, warm-tone silk/sateen pillowcases), two Euro shams (deep olive, structural backing), and two accent pillows (complementary warm tone, decorative). When vertical in STATE THREE, the pillow stack creates a "crown" silhouette at the top. The three PUSH+ pillows are plumped by the self-making mechanism. The Euro shams and accent pillows stay exactly where Marcus placed them — which, because Marcus is Marcus, already looks perfect.
 
-When both beds are in frame at the office, the visual variety prevents them from reading as a single duplicated prop — but the sameness of the hardware confirms these are the same product. Two men, same bad decision, same consequence. The symmetry only works because they're carrying identical situations into work.
+### The Self-Making Difference
 
-**The dual hum:** When Dave and Marcus's beds are both in frame at the office, their hums should be slightly different in pitch and slightly out of sync — creating a quiet, inadvertent chord. Two men, two mornings, two machines. The slight dissonance is not unpleasant. It is just honest.
+Dave's base PUSH makes the fitted sheet taut and plumps one pillow. His flat sheet stays balled at the foot. His college pillow sits undisturbed.
+
+Marcus's PUSH+ makes the fitted sheet, flat sheet, and duvet taut — all three layers handled by the enhanced tensioning system. All three PUSH+ pillows are plumped by three individual pneumatic nodes. The Atmosphere Suite shifts from warm amber (sleep) to cool daylight (wake) as part of the morning sequence. His bed presents perfectly because he paid for it to.
+
+### Why Two Tiers, Not Just Two Colorways
+
+When both beds are in frame at the office, the visual contrast is immediate. Dave's dark charcoal frame, one pillow, navy sheet, "PUSH" badge. Marcus's warm gray frame, five-pillow crown, silk olive everything, faint ambient glow, "PUSH+" badge. Same brand. Same bad decision. Wildly different investment in that decision. The `+` does all the talking.
+
+Dave notices. Everyone notices. It's unspoken.
+
+**The dual hum:** When both beds are in frame at the office, their hums are slightly different — not just in pitch and sync, but in _quality_. Dave's has a faint industrial edge. Marcus's is smoother, more refined. The chord they create together is the sound of two men who made the same bad decision at wildly different price points.
 
 ### Karen's Relationship to the PUSH
 
-Karen had the NUDGE — the first generation, before Dave's current PUSH. _"I had the NUDGE. Made me a VP."_ She sounds like a founding member of something. Her NUDGE is gone now — she doesn't need it anymore. But it got her here.
+Karen had the NUDGE — the first generation, before the PUSH product line. _"I had the NUDGE. Made me a VP."_ She sounds like a founding member of something. Her NUDGE is gone now — she doesn't need it anymore. But it got her here.
 
-This implies a product timeline: RISE (company) → the NUDGE (first generation, Karen's era) → the PUSH (current, Dave and Marcus's model) → the MOVE (next generation, not yet released). No model numbers are spoken in the film. The timeline is felt, not stated.
+The NUDGE was a single configuration — one product, one price, no tiers. That's part of why RISE rebranded to PUSH: the NUDGE taught them the market. The PUSH taught them the margin.
+
+This implies a product timeline: RISE (company) → the NUDGE (first generation, Karen's era, single config) → the PUSH / PUSH+ (current, tiered product line) → the MOVE (next generation, not yet released). No model numbers are spoken in the film. The timeline is felt, not stated.
 
 ---
 
@@ -504,11 +541,13 @@ While the bed commutes home through the city, the remote rests on the nightstand
 
 ---
 
-## 2.7 — THE REMOTE AS TITLE
+## 2.7 — PUSH AS TITLE
 
-The film is called _The Remote_.
+The film is called _PUSH_.
 
-This means the remote earns its close-ups. Every shot of the remote on the nightstand should be composed with the same care as a shot of a character's face. The remote is not background. The remote is not set dressing. It is a subject.
+The title is the button. One word. One action. One irreversible consequence. Dave pushes a button and his entire day is decided for him. The remote earns its close-ups because the PUSH button is the thesis statement of the entire film — a single act of faith in a product that does not offer a second opinion.
+
+Every shot of the remote on the nightstand should be composed with the same care as a shot of a character's face. The remote is not background. The remote is not set dressing. It is a subject.
 
 When the remote glows in the pre-dawn dark, it should feel like the only warm thing in a cold room. It has been waiting there all night — patient, constant, ready. This quality — warmth in darkness, patience over time — is what connects the remote to the bed. They are the same product. They have the same character. They were built by the same company that wrote _"Have a productive day!"_ on the back of a device with no off button and meant it with complete sincerity.
 
@@ -522,19 +561,38 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 
 ## APPENDIX — QUICK REFERENCE
 
-### THE BED AT A GLANCE
+### THE BED AT A GLANCE (Dave's PUSH — Base)
 
 - **Brand:** RISE
 - **Product:** The PUSH (Smart Adjustable Base)
+- **Tier:** Base
 - **Color:** Matte dark charcoal, cool blue undertone
 - **Size:** Large. Fills every space it occupies. Belongs in all of them.
-- **Mattress:** Standard. Plain white or off-white cover. Navy or dark gray fitted sheet, rumpled. Always on the bed in all four states — held by the frame's retention system.
-- **Pillow:** One. PUSH hardware (contains pneumatic reshaping node). Pillowcase is personal (Dave's: white). Always present. Slightly askew in STATE THREE initially. Plumped and reshaped by the self-making mechanism during the morning routine, but not repositioned — remains slightly askew.
+- **Mattress:** Standard. Plain white or off-white cover. Navy fitted sheet, rumpled. Always on the bed in all four states — held by the frame's retention system.
+- **PUSH pillow:** One. PUSH hardware (contains pneumatic reshaping node). Pillowcase: white. Always present. Slightly askew in STATE THREE initially. Plumped and reshaped by the self-making mechanism during the morning routine, but not repositioned — remains slightly askew.
+- **Personal pillow:** One. Flat, generic white, from college. Not PUSH hardware — the mechanism does not interact with it.
+- **Flat sheet:** White, Dave's own. Usually untucked or balled at the foot. Not handled by the self-making mechanism.
+- **Duvet:** None.
 - **Movement:** Continuous rolling via low-profile caster base beneath the frame. Smooth, quiet, inevitable. No stepping, no rhythm, no visible effort.
 - **Sound:** Warm low hum + faint caster whisper
-- **Sticker:** Lower-right front face. Obscured in STATE ONE by mattress overhang. Visible in STATE THREE. "RISE / The PUSH / Smart Adjustable Base"
+- **Badge:** Lower-right front face. Obscured in STATE ONE by mattress overhang. Visible in STATE THREE. "RISE / The PUSH / Smart Adjustable Base"
+- **Self-making:** One tensioning bar (fitted sheet only) + one pneumatic node (one PUSH pillow only). Dave's flat sheet and personal pillow are untouched.
 - **States:** Flat (resting bed) / Raised (transitioning bed) / Vertical (upright complete bed, rolling) / Folded (car — V-shape in back seat)
 - **Struts:** Visible on each side. Articulate for the raising mechanism only. Not the movement mechanism.
+
+### MARCUS'S PUSH+ AT A GLANCE
+
+- **Product:** The PUSH+ (Smart Adjustable Base)
+- **Tier:** Premium
+- **Color:** Warm gray — slightly lighter, slightly warmer (PUSH+ premium colorway)
+- **PUSH pillows:** Three. Each contains a pneumatic node. Warm-tone silk/sateen pillowcases.
+- **Euro shams:** Two, deep olive. Accent pillows: Two, complementary warm tone. Placed by Marcus, not repositioned by the mechanism.
+- **Sheets:** Olive silk/sateen fitted sheet + coordinated flat sheet (PUSH+ premium).
+- **Duvet:** Rich olive/warm tone, fuller, properly cornered (PUSH+ premium).
+- **Badge:** "RISE / The PUSH+ / Smart Adjustable Base"
+- **Atmosphere Suite:** Frame-integrated mood lighting + spatial audio.
+- **Self-making:** Enhanced tensioning (fitted sheet + flat sheet + duvet) + three pneumatic nodes.
+- **Sound:** Smoother, quieter — you feel it more than hear it. Dampened casters, muted panels.
 
 ### THE REMOTE AT A GLANCE
 
@@ -553,7 +611,8 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 
 ---
 
-_THE REMOTE — Prop Bible v3.1_
+_PUSH — Prop Bible v4.0_
+_Changes from v3.1: Product line architecture — PUSH (base, Dave) and PUSH+ (premium, Marcus). Badge differentiation: "The PUSH" vs "The PUSH+". Marcus rewritten as PUSH+ owner: three PUSH pillows (three pneumatic nodes), premium silk/sateen soft goods, enhanced self-making (handles fitted sheet + flat sheet + duvet), Atmosphere Suite (mood lighting + spatial audio), dampened/quieter sound profile. Dave's full bedding canonized: one PUSH pillow + one personal pillow (college), navy fitted sheet, white flat sheet (usually balled at foot), no duvet. Self-making scoped by tier (§1.8): base handles fitted sheet + one pillow only; PUSH+ handles all layers + three pillows. §1.3 reframed as base model spec. §1.5 badge updated for PUSH+ variant. Product Line Brief (new doc) established for tier architecture, website content, and full product comparison._
 _Changes from v3.0: Pillow resolution — node plumps/reshapes but does not reposition; pillow remains slightly askew (§1.3, §1.8, §1.9, Appendix aligned). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
 _Changes from v2.3: Product rebrand — now "PUSH by RISE" (company remains RISE, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._
 _This document is canonical. All other prop descriptions defer to this one._

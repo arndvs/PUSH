@@ -225,6 +225,6 @@ Executives decide whether they like your project in the first 10 pages (often so
 
 ---
 
-_This document is a reference companion for THE REMOTE screenplay development._
+_This document is a reference companion for PUSH screenplay development._
 
 © 2026 Aaron Davis. All rights reserved.
