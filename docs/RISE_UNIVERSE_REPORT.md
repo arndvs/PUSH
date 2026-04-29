@@ -66,7 +66,7 @@ The Push doesn't suggest. It delivers. The base transitions to vertical and auto
 - **Push Mode** — Non-interruptible. "This is a feature, not a limitation."
 - **Autonomous Sheet Tensioning** — Makes the bed while you're in the shower
 - **Pillow Restoration Node** — Pneumatic re-centering
-- **Precision Caster Navigation** — Near-silent autonomous room mapping
+- **Precision Track Navigation** — Near-silent autonomous room mapping
 - **Solo Return Commute** — The bed goes home by itself
 - **PM-1 Remote** — One button. One function. No off switch.
 
@@ -183,7 +183,7 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Sanity v5 (blog CMS) 
 **Tone:** Buster Keaton meets Office Space
 **Core Rule:** Nobody acknowledges the bed. Dave never fights it. He adapts instantly.
 
-### Story Arc (19 scenes)
+### Story Arc (21 scene headings: Scenes 1–19, plus inserts 7A and 16A)
 
 | Act                      | Summary                                                                                                                       |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -213,11 +213,11 @@ Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Sanity v5 (blog CMS) 
 
 ### Production Status
 
-- Screenplay v5.0 complete
+- Screenplay v7.0 complete
 - Prop Bible v4.0 (canonical)
-- Visual Reference Guide v4.1
-- 54-shot AI shot list (Sora/Runway/Kling/Pika prompts)
-- 53-panel storyboard handoff
+- Visual Reference Guide v4.2
+- 55-shot AI shot list (Sora/Runway/Kling/Pika prompts)
+- 54-panel storyboard handoff (v1.3)
 - Audit: 9 slices — slices 1–3 and 6–8 complete. Slices 4, 5, 9 still open (HITL decisions needed)
 
 ---

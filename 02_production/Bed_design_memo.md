@@ -90,7 +90,7 @@ The goal is five distinct angle types that can be cut together the way _Trash Tr
 | ------------- | --------------------------- | -------------------- |
 | Face          | Pillow stack + top frame    | Watching / character |
 | Back          | Rear panel + motor housings | Mechanical / vehicle |
-| Undercarriage | Caster base + frame         | Weight / locomotion  |
+| Undercarriage | Track base + frame          | Weight / locomotion  |
 | Flank         | Side rail + struts          | Posture / scale      |
 | Texture       | Soft goods close-up         | Domestic / intimate  |
 
@@ -102,9 +102,9 @@ No single angle tells the whole story. Together they establish a character with 
 
 ### 5.1 Track System (Replacing Casters)
 
-> **Status: Not adopted.** The canonical PUSH uses low-profile casters (Prop Bible v4.0 §1.2). This section is retained as a design exploration that may inform future products (e.g., RISE MOVE).
+> **Status: Adopted.** The continuous track system is canonical for PUSH and PUSH+ (Prop Bible v4.0 §1.3). Low-profile casters reflect an earlier prop spec, retained here as design history.
 
-The original prop spec used low-profile casters. This section explored replacing them with a **continuous track system** — functionally analogous to a tank tread.
+The original prop spec used low-profile casters. The design evolved to a **continuous track system** — functionally analogous to a tank tread.
 
 **Rationale — engineering:** Tracks navigate carpet, hardwood, tile, and concrete reliably. A caster system that catches on a rug edge or tile grout is a prop problem. A track system that rides over surface transitions is a vehicle.
 
@@ -231,7 +231,7 @@ stateDiagram-v2
 
     FLAT : FLAT — STATE ONE\nHorizontal. A bed. Completely mundane.\nSelf-making not yet run.
 
-    RAISED : RAISED — STATE TWO\nBack panel rising through arc.\nHum begins. Casters engaging.
+    RAISED : RAISED — STATE TWO\nBack panel rising through arc.\nHum begins. Tracks engaging.
 
     VERTICAL : VERTICAL — STATE THREE\nFully upright. Complete bed on end.\nPrimary operating state. Self-making runs.
 
@@ -333,7 +333,7 @@ The motor hum is the bed's only dialogue. It modulates pitch and volume to expre
 | Environment      | Challenge           | Solution                                                          |
 | ---------------- | ------------------- | ----------------------------------------------------------------- |
 | Bedroom          | Dominates room      | Design room around bed — it's a bedroom                           |
-| Hallway          | Wider than standard | Build wide; caster movement sells locomotion                      |
+| Hallway          | Wider than standard | Build wide; track movement sells locomotion                       |
 | Bathroom         | Cannot enter        | Bed waits in doorway — funnier anyway                             |
 | Closet           | Tight               | Dave always in front; bed fills entrance                          |
 | Kitchen          | Fastest sequence    | Speed sells it; stay on Dave's face                               |
@@ -366,7 +366,7 @@ The audience who recognizes the song gets a private joke about a man being pushe
 
 | Decision                                  | Rationale                                                                                       |
 | ----------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Low-profile casters (canonical)           | Domestic silhouette; tracks explored but not adopted (see §5.1)                                 |
+| Track system (canonical)                  | Reliable surface navigation + cinematic texture; adopted per Prop Bible v4.0 (see §5.1)        |
 | Rear panel — clean and minimal            | Explored as engine room (§5.2) but not adopted; rear remains domestic                           |
 | Layered soft goods as costume             | Every angle has texture; bed has topography; five distinct crop zones                           |
 | Multiple pillows, character-specific      | Pillow stack changes head silhouette; becomes a crown                                           |

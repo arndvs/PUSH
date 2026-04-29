@@ -427,15 +427,15 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 024
 
-**Scene:** Caster insert — first time audience sees wheels
+**Scene:** Track insert — first time audience sees the bed's movement system
 **Duration:** 2–3 seconds
 **Camera:** Low angle. Driveway concrete.
 
 **AI PROMPT:**
 
-> Low angle shot of suburban driveway concrete. Small black casters roll into frame from the right, steady and unhurried. The low hum of a motor. Morning light rakes across the pavement. The wheels move with quiet mechanical purpose.
+> Low angle shot of suburban driveway concrete. The bed's continuous tracks roll into frame from the right, steady and unhurried. The low hum of a motor. Morning light rakes across the pavement. The tracks move with quiet mechanical purpose — individual links passing, a faint rhythm of drive sprockets engaging.
 
-**NOTES:** This is the first time the audience sees the bed's casters. Keep it simple — wheels on concrete, motor hum. The wide shot that follows gives the full picture.
+**NOTES:** This is the first time the audience sees the bed's track system. Keep it simple — tracks on concrete, motor hum. The wide shot that follows gives the full picture.
 
 ---
 
@@ -886,7 +886,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 _PUSH — AI Shot List v4.6_
 _Updated: Shot 034A added (Scene 16A — Marcus/Priya). Shot 041 updated with closing nod. Aligned with Screenplay v7.0._
 _Previous: v4.5 — Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
-_19 scenes / 54 shots / approx. 5–7 minute runtime_
+_21 scene headings (19 numbered scenes + inserts 7A and 16A) / 55 shots / approx. 5–7 minute runtime_
 
 ---
 

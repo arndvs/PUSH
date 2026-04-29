@@ -13,7 +13,7 @@ This report distills the full production package into a storyboard-ready brief. 
 1. [Prop Bible](../02_production/prop_bible.md) — canonical physical descriptions (overrides all others)
 2. [Screenplay](../01_screenplay/PUSH_Screenplay.md) — story, dialogue, scene order
 3. [Visual Reference Guide](../02_production/Visual_Reference_and_Collaborator_Guide.md) — camera, tone, editing philosophy
-4. [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md) — 54 shots with detailed descriptions
+4. [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md) — 55 shots with detailed descriptions
 5. [Bed Proportions Guide](../02_production/Bed_Proportions_and_Environmental_Integration.md) — how the bed fits in every environment
 6. [Gas Station Beat Breakdown](../01_screenplay/gas-station-beat-breakdown.md) — deep-dive on the commute's climactic beat
 
@@ -35,14 +35,14 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 
 ### Runtime
 
-5–7 minutes. 19 scenes. 54 shots (per AI Shot List). The storyboard should target ~60–80 panels.
+5–7 minutes. 21 scene headings (19 numbered scenes + inserts 7A and 16A). 55 shots (per AI Shot List). The storyboard should target ~60–80 panels.
 
 ### Structure
 
 | Act                      | Scenes | Content                                                      | Tone                            |
 | ------------------------ | ------ | ------------------------------------------------------------ | ------------------------------- |
 | **Act 1: The Wreckage**  | 1–3    | Wake up, flashbacks, discovers remote                        | Cold, quiet, accumulating dread |
-| **Act 2: The Gauntlet**  | 4–8    | Bed rises, bathroom, closet, coffee                          | Escalating physical comedy      |
+| **Act 2: The Gauntlet**  | 4–8 (includes 7A) | Bed rises, bathroom, closet, hallway/tie, coffee   | Escalating physical comedy      |
 | **Act 3: The Commute**   | 9–11   | Driveway, car, drive-through, bus, gas station, highway push | Road comedy, consequence        |
 | **Act 4: The Office**    | 12–16A | Lobby, elevator, Marcus reveal, meeting, Karen, Marcus/Priya | Deadpan workplace absurdism     |
 | **Act 5: The Wind Down** | 17–18  | Afternoon recovery, group chat, departure                    | Earned warmth                   |
@@ -78,7 +78,7 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 - **Color:** Matte dark charcoal with faint cool blue undertone.
 - **Construction:** Adjustable base frame + mattress (navy fitted sheet, slightly rumpled) + one white pillow. No headboard. No decorative elements.
 - **Struts:** Visible on each side. Articulating arms that extend as the bed raises.
-- **Casters:** Low-profile, beneath the frame base. Nearly invisible when flat. Functional when vertical.
+- **Tracks:** Continuous track system beneath the frame base. Nearly invisible when flat. Functional when vertical.
 - **Brand sticker:** Lower-right front face. "RISE / The PUSH / Smart Adjustable Base." Obscured in flat state by mattress overhang; visible when vertical.
 
 **Four states the storyboard must depict:**
@@ -87,7 +87,7 @@ The storyboard's co-star. Present in nearly every panel from Scene 4 onward.
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | **STATE ONE: Flat**       | Normal bed. Horizontal. Mundane.                                                                                        | Scenes 1–3, Epilogue     |
 | **STATE TWO: Raised**     | Back panel rising through its arc (45°→90°→120°+). Mattress and pillow rise with it.                                    | Scene 4 (transition)     |
-| **STATE THREE: Vertical** | Fully upright. Complete bed on end — mattress, sheet, pillow visible. Pillow slightly askew at top. Rolling on casters. | Scenes 4–18, End Credits |
+| **STATE THREE: Vertical** | Fully upright. Complete bed on end — mattress, sheet, pillow visible. Pillow slightly askew at top. Rolling on tracks. | Scenes 4–18, End Credits |
 | **STATE FOUR: Folded**    | Folded in half like a taco (V-shape). Wedged into car back seat.                                                        | Scene 10 (car only)      |
 
 **CRITICAL:** The bed must always read as a complete bed, not a bare frame. Mattress, sheet, and pillow must be visible in every panel. This is what makes the joke land.
@@ -487,13 +487,13 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 28 — Caster Insert (Scene 9)
+#### PANEL 28 — Track Insert (Scene 9)
 
-**Image:** Low angle — driveway concrete. Small black casters roll into frame from the right. Steady, unhurried. Morning light rakes across pavement.
+**Image:** Low angle — driveway concrete. The bed's continuous tracks roll into frame from the right. Steady, unhurried. Morning light rakes across pavement.
 **Shot Type:** Low angle insert. Ground level.
-**Action:** First time audience sees the bed's wheels. Just casters on concrete.
+**Action:** First time audience sees the bed's track system. Tracks on concrete, motor hum.
 **Dialogue:** None
-**Camera:** Simple. Wheels on concrete, motor hum. Establishes the rolling mechanism.
+**Camera:** Simple. Tracks on concrete, motor hum. Establishes the rolling mechanism.
 **Hum:** Low, steady. Out in the world now.
 
 ---
@@ -863,11 +863,11 @@ A running visual thread across three beats:
 | Act 1: The Wreckage  | 12            | Panels 1–12                                  |
 | Act 2: The Gauntlet  | 15            | Panels 13–27 (includes self-making intercut) |
 | Act 3: The Commute   | 11            | Panels 28–38                                 |
-| Act 4: The Office    | 5             | Panels 39–43                                 |
+| Act 4: The Office    | 6             | Panels 39–43A (includes 43A: Marcus/Priya)   |
 | Act 5: The Wind Down | 8             | Panels 44–51                                 |
 | Epilogue             | 1             | Panel 52                                     |
 | End Credits          | 1             | Panel 53                                     |
-| **TOTAL**            | **53 panels** |                                              |
+| **TOTAL**            | **54 panels** |                                              |
 
 ---
 
@@ -887,7 +887,7 @@ When the storyboard artist needs more detail on any element, go to:
 ---
 
 _PUSH — Storyboard Handoff Report v1.3_
-_54 panels across 20 scenes + end credits_
+_54 panels across 21 scene headings (19 numbered + inserts 7A, 16A) + end credits_
 _Changes from v1.2: Panel 43A added (Scene 16A — Marcus/Priya). Panel 50 updated with closing nod. Aligned with Screenplay v7.0._
 _Previous: v1.2 — Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
 _Source files: Screenplay v7.0, Prop Bible v4.0, Visual Reference & Collaborator Guide v4.2, AI Shot List v4.6, Bed Proportions Guide v4.4_
