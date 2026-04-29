@@ -27,10 +27,6 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 
 - **STORYBOARD_HANDOFF_REPORT.md** — Storyboard handoff report with visual breakdowns and shot-by-shot framing notes.
 
-### 📝 Root
-
-- **original-concept.md** — Original pitch treatment. Superseded by the screenplay but preserved for reference.
-
 ---
 
 ## Quick Start
