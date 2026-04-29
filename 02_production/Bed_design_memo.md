@@ -164,48 +164,54 @@ Each layer is a different close-up opportunity. A shot of the mattress corner sh
 
 Every bed in the film has a costume dossier — the equivalent of a costume designer's character bible. Same product, different human.
 
-### 6.1 Dave's PUSH — Dark Charcoal / Navy
+### 6.1 Dave's PUSH (Base) — Dark Charcoal / Navy
 
 The bachelor bed. Functional, not quite put-together. A person who means to do better.
 
-| Element      | Spec                               | Character Read                         |
-| ------------ | ---------------------------------- | -------------------------------------- |
-| Frame        | Dark charcoal, cool blue undertone | Corporate-adjacent, slightly ominous   |
-| Fitted sheet | Navy, slightly faded               | Has been washed many times             |
-| Flat sheet   | White, often untucked              | Good intentions, imperfect execution   |
-| Duvet        | Charcoal, plain                    | Bought because it was on sale          |
-| Duvet cover  | Slightly bunched at corners        | He never quite gets the corners in     |
-| Pillows      | One good + one from college        | The second pillow tells you everything |
-| Throw        | None                               |                                        |
+| Element | Spec | Character Read |
+| --- | --- | --- |
+| Frame | Dark charcoal, cool blue undertone | Corporate-adjacent, slightly ominous |
+| Badge | `RISE / The PUSH / Smart Adjustable Base` | Base model |
+| Fitted sheet | Navy, slightly faded | Has been washed many times |
+| Flat sheet | White, often untucked or balled at foot | Good intentions, imperfect execution |
+| Duvet | None | He never bought one |
+| PUSH pillow | One (hardware, pneumatic node, white pillowcase) | The product |
+| Personal pillow | One — flat, generic white, from college | The second pillow tells you everything |
+| Throw | None | |
+| Self-making | Tensioning bar (fitted sheet only) + one node (PUSH pillow only) | His flat sheet stays balled. His college pillow sits undisturbed. |
 
 The bed is dressed the way Dave is dressed: functional, not quite assembled.
 
-### 6.2 Marcus's PUSH — Warm Gray / Olive
+### 6.2 Marcus's PUSH+ (Premium) — Warm Gray / Olive
 
-Same hardware. Different human.
+Same product line. Different tier. Everything upgraded.
 
-| Element          | Spec                           | Character Read                  |
-| ---------------- | ------------------------------ | ------------------------------- |
-| Frame            | Warm gray, slightly lighter    | Same product, warmer person     |
-| Fitted sheet     | Olive                          | Deliberate color choice         |
-| Flat sheet       | Coordinated warm tone          | He thought about this           |
-| Duvet            | Olive, fuller                  | More volume than Dave's         |
-| Duvet cover      | Coordinated, properly cornered | Marcus gets the corners in      |
-| Euro shams       | Present                        | Someone who owns Euro shams     |
-| Sleeping pillows | Two, matched                   | Two. Matched.                   |
-| Weighted blanket | Possible                       | Marcus has considered his sleep |
+| Element | Spec | Character Read |
+| --- | --- | --- |
+| Frame | Warm gray, PUSH+ premium colorway | Same chassis, warmer finish |
+| Badge | `RISE / The PUSH+ / Smart Adjustable Base` | Premium model — people notice |
+| Fitted sheet | Olive silk/sateen | Deliberate color, deliberate fabric |
+| Flat sheet | Coordinated warm tone, properly tucked | He thought about this |
+| Duvet | Olive, fuller, properly cornered | More volume, more quality |
+| Duvet cover | Coordinated, properly cornered | Marcus gets the corners in |
+| PUSH+ pillows | Three (hardware, pneumatic nodes, warm-tone silk pillowcases) | Three nodes. Three pillows. |
+| Euro shams | Two, deep olive | Someone who owns Euro shams |
+| Accent pillows | Two, complementary warm tone | Personality layer |
+| Throw | At foot, warm tone | Color break |
+| Atmosphere Suite | Mood lighting + spatial audio, frame-integrated | The bedroom is curated |
+| Self-making | Enhanced tensioning (fitted + flat + duvet) + three nodes | Everything gets made |
 
-Marcus's bed dressed is Marcus's personality expressed.
+Marcus's bed is Marcus's status symbol. The five-pillow crown, the silk sheets, the warm glow — it's the S-Class in the parking lot. He's a ladies' man who takes his bedroom's appearance seriously, knowing the vibe it communicates. His PUSH+ is visible taste. People notice. Nobody says anything.
 
-### 6.3 Karen's NUDGE — First Generation, Retired
+### 6.3 Karen's NUDGE — First Generation, Single Configuration, Retired
 
 Karen doesn't have the PUSH anymore. The NUDGE that made her VP — what was on that bed?
 
-| Element    | Spec                         | Character Read                  |
-| ---------- | ---------------------------- | ------------------------------- |
-| Frame      | First-gen NUDGE hardware     | Predecessor                     |
-| Everything | Crisp white, tight, centered | Hotel-standard                  |
-| Pillows    | Two. Same. Centered.         | Not one extra. Not one missing. |
+| Element | Spec | Character Read |
+| --- | --- | --- |
+| Frame | First-gen NUDGE hardware | Predecessor — one config, no tiers |
+| Everything | Crisp white, tight, centered | Hotel-standard |
+| Pillows | Two. Same. Centered. | Not one extra. Not one missing. |
 
 Karen's NUDGE is the bed of someone who didn't need the bed. It agreed with her.
 
