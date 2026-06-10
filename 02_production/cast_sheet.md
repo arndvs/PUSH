@@ -2,6 +2,8 @@
 
 © 2026 Aaron Davis. All rights reserved.
 
+_Quick-reference only. Full design specs — physical anchors, wardrobe states by shot, expression vocabularies, and AI reference prompts — live in the [Character Design Bible](character_design_bible.md)._
+
 ---
 
 **DAVE** — Male, 30s. Not a mess, exactly. More like a man perpetually one bad decision away from being a mess. Likable. Relatable. Currently a mess.
@@ -18,9 +20,9 @@
 
 **BUS COMMUTER** — Anybody. Sipping from a thermos on autopilot. Doesn't know they're ruining someone's morning.
 
-**TYLER** — Friend. Group chat presence. Already at the bar.
+**TYLER** — Friend. The documentarian — phone always up. Films the napkin argument and sends it to the group chat as a joke; it ends up saving Dave's afternoon. Never finds out. Already at the bar.
 
-**JAKE** — Friend. Group chat presence. Already at the bar.
+**JAKE** — Friend. Eats other people's food — fries at the bar, a gas station hot dog in the cab. First to arrive anywhere drinks are. Already at the bar.
 
 **RECEPTIONIST** — Office lobby. Warm, unbothered, asks "Rough one?" without expecting an answer.
 
@@ -28,10 +30,8 @@
 
 **MANAGER** — Conference room. Presenting Q3 throughput slides. Does not break stride for anything.
 
-**NEIGHBOR** — Walks a dog past Dave's driveway. Watches longer than necessary but says nothing.
+**NEIGHBOR** — Walks a dog past Dave's driveway. Glances, nods at Dave's "Morning," keeps walking. The dog watches longer.
 
 **EMPLOYEE** — Heading into the office building. Passes Dave without breaking stride.
 
 **YOUNG EMPLOYEE** — Conference room. New hire energy. Almost raises his hand about the beds. Doesn't.
-
-**COLLEAGUE** — Late afternoon. Dave explains something at a whiteboard. Background.

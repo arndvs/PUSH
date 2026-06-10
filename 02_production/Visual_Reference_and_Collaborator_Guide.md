@@ -88,7 +88,7 @@ Think of it as a very literal GPS — it doesn't care how you feel about the rou
 - Patient
 - Relentless
 - Oddly precise (knows exactly where Dave needs to be next)
-- Slightly proud (the satisfied hum at 4:58pm when Dave finishes his report)
+- Slightly proud (the satisfied hum at 4:58pm when Dave sends the Hendricks model fix)
 
 **It is not:**
 
@@ -113,7 +113,7 @@ The production-critical hum moments:
 | Waiting outside the shower          | Low and patient. Also: faint sheet-tensioning whisper beneath it.          |
 | In the car                          | Muffled through upholstery. Still present.                                 |
 | Office hours                        | Barely audible. A presence, not a force.                                   |
-| 4:58pm, report sent                 | One small exhale note. Brief. Almost like satisfaction. Then back to idle. |
+| 4:58pm, model fix sent              | One small exhale note. Brief. Almost like satisfaction. Then back to idle. |
 | Commute home — city street          | Medium, warm. Moving by choice, not obligation.                            |
 | Bedroom — folding flat              | Low, fading. Home.                                                         |
 
@@ -360,11 +360,13 @@ Dave watches from his desk. His own bed is silent. Dave says "Yeah, I know" — 
 
 **This is a time-lapse of recovery told through the bed's behavior.**
 
-The visual key: as the clock advances, the bed's lean decreases. By 4:30 it's essentially just parked. By 4:58 it sits beside Dave like a companion at rest.
+The visual key: as the clock advances, the bed's lean decreases. By 4:15 it's essentially just parked. By 4:58 it sits beside Dave like a companion at rest. The obstacle has moved from the hallway to Dave's screen — the Hendricks model.
 
-**The whiteboard moment (4:30pm):** Dave is gesturing at a whiteboard, fully animated, explaining something to a coworker. He catches his own reflection in the window behind them — upright, dressed, functional. A flicker of surprise. He looks almost like a person.
+**The napkin video (3:45pm):** The thread pays off here, and it pays off in AUDIO. Dave scrolls way back through the group chat and plays Tyler's video of the bar argument. We never see the screen. The quiet office fills with bar noise — glasses, laughter, Marcus's drunk conviction ("Across first, THEN down — where do the arrows go?"). The shot is Dave's face: skeptical, then sharpening, then his eyes widen. Grade this beat like the office scenes, not like the flashbacks — the degraded memory look belongs to the video's WORLD, which we only hear. The collision of bar audio and sober office light is the whole effect.
 
-**The 4:58pm hum:** When Dave sends the report and leans back, the bed emits one single, small, lower-pitched exhale note. Brief. Then back to idle. Dave registers it. That's all. No words, no gesture toward the bed. The moment passes. This is the closest thing to communication between them all day, and it happens without either of them making anything of it.
+**The whiteboard moments (3:00pm and 4:15pm):** Two trips, one arc. At 3:00 the approach is wrong — he erases half and sits back down. At 4:15 he's back, alone, writing fast — arrows, across first, then down. Marcus's napkin system, redrawn sober. He catches his own reflection in the window — upright, dressed, functional. A flicker of surprise. He looks almost like a person.
+
+**The 4:58pm hum:** When Dave sends the fix and leans back, the bed emits one single, small, lower-pitched exhale note. Brief. Then back to idle. Dave registers it. That's all. No words, no gesture toward the bed. The moment passes. This is the closest thing to communication between them all day, and it happens without either of them making anything of it.
 
 ---
 
@@ -453,8 +455,9 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 ---
 
-_PUSH — Visual Reference & Collaborator Guide v4.2_
-_Updated: Scene 16A added (Marcus/Priya). Scene 18 closing nod added. Aligned with Screenplay v7.0._
+_PUSH — Visual Reference & Collaborator Guide v4.3_
+_Updated: Scene 17 aligned to the v6.0+ afternoon — napkin video beat (3:45pm, audio-led, screen never shown) added; whiteboard split into 3:00/4:15 beats (Dave alone); "report" → Hendricks model fix throughout. Aligned with Screenplay v7.1._
+_Previous: v4.2 — Scene 16A added (Marcus/Priya). Scene 18 closing nod added. Aligned with Screenplay v7.0._
 _Previous: v4.1 — Pillow payoff locked to askew (Prop Bible v4.0 §1.3/§1.8 canonical). Aligned with Prop Bible v4.0._
 _The Prop Bible is the canonical source on all questions of physical description, brand, mechanism, and behavior. In any conflict between this document and the Prop Bible, the Prop Bible is correct._
 _Questions? Start with the screenplay. The bed knows what it's doing._
