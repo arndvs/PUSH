@@ -173,7 +173,7 @@ _120 degrees. He's now leaning forward at an angle, feet finding the floor._
 **DAVE (CONT'D)**
 Okay, okay—
 
-_He's standing. He looks behind him at the bed, which is now essentially vertical. He clicks the remote again. The hum doesn't change. He clicks it several more times. Nothing._
+_He's standing. He looks behind him at the bed, which is now essentially vertical. He clicks the remote again. The hum doesn't change. He clicks it several more times — harder, as if pressure were the issue. Nothing._
 
 _The bed — still humming — pushes into his back. Dave stumbles forward a step, startled. He catches himself. Looks back at it. The bed doesn't care. It pushes again — measured, patient, non-negotiable. He gets the point._
 
@@ -346,17 +346,17 @@ _Low angle. Driveway concrete. The bed's continuous tracks roll into frame, stea
 
 _Wide. For the first time, we see the full picture: Dave, the bed behind him, the suburban driveway, the morning light. It's worse than you imagined._
 
-_A neighbor walking a dog glances over. Keeps walking. The dog is more interested — watches longer than the human does._
+_Dave, coffeeless, is pushed down the driveway toward his car._
 
-_Dave, coffeeless, is pushed down the driveway toward his car. He makes brief eye contact with a neighbor._
+_A NEIGHBOR walking a dog glances over. Dave makes brief eye contact._
 
 **DAVE**
 _(with tremendous dignity)_
 Morning.
 
-_The neighbor watches him pass._
+_The neighbor nods. Keeps walking. The dog does not keep walking — it watches the entire procession pass, head turning, until the leash makes the decision for it._
 
-_Dave is pushed toward his car - walk of shame - almost like a perp walk._
+_Dave is pushed the rest of the way to the car — walk of shame, almost a perp walk, escorted by his own furniture._
 
 _Cut._
 
@@ -546,7 +546,7 @@ _Dave rounds the corner into the main office floor._
 
 _And there — at the desk diagonal from his — is MARCUS._
 
-_Marcus looks exactly as destroyed as Dave. Same suit and tie as last night from montage, slightly more wrinkled. Same expression of a man enduring something. Hair that has been fought with and won._
+_Marcus looks exactly as destroyed as Dave. Same suit and tie as last night, slightly more wrinkled. Same expression of a man enduring something. Hair that has been fought with and won._
 
 _Behind Marcus: a bed._
 
@@ -559,10 +559,12 @@ _Dave and Marcus look at each other._
 _A long beat._
 
 _Dave gives a single nod up._
+
 **DAVE**
 'Sup, Marcus.
 
 _Marcus gives a single nod up back._
+
 **MARCUS**
 'Sup.
 
@@ -729,11 +731,11 @@ _He puts the phone down._
 
 ---
 
-**4:15 PM** — Dave is at the whiteboard again. Writing. Multiple Arrows. It's working.
+**4:15 PM** — Dave is at the whiteboard again. Writing. Arrows — across first, then down. It's working.
 
 ---
 
-**4:58 PM** — Dave sits back down. Finishes the Hendricks report. Sends it.
+**4:58 PM** — Dave sits back down. The Hendricks model runs clean. He sends it.
 
 _He leans back. The bed is right there behind him._
 
@@ -806,7 +808,7 @@ _Dave launches upright._
 
 _The remote glows on the nightstand._
 
-_He looks at it._
+_He looks at it. The deliberation is shorter this time._
 
 _He picks it up._
 
@@ -901,8 +903,9 @@ The **RISE / PUSH sticker** should be readable at least twice — once in the be
 
 ---
 
-_PUSH — Screenplay v7.0_
-_Updated: Scene 16A (Marcus/Priya) added. Scene 18 closing nod between Dave and Marcus added. Marcus/Priya Beat production note added._
+_PUSH — Screenplay v7.1_
+_Updated: Scene 9 neighbor beat consolidated (one neighbor; dog outlasts human; "escorted by his own furniture"). Scene 4 remote-click punch-up ("harder, as if pressure were the issue"). Scene 17 — 4:15 arrows callback ("across first, then down"); 4:58 aligned to the Hendricks MODEL (was "report") to match Karen's Scene 16 line. Scene 14 stage-direction cleanup. Epilogue beat ("the deliberation is shorter this time")._
+_Previous: v7.0 — Scene 16A (Marcus/Priya) added. Scene 18 closing nod between Dave and Marcus added. Marcus/Priya Beat production note added._
 _Previous: v6.0 — Lean napkin thread — bar plant (Scene 2, Marcus draws/Dave rejects/Tyler films video to group chat), Karen escalated ("the model's off"), afternoon rewritten as struggle with video playback at 3:45 (Scene 17). Bar audio over sober silence. No added dialogue. No Marcus payoff scene. The audience connects the thread; nobody in the film does._
 _Total estimated runtime: 5–7 minutes_
 
