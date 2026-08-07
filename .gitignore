@@ -6,3 +6,9 @@ working/
 *.webm
 
 push.code-workspace
+# Artifact lifecycle — ignored runtime lanes
+# Never blanket-ignore working/ — only specific subdirectories containing runtime noise.
+working/runtime/
+working/tmp/
+working/logs/
+node_modules/
