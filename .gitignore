@@ -6,3 +6,6 @@ working/
 *.webm
 
 push.code-workspace
+# Sandcastle vendored engine deps
+.sandcastle/engine/node_modules/
+.sandcastle/engine/package-lock.json
