@@ -35,7 +35,7 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 
 ### Runtime
 
-5–7 minutes. 21 scene headings (19 numbered scenes + inserts 7A and 16A). 55 shots (per AI Shot List). The storyboard should target ~60–80 panels.
+5–7 minutes. 21 scene headings (19 numbered scenes + inserts 7A and 16A). 55 shots (per AI Shot List). The board delivers 54 panels (Part 8) — multi-clip shots are consolidated into single panels where the framing doesn't change.
 
 ### Structure
 
@@ -230,11 +230,11 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 6 — Flashback: Napkin Theory (Scene 2)
 
-**Image:** Medium shot. Dave leaning over bar table with three napkins arranged as a diagram. Marcus and others nodding seriously. Overexposed bar light.
+**Image:** Medium shot. MARCUS hunched over three napkins arranged as a diagram, drawing arrows with a stolen pen, jabbing them. Dave shakes his head, waves him off — not buying it. Jake eats someone else's fries. At the edge of frame, Tyler films the argument on his phone, grinning. Overexposed bar light.
 **Shot Type:** Medium, eye level
-**Action:** Dave explaining something with great conviction using napkins.
-**Dialogue:** None (visual only)
-**Camera:** Same degraded bar look. 3 seconds max.
+**Action:** Marcus explains with absolute drunk conviction. Dave rejects it. Tyler films and sends the video to the group chat — because it's funny, not because it's important.
+**Dialogue:** None (visual only — the argument reads in pantomime: jab, wave-off, keep drawing)
+**Camera:** Same degraded bar look. 3 seconds max. This is the plant for Panel 46 (3:45 PM napkin video).
 **Hum:** None.
 
 ---
@@ -662,8 +662,8 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 **Image:** Medium shot, over-the-shoulder, slightly low. Dave at his desk, bed behind chair. KAREN (late 40s, sharp blazer, VP energy) standing beside desk. She looks at DAVE, not the bed.
 **Shot Type:** Medium, OTS slightly low
-**Action:** Karen acknowledges Dave's state. Assigns the Hendricks report. Starts to walk away. Stops WITHOUT TURNING AROUND. Delivers the key line. Dave asks a follow-up. She answers while already gone.
-**Dialogue:** KAREN: "Big night?" / DAVE: "Reasonably big night." / KAREN: "Get the Hendricks report done by five." / DAVE: "Done." / KAREN _(without turning):_ "The PUSH? Not bad. I had the NUDGE." / DAVE: "...Did it help?" / KAREN _(already walking):_ "Made me a VP."
+**Action:** Karen acknowledges Dave's state. Assigns the Hendricks model fix. Starts to walk away. Stops WITHOUT TURNING AROUND. Delivers the key line. Dave asks a follow-up. She answers while already gone.
+**Dialogue:** KAREN: "Big night?" / DAVE: "Reasonably big night." / KAREN: "The Hendricks model is off. Fix it by five." / DAVE: "...the model?" / KAREN _(without turning):_ "The PUSH? Not bad. I had the NUDGE." / DAVE: "...Did it help?" / KAREN _(already walking):_ "Made me a VP."
 **Camera:** Karen DOES NOT TURN AROUND to deliver the PUSH line. It's offhand. She doesn't care that it's incredible information.
 **Hum:** Very low.
 
@@ -686,9 +686,9 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 44 — 2:00 PM (Scene 17)
 
-**Image:** Wide. Dave typing at desk. Bed behind him leaning noticeably — still pressing. Wall clock shows 2:00.
+**Image:** Wide. Dave at desk staring at the Hendricks model on his monitor, scrolling slowly — the way he stared at the remote this morning. Bed behind him leaning noticeably — still pressing. Wall clock shows 2:00.
 **Shot Type:** Wide, desk + clock
-**Action:** Dave working. Bed still engaged.
+**Action:** Dave confronts the model. Karen was right — something's off. Bed still engaged.
 **Dialogue:** None
 **Camera:** Time-lapse begins through bed behavior.
 **Hum:** Medium. Still on duty.
@@ -697,40 +697,41 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 #### PANEL 45 — 3:00 PM (Scene 17)
 
-**Image:** Same desk. Dave still typing. Bed leaning more gently — less pressure. Clock: 3:00.
-**Shot Type:** Wide, same framing
-**Action:** Bed easing off.
+**Image:** Medium-wide. Dave at a whiteboard covered in boxes and arrows. He steps back, shakes his head — wrong approach. Erases half of it. Walks back to his desk, sits, looks at the clock. Bed leaning more gently — less pressure. Clock: 3:00.
+**Shot Type:** Medium-wide, whiteboard to desk
+**Action:** First whiteboard attempt fails. Bed easing off — the obstacle is on his screen now, not in the hallway.
 **Dialogue:** None
 **Hum:** Low, dropping.
 
 ---
 
-#### PANEL 46 — 3:45 PM (Scene 17)
+#### PANEL 46 — 3:45 PM: The Napkin Video (Scene 17)
 
-**Image:** Medium tracking. Dave stands up, gets water, comes back. The bed hasn't moved. It stayed at the desk.
-**Shot Type:** Medium, tracking
-**Action:** Dave moves freely for the first time. Bed trusts him.
-**Dialogue:** None
-**Hum:** Very low. Barely audible. Watchful but not pushing.
+**Image:** Medium close-up on Dave's face, phone held low, screen NEVER shown. He scrolls far back through the group chat, taps. Listens. Skeptical → sharpening → eyes widen slightly. The quiet office around him. He watches to the end. Lowers the phone. Stares at nothing.
+**Shot Type:** Medium close-up, static. The screen stays out of frame.
+**Action:** Dave plays Tyler's bar video of the napkin argument. The answer was in the group chat for twelve hours.
+**Dialogue:** Bar audio only (post): MARCUS (V.O.): "Across first, THEN down — LOOK AT THE ARROWS, DAVE... Where do the arrows go?" / glasses, laughter. The office itself is silent.
+**Camera:** Hold on the face. The bar audio over the quiet office is the whole panel. Payoff of Panel 6.
+**Hum:** Very low. Barely audible. The bed has no opinion about the napkins.
 
 ---
 
-#### PANEL 47 — 4:30 PM: Whiteboard (Scene 17)
+#### PANEL 47 — 4:15 PM: Whiteboard, Arrows Working (Scene 17)
 
-**Image:** Medium-wide. Dave at a whiteboard, gesturing animatedly to a coworker. The bed is parked at his desk across the room, dormant. Dave catches his own reflection in the window — upright, dressed, functional. Golden hour light warming the windows.
+**Image:** Medium-wide. Dave ALONE at the whiteboard, writing fast — boxes connected by arrows, across first, then down. It's working. The bed is parked at his desk across the room, dormant. Dave catches his own reflection in the window — upright, dressed, functional. Golden hour light warming the windows.
 **Shot Type:** Medium-wide, static
-**Action:** Dave operating under his own power. Arc's visual payoff. He almost looks like a person.
+**Action:** Dave operating under his own power. Arc's visual payoff. The arrows are Marcus's napkin system, redrawn sober — nobody in the film will ever know.
 **Dialogue:** None
-**Camera:** The bed in the background = just parked furniture. Not driving the scene.
+**Camera:** Dave works alone — no coworker. The bed in the background = just parked furniture. Not driving the scene.
 **Hum:** Very low. Dormant.
 
 ---
 
-#### PANEL 48 — 4:58 PM: The Hendricks Report (Scene 17)
+#### PANEL 48 — 4:58 PM: The Model Runs Clean (Scene 17)
 
-**Image:** Medium. Dave at desk. Clicks mouse — sends the report. Leans back. The bed is right behind him. One small, soft hum — almost like an exhale. Satisfaction. Dave stays.
+**Image:** Medium. Dave at desk. Clicks mouse — the Hendricks model fix, sent. Leans back. The bed is right behind him. One small, soft hum — almost like an exhale. Satisfaction. Dave stays.
 **Shot Type:** Medium, static, late afternoon golden light
-**Action:** Report sent. Dave leans back. Bed gives one small pitch-drop exhale. The closest thing to communication between them all day.
+**Action:** Fix sent. Dave leans back. Bed gives one small pitch-drop exhale. The closest thing to communication between them all day.
 **Dialogue:** DAVE _(quietly):_ "Not bad."
 **Camera:** Dave registers the exhale. That's all. No gesture toward the bed.
 **Hum:** Single low exhale note. Brief. The emotional peak of the bed's arc. Then back to idle.
@@ -886,11 +887,11 @@ When the storyboard artist needs more detail on any element, go to:
 
 ---
 
-_PUSH — Storyboard Handoff Report v1.3_
+_PUSH — Storyboard Handoff Report v1.4_
 _54 panels across 21 scene headings (19 numbered + inserts 7A, 16A) + end credits_
-_Changes from v1.2: Panel 43A added (Scene 16A — Marcus/Priya). Panel 50 updated with closing nod. Aligned with Screenplay v7.0._
-_Previous: v1.2 — Pillow payoff locked to askew across Panels 23, 25, 53. Source version refs updated._
-_Source files: Screenplay v7.0, Prop Bible v4.0, Visual Reference & Collaborator Guide v4.2, AI Shot List v4.6, Bed Proportions Guide v4.4_
+_Changes from v1.3: Napkin-thread propagation — Panel 6 attribution corrected (Marcus draws, Dave rejects, Tyler films, Jake eats); Panels 44–48 rewritten to the v6.0+ afternoon (2:00 model / 3:00 whiteboard erase / 3:45 napkin video / 4:15 arrows working alone / 4:58 model fix); Panel 43 Karen dialogue aligned ("The Hendricks model is off. Fix it by five." / "...the model?"). Panel-count language reconciled (54 delivered)._
+_Previous: v1.3 — Panel 43A added (Scene 16A — Marcus/Priya). Panel 50 updated with closing nod. Aligned with Screenplay v7.0._
+_Source files: Screenplay v7.1, Prop Bible v4.0, Visual Reference & Collaborator Guide v4.3, AI Shot List v4.7, Bed Proportions Guide v4.4_
 
 ---
 

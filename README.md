@@ -13,6 +13,7 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 
 ### 🎬 02_production/
 
+- **character_design_bible.md** — Canonical design for every human character (and both dogs): physical anchors, wardrobe states by shot, posture/expression vocabularies, background census, and AI reference prompts for the full supporting cast. **The single source of truth for character appearance. The cast sheet defers to it.**
 - **prop_bible.md** — Canonical physical descriptions for the PUSH by RISE bed and remote. Construction, materials, four states, hum language, movement personality, self-making mechanism, and the PUSH remote in full detail. **This document is the single source of truth for all prop descriptions. All other documents defer to it.**
 - **Visual_Reference_and_Collaborator_Guide.md** — Tone references, color palette by sequence, camera philosophy, scene-by-scene visual notes, editing rhythm guide, and music notes. For directors, editors, and collaborators.
 - **Bed_Proportions_and_Environmental_Integration.md** — How to make the bed feel correctly sized in every environment (the "Trash Truck problem"). Essential for VFX, AI video generation, and production design.
@@ -20,7 +21,7 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 
 ### 🤖 03_ai_video/
 
-- **AI_Shot_List_and_Prompts.md** — 54 shots with copy-paste prompts formatted for Sora, Runway, Kling, and Pika. Includes character reference prompts to generate first for consistency across shots.
+- **AI_Shot_List_and_Prompts.md** — 55 shots with copy-paste prompts formatted for Sora, Runway, Kling, and Pika. Includes character reference prompts to generate first for consistency across shots.
 - **RISE_MOVE_teaser_script.md** — AI-generation-ready production script for the RISE Move teaser video ("Both Directions"). 6 actuator beauty shots, 12 edit beats cut to "Stand Up" by Ludacris. 75-second runtime.
 
 ### 🎨 04_storyboard/
@@ -55,7 +56,8 @@ The **Prop Bible** is canonical. On any question of physical description, brand,
 
 ---
 
-_Version 3.5 — Canon audit remediation: PUSH/PUSH+ tier alignment across all docs. Prop Bible v4.0 canonical. Screenplay v6.0. Universe Report duplicate Part Two removed (819 lines). Design Memo tracks/engine panel marked not-adopted. All downstream Marcus refs updated for PUSH+ tier. Version refs aligned._
+_Version 3.6 — Napkin-thread propagation + character design. Screenplay v7.1 (Scene 9 consolidation, arrows callback, Hendricks model consistency). Shot List v4.7, Storyboard v1.4, Visual Reference v4.3 aligned to the v6.0+ afternoon (3:45 napkin video; Shot 007/Panel 6 attribution corrected — Marcus draws, Dave rejects, Tyler films). Karen dialogue aligned across docs. Character Design Bible added; cast sheet cleanup (stale COLLEAGUE removed). Shot count corrected (55)._
+_Previous: Version 3.5 — Canon audit remediation: PUSH/PUSH+ tier alignment across all docs. Prop Bible v4.0 canonical. Screenplay v6.0. Universe Report duplicate Part Two removed (819 lines). Design Memo tracks/engine panel marked not-adopted. All downstream Marcus refs updated for PUSH+ tier. Version refs aligned._
 _Previous: Version 3.4 — Audit remediation: pillow payoff locked to askew (Prop Bible v3.1 canonical). Screenplay v5.0, AI Shot List v4.4, Visual Reference Guide v4.1, Storyboard Handoff v1.2 aligned. Cast cleanup. Mechanical fixes across Move Internal and gas station breakdown._
 
 ---

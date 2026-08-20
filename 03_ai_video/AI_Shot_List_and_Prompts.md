@@ -57,7 +57,9 @@ For close-ups of faces, also add:
 
 > Extreme close-up of a digital alarm clock on a cluttered nightstand. The time reads 6:47 AM. The display glows red in dim, blue-gray early morning light. The nightstand has an untouched glass of water, a phone charging cable dangling off the edge, and a slim matte black remote control with one large button labeled PUSH that glows warm white. Everything is still. Cinematic. Shot on 35mm film aesthetic with slight grain. No motion.
 
-**NOTES:** This is the establishing close-up. Linger on it. It should feel peaceful — before everything goes wrong.
+**⚠ COMPOSITE TEXT:** The clock readout (6:47 AM) and the PUSH button label will not render reliably. Generate the still life without legible text and composite both in post.
+
+**NOTES:** This is the establishing close-up. Linger on it. It should feel peaceful — before everything goes wrong. The clock is set dressing only — the alarm that fires in Shot 003 is Dave's phone (per the screenplay), not this clock.
 
 ---
 
@@ -145,7 +147,9 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 **AI PROMPT:**
 
-> A man in his early 30s (brown hair, stubble) leans over a bar table covered in paper napkins arranged like a diagram. He gestures at the napkins emphatically, explaining something with great conviction. Two other men across the table nod seriously as if this makes complete sense. Bar environment. Overexposed, slightly blown highlights — warm light bleeding out at the edges. Handheld.
+> A Black man in his early 30s in a wrinkled work shirt, tie loosened (MARCUS), hunches over a bar table where three paper napkins are arranged like a diagram. He draws arrows between them with a pen, jabbing the napkins, explaining with absolute drunk conviction. Across the table, a man with brown hair and stubble (DAVE) shakes his head and waves him off — not buying it. A third man eats fries off someone else's plate without listening. At the edge of frame, a fourth man films the argument on his phone, grinning. Bar environment. Overexposed, slightly blown highlights — warm light bleeding out at the edges. Handheld.
+
+**NOTES:** Attribution matters — MARCUS draws the napkins, DAVE rejects them, TYLER films on his phone, JAKE eats the fries. Tyler's phone video is the plant for the 3:45 PM payoff (Shot 037). The argument must read in pantomime: jab, wave-off, keep drawing.
 
 ---
 
@@ -509,6 +513,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **NOTES:** No one on the bus reacts to the bed. No acknowledgment, no staring. The only detail is one commuter sipping coffee in Dave's eyeline — he watches, empty-handed. The coffee thread pays off here: he lost it in the kitchen, the drive-through failed, and now someone else has it.
 
+---
+
 ### SHOT 028A
 
 **Scene:** Gas station approach — the bed warns
@@ -635,9 +641,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 **AI PROMPT:**
 
-> Medium shot of a corporate office desk. A man in his early 30s sits at his desk, slightly slumped, but functional. A large adjustable bed base idles behind his chair. A woman in her late 40s (professional, sharp blazer, VP energy) walks up and stands beside his desk. She looks at him — not the bed. She nods once. Says something (implied: “Big night?”). He replies. She gives him a task (implied: "Get the Hendricks report done by five"). She starts to walk away. Stops without turning. Says something else (implied: a comment about the bed brand — she had the NUDGE, the first-gen model). He asks a follow-up. She answers while already walking away (implied: “Made me a VP”). She’s gone. Office lighting. Played dry.
+> Medium shot of a corporate office desk. A man in his early 30s sits at his desk, slightly slumped, but functional. A large adjustable bed base idles behind his chair. A woman in her late 40s (professional, sharp blazer, VP energy) walks up and stands beside his desk. She looks at him — not the bed. She nods once. Says something (implied: “Big night?”). He replies. She gives him a task (implied: "The Hendricks model is off. Fix it by five."). She starts to walk away. Stops without turning. Says something else (implied: a comment about the bed brand — she had the NUDGE, the first-gen model). He asks a follow-up. She answers while already walking away (implied: “Made me a VP”). She’s gone. Office lighting. Played dry.
 
-**NOTES:** Karen looks at DAVE, not the bed. Her comment about the bed brand (the NUDGE — the first-gen RISE product) is the first time an authority figure validates the bed's existence — and she does it by referencing her own. Dave does not look at the bed after this exchange.
+**NOTES:** Karen looks at DAVE, not the bed. The dialogue hinge: Dave's dazed "...the model?" is about the Hendricks model — Karen answers as if he asked about her bed model ("The PUSH? Not bad. I had the NUDGE."). Play the misunderstanding completely straight. Her NUDGE comment is the first time an authority figure validates the bed's existence — and she does it by referencing her own. Dave does not look at the bed after this exchange.
 
 ---
 
@@ -663,57 +669,67 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 035
 
-**Scene:** 2 PM — bed still pushing
-**Duration:** 3 seconds
+**Scene:** 2:00 PM — the Hendricks model (Scene 17)
+**Duration:** 3–4 seconds
 **Camera:** Wide. Office desk. Clock on wall.
 
 **AI PROMPT:**
 
-> Wide shot of a man at an open-plan office desk, typing at his computer. The adjustable bed base behind him leans noticeably, as if pressing forward. The man types quickly, slightly hunched. A wall clock shows 2:00 PM. Office lighting. Normal activity around him. The bed is unremarkable to everyone except the camera.
+> Wide shot of a man at an open-plan office desk, staring at a dense spreadsheet on his monitor, scrolling slowly. His expression is the look of a man confronting something that makes no sense — baffled, resigned. The adjustable bed base behind him leans against the back of his chair, steady, still engaged. A wall clock shows 2:00 PM. Office lighting. Normal activity around him. The bed is unremarkable to everyone except the camera.
+
+**NOTES:** Karen was right — something's off. Dave stares at the model the way he stared at the remote this morning. The bed's lean is the first frame of a time-lapse: as the clock advances across Shots 035–039, the bed's pressure decreases.
 
 ---
 
 ### SHOT 036
 
-**Scene:** 3 PM — bed slowing
-**Duration:** 3 seconds
-**Camera:** Wide. Same desk.
+**Scene:** 3:00 PM — whiteboard, wrong approach (Scene 17)
+**Duration:** 4–5 seconds
+**Camera:** Medium-wide. Static from across the room.
 
 **AI PROMPT:**
 
-> Wide shot of the same office desk and man. He is still typing but slower now. The bed behind him leans more gently — less pressure. The clock on the wall shows 3:00 PM. The hum implied to be lower. He looks slightly more human than earlier. Office lighting.
+> Medium-wide shot of a modern office. A man in his early 30s stands at a whiteboard covered in boxes and arrows. He steps back, looks at it, shakes his head — it isn't working. He erases half of it with quick, frustrated strokes, walks back to his desk, and sits down heavily. He glances at the clock. The adjustable bed base behind his desk leans more gently now — less pressure than before. Office lighting.
+
+**NOTES:** First whiteboard attempt fails. The physical gauntlet is over; the professional one is on — the bed eases off as the obstacle moves to Dave's screen. The hum is implied lower.
 
 ---
 
 ### SHOT 037
 
-**Scene:** 3:45 PM — Dave gets water, bed lets him
-**Duration:** 5 seconds
-**Camera:** Medium. Tracking.
+**Scene:** 3:45 PM — the napkin video (Scene 17)
+**Duration:** 8–10 seconds
+**Camera:** Medium close-up on Dave's face. Phone held low, screen never shown.
+
+**⚠ MULTI-CLIP:** Generate as 3 clips and edit together: (1) Dave picks up his phone, scrolls far back through a chat, taps, 2–3s. (2) Hold on his face listening — skeptical, then sharpening, then eyes widening slightly, 3–4s. (3) The video ends; quiet office; he lowers the phone slowly and stares at nothing, 2–3s.
+
+**⚠ AUDIO IN POST:** All bar audio is post-production — muffled glasses, laughter, and the recorded argument (MARCUS V.O.: "Across first, THEN down — LOOK AT THE ARROWS, DAVE... Where do the arrows go?"). Generate the face performance only.
 
 **AI PROMPT:**
 
-> Medium shot of a man in his early 30s standing up from his office desk. The adjustable bed base remains still — it doesn’t follow. He walks to a nearby water cooler, fills a cup, walks back. The bed is exactly where he left it. He sits back down. Office lighting.
+> Medium close-up of a man in his early 30s at his office desk in quiet late-afternoon light, holding his phone low and out of frame, watching a video. We never see the screen. His face does all the work: skeptical at first, then attention sharpening, then his eyes widen slightly — the look of a man hearing the answer in a place he does not want to admit it came from. He watches to the end. Lowers the phone slowly. Stares at nothing for a beat. The office around him is calm. Film grain.
+
+**NOTES:** This is the payoff of Shot 007 — Tyler's bar video of the napkin argument, sitting in the group chat for twelve hours. The screen is never shown; the bar audio over Dave's silent office face is the entire shot. Nobody in the film ever connects the napkins to the solution — only the audience.
 
 ---
 
 ### SHOT 038
 
-**Scene:** 4:30 PM — whiteboard moment
+**Scene:** 4:15 PM — whiteboard, arrows working (Scene 17)
 **Duration:** 5–6 seconds
 **Camera:** Medium-wide. Static from across the room.
 
 **AI PROMPT:**
 
-> Medium-wide shot of a modern office. A man in his early 30s stands at a whiteboard, gesturing animatedly, explaining something to a coworker seated nearby. He is upright, engaged, professional. Behind him, the adjustable bed base is parked at his desk across the room, dormant, barely humming. The man catches a glimpse of his own reflection in the window behind the whiteboard — upright, dressed, functional. Office afternoon light. Golden hour beginning to warm the windows.
+> Medium-wide shot of a modern office in warming late-afternoon light. A man in his early 30s stands alone at a whiteboard, writing fast — boxes connected by arrows, across first, then down. It's working, and his body knows it: upright, engaged, a man who has found the thread. Behind him, the adjustable bed base is parked at his desk across the room, dormant, barely humming. He catches a glimpse of his own reflection in the window beside the whiteboard — upright, dressed, functional. Golden hour beginning to warm the windows.
 
-**NOTES:** This is the arc's visual payoff. Dave is finally operating under his own power. The bed in the background is no longer driving the scene — it's just parked furniture.
+**NOTES:** This is the arc's visual payoff. Dave is finally operating under his own power — and the arrows on the whiteboard are Marcus's napkin system, redrawn sober. He works ALONE (no coworker — the napkin video is his secret). The bed in the background is just parked furniture.
 
 ---
 
 ### SHOT 039
 
-**Scene:** 4:58 PM — the Hendricks report
+**Scene:** 4:58 PM — the model runs clean (Scene 17)
 **Duration:** 5–6 seconds
 **Camera:** Medium. Static. Dave's desk.
 
@@ -751,7 +767,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Medium tracking shot of a man in his early 30s at an office desk in late afternoon golden light. The bed's hum rises slightly. He packs his bag. Turns off the desk lamp — the click is deliberate. He heads for the elevator. As he passes another man's desk (MARCUS — still working, bed behind him), Marcus glances up and gives a single nod. Dave nods back. He is whistling — quietly, the same melody from the car radio this morning, unhurried and complete. He walks through the empty office toward the elevator. The elevator doors open. He steps in, still whistling. The doors close. The whistle is gone. The office is empty and silent. Behind him at the desk, the adjustable bed base waits a beat. Then it turns — slowly, deliberately — and heads for the exit. Office golden hour light fading to evening.
 
-## **NOTES:** The whistle is the callback — same song from the car this morning ("Move Bitch" intro by Ludacris), but complete this time. The morning version stopped mid-phrase when the fuel gauge killed it. This one resolves. No accompaniment. Just a man whistling on his way to round two. The bed’s departure bridges to the end credits sequence (Shot 044 — the bed commuting home alone). License note: the whistle melody matches Shot 026A. Instrumental reference only.
+**NOTES:** The whistle is the callback — same song from the car this morning ("Move Bitch" intro by Ludacris), but complete this time. The morning version stopped mid-phrase when the fuel gauge killed it. This one resolves. No accompaniment. Just a man whistling on his way to round two. The bed’s departure bridges to the end credits sequence (Shot 044 — the bed commuting home alone). License note: the whistle melody matches Shot 026A. Instrumental reference only.
+
+---
 
 ### SHOT 041A
 
@@ -763,7 +781,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 > Wide static shot of a modern office lobby in evening light. The lobby is empty — the receptionist's desk is dark. Elevator doors open and a fully vertical adjustable bed base rolls out alone. No one pushing it. No one riding it. It crosses the lobby toward the glass front doors with the same unhurried authority it has had all day. The bed is already made — sheets taut, pillow plumped but slightly askew. It moves through the empty lobby the way it moves through everything: like it belongs. Evening light through the glass doors. The bed rolls toward them. Cinematic.
 
-## **NOTES:** This bridges Shot 041 (Dave leaves, bed turns to go) to Shot 044 (city sidewalk). The lobby is empty. The bed doesn't hesitate at the doors — apply Rule 1 (edit around impossibility). Cut before it reaches the glass doors. Next shot is the sidewalk.
+**NOTES:** This bridges Shot 041 (Dave leaves, bed turns to go) to Shot 044 (city sidewalk). The lobby is empty. The bed doesn't hesitate at the doors — apply Rule 1 (edit around impossibility). Cut before it reaches the glass doors. Next shot is the sidewalk.
 
 ---
 
@@ -780,6 +798,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 **AI PROMPT:**
 
 > Exact repeat of opening. Extreme close-up of alarm clock reading 6:47 AM. Pre-dawn blue-gray light. The untouched glass of water. The slim matte black remote glowing warm white on the nightstand. Film grain. Complete stillness. Then: wide shot from foot of bed — a man in his early 30s face-down, arm hanging off the side, one leg outside covers. Completely still. The same geometry of unconsciousness. The cycle complete.
+
+**⚠ COMPOSITE TEXT:** Same as Shot 001 — clock readout and PUSH label composited in post. Reuse the Shot 001 plates if possible; this shot should be an exact visual repeat.
 
 ---
 
@@ -853,6 +873,8 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ## APPENDIX — REUSABLE ASSET PROMPTS
 
+_Full character design specs — wardrobe states by shot, expression vocabularies, and reference prompts for ALL supporting cast (Karen, Priya, receptionist, coworker, young employee, manager, drive-through worker, neighbor + dog, Tyler, Jake) — live in the [Character Design Bible](../02_production/character_design_bible.md). Generate those reference sheets before any shot featuring a supporting character._
+
 ### Character Reference — DAVE, office look (generate first, use as image anchor for Shots 022+)
 
 > Portrait reference image of a man in his early 30s. Brown hair, slight stubble, medium build. Slightly tired eyes but generally good-looking. Wearing a wrinkled white dress shirt with the top button undone, a loose tie, and dark dress slacks. His hair is slightly disheveled. He looks like someone who got 4 hours of sleep and is trying anyway. Natural lighting. Photorealistic.
@@ -883,8 +905,9 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ---
 
-_PUSH — AI Shot List v4.6_
-_Updated: Shot 034A added (Scene 16A — Marcus/Priya). Shot 041 updated with closing nod. Aligned with Screenplay v7.0._
+_PUSH — AI Shot List v4.7_
+_Updated: Napkin-thread propagation — Shot 007 attribution corrected (Marcus draws, Dave rejects, Tyler films, Jake eats); Shots 035–038 rewritten to the v6.0+ afternoon (2:00 model / 3:00 whiteboard erase / 3:45 napkin video / 4:15 arrows working alone); Shot 034 Karen dialogue aligned ("The Hendricks model is off"); composite-text flags added to Shots 001/042; markdown fixes; Character Design Bible cross-reference added. Aligned with Screenplay v7.1._
+_Previous: v4.6 — Shot 034A added (Scene 16A — Marcus/Priya). Shot 041 updated with closing nod. Aligned with Screenplay v7.0._
 _Previous: v4.5 — Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
 _21 scene headings (19 numbered scenes + inserts 7A and 16A) / 55 shots / approx. 5–7 minute runtime_
 
