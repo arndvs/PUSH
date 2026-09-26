@@ -18,6 +18,9 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 - **Visual_Reference_and_Collaborator_Guide.md** — Tone references, color palette by sequence, camera philosophy, scene-by-scene visual notes, editing rhythm guide, and music notes. For directors, editors, and collaborators.
 - **Bed_Proportions_and_Environmental_Integration.md** — How to make the bed feel correctly sized in every environment (the "Trash Truck problem"). Essential for VFX, AI video generation, and production design.
 - **RISE_MOVE_INTERNAL_v1.0.md** — Internal brainstorming and strategic foundation for the RISE Move product. Canon facts, open questions, and creative development notes.
+- **cast_sheet.md** — Quick-reference one-liners for all characters incl. both dogs; defers to the Character Design Bible.
+- **product_line_brief.md** — PUSH vs PUSH+ tier architecture; brand parity rules.
+- **Bed_design_memo.md** — Internal design memo; tracks/engine panel marked not-adopted in v3.5.
 
 ### 🤖 03_ai_video/
 
