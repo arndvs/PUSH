@@ -1,5 +1,7 @@
 # RISE Technologies — Complete Intelligence Report
 
+> **SNAPSHOT — generated 2026-04-23. Not live canon. See this repo's README/bibles for current PUSH state.**
+
 > Generated April 23, 2026 — Deep exploration across `rise-awake` and `push` codebases.
 
 ---
