@@ -32,6 +32,12 @@ _Quick-reference only. Full design specs — physical anchors, wardrobe states b
 
 **NEIGHBOR** — Walks a dog past Dave's driveway. Glances, nods at Dave's "Morning," keeps walking. The dog watches longer.
 
+**DOG #1 (NEIGHBOR'S)** — Beagle (Scene 9). Expressive, tracking, ears up. Stops; full head-track through the procession ([bible §5.9](character_design_bible.md)).
+
+**DOG #2 (SIDEWALK)** — French bulldog (end credits). Different breed from Dog #1 by rule ([bible §6](character_design_bible.md)). Head-tilt; owner does not look.
+
+**THE TWO DOGS** — Two unrelated dogs noticing the bed is a law of nature. Different breeds is the rule ([bible §6](character_design_bible.md)), not a coincidence.
+
 **EMPLOYEE** — Heading into the office building. Passes Dave without breaking stride.
 
 **YOUNG EMPLOYEE** — Conference room. New hire energy. Almost raises his hand about the beds. Doesn't.
