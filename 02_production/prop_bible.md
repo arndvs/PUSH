@@ -192,36 +192,13 @@ Below the company name, _The PUSH_ (or _The PUSH+_) in the same typeface, slight
 
 The hum is the bed's voice. It is the only way the bed communicates, and it communicates constantly.
 
-**Baseline character:** Warm. Low. Steady. 42Hz baseline — deep enough to feel physically, high enough to be clearly audible. Not mechanical in a threatening way — more like the hum of something well-made doing what it was built to do. The closest sonic reference is the sustained low note of a cello, filtered slightly to remove the organic quality, combined with the undertone of a high-quality HVAC system. It should feel, at baseline, almost _comfortable_. Like white noise with intention. Beneath it, barely audible: the faint rhythm of the tracks rolling.
+**Canonical reference:** The complete hum language — baseline character, the full hum table (every scene moment × pitch × volume × character × mixing note), per-tier audio identity, movement acoustics, and scene-specific sound direction — lives in the [Sound Design Bible](sound_bible.md). This section preserves only the physical baseline fact for cross-reference.
 
-**Pitch and volume modulation across the film:**
+**Baseline fact (cross-reference):** Warm. Low. Steady. 42Hz baseline — deep enough to feel physically, high enough to be clearly audible. Not mechanical in a threatening way — more like the hum of something well-made doing what it was built to do. The closest sonic reference is the sustained low note of a cello, filtered slightly to remove the organic quality, combined with the undertone of a high-quality HVAC system. It should feel, at baseline, almost _comfortable_. Like white noise with intention. Beneath it, barely audible: the faint rhythm of the tracks rolling.
 
-| Moment                                | Pitch                                                         | Volume         | Character                                    |
-| ------------------------------------- | ------------------------------------------------------------- | -------------- | -------------------------------------------- |
-| First activation (button press)       | Medium, rising slightly                                       | Low, building  | Waking up. Dignified.                        |
-| Bed rising (STATE TWO)                | Medium                                                        | Medium         | Confident. Unhurried.                        |
-| First vertical nudge                  | Slightly higher                                               | Medium         | Patient. Matter of fact.                     |
-| Hallway — first movement              | Medium                                                        | Medium         | The job has begun.                           |
-| Bathroom waiting + self-making        | Low hum + faint sheet-tensioning whisper + slow pillow exhale | Low            | Getting dressed. Parallel to Dave.           |
-| Kitchen — coffee scene                | Higher                                                        | Higher         | Purposeful. This is important.               |
-| Car — muffled through upholstery      | Low (filtered)                                                | Low            | Present but contained.                       |
-| Gas station — approach warning        | Slightly higher than baseline, pointed                        | Medium, brief  | Schedule. No detours.                        |
-| Gas station — Dave drives past        | Returns to baseline                                           | Low            | Satisfied. Correct.                          |
-| Highway shoulder — car pushing        | Baseline                                                      | Low, steady    | The destination has not changed.             |
-| Office hours                          | Very low                                                      | Barely audible | A presence, not a force.                     |
-| 2PM — pressing firmly                 | Medium                                                        | Medium         | Still on duty.                               |
-| 3PM — easing off                      | Low, dropping                                                 | Lower          | The day is working.                          |
-| 3:45PM — lets Dave get water          | Very low                                                      | Barely audible | Watchful. Not pushing.                       |
-| 4:58PM — report sent                  | Single low exhale note                                        | Brief          | Satisfaction.                                |
-| "See you tomorrow" — turns and leaves | Low, steady                                                   | Low            | Unhurried. It has somewhere to be.           |
-| Commute home — city street            | Medium, warm                                                  | Medium         | Content. Moving by choice, not obligation.   |
-| Bedroom — turning to face door        | Very low, slowing                                             | Low            | Settling. Almost ceremonial.                 |
-| Bedroom — folding flat                | Low, fading                                                   | Fading         | Home.                                        |
-| End credits — commute home            | Medium, fading                                                | Low, fading    | Going home. The hum fades around the corner. |
+**The most important hum (cross-reference):** The single exhale note at 4:58pm when Dave finishes the Hendricks report. This is the emotional peak of the bed's arc. Full direction in the Sound Design Bible §4.3.
 
-**The most important hum:** The single exhale note at 4:58pm when Dave finishes the Hendricks report. This is the emotional peak of the bed's arc. It should be mixed so that Dave registers it. The audience should feel it as a moment of genuine communication between two beings who have spent a very long day together.
-
-**What the hum is NOT:** It is never aggressive. Never threatening. Never the sound of something malfunctioning. The hum is always the sound of something working exactly as intended. That is what makes it funny, and what makes it moving at the end.
+**What the hum is NOT (cross-reference):** It is never aggressive. Never threatening. Never the sound of something malfunctioning. The hum is always the sound of something working exactly as intended. That is what makes it funny, and what makes it moving at the end.
 
 ---
 
@@ -613,7 +590,8 @@ When the remote glows in the pre-dawn dark, it should feel like the only warm th
 
 ---
 
-_PUSH — Prop Bible v4.0_
+_PUSH — Prop Bible v4.1_
+_Changes from v4.0: §1.6 hum language deferred to the new Sound Design Bible (sound_bible.md) — the full hum table, per-tier audio identity, movement acoustics, and scene-specific sound direction now live there. §1.6 preserves only the 42Hz baseline fact and the 4:58pm exhale cross-reference._
 _Changes from v3.1: Product line architecture — PUSH (base, Dave) and PUSH+ (premium, Marcus). Badge differentiation: "The PUSH" vs "The PUSH+". Marcus rewritten as PUSH+ owner: three PUSH pillows (three pneumatic nodes), premium silk/sateen soft goods, enhanced self-making (handles fitted sheet + flat sheet + duvet), Atmosphere Suite (mood lighting + spatial audio), dampened/quieter sound profile. Dave's full bedding canonized: one PUSH pillow + one personal pillow (college), navy fitted sheet, white flat sheet (usually balled at foot), no duvet. Self-making scoped by tier (§1.8): base handles fitted sheet + one pillow only; PUSH+ handles all layers + three pillows. §1.3 reframed as base model spec. §1.5 badge updated for PUSH+ variant. Product Line Brief (new doc) established for tier architecture, website content, and full product comparison. Track system replaces casters throughout — continuous track (tank tread) for reliable surface navigation and cinematic texture (§1.3, §1.7, §1.10, Appendix, Product Line Brief aligned)._
 _Changes from v3.0: Pillow resolution — node plumps/reshapes but does not reposition; pillow remains slightly askew (§1.3, §1.8, §1.9, Appendix aligned). End credits locked to §1.9 commute home (§1.6 hum table + §2.6 updated). Hum table Volume column fixed (last 5 rows). Marcus colors locked: olive (§1.10). Marcus bed STATE THREE explicit. Pillow in STATE FOUR described. External doc version refs added. Part Three forward reference for RISE Move. Karen's first-gen product renamed: the NUDGE (product line: NUDGE → PUSH → MOVE)._
 _Changes from v2.3: Product rebrand — now "PUSH by RISE" (company remains RISE, product is the PUSH). Button label RISE → PUSH. Morning Drive Mode → Push Mode. Model MDM-1 → PM-1. Sticker updated (RISE / The PUSH / Smart Adjustable Base; tagline removed from sticker). Marcus rewritten: same PUSH product, same generation, different colorway + personal soft goods (duvet, sheets, pillowcase). Karen: "I had the NUDGE." Pillow clarified as PUSH hardware; pillowcase is personal. Fine print updated._

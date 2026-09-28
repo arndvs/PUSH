@@ -14,7 +14,8 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 ### 🎬 02_production/
 
 - **character_design_bible.md** — Canonical design for every human character (and both dogs): physical anchors, wardrobe states by shot, posture/expression vocabularies, background census, and AI reference prompts for the full supporting cast. **The single source of truth for character appearance. The cast sheet defers to it.**
-- **prop_bible.md** — Canonical physical descriptions for the PUSH by RISE bed and remote. Construction, materials, four states, hum language, movement personality, self-making mechanism, and the PUSH remote in full detail. **This document is the single source of truth for all prop descriptions. All other documents defer to it.**
+- **prop_bible.md** — Canonical physical descriptions for the PUSH by RISE bed and remote. Construction, materials, four states, movement personality, self-making mechanism, and the PUSH remote in full detail. **This document is the single source of truth for all prop descriptions. All other documents defer to it.**
+- **sound_bible.md** — Canonical audio direction: the bed's hum language (full hum table), per-tier audio identity (PUSH vs PUSH+), movement acoustics, and scene-specific sound direction. **The single source of truth for how the bed sounds. All other documents defer to it.**
 - **Visual_Reference_and_Collaborator_Guide.md** — Tone references, color palette by sequence, camera philosophy, scene-by-scene visual notes, editing rhythm guide, and music notes. For directors, editors, and collaborators.
 - **Bed_Proportions_and_Environmental_Integration.md** — How to make the bed feel correctly sized in every environment (the "Trash Truck problem"). Essential for VFX, AI video generation, and production design.
 - **RISE_MOVE_INTERNAL_v1.0.md** — Internal brainstorming and strategic foundation for the RISE Move product. Canon facts, open questions, and creative development notes.
@@ -56,6 +57,8 @@ _PUSH by RISE — "For People Who Need A Little Push"_
 ## Document Hierarchy
 
 The **Prop Bible** is canonical. On any question of physical description, brand, mechanism, or behavior, it is correct and all other documents defer to it. The screenplay is the source of truth for story, dialogue, and scene order. The Visual Reference and Bed Proportions guides are production-facing documents that reference both.
+
+The **Sound Design Bible** is canonical for all audio direction — hum character, pitch/volume modulation, movement acoustics, mixing notes, and per-tier sound identity. All other documents defer to it on questions of how the bed sounds.
 
 ### Canon Integrity Registry
 

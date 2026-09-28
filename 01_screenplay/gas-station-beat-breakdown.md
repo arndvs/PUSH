@@ -94,6 +94,8 @@ This is consistent with the film's entire approach to consequences: they happen,
 
 The bed's warning hum is a subtle but crucial sound design moment. It needs to communicate impatience without losing the bed's fundamental character of professional patience.
 
+**Canonical reference:** The full direction for the gas station warning hum — the contempt register, pitch/duration spec, and mixing notes — lives in the [Sound Design Bible](../02_production/sound_bible.md) §4.2. What follows is the beat-level summary for this scene:
+
 The shift: slightly higher pitch than baseline, a quality of attention rather than rest — the difference between a machine idling and a machine that has noticed something it doesn't like. It should read as: _I see what you're thinking. Don't._
 
 It lasts approximately two seconds the first time. If Dave continues slowing, it returns — slightly more pointed, slightly shorter. Then Dave drives past the station and it settles back to baseline.

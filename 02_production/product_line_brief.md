@@ -38,7 +38,7 @@ The PUSH is a genuinely good product. It raises, rolls, folds, self-makes, and g
 
 **What the self-making handles:** The fitted sheet (tensioning bar draws it taut, center outward) and the one PUSH pillow (pneumatic node plumps and reshapes it). That's it. A flat sheet, duvet, or additional pillows the owner adds are not touched by the mechanism. The PUSH makes *its* bed. It doesn't make yours.
 
-**Sound profile:** Warm low hum, 42Hz baseline. Faint track rhythm on hard floors — individual links passing, drive sprockets engaging. Sheet tensioning is a faint continuous whisper. Pillow node is a slow, patient exhale. The sound of a machine that works well.
+**Sound profile:** Warm low hum, 42Hz baseline. Faint track rhythm on hard floors — individual links passing, drive sprockets engaging. Sheet tensioning is a faint continuous whisper. Pillow node is a slow, patient exhale. The sound of a machine that works well. _(Full audio identity in the [Sound Design Bible](sound_bible.md) §2.1.)_
 
 ---
 
@@ -62,7 +62,7 @@ The PUSH+ is what happens when someone with taste and budget looks at the PUSH c
 
 **What the enhanced self-making handles:** Fitted sheet, flat sheet, and duvet (enhanced tensioning system covers all three layers). All three PUSH pillows (one pneumatic node per pillow). Euro shams and accent pillows stay wherever the owner placed them — the mechanism handles the functional items, not the decorative ones. The Atmosphere Suite shifts from warm amber (sleep) to cool daylight (wake) as part of the morning sequence.
 
-**Sound profile:** Same frequency architecture as the PUSH, refined. Lower, smoother motor hum — you feel it more than hear it. Dampened track roll. Pneumatic exhale is barely there — a breath, not a mechanism. Sheet tensioning is nearly inaudible. Panel and strut movement is solid, muted, damped — the "door closing" feel. Nothing rattles. Nothing clicks. It just moves. The sound of a machine engineered to disappear.
+**Sound profile:** Same frequency architecture as the PUSH, refined. Lower, smoother motor hum — you feel it more than hear it. Dampened track roll. Pneumatic exhale is barely there — a breath, not a mechanism. Sheet tensioning is nearly inaudible. Panel and strut movement is solid, muted, damped — the "door closing" feel. Nothing rattles. Nothing clicks. It just moves. The sound of a machine engineered to disappear. _(Full audio identity in the [Sound Design Bible](sound_bible.md) §2.2.)_
 
 ---
 

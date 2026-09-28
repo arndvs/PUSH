@@ -100,11 +100,11 @@ Every nudge should feel measured. The bed knows exactly how hard to push.
 
 ### The Bed's Motor Hum — What Directors and Editors Need
 
-The full hum modulation table is in the Prop Bible (1.6) — every scene moment, pitch, volume, and character. What matters for production:
+The complete hum language — the full hum table (every scene moment × pitch × volume × character × mixing note), per-tier audio identity, movement acoustics, and scene-specific sound direction — lives in the [Sound Design Bible](sound_bible.md), the canonical reference for all audio direction. What matters for production:
 
 The hum is the bed's voice. Warm, low, slightly musical. Not threatening. It should feel like a high-quality machine doing exactly what it was built to do. The hum is always present when the bed is active. It modulates pitch and volume to express the bed's state, but it never becomes aggressive.
 
-The production-critical hum moments:
+The production-critical hum moments (full direction in the Sound Design Bible §1.2):
 
 | Moment                              | Hum character                                                              |
 | ----------------------------------- | -------------------------------------------------------------------------- |
