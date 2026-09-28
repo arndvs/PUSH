@@ -11,7 +11,7 @@ _Estimated runtime: 75 seconds_
 
 Each shot and beat is written as a **self-contained AI video prompt**. Copy the prompt text directly into your tool of choice. For product consistency across shots, generate a **product reference image of the Move bed** first and use it as an image anchor in tools that support it (Runway Gen-3, Kling 1.6, etc.).
 
-**Strategic foundation and product canon:** See [RISE_MOVE_INTERNAL_v1.0.md](../02_production/RISE_MOVE_INTERNAL_v1.0.md) for all canonically established facts, open questions, and brand strategy for the Move.
+**Strategic foundation and product canon:** See [RISE_MOVE_INTERNAL_v1.0.md](../02_production/RISE_MOVE_INTERNAL_v1.0.md) for all canonically established facts, open questions, and brand strategy for the Move. The [Brand Universe Bible](../02_production/brand_universe_bible.md) is the single source of truth for RISE corporate facts and Move canon; this script defers to it on universe facts.
 
 The teaser has two types of AI-generated content:
 

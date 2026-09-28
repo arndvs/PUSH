@@ -4,6 +4,7 @@
 
 _For production use and riseawake.com development_
 _Version: 1.0_
+_Canonical reference: The [Brand Universe Bible](brand_universe_bible.md) is the single source of truth for RISE corporate facts, product-line specifications, and in-universe history. This document defers to it on corporate/brand facts and to the Prop Bible on physical descriptions._
 
 ---
 

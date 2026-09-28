@@ -2,6 +2,8 @@
 
 > **SNAPSHOT — generated 2026-04-23. Not live canon. See this repo's README/bibles for current PUSH state.**
 
+> **Canonical reference:** The [Brand Universe Bible](../02_production/brand_universe_bible.md) is the single source of truth for RISE corporate facts, product-line specifications, and in-universe history. This report is a generated snapshot and defers to it on all universe facts.
+
 > Generated April 23, 2026 — Deep exploration across `rise-awake` and `push` codebases.
 
 ---

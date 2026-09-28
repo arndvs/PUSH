@@ -7,6 +7,7 @@
 **Document status:** Internal — not for publication
 **Document purpose:** Fork document for dedicated Move product development. Contains all canonically established facts, all open questions, and deep creative/strategic brainstorming for the Move's full product development arc.
 **Last updated:** Q1 2025
+**Canonical reference:** The [Brand Universe Bible](brand_universe_bible.md) is the single source of truth for RISE corporate facts, product-line specifications, and in-universe history. PART ONE (What Is Already Canon) defers to it; the engineering brainstorming (PART TWO+) remains internal working material.
 
 ---
 
