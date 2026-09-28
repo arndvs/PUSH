@@ -1,0 +1,155 @@
+{
+  "$schema": "canon-facts.schema.json",
+  "description": "Canon facts manifest — the single place to edit a canonical fact. The Prop Bible (02_production/prop_bible.md) is the source of truth for prop/brand/mechanism facts; this manifest lists the discrete, enumerable facts that downstream documents must not contradict. Edit a fact HERE, then run scripts/canon-check.py to find every downstream occurrence that needs updating.",
+  "facts": [
+    {
+      "id": "bed.states",
+      "label": "The bed's four physical states",
+      "source": "02_production/prop_bible.md §1.2 (STATE ONE–FOUR) + APPENDIX — QUICK REFERENCE",
+      "kind": "enum",
+      "values": ["FLAT", "RAISED", "VERTICAL", "FOLDED"],
+      "aliases": {
+        "FLAT": ["STATE ONE"],
+        "RAISED": ["STATE TWO"],
+        "VERTICAL": ["STATE THREE"],
+        "FOLDED": ["STATE FOUR"]
+      },
+      "pattern": {
+        "regex": "\\bSTATE\\s+([A-Z]+)",
+        "canonical": ["ONE", "TWO", "THREE", "FOUR"],
+        "detail": "STATE <word> must be one of ONE/TWO/THREE/FOUR. A renamed state (e.g. 'STATE TACO') or a fifth state is a contradiction."
+      },
+      "notes": "STATE FOUR (FOLDED) is the car configuration — folded in half like a taco, V-shape in the back seat. It is a variation of STATE TWO that exists only for containment."
+    },
+    {
+      "id": "tier.split",
+      "label": "PUSH / PUSH+ tier split",
+      "source": "02_production/prop_bible.md §1.10 MARCUS'S BED + APPENDIX — QUICK REFERENCE",
+      "kind": "enum",
+      "values": ["PUSH", "PUSH+"],
+      "aliases": {
+        "PUSH": ["Base", "base tier"],
+        "PUSH+": ["Premium", "premium tier"]
+      },
+      "wrong_tokens": ["PUSH Plus", "PUSH PLUS", "PUSH +", "PUSH++"],
+      "notes": "Dave owns the PUSH (Base tier, dark charcoal). Marcus owns the PUSH+ (Premium tier, warm gray). A reference to 'Dave's PUSH+' or 'Marcus's PUSH' is a contradiction."
+    },
+    {
+      "id": "tier.dave",
+      "label": "Dave's tier",
+      "source": "02_production/prop_bible.md §1.1 + APPENDIX — QUICK REFERENCE",
+      "kind": "assertion",
+      "value": "Dave owns the PUSH (Base tier)",
+      "forbidden": ["Dave's PUSH+", "Dave owns a PUSH+", "Dave's premium PUSH"],
+      "notes": "Dave's bed is the base PUSH: dark charcoal, one PUSH pillow, no duvet."
+    },
+    {
+      "id": "tier.marcus",
+      "label": "Marcus's tier",
+      "source": "02_production/prop_bible.md §1.10 + APPENDIX — QUICK REFERENCE",
+      "kind": "assertion",
+      "value": "Marcus owns the PUSH+ (Premium tier)",
+      "forbidden": ["Marcus's PUSH", "Marcus owns a PUSH", "Marcus's base PUSH"],
+      "notes": "Marcus's bed is the PUSH+: warm gray, three PUSH+ pillows, Euro shams, accent pillows, olive duvet, Atmosphere Suite."
+    },
+    {
+      "id": "product.line",
+      "label": "Product line (spoken vs unspoken)",
+      "source": "02_production/prop_bible.md §1.11 (product timeline)",
+      "kind": "enum",
+      "values": ["RISE", "NUDGE", "PUSH", "PUSH+", "MOVE"],
+      "aliases": {
+        "RISE": ["company"],
+        "NUDGE": ["first generation", "Karen's era"],
+        "PUSH": ["current tiered product line"],
+        "PUSH+": ["premium tier"],
+        "MOVE": ["next generation", "not yet released"]
+      },
+      "wrong_tokens": ["NUDGE+", "MOVE+", "PUSH++"],
+      "notes": "Timeline: RISE (company) → NUDGE (first gen, Karen, single config) → PUSH/PUSH+ (current, tiered) → MOVE (next gen, unreleased). No model numbers are spoken in the film."
+    },
+    {
+      "id": "model.remote",
+      "label": "Remote model number",
+      "source": "02_production/prop_bible.md §2.5 (Model: PM-1)",
+      "kind": "assertion",
+      "value": "PM-1",
+      "forbidden": ["MDM-1"],
+      "notes": "The remote model is PM-1 (Push Mode). MDM-1 was the pre-rebrand model name (Morning Drive Mode) and must not appear in current-canon docs."
+    },
+    {
+      "id": "brand.tagline",
+      "label": "Brand tagline",
+      "source": "02_production/prop_bible.md APPENDIX — QUICK REFERENCE (THE RISE / PUSH BRAND IN THREE WORDS)",
+      "kind": "assertion",
+      "value": "Simple. Confident. Relentless.",
+      "forbidden": [],
+      "required_in": {
+        "markers": ["Simple. Confident", "Simple, Confident", "Simple · Confident", "Simple — Confident"],
+        "detail": "A doc that echoes the brand line must use the exact wording 'Simple. Confident. Relentless.'"
+      },
+      "notes": "The three-word brand line. Docs that echo it must use this exact wording."
+    },
+    {
+      "id": "remote.fineprint",
+      "label": "Remote fine print",
+      "source": "02_production/prop_bible.md §2.5 + APPENDIX — QUICK REFERENCE",
+      "kind": "assertion",
+      "value": "This is a feature, not a limitation.",
+      "forbidden": [],
+      "required_in": {
+        "markers": ["This is a feature", "not a limitation"],
+        "detail": "A doc that quotes the remote fine print must use the exact wording 'This is a feature, not a limitation.'"
+      },
+      "notes": "The remote's back fine print. Docs that quote it must use this exact wording."
+    },
+    {
+      "id": "badge.base",
+      "label": "Base badge text",
+      "source": "02_production/prop_bible.md §1.5 + APPENDIX — QUICK REFERENCE",
+      "kind": "assertion",
+      "value": "RISE / The PUSH / Smart Adjustable Base",
+      "forbidden": [],
+      "notes": "Dave's bed badge. Exact text, including slashes and spacing."
+    },
+    {
+      "id": "badge.premium",
+      "label": "Premium badge text",
+      "source": "02_production/prop_bible.md §1.10 + APPENDIX — QUICK REFERENCE",
+      "kind": "assertion",
+      "value": "RISE / The PUSH+ / Smart Adjustable Base",
+      "forbidden": [],
+      "notes": "Marcus's bed badge. Exact text, including slashes and spacing."
+    },
+    {
+      "id": "remote.dimensions",
+      "label": "Remote dimensions",
+      "source": "02_production/prop_bible.md APPENDIX — QUICK REFERENCE (THE REMOTE AT A GLANCE)",
+      "kind": "assertion",
+      "value": "5\" H × 2\" W × 0.5\" D",
+      "forbidden": [],
+      "notes": "The remote is 5 inches high, 2 inches wide, 0.5 inches deep."
+    },
+    {
+      "id": "bed.colors",
+      "label": "Bed colorways",
+      "source": "02_production/prop_bible.md §1.1 + §1.10 + APPENDIX — QUICK REFERENCE",
+      "kind": "enum",
+      "values": ["dark charcoal", "warm gray"],
+      "aliases": {
+        "dark charcoal": ["matte dark charcoal", "cool blue undertone"],
+        "warm gray": ["slightly lighter", "slightly warmer"]
+      },
+      "notes": "Dave's PUSH is matte dark charcoal with cool blue undertone. Marcus's PUSH+ is warm gray (premium colorway)."
+    },
+    {
+      "id": "pillow.counts",
+      "label": "Pillow counts",
+      "source": "02_production/prop_bible.md §1.3 + §1.10",
+      "kind": "assertion",
+      "value": "Dave: 1 PUSH pillow + 1 personal pillow. Marcus: 3 PUSH+ pillows + 2 Euro shams + 2 accent pillows (7 total).",
+      "forbidden": [],
+      "notes": "Dave = 2 pillows total (1 PUSH hardware + 1 personal). Marcus = 7 total (3 PUSH+ + 2 Euro shams + 2 accent)."
+    }
+  ]
+}

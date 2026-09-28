@@ -57,6 +57,18 @@ _PUSH by RISE — "For People Who Need A Little Push"_
 
 The **Prop Bible** is canonical. On any question of physical description, brand, mechanism, or behavior, it is correct and all other documents defer to it. The screenplay is the source of truth for story, dialogue, and scene order. The Visual Reference and Bed Proportions guides are production-facing documents that reference both.
 
+### Canon Integrity Registry
+
+The source-of-truth boundary is machine-checked. Discrete, enumerable facts (bed states, PUSH/PUSH+ tier, model numbers, badge text, tagline) are listed in **`.sandcastle/canon-facts.json`** — the **single place to edit a canonical fact**. To change a fact:
+
+1. Edit the fact in `.sandcastle/canon-facts.json`.
+2. Run `python3 scripts/canon-check.py` — it scans every downstream document and lists each occurrence that contradicts the manifest.
+3. Update the listed occurrences, then re-run until clean.
+
+`canon-check` runs automatically in CI on every PR touching markdown (`.github/workflows/canon-check.yml`), failing the review when a contradiction is introduced — e.g. renaming STATE FOUR to "TACO" in one doc, or reviving the retired MDM-1 model name. A correct, canonical-consistent change passes with no manual audit needed.
+
+The Prop Bible itself, the Move internal doc, and the design memo (which retains superseded content as design history) are excluded from the check by design.
+
 ---
 
 _Version 3.6 — Napkin-thread propagation + character design. Screenplay v7.1 (Scene 9 consolidation, arrows callback, Hendricks model consistency). Shot List v4.7, Storyboard v1.4, Visual Reference v4.3 aligned to the v6.0+ afternoon (3:45 napkin video; Shot 007/Panel 6 attribution corrected — Marcus draws, Dave rejects, Tyler films). Karen dialogue aligned across docs. Character Design Bible added; cast sheet cleanup (stale COLLEAGUE removed). Shot count corrected (55)._
