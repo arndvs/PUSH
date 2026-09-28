@@ -10,13 +10,41 @@ This screenplay may not be reproduced, distributed, or used without written perm
 
 ---
 
+## SCENE REGISTRY
+
+The canonical scene list. Every scene carries a stable machine-checkable ID (`SC-01` … `SC-19`, with inserts `SC-07A`, `SC-16A`). The AI Shot List and Storyboard Handoff reference these IDs; `scripts/canon-check.py` fails on any shot/panel referencing an ID absent from this registry, or on count drift.
+
+| ID     | Scene                                        | Act                        | Beats                          |
+| ------ | -------------------------------------------- | -------------------------- | ------------------------------ |
+| SC-01  | SCENE 1 — INT. DAVE'S BEDROOM — PRE-DAWN     | ACT ONE: THE WRECKAGE      |                                |
+| SC-02  | SCENE 2 — FLASHBACK MONTAGE                  | ACT ONE: THE WRECKAGE      |                                |
+| SC-03  | SCENE 3 — INT. DAVE'S BEDROOM — MORNING      | ACT ONE: THE WRECKAGE      |                                |
+| SC-04  | SCENE 4 — INT. DAVE'S BEDROOM — CONTINUOUS   | ACT TWO: THE GAUNTLET      |                                |
+| SC-05  | SCENE 5 — INT. BATHROOM — CONTINUOUS         | ACT TWO: THE GAUNTLET      |                                |
+| SC-06  | SCENE 6 — INT. KITCHEN — INTERCUT            | ACT TWO: THE GAUNTLET      |                                |
+| SC-07  | SCENE 7 — INT. CLOSET — CONTINUOUS           | ACT TWO: THE GAUNTLET      |                                |
+| SC-07A | SCENE 7A — INT. HALLWAY — CONTINUOUS         | ACT TWO: THE GAUNTLET      |                                |
+| SC-08  | SCENE 8 — INT. KITCHEN — CONTINUOUS          | ACT TWO: THE GAUNTLET      |                                |
+| SC-09  | SCENE 9 — EXT. DRIVEWAY — MORNING            | ACT THREE: THE COMMUTE     |                                |
+| SC-10  | SCENE 10 — INT./EXT. CAR — MORNING           | ACT THREE: THE COMMUTE     | BEAT 1 (Drive-Through), BEAT 2 (Stop Light), BEAT 3 (Gas Station) |
+| SC-11  | SCENE 11 — EXT. OFFICE PARKING LOT — MORNING | ACT THREE: THE COMMUTE     |                                |
+| SC-12  | SCENE 12 — INT. OFFICE — LOBBY — MORNING     | ACT FOUR: THE OFFICE       |                                |
+| SC-13  | SCENE 13 — INT. OFFICE ELEVATOR — MORNING    | ACT FOUR: THE OFFICE       |                                |
+| SC-14  | SCENE 14 — INT. OPEN OFFICE — MORNING        | ACT FOUR: THE OFFICE       |                                |
+| SC-15  | SCENE 15 — INT. CONFERENCE ROOM — MORNING    | ACT FOUR: THE OFFICE       |                                |
+| SC-16  | SCENE 16 — INT. DAVE'S DESK — MIDDAY         | ACT FOUR: THE OFFICE       |                                |
+| SC-16A | SCENE 16A — INT. OPEN OFFICE — AFTERNOON     | ACT FOUR: THE OFFICE       |                                |
+| SC-17  | SCENE 17 — INT. OFFICE — AFTERNOON MONTAGE   | ACT FIVE: THE WIND DOWN    |                                |
+| SC-18  | SCENE 18 — INT. DAVE'S DESK — 5:00 PM        | ACT FIVE: THE WIND DOWN    |                                |
+| SC-19  | SCENE 19 — INT. DAVE'S BEDROOM — NEXT MORNING| ACT FIVE: THE WIND DOWN    |                                |
+
 ---
 
 ## ACT ONE: THE WRECKAGE
 
 ---
 
-### SCENE 1 — INT. DAVE'S BEDROOM — PRE-DAWN
+### SCENE 1 [SC-01] — INT. DAVE'S BEDROOM — PRE-DAWN
 
 _Black._
 
@@ -55,7 +83,7 @@ _He opens both eyes. Stares at the middle distance._
 
 ---
 
-### SCENE 2 — FLASHBACK MONTAGE — "THE NIGHT BEFORE"
+### SCENE 2 [SC-02] — FLASHBACK MONTAGE — "THE NIGHT BEFORE"
 
 _SMASH CUT. Fast and chaotic. The whole sequence feels like a memory that's already falling apart._
 
@@ -127,7 +155,7 @@ _They ride in silence._
 
 ---
 
-### SCENE 3 — INT. DAVE'S BEDROOM — MORNING (PRESENT)
+### SCENE 3 [SC-03] — INT. DAVE'S BEDROOM — MORNING (PRESENT)
 
 _Back to Dave. The light is slightly brighter now. More accusatory._
 
@@ -149,7 +177,7 @@ _Clicks the button._
 
 ---
 
-### SCENE 4 — INT. DAVE'S BEDROOM — CONTINUOUS
+### SCENE 4 [SC-04] — INT. DAVE'S BEDROOM — CONTINUOUS
 
 _A soft mechanical hum fills the room. Dignified. Almost gentle._
 
@@ -197,7 +225,7 @@ _The hum of the motor fills the hallway._
 
 ---
 
-### SCENE 5 — INT. BATHROOM — CONTINUOUS
+### SCENE 5 [SC-05] — INT. BATHROOM — CONTINUOUS
 
 _⏱ TIMING NOTE: This whole bathroom sequence should feel like a NASCAR pit stop — fast, functional, slightly out of control. The comedy works on two levels: Dave managing to ACTUALLY DO all the morning tasks while the bed looms in the doorway — and the bed quietly getting itself ready in parallel. He is scrambling. It is calm. The juxtaposition is the joke._
 
@@ -246,7 +274,7 @@ _Dave squeezes past it sideways — one shoulder, then the other. The bed shifts
 
 ---
 
-### SCENE 6 — INT. KITCHEN — INTERCUT
+### SCENE 6 [SC-06] — INT. KITCHEN — INTERCUT
 
 _⏱ TIMING NOTE: This is a palette cleanser — pure calm. The kitchen is empty, beautiful, undisturbed. The comedy is in the contrast with whatever Dave is enduring when we cut to this. This shot should cut away AT THE PERFECT MOMENT — right when Dave is being pushed fastest and the coffee feels most needed. Calm vs. chaos._
 
@@ -260,7 +288,7 @@ _Cut back to Dave._
 
 ---
 
-### SCENE 7 — INT. CLOSET — CONTINUOUS
+### SCENE 7 [SC-07] — INT. CLOSET — CONTINUOUS
 
 _The bed pushes Dave into the walk-in closet at moderate speed. Clothes swipe past him. He grabs at things._
 
@@ -278,7 +306,7 @@ _The bed resumes. They move down the hallway. Dave ties the tie while walking �
 
 ---
 
-### SCENE 7A — INT. HALLWAY — CONTINUOUS
+### SCENE 7A [SC-07A] — INT. HALLWAY — CONTINUOUS
 
 _⏱ TIMING NOTE: This is the payoff. Hold both shots. Let the contrast land._
 
@@ -295,7 +323,7 @@ _The bed nudges him forward._
 
 ---
 
-### SCENE 8 — INT. KITCHEN — CONTINUOUS
+### SCENE 8 [SC-08] — INT. KITCHEN — CONTINUOUS
 
 _⏱ TIMING NOTE: The coffee scene is the centerpiece physical gag. Milk it. The bed should be visibly faster here — Dave is jogging slightly to stay ahead of it._
 
@@ -336,7 +364,7 @@ _Hold on this. Two seconds longer than feels right._
 
 ---
 
-### SCENE 9 — EXT. DRIVEWAY — MORNING
+### SCENE 9 [SC-09] — EXT. DRIVEWAY — MORNING
 
 _⏱ TIMING NOTE: The outdoor sequence benefits from wide shots to show the full absurdity — a man being escorted down a suburban driveway by a queen-size adjustable base. This is the first time we see the bed's tracks in motion._
 
@@ -362,7 +390,7 @@ _Cut._
 
 ---
 
-### SCENE 10 — INT./EXT. CAR — MORNING
+### SCENE 10 [SC-10] — INT./EXT. CAR — MORNING
 
 _Dave drops into the driver's seat. Keys in hand. He starts the car._
 
@@ -481,7 +509,7 @@ _Wide shot. Highway shoulder. Dave in office clothes, hands on the trunk of a de
 
 ---
 
-### SCENE 11 — EXT. OFFICE BUILDING PARKING LOT — MORNING
+### SCENE 11 [SC-11] — EXT. OFFICE BUILDING PARKING LOT — MORNING
 
 _Tracking backward. Dave walks toward camera — shirt untucked, tie askew, the faint sheen of a man who has recently pushed something heavy on a highway shoulder. Empty hands. The bed rolling behind him, utterly unruffled. The office building fills the background, getting closer._
 
@@ -497,7 +525,7 @@ _An EMPLOYEE heading in from the other direction passes him. Doesn't break strid
 
 ---
 
-### SCENE 12 — INT. OFFICE — LOBBY — MORNING
+### SCENE 12 [SC-12] — INT. OFFICE — LOBBY — MORNING
 
 _⏱ TIMING NOTE: The office scenes should be the most "grounded" part. The bed is still there, still humming, but the world around Dave has just... accepted it. Play the comedy in the normalcy._
 
@@ -518,7 +546,7 @@ _She watches him go. Returns to clacking at her keyboard. He heads for the eleva
 
 ---
 
-### SCENE 13 — INT. OFFICE ELEVATOR — MORNING
+### SCENE 13 [SC-13] — INT. OFFICE ELEVATOR — MORNING
 
 _Dave and the bed are already inside. We did not see them get in. The doors are closed. The hum fills the small space._
 
@@ -540,7 +568,7 @@ _Cut._
 
 ---
 
-### SCENE 14 — INT. OPEN OFFICE — MORNING
+### SCENE 14 [SC-14] — INT. OPEN OFFICE — MORNING
 
 _Dave rounds the corner into the main office floor._
 
@@ -576,7 +604,7 @@ _They both open their laptops._
 
 ---
 
-### SCENE 15 — INT. CONFERENCE ROOM — LATER THAT MORNING
+### SCENE 15 [SC-15] — INT. CONFERENCE ROOM — LATER THAT MORNING
 
 _⏱ TIMING NOTE: The meeting is pure slow-burn. The comedy is in everyone pretending the beds are not there._
 
@@ -602,7 +630,7 @@ _The young employee writes something in his notebook. Underlines it._
 
 ---
 
-### SCENE 16 — INT. DAVE'S DESK — MIDDAY
+### SCENE 16 [SC-16] — INT. DAVE'S DESK — MIDDAY
 
 _Dave's boss, KAREN, stops by his desk. She looks at him._
 
@@ -637,7 +665,7 @@ _She's gone._
 
 ---
 
-### SCENE 16A — INT. OPEN OFFICE — AFTERNOON
+### SCENE 16A [SC-16A] — INT. OPEN OFFICE — AFTERNOON
 
 _Across the floor, Marcus is at the desk of PRIYA — early 30s, sharp, laughing at something Marcus just said. Marcus is leaning against her desk partition, relaxed, jacket off. This is going well. This is clearly going well._
 
@@ -678,7 +706,7 @@ _He goes back to work. The bed does not respond. It already said what it needed 
 
 ---
 
-### SCENE 17 — INT. OFFICE — AFTERNOON MONTAGE
+### SCENE 17 [SC-17] — INT. OFFICE — AFTERNOON MONTAGE
 
 _⏱ TIMING NOTE: This sequence tracks Dave's struggle with the Hendricks model. The physical gauntlet is over — this is the professional one. The bed is still there, but the obstacle is on his screen. Use clock cuts._
 
@@ -749,7 +777,7 @@ Not bad.
 
 ---
 
-### SCENE 18 — INT. DAVE'S DESK — 5:00 PM
+### SCENE 18 [SC-18] — INT. DAVE'S DESK — 5:00 PM
 
 _Dave's phone buzzes._
 
@@ -792,7 +820,7 @@ _The office is empty. The bed waits until he is gone. Then it turns — slowly, 
 
 ---
 
-### SCENE 19 — INT. DAVE'S BEDROOM — THE NEXT MORNING
+### SCENE 19 [SC-19] — INT. DAVE'S BEDROOM — THE NEXT MORNING
 
 _Black._
 
@@ -903,8 +931,9 @@ The **RISE / PUSH sticker** should be readable at least twice — once in the be
 
 ---
 
-_PUSH — Screenplay v7.1_
-_Updated: Scene 9 neighbor beat consolidated (one neighbor; dog outlasts human; "escorted by his own furniture"). Scene 4 remote-click punch-up ("harder, as if pressure were the issue"). Scene 17 — 4:15 arrows callback ("across first, then down"); 4:58 aligned to the Hendricks MODEL (was "report") to match Karen's Scene 16 line. Scene 14 stage-direction cleanup. Epilogue beat ("the deliberation is shorter this time")._
+_PUSH — Screenplay v7.2_
+_Updated: Scene Registry added at head of document — every scene carries a stable machine-checkable ID (SC-01 … SC-19, with inserts SC-07A, SC-16A), annotated with act and beat membership. Scene headings annotated with their IDs. The AI Shot List and Storyboard Handoff now reference these IDs; canon-check fails on any reference to an ID absent from the registry or on count drift._
+_Previous: v7.1 — Scene 9 neighbor beat consolidated (one neighbor; dog outlasts human; "escorted by his own furniture"). Scene 4 remote-click punch-up ("harder, as if pressure were the issue"). Scene 17 — 4:15 arrows callback ("across first, then down"); 4:58 aligned to the Hendricks MODEL (was "report") to match Karen's Scene 16 line. Scene 14 stage-direction cleanup. Epilogue beat ("the deliberation is shorter this time")._
 _Previous: v7.0 — Scene 16A (Marcus/Priya) added. Scene 18 closing nod between Dave and Marcus added. Marcus/Priya Beat production note added._
 _Previous: v6.0 — Lean napkin thread — bar plant (Scene 2, Marcus draws/Dave rejects/Tyler films video to group chat), Karen escalated ("the model's off"), afternoon rewritten as struggle with video playback at 3:45 (Scene 17). Bar audio over sober silence. No added dialogue. No Marcus payoff scene. The audience connects the thread; nobody in the film does._
 _Total estimated runtime: 5–7 minutes_

@@ -49,7 +49,7 @@ For close-ups of faces, also add:
 
 ### SHOT 001
 
-**Scene:** Opening / Title Card
+**Scene:** SC-01 — Opening / Title Card
 **Duration:** 3–4 seconds
 **Camera:** Static. Extreme close-up.
 
@@ -65,7 +65,7 @@ For close-ups of faces, also add:
 
 ### SHOT 002
 
-**Scene:** Dave asleep
+**Scene:** SC-01 — Dave asleep
 **Duration:** 3 seconds
 **Camera:** Wide. Low angle from foot of bed.
 
@@ -79,7 +79,7 @@ For close-ups of faces, also add:
 
 ### SHOT 003
 
-**Scene:** Alarm goes off — Dave wakes up
+**Scene:** SC-01 — Alarm goes off — Dave wakes up
 **Duration:** 4–5 seconds
 **Camera:** Medium. Eye level.
 
@@ -93,7 +93,7 @@ For close-ups of faces, also add:
 
 ### SHOT 004
 
-**Scene:** Dave cradles his head
+**Scene:** SC-01 — Dave cradles his head
 **Duration:** 3 seconds
 **Camera:** Close-up. Eye level.
 
@@ -107,7 +107,7 @@ For close-ups of faces, also add:
 
 ### SHOT 005
 
-**Scene:** Dave spots the remote
+**Scene:** SC-01 — Dave spots the remote
 **Duration:** 3 seconds
 **Camera:** POV — Dave's eyeline to nightstand.
 
@@ -121,7 +121,7 @@ For close-ups of faces, also add:
 
 ---
 
-## ACT ONE — FLASHBACK MONTAGE
+## ACT ONE — FLASHBACK MONTAGE _(shot-list-local sub-cluster of screenplay ACT ONE; covers SC-02)_
 
 _Generate each flashback with a degraded memory look — but vary the treatment by location per the Visual Guide: bar shots are overexposed with slightly blown highlights; bathroom mirror is greenish cast, lower contrast; group selfie is flash-washed, nearly white; cab is warm tungsten with slight motion blur. These are memories, not reality. Each clip should feel like a GIF that's been left in the sun._
 
@@ -129,7 +129,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 006
 
-**Scene:** Flashback — Shots arriving at the bar
+**Scene:** SC-02 — Flashback — Shots arriving at the bar
 **Duration:** 2–3 seconds
 **Camera:** Wide. High-top bar table. Slight handheld.
 
@@ -141,7 +141,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 007
 
-**Scene:** Flashback — The napkin theory
+**Scene:** SC-02 — Flashback — The napkin theory
 **Duration:** 3 seconds
 **Camera:** Medium. Eye level.
 
@@ -155,7 +155,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 008
 
-**Scene:** Flashback — Slow motion barstool fall
+**Scene:** SC-02 — Flashback — Slow motion barstool fall
 **Duration:** 3–4 seconds (slow motion)
 **Camera:** Wide. Eye level.
 
@@ -169,7 +169,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 009
 
-**Scene:** Flashback — Bathroom mirror
+**Scene:** SC-02 — Flashback — Bathroom mirror
 **Duration:** 3 seconds
 **Camera:** Medium. Facing the mirror.
 
@@ -181,7 +181,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 010
 
-**Scene:** Flashback — Group selfie disaster
+**Scene:** SC-02 — Flashback — Group selfie disaster
 **Duration:** 2 seconds
 **Camera:** Selfie POV — facing the group.
 
@@ -193,7 +193,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 011
 
-**Scene:** Flashback — Cab ride home
+**Scene:** SC-02 — Flashback — Cab ride home
 **Duration:** 3–4 seconds
 **Camera:** Interior wide. Low.
 
@@ -205,13 +205,13 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ---
 
-## ACT TWO — THE BED AWAKENS
+## ACT TWO — THE BED AWAKENS _(shot-list-local grouping; covers screenplay SC-03, still screenplay ACT ONE)_
 
 ---
 
 ### SHOT 012
 
-**Scene:** Dave clicks the remote — bed begins to rise
+**Scene:** SC-03 — Dave clicks the remote — bed begins to rise
 **Duration:** 5–6 seconds
 **Camera:** Wide. Static from the side of the bed.
 
@@ -225,7 +225,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 013
 
-**Scene:** Bed passes 90 degrees — Dave's eyebrows rise
+**Scene:** SC-03 — Bed passes 90 degrees — Dave's eyebrows rise
 **Duration:** 4 seconds
 **Camera:** Medium. Eye level, slightly low.
 
@@ -237,7 +237,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 014
 
-**Scene:** Bed fully vertical — begins pushing Dave
+**Scene:** SC-03 — Bed fully vertical — begins pushing Dave
 **Duration:** 5 seconds
 **Camera:** Wide. Static from the side.
 
@@ -251,7 +251,7 @@ _Generate each flashback with a degraded memory look — but vary the treatment 
 
 ### SHOT 015
 
-**Scene:** Dave reads the back of the remote
+**Scene:** SC-03 — Dave reads the back of the remote
 **Duration:** 3 seconds
 **Camera:** Close-up. POV.
 
@@ -273,7 +273,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 016
 
-**Scene:** Pushed through hallway toward bathroom
+**Scene:** SC-04 — Pushed through hallway toward bathroom
 **Duration:** 3 seconds
 **Camera:** Wide. Tracking from the side.
 
@@ -285,7 +285,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 017
 
-**Scene:** Dave pushed sideways through bathroom door
+**Scene:** SC-05 — Dave pushed sideways through bathroom door
 **Duration:** 3 seconds
 **Camera:** Wide. Static from inside bathroom.
 
@@ -297,7 +297,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 018
 
-**Scene:** Dave brushing teeth — bed waiting in doorway
+**Scene:** SC-05 — Dave brushing teeth — bed waiting in doorway
 **Duration:** 4 seconds
 **Camera:** Medium. Side angle.
 
@@ -309,7 +309,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 019
 
-**Scene:** Shower curtain nudge
+**Scene:** SC-05 — Shower curtain nudge
 **Duration:** 3 seconds
 **Camera:** Wide. From inside bathroom facing doorway.
 
@@ -323,7 +323,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 019A
 
-**Scene:** Self-making intercut — sheet tensioning (bathroom wait)
+**Scene:** SC-05 — Self-making intercut — sheet tensioning (bathroom wait)
 **Duration:** 3–4 seconds
 **Camera:** Close-up. Static.
 
@@ -337,7 +337,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 020
 
-**Scene:** Bathroom mirror — "You're doing great"
+**Scene:** SC-05 — Bathroom mirror — "You're doing great"
 **Duration:** 3–4 seconds
 **Camera:** Medium. Facing the mirror.
 
@@ -351,7 +351,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 021
 
-**Scene:** Coffee maker — calm intercut
+**Scene:** SC-06 — Coffee maker — calm intercut
 **Duration:** 3 seconds
 **Camera:** Static. Close-up on coffee maker.
 
@@ -365,7 +365,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 022
 
-**Scene:** Closet — Dave emerges wrong
+**Scene:** SC-07 — Closet — Dave emerges wrong
 **Duration:** 8–10 seconds
 **Camera:** Medium. Static facing the closet.
 
@@ -379,7 +379,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 022A
 
-**Scene:** Self-making intercut — nearly done (closet)
+**Scene:** SC-07 — Self-making intercut — nearly done (closet)
 **Duration:** 2–3 seconds
 **Camera:** Medium. Static.
 
@@ -393,7 +393,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 022B
 
-**Scene:** Self-making payoff — pillow settles (hallway / tie beat)
+**Scene:** SC-07A — Self-making payoff — pillow settles (hallway / tie beat)
 **Duration:** 3–4 seconds
 **Camera:** Close-up to medium. Static.
 
@@ -409,7 +409,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 023
 
-**Scene:** Coffee scene — the great pour
+**Scene:** SC-08 — Coffee scene — the great pour
 **Duration:** 10–12 seconds
 **Camera:** Wide, slight handheld.
 
@@ -431,7 +431,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 024
 
-**Scene:** Track insert — first time audience sees the bed's movement system
+**Scene:** SC-09 — Track insert — first time audience sees the bed's movement system
 **Duration:** 2–3 seconds
 **Camera:** Low angle. Driveway concrete.
 
@@ -445,7 +445,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 025
 
-**Scene:** Dave pushed down the driveway
+**Scene:** SC-09 — Dave pushed down the driveway
 **Duration:** 5 seconds
 **Camera:** Wide. Static from the street.
 
@@ -459,7 +459,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 026
 
-**Scene:** Rearview mirror — Dave and bed
+**Scene:** SC-10 — Rearview mirror — Dave and bed
 **Duration:** 2–3 seconds
 **Camera:** Close-up. Rearview mirror POV.
 
@@ -473,7 +473,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 026A
 
-**Scene:** The radio — Ludacris whistle / fuel gauge discovery
+**Scene:** SC-10 — The radio — Ludacris whistle / fuel gauge discovery
 **Duration:** 10–12 seconds
 **Camera:** Interior. Medium on Dave, with close-up insert on fuel gauge.
 
@@ -489,7 +489,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 027
 
-**Scene:** Drive-through — machine is down
+**Scene:** SC-10 — Drive-through — machine is down
 **Duration:** 6–8 seconds
 **Camera:** Medium. From passenger side, through driver's window to pickup window.
 
@@ -503,7 +503,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 028
 
-**Scene:** Stop light — thermos commuter
+**Scene:** SC-10 — Stop light — thermos commuter
 **Duration:** 3–4 seconds
 **Camera:** Medium. From inside the car looking out through driver's window.
 
@@ -517,7 +517,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 028A
 
-**Scene:** Gas station approach — the bed warns
+**Scene:** SC-10 — Gas station approach — the bed warns
 **Duration:** 5–6 seconds
 **Camera:** Interior. Medium on Dave. Gas station visible through windshield.
 
@@ -531,7 +531,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 028B
 
-**Scene:** The car dies
+**Scene:** SC-10 — The car dies
 **Duration:** 4–5 seconds
 **Camera:** Interior to exterior transition.
 
@@ -545,7 +545,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 028C
 
-**Scene:** PUSH → Dave → car — highway shoulder
+**Scene:** SC-10 — PUSH → Dave → car — highway shoulder
 **Duration:** 6–8 seconds
 **Camera:** Wide. Static or slow tracking. Highway shoulder.
 
@@ -563,7 +563,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 029
 
-**Scene:** Parking lot walk — hard cut from highway shoulder
+**Scene:** SC-11 — Parking lot walk — hard cut from highway shoulder
 **Duration:** 4 seconds
 **Camera:** Wide. Tracking backward.
 
@@ -577,7 +577,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 030
 
-**Scene:** Receptionist lobby
+**Scene:** SC-12 — Receptionist lobby
 **Duration:** 4–5 seconds
 **Camera:** Medium. Static from behind reception desk.
 
@@ -591,7 +591,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 031
 
-**Scene:** Elevator — silent coworker
+**Scene:** SC-13 — Elevator — silent coworker
 **Duration:** 5–6 seconds
 **Camera:** Wide. Static from the hallway outside the elevator.
 
@@ -605,7 +605,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 032
 
-**Scene:** Dave arrives — sees Marcus
+**Scene:** SC-14 — Dave arrives — sees Marcus
 **Duration:** 10–12 seconds
 **Camera:** Wide. Static. Open office floor.
 
@@ -621,7 +621,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 033
 
-**Scene:** Conference room — young employee notices
+**Scene:** SC-15 — Conference room — young employee notices
 **Duration:** 5 seconds
 **Camera:** Wide. Conference table.
 
@@ -635,7 +635,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 034
 
-**Scene:** Karen visits Dave's desk
+**Scene:** SC-16 — Karen visits Dave's desk
 **Duration:** 6 seconds
 **Camera:** Medium. Over-the-shoulder, slightly low.
 
@@ -649,7 +649,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 034A
 
-**Scene:** Marcus/Priya — the bed makes no exceptions (Scene 16A)
+**Scene:** SC-16A — Marcus/Priya — the bed makes no exceptions (Scene 16A)
 **Duration:** 8–10 seconds
 **Camera:** Medium-wide. Two-shot with Dave in background.
 
@@ -669,7 +669,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 035
 
-**Scene:** 2:00 PM — the Hendricks model (Scene 17)
+**Scene:** SC-17 — 2:00 PM — the Hendricks model (Scene 17)
 **Duration:** 3–4 seconds
 **Camera:** Wide. Office desk. Clock on wall.
 
@@ -683,7 +683,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 036
 
-**Scene:** 3:00 PM — whiteboard, wrong approach (Scene 17)
+**Scene:** SC-17 — 3:00 PM — whiteboard, wrong approach (Scene 17)
 **Duration:** 4–5 seconds
 **Camera:** Medium-wide. Static from across the room.
 
@@ -697,7 +697,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 037
 
-**Scene:** 3:45 PM — the napkin video (Scene 17)
+**Scene:** SC-17 — 3:45 PM — the napkin video (Scene 17)
 **Duration:** 8–10 seconds
 **Camera:** Medium close-up on Dave's face. Phone held low, screen never shown.
 
@@ -715,7 +715,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 038
 
-**Scene:** 4:15 PM — whiteboard, arrows working (Scene 17)
+**Scene:** SC-17 — 4:15 PM — whiteboard, arrows working (Scene 17)
 **Duration:** 5–6 seconds
 **Camera:** Medium-wide. Static from across the room.
 
@@ -729,7 +729,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 039
 
-**Scene:** 4:58 PM — the model runs clean (Scene 17)
+**Scene:** SC-17 — 4:58 PM — the model runs clean (Scene 17)
 **Duration:** 5–6 seconds
 **Camera:** Medium. Static. Dave's desk.
 
@@ -743,7 +743,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 040
 
-**Scene:** 5:00 PM — the group chat
+**Scene:** SC-18 — 5:00 PM — the group chat
 **Duration:** 4 seconds
 **Camera:** Close-up — phone screen.
 
@@ -757,7 +757,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 041
 
-**Scene:** 5:00 PM — Dave leaves, whistling
+**Scene:** SC-18 — 5:00 PM — Dave leaves, whistling
 **Duration:** 8–10 seconds
 **Camera:** Medium tracking. Office desk to elevator.
 
@@ -773,7 +773,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 041A
 
-**Scene:** The bed exits the office alone
+**Scene:** SC-18 — The bed exits the office alone
 **Duration:** 5–6 seconds
 **Camera:** Wide. Static. Office lobby.
 
@@ -791,7 +791,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 042
 
-**Scene:** Next morning — exact repeat of SHOT 001 and 002
+**Scene:** SC-19 — Next morning — exact repeat of SHOT 001 and 002
 **Duration:** 5 seconds
 **Camera:** Same framing as opening shots.
 
@@ -805,7 +805,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 043
 
-**Scene:** Dave clicks the button again
+**Scene:** SC-19 — Dave clicks the button again
 **Duration:** 4 seconds
 **Camera:** Close-up. Hand. Then medium on Dave.
 
@@ -823,7 +823,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 044
 
-**Scene:** The bed commutes home
+**Scene:** END-CREDITS — The bed commutes home
 **Duration:** 10–15 seconds
 **Camera:** Wide. Static. City sidewalk. Late afternoon.
 
@@ -841,7 +841,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 044A
 
-**Scene:** The bed returns to the bedroom
+**Scene:** END-CREDITS — The bed returns to the bedroom
 **Duration:** 5–6 seconds
 **Camera:** Wide. Static. Dave's bedroom. Evening.
 
@@ -855,7 +855,7 @@ _For all Gauntlet shots: the bed is always in frame. It should feel like a relen
 
 ### SHOT 044B
 
-**Scene:** The bed folds flat — home
+**Scene:** END-CREDITS — The bed folds flat — home
 **Duration:** 6–8 seconds
 **Camera:** Wide. Low angle from foot of bed.
 
@@ -905,8 +905,9 @@ _Full character design specs — wardrobe states by shot, expression vocabularie
 
 ---
 
-_PUSH — AI Shot List v4.7_
-_Updated: Napkin-thread propagation — Shot 007 attribution corrected (Marcus draws, Dave rejects, Tyler films, Jake eats); Shots 035–038 rewritten to the v6.0+ afternoon (2:00 model / 3:00 whiteboard erase / 3:45 napkin video / 4:15 arrows working alone); Shot 034 Karen dialogue aligned ("The Hendricks model is off"); composite-text flags added to Shots 001/042; markdown fixes; Character Design Bible cross-reference added. Aligned with Screenplay v7.1._
+_PUSH — AI Shot List v4.8_
+_Updated: Scene IDs added — every shot's Scene: line now references the screenplay's Scene Registry (SC-01 … SC-19, SC-07A, SC-16A). Shot-list-local act clusters marked (FLASHBACK MONTAGE = sub-cluster of screenplay ACT ONE; THE BED AWAKENS = shot-list-local grouping covering SC-03). canon-check fails on any shot referencing an ID absent from the registry._
+_Previous: v4.7 — Napkin-thread propagation — Shot 007 attribution corrected (Marcus draws, Dave rejects, Tyler films, Jake eats); Shots 035–038 rewritten to the v6.0+ afternoon (2:00 model / 3:00 whiteboard erase / 3:45 napkin video / 4:15 arrows working alone); Shot 034 Karen dialogue aligned ("The Hendricks model is off"); composite-text flags added to Shots 001/042; markdown fixes; Character Design Bible cross-reference added. Aligned with Screenplay v7.1._
 _Previous: v4.6 — Shot 034A added (Scene 16A — Marcus/Priya). Shot 041 updated with closing nod. Aligned with Screenplay v7.0._
 _Previous: v4.5 — Sticker readability notes added (Shot 012 bedroom, Shot 032 office — Prop Bible §1.5). RISE yard sign added to Shot 025 driveway. Lobby/elevator editorial gap marked intentional (Shot 044 → 044A). Aligned with Prop Bible v4.0._
 _21 scene headings (19 numbered scenes + inserts 7A and 16A) / 55 shots / approx. 5–7 minute runtime_

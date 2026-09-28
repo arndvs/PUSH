@@ -176,7 +176,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 1 — Opening / Nightstand (Scene 1)
+#### PANEL 1 — Opening / Nightstand (Scene 1 · SC-01)
 
 **Image:** Extreme close-up of a cluttered nightstand. Alarm clock reads 6:47 AM. Untouched glass of water. Remote with glowing PUSH button. Charging cable dangling off edge. Blue-gray pre-dawn light.
 **Shot Type:** ECU, static
@@ -187,7 +187,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 2 — Dave Asleep (Scene 1)
+#### PANEL 2 — Dave Asleep (Scene 1 · SC-01)
 
 **Image:** Wide shot from foot of bed. Dave face-down, one arm hanging off, one leg outside covers. T-shirt, chaotic hair. Blue-gray light through curtains. Complete stillness.
 **Shot Type:** Wide, static, low angle from foot of bed
@@ -198,7 +198,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 3 — Alarm / Wake Up (Scene 1)
+#### PANEL 3 — Alarm / Wake Up (Scene 1 · SC-01)
 
 **Image:** Medium shot, eye level. Dave jolts upright — eyes wide, hair destroyed, expression cycling from terror to confusion to suffering. Hand slapping at nightstand. Phone knocked to floor.
 **Shot Type:** Medium, eye level, slight handheld feel on the jolt
@@ -209,7 +209,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 4 — Dave Cradles Head (Scene 1)
+#### PANEL 4 — Dave Cradles Head (Scene 1 · SC-01)
 
 **Image:** Close-up, eye level. Dave sitting on bed, both hands pressed to sides of head, eyes closed. Expression of profound regret. Soft morning light.
 **Shot Type:** CU, static
@@ -220,7 +220,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 5 — Flashback: Shots at Bar (Scene 2)
+#### PANEL 5 — Flashback: Shots at Bar (Scene 2 · SC-02)
 
 **Image:** Wide shot of a high-top bar table. Six guys, a tray of shots arriving. Dave raises his glass toward camera with "I know better" expression. Overexposed, slightly blown highlights — degraded memory look.
 **Shot Type:** Wide, slight handheld. Degraded warm look.
@@ -231,7 +231,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 6 — Flashback: Napkin Theory (Scene 2)
+#### PANEL 6 — Flashback: Napkin Theory (Scene 2 · SC-02)
 
 **Image:** Medium shot. MARCUS hunched over three napkins arranged as a diagram, drawing arrows with a stolen pen, jabbing them. Dave shakes his head, waves him off — not buying it. Jake eats someone else's fries. At the edge of frame, Tyler films the argument on his phone, grinning. Overexposed bar light.
 **Shot Type:** Medium, eye level
@@ -242,7 +242,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 7 — Flashback: Barstool Fall (Scene 2)
+#### PANEL 7 — Flashback: Barstool Fall (Scene 2 · SC-02)
 
 **Image:** Wide shot. Someone (NOT Dave — visually distinct) sliding off a barstool in slow motion. Friends including Dave watch without moving to help.
 **Shot Type:** Wide, slow motion (240fps aesthetic)
@@ -253,7 +253,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 8 — Flashback: Bathroom Mirror (Scene 2)
+#### PANEL 8 — Flashback: Bathroom Mirror (Scene 2 · SC-02)
 
 **Image:** Medium shot, Dave at a bar bathroom mirror. Dim, greenish fluorescent cast. Slightly messy hair, glazed eyes. He points at his own reflection with absolute conviction.
 **Shot Type:** Medium, facing mirror
@@ -264,7 +264,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 9 — Flashback: Group Selfie (Scene 2)
+#### PANEL 9 — Flashback: Group Selfie (Scene 2 · SC-02)
 
 **Image:** Selfie POV. Group of men outside bar at night. Someone's thumb covers lens. Eyes closed. Dave looking wrong direction. Marcus eating something. Flash fires.
 **Shot Type:** Selfie POV, flash-washed
@@ -275,7 +275,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 10 — Flashback: Cab Ride (Scene 2)
+#### PANEL 10 — Flashback: Cab Ride (Scene 2 · SC-02)
 
 **Image:** Interior cab, wide from front facing back. Dave, Marcus, and another guy in back seat staring straight ahead in silence. One eating a gas station hot dog. City lights blurring past.
 **Shot Type:** Wide interior, warm tungsten with motion blur
@@ -286,7 +286,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 11 — Dave Spots the Remote (Scene 3)
+#### PANEL 11 — Dave Spots the Remote (Scene 3 · SC-03)
 
 **Image:** Dave's POV looking at nightstand. Rack focus from water glass (foreground, soft) to remote (background, sharp). The PUSH button glows warm white — the sharpest, warmest point of light in the frame. Morning light, slightly brighter now.
 **Shot Type:** CU, POV — Dave's eyeline to nightstand
@@ -297,7 +297,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 12 — Dave Clicks the Button (Scene 3)
+#### PANEL 12 — Dave Clicks the Button (Scene 3 · SC-03)
 
 **Image:** Close-up of Dave's hand picking up the remote. Thumb presses the PUSH button. Brief glow intensification.
 **Shot Type:** CU on hand/remote
@@ -312,7 +312,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 13 — Bed Begins to Rise (Scene 4)
+#### PANEL 13 — Bed Begins to Rise (Scene 4 · SC-04)
 
 **Image:** Wide shot from the side of the bedroom. The bed's back panel rising. Dave rides it passively, one arm dangling, eyes half-closed. 45°... 60°... approaching 90°. Struts extending on each side. Morning light.
 **Shot Type:** Wide, static, from side of bed
@@ -323,7 +323,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 14 — Past 90° — Dave Reacts (Scene 4)
+#### PANEL 14 — Past 90° — Dave Reacts (Scene 4 · SC-04)
 
 **Image:** Medium shot, slightly low angle. Bed past 90°, Dave leaning forward, feet finding floor. Eyebrows raised. He grabs the frame. Expression: dawning concern. He clicks the remote repeatedly — same glow each time, nothing changes.
 **Shot Type:** Medium, slightly low angle
@@ -334,7 +334,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 15 — Bed Fully Vertical — First Push (Scene 4)
+#### PANEL 15 — Bed Fully Vertical — First Push (Scene 4 · SC-04)
 
 **Image:** Wide shot. The bed is fully vertical — a complete bed standing on end (mattress, sheet, pillow at top, slightly askew). It presses into Dave's back. He stumbles forward. He turns the remote over, reads the back. The RISE/PUSH sticker is now visible on the lower-right frame.
 **Shot Type:** Wide, static, from side
@@ -345,7 +345,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 16 — Close-up: Remote Back (Scene 4)
+#### PANEL 16 — Close-up: Remote Back (Scene 4 · SC-04)
 
 **Image:** Extreme close-up of the remote's back in Dave's hand. White fine print clearly readable: "PUSH by RISE Smart Adjustable Base Remote / Model: PM-1 (Push Mode) / Note: Push Mode cannot be manually interrupted once initiated. This is a feature, not a limitation. Have a productive day! / For support: riseawake.com/help"
 **Shot Type:** ECU, POV
@@ -356,7 +356,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 17 — Pushed Through Hallway (Scene 4→5)
+#### PANEL 17 — Pushed Through Hallway (Scene 4→5 · SC-04→SC-05)
 
 **Image:** Wide tracking shot from the side. Dave in boxers/t-shirt being pushed down a wide residential hallway by the fully vertical bed. He walks forward in a half-stumble. Morning light from bedroom behind them.
 **Shot Type:** Wide, side tracking
@@ -367,7 +367,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 18 — Pushed Sideways Through Bathroom Door (Scene 5)
+#### PANEL 18 — Pushed Sideways Through Bathroom Door (Scene 5 · SC-05)
 
 **Image:** Wide shot from inside the bathroom. Dave is pushed sideways through the doorway. He catches himself on the sink. The bed fills the entire doorframe behind him — a dark rectangle. It does not enter. It waits.
 **Shot Type:** Wide, static, from inside bathroom
@@ -378,7 +378,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 19 — Teeth Brushing / Bed Waiting (Scene 5)
+#### PANEL 19 — Teeth Brushing / Bed Waiting (Scene 5 · SC-05)
 
 **Image:** Medium side angle. Dave brushing teeth at frantic speed. Through the doorway behind him, the vertical bed waits, filling the frame. Dark rectangle. Humming.
 **Shot Type:** Medium, side angle
@@ -389,7 +389,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 20 — Shower / Bed Standoff (Scene 5)
+#### PANEL 20 — Shower / Bed Standoff (Scene 5 · SC-05)
 
 **Image:** Wide shot from inside bathroom facing doorway. Shower curtain drawn in foreground with Dave's silhouette and steam. The bed fills the doorway in background — dark, humming. The composition feels like a standoff. Dave's silhouette flinches. Curtain sways from his movement.
 **Shot Type:** Wide, static. Bathroom → doorway.
@@ -398,7 +398,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 **Camera:** Hold on this composition. The standoff IS the shot. 3 seconds of this image.
 **Hum:** Shifts to impatient. Then higher. Then Dave reacts.
 
-**INTERCUT PANEL — Bed Self-Making (During Scene 5)**
+**INTERCUT PANEL — Bed Self-Making (During Scene 5 · SC-05)**
 
 **Image:** Close-up of the vertical bed in the doorway. Sheet tensioning bar visible — slowly moving, smoothing wrinkles one at a time. The bed is getting ready in parallel with Dave. Approximately 1/3 through its self-making process.
 **Shot Type:** CU on bed's surface/sheets
@@ -409,7 +409,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 21 — Mirror: "You're Doing Great" Redux (Scene 5)
+#### PANEL 21 — Mirror: "You're Doing Great" Redux (Scene 5 · SC-05)
 
 **Image:** Medium shot. Dave at bathroom sink, towel around waist, wet hair. Pained eye contact with himself in mirror. Same pose as the bar flashback (Panel 8) — but under harsh morning fluorescent, not bar-dim. The bed visible through the doorway behind him. He doesn't believe it this time.
 **Shot Type:** Medium, facing mirror. Direct visual callback to Panel 8.
@@ -420,7 +420,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 22 — Coffee Maker Intercut (Scene 6)
+#### PANEL 22 — Coffee Maker Intercut (Scene 6 · SC-06)
 
 **Image:** Static close-up. A modern drip coffee maker on a kitchen counter. Timer light on. Coffee slowly dripping into carafe. Steam rising. Beautiful golden morning light. Everything still and peaceful.
 **Shot Type:** CU, static. Kitchen. Palette cleanser.
@@ -431,7 +431,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 23 — Closet: Wrong Exit (Scene 7)
+#### PANEL 23 — Closet: Wrong Exit (Scene 7 · SC-07)
 
 **Image:** Medium shot facing closet entrance. Dave tumbles out — dress shirt half-tucked, ONE shoe, no tie. The vertical bed waits beside the entrance. Sheet nearly taut, pillow fuller but not yet settled (self-making nearly done).
 **Shot Type:** Medium, static, facing closet
@@ -442,7 +442,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 24 — Closet: Correct Exit (Scene 7)
+#### PANEL 24 — Closet: Correct Exit (Scene 7 · SC-07)
 
 **Image:** Same framing. Dave emerges again. Shirt tucked. Both shoes. Tie unknotted around neck. Bed resumes forward. Dave ties tie while moving.
 **Shot Type:** Same as Panel 23
@@ -453,7 +453,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 25 — Hallway: Pillow Payoff (Scene 7A)
+#### PANEL 25 — Hallway: Pillow Payoff (Scene 7A · SC-07A)
 
 **Image:** Two-panel beat. (A) Close-up: the pillow at the top of the vertical bed. Pneumatic node completes its cycle — a slow, soft exhale. Pillow settles — plumped and reshaped, slightly askew. Still. (B) Cut to: Dave's hands fighting the tie knot while being rolled forward. Wrong. Still wrong. Slightly less wrong.
 **Shot Type:** CU pillow → CU Dave's hands and tie
@@ -464,7 +464,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 26 — Coffee Scene: The Pour (Scene 8)
+#### PANEL 26 — Coffee Scene: The Pour (Scene 8 · SC-08)
 
 **Image:** Wide shot, slight handheld. Kitchen. Dave jogging slightly to stay ahead of the bed (visibly faster here). He grabs a mug. Reaches for the carafe. Bed nudges — chaotic pour. Coffee splashes. Some in mug, some on counter, some on his hand.
 **Shot Type:** Wide, handheld energy
@@ -475,7 +475,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 27 — Coffee Scene: The Loss (Scene 8)
+#### PANEL 27 — Coffee Scene: The Loss (Scene 8 · SC-08)
 
 **Image:** Wide shot. The front door approaches fast. Dave still sipping. Counter running out. He sets the mug down on the counter. The bed pushes him past it. DOOR SLAM. Then: hold on the empty kitchen — coffee maker still on, mug steaming on counter. Two seconds longer than feels right.
 **Shot Type:** Wide → hold on empty kitchen
@@ -490,7 +490,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 28 — Track Insert (Scene 9)
+#### PANEL 28 — Track Insert (Scene 9 · SC-09)
 
 **Image:** Low angle — driveway concrete. The bed's continuous tracks roll into frame from the right. Steady, unhurried. Morning light rakes across pavement.
 **Shot Type:** Low angle insert. Ground level.
@@ -501,7 +501,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 29 — Driveway Wide (Scene 9)
+#### PANEL 29 — Driveway Wide (Scene 9 · SC-09)
 
 **Image:** Wide static shot from street level. Full picture for the first time in outdoor daylight: Dave in office clothes, no coffee, the fully vertical bed behind him, suburban driveway, morning light. A NEIGHBOR walking a dog glances over and keeps walking. The dog watches longer.
 **Shot Type:** WIDE. Essential.
@@ -512,7 +512,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 30 — Rearview Mirror / Radio / Whistle (Scene 10)
+#### PANEL 30 — Rearview Mirror / Radio / Whistle (Scene 10 · SC-10)
 
 **Image:** Close-up of rearview mirror. Reflected: the bed folded in half like a taco (STATE FOUR), filling the back seat. Dave's eyes visible adjusting the mirror. Then: interior medium — Dave driving, starts whistling unconsciously. The "Move Bitch" intro whistle (no lyrics).
 **Shot Type:** CU mirror → medium interior
@@ -523,7 +523,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 31 — Fuel Gauge Discovery (Scene 10)
+#### PANEL 31 — Fuel Gauge Discovery (Scene 10 · SC-10)
 
 **Image:** Two-panel beat. (A) Close-up insert: dashboard fuel gauge — needle PAST empty, warning light glowing amber. This light has been on since yesterday. (B) Medium on Dave's face: the whistle dies mid-phrase. Expression flattens. He reaches over, turns off radio. Silence.
 **Shot Type:** CU fuel gauge → medium Dave
@@ -534,7 +534,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 32 — Drive-Through: Machine Down (Scene 10, Beat 1)
+#### PANEL 32 — Drive-Through: Machine Down (Scene 10, Beat 1 · SC-10)
 
 **Image:** Medium shot from inside car. Drive-through pickup window. WORKER (early 20s, dyed hair, nose ring, sleeve tattoos, completely indifferent) leans out. Dave waiting. Then: hum from back seat shifts — pointed escalation. Dave grips steering wheel. Pulls away without coffee.
 **Shot Type:** Medium, through driver's window to pickup
@@ -545,7 +545,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 33 — Stop Light: Thermos Guy (Scene 10, Beat 2)
+#### PANEL 33 — Stop Light: Thermos Guy (Scene 10, Beat 2 · SC-10)
 
 **Image:** From inside car at red light. City bus alongside. Through bus window: a COMMUTER sipping from a coffee thermos with satisfied expression. Dave watches, empty-handed. His cup holder is perfectly empty.
 **Shot Type:** Medium, inside car looking out through driver's window
@@ -556,7 +556,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 34 — Gas Station Approach (Scene 10, Beat 3)
+#### PANEL 34 — Gas Station Approach (Scene 10, Beat 3 · SC-10)
 
 **Image:** Interior car shot. Gas station approaching through windshield on the right. Dave begins to slow. He looks at the station, then at the road ahead.
 **Shot Type:** Medium interior, gas station visible through windshield
@@ -567,7 +567,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 35 — Gas Station: Dave Drives Past (Scene 10, Beat 3)
+#### PANEL 35 — Gas Station: Dave Drives Past (Scene 10, Beat 3 · SC-10)
 
 **Image:** Dave straightens up. Drives past the gas station. The bed hum settles back to baseline. Satisfied.
 **Shot Type:** Same interior
@@ -578,7 +578,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 36 — Car Dies (Scene 10, Beat 3)
+#### PANEL 36 — Car Dies (Scene 10, Beat 3 · SC-10)
 
 **Image:** Interior to exterior transition. The car sputters, coughs, dies. Dashboard warning lights. Car coasts to highway shoulder. Stops. Dave sits in dead car. Total silence except the bed's hum — unchanged, patient, baseline.
 **Shot Type:** Interior → exterior
@@ -589,7 +589,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 37 — PUSH → Dave → Car (Scene 10, Beat 3)
+#### PANEL 37 — PUSH → Dave → Car (Scene 10, Beat 3 · SC-10)
 
 **Image:** WIDE SHOT. Highway shoulder. Dave in office clothes (slightly untucked, tie loose), both hands flat on the trunk of his dead car, pushing. Behind him: the fully vertical bed rolling forward, pushing Dave. Three objects in a line — bed, man, car — moving slowly forward. Empty highway around them. Other cars pass in far lanes.
 **Shot Type:** WIDE. Wider than any interior shot. The widest shot in the film.
@@ -602,7 +602,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 38 — Parking Lot Arrival: HARD CUT (Scene 11)
+#### PANEL 38 — Parking Lot Arrival: HARD CUT (Scene 11 · SC-11)
 
 **Image:** Wide tracking backward. Dave walks toward camera through office parking lot — shirt untucked, tie worse than before, faint sheen of exertion. Empty hands. Behind him: the bed rolling, utterly unruffled, pristine. An employee passes without breaking stride. Office building fills background.
 **Shot Type:** Wide, tracking backward
@@ -617,7 +617,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 39 — Lobby (Scene 12)
+#### PANEL 39 — Lobby (Scene 12 · SC-12)
 
 **Image:** Medium shot from behind reception desk. Dave walks through lobby. Receptionist looks up. The bed behind him. She doesn't acknowledge the bed.
 **Shot Type:** Medium, static
@@ -628,7 +628,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 40 — Elevator (Scene 13)
+#### PANEL 40 — Elevator (Scene 13 · SC-13)
 
 **Image:** Wide from hallway. Elevator doors open. Dave and bed inside (implied, not detailed). A COWORKER steps in. Looks only at floor numbers. One floor ride. Coworker exits. Dave exits other side. Neither has spoken a meaningful word.
 **Shot Type:** Wide, static, from hallway OUTSIDE elevator
@@ -639,7 +639,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 41 — The Marcus Reveal (Scene 14)
+#### PANEL 41 — The Marcus Reveal (Scene 14 · SC-14)
 
 **Image:** Wide static shot. Open office floor. Dave enters from elevator side. Across the floor: MARCUS at his desk. Behind Marcus: a bed — premium tier (warm gray frame, seven pillows, silk/sateen, olive duvet, "PUSH+" badge, faint ambient glow). Both beds idle, humming slightly out of sync — Dave's with a faint industrial edge, Marcus's smoother and more refined. Dave and Marcus make eye contact. Long beat.
 **Shot Type:** WIDE. Static. The emotional centerpiece.
@@ -650,7 +650,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 42 — Conference Room (Scene 15)
+#### PANEL 42 — Conference Room (Scene 15 · SC-15)
 
 **Image:** Wide shot. Conference table. 8 people. Manager presenting slides. Dave and Marcus at end of table with beds behind their chairs against the wall. A YOUNG EMPLOYEE glances at the beds, confused. Starts to raise hand. Coworker next to him gives a short look: _don't_.
 **Shot Type:** Wide, from middle of table looking toward end
@@ -661,7 +661,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 43 — Karen Scene (Scene 16)
+#### PANEL 43 — Karen Scene (Scene 16 · SC-16)
 
 **Image:** Medium shot, over-the-shoulder, slightly low. Dave at his desk, bed behind chair. KAREN (late 40s, sharp blazer, VP energy) standing beside desk. She looks at DAVE, not the bed.
 **Shot Type:** Medium, OTS slightly low
@@ -672,7 +672,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 43A — Marcus/Priya Beat (Scene 16A)
+#### PANEL 43A — Marcus/Priya Beat (Scene 16A · SC-16A)
 
 **Image:** Medium-wide. Across the open office floor. Marcus leans against the desk partition of PRIYA (early 30s, sharp), jacket off, relaxed. She laughs at something he said. This is going well. Dave watches from his desk in the background, bed idling behind him.
 **Shot Type:** Medium-wide, two-shot with Dave in background
@@ -687,7 +687,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 44 — 2:00 PM (Scene 17)
+#### PANEL 44 — 2:00 PM (Scene 17 · SC-17)
 
 **Image:** Wide. Dave at desk staring at the Hendricks model on his monitor, scrolling slowly — the way he stared at the remote this morning. Bed behind him leaning noticeably — still pressing. Wall clock shows 2:00.
 **Shot Type:** Wide, desk + clock
@@ -698,7 +698,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 45 — 3:00 PM (Scene 17)
+#### PANEL 45 — 3:00 PM (Scene 17 · SC-17)
 
 **Image:** Medium-wide. Dave at a whiteboard covered in boxes and arrows. He steps back, shakes his head — wrong approach. Erases half of it. Walks back to his desk, sits, looks at the clock. Bed leaning more gently — less pressure. Clock: 3:00.
 **Shot Type:** Medium-wide, whiteboard to desk
@@ -708,7 +708,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 46 — 3:45 PM: The Napkin Video (Scene 17)
+#### PANEL 46 — 3:45 PM: The Napkin Video (Scene 17 · SC-17)
 
 **Image:** Medium close-up on Dave's face, phone held low, screen NEVER shown. He scrolls far back through the group chat, taps. Listens. Skeptical → sharpening → eyes widen slightly. The quiet office around him. He watches to the end. Lowers the phone. Stares at nothing.
 **Shot Type:** Medium close-up, static. The screen stays out of frame.
@@ -719,7 +719,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 47 — 4:15 PM: Whiteboard, Arrows Working (Scene 17)
+#### PANEL 47 — 4:15 PM: Whiteboard, Arrows Working (Scene 17 · SC-17)
 
 **Image:** Medium-wide. Dave ALONE at the whiteboard, writing fast — boxes connected by arrows, across first, then down. It's working. The bed is parked at his desk across the room, dormant. Dave catches his own reflection in the window — upright, dressed, functional. Golden hour light warming the windows.
 **Shot Type:** Medium-wide, static
@@ -730,7 +730,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 48 — 4:58 PM: The Model Runs Clean (Scene 17)
+#### PANEL 48 — 4:58 PM: The Model Runs Clean (Scene 17 · SC-17)
 
 **Image:** Medium. Dave at desk. Clicks mouse — the Hendricks model fix, sent. Leans back. The bed is right behind him. One small, soft hum — almost like an exhale. Satisfaction. Dave stays.
 **Shot Type:** Medium, static, late afternoon golden light
@@ -741,7 +741,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 49 — 5:00 PM: Group Chat (Scene 18)
+#### PANEL 49 — 5:00 PM: Group Chat (Scene 18 · SC-18)
 
 **Image:** Close-up of phone screen. Group chat messages arriving: MARCUS: "yo" / MARCUS: "round 2?" / TYLER: 👀 / JAKE: "already there". Dave's thumb types: "in". Sends it.
 **Shot Type:** CU phone screen
@@ -752,7 +752,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 50 — Dave Leaves, Whistling (Scene 18)
+#### PANEL 50 — Dave Leaves, Whistling (Scene 18 · SC-18)
 
 **Image:** Medium tracking. Dave packs bag. Turns off desk lamp (click is deliberate). Heads for elevator. As he passes Marcus's desk — Marcus is still there, still working, bed behind him. Marcus glances up. Gives a single nod up. Dave gives one back. He's WHISTLING — the same "Move Bitch" intro from the car. But this time it's unhurried. Complete. The phrase resolves. He steps into elevator, still whistling. Doors close. Whistle is gone.
 **Shot Type:** Medium tracking, desk to elevator
@@ -763,7 +763,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 51 — The Bed Leaves (Scene 18)
+#### PANEL 51 — The Bed Leaves (Scene 18 · SC-18)
 
 **Image:** Wide. The office is empty and silent. The bed waits a beat at Dave's desk. Then it turns — slowly, deliberately — and heads for the exit. Alone.
 **Shot Type:** Wide, static. Empty office.
@@ -778,7 +778,7 @@ Each entry below represents one storyboard panel (or panel group for complex bea
 
 ---
 
-#### PANEL 52 — Next Morning: The Cycle (Scene 19)
+#### PANEL 52 — Next Morning: The Cycle (Scene 19 · SC-19)
 
 **Image:** EXACT repeat of Panels 1–3 framing. Same blue-gray light. Same glass of water on nightstand — untouched. Same remote glowing. Dave launches upright. Looks at the remote. Picks it up. Clicks.
 **Shot Type:** ECU nightstand → wide bed → medium Dave. Same framing as opening.
@@ -890,11 +890,12 @@ When the storyboard artist needs more detail on any element, go to:
 
 ---
 
-_PUSH — Storyboard Handoff Report v1.4_
+_PUSH — Storyboard Handoff Report v1.5_
 _54 panels across 21 scene headings (19 numbered + inserts 7A, 16A) + end credits_
-_Changes from v1.3: Napkin-thread propagation — Panel 6 attribution corrected (Marcus draws, Dave rejects, Tyler films, Jake eats); Panels 44–48 rewritten to the v6.0+ afternoon (2:00 model / 3:00 whiteboard erase / 3:45 napkin video / 4:15 arrows working alone / 4:58 model fix); Panel 43 Karen dialogue aligned ("The Hendricks model is off. Fix it by five." / "...the model?"). Panel-count language reconciled (54 delivered)._
+_Changes from v1.4: Scene IDs added — every panel heading now references the screenplay's Scene Registry (SC-01 … SC-19, SC-07A, SC-16A), including transitions (Scene 4→5 · SC-04→SC-05) and beats (Scene 10, Beat 1–3 · SC-10). Character Design Bible added to source documents (position 2). canon-check fails on any panel referencing an ID absent from the registry._
+_Previous: v1.4 — Napkin-thread propagation — Panel 6 attribution corrected (Marcus draws, Dave rejects, Tyler films, Jake eats); Panels 44–48 rewritten to the v6.0+ afternoon (2:00 model / 3:00 whiteboard erase / 3:45 napkin video / 4:15 arrows working alone / 4:58 model fix); Panel 43 Karen dialogue aligned ("The Hendricks model is off. Fix it by five." / "...the model?"). Panel-count language reconciled (54 delivered)._
 _Previous: v1.3 — Panel 43A added (Scene 16A — Marcus/Priya). Panel 50 updated with closing nod. Aligned with Screenplay v7.0._
-_Source files: Screenplay v7.1, Prop Bible v4.0, Visual Reference & Collaborator Guide v4.3, AI Shot List v4.7, Bed Proportions Guide v4.4_
+_Source files: Screenplay v7.2, Prop Bible v4.0, Visual Reference & Collaborator Guide v4.3, AI Shot List v4.8, Bed Proportions Guide v4.4_
 
 ---
 

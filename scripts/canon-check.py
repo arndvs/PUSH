@@ -36,6 +36,10 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 MANIFEST_PATH = REPO_ROOT / ".sandcastle" / "canon-facts.json"
 
+SCREENPLAY_PATH = REPO_ROOT / "01_screenplay" / "PUSH_Screenplay.md"
+SHOT_LIST_PATH = REPO_ROOT / "03_ai_video" / "AI_Shot_List_and_Prompts.md"
+STORYBOARD_PATH = REPO_ROOT / "04_storyboard" / "STORYBOARD_HANDOFF_REPORT.md"
+
 # Directories scanned for contradictions. The Prop Bible (the source of truth)
 # and the manifest are excluded by construction.
 SCAN_DIRS = [
@@ -181,6 +185,80 @@ def check_fact(fact: dict, text: str, rel_path: str, findings: list[dict]) -> No
                             break
 
 
+def check_scene_registry(findings: list[dict]) -> None:
+    """Cross-doc scene consistency check (issue #20).
+
+    The screenplay's SCENE REGISTRY table is the single source of truth for
+    scene IDs. The AI Shot List and Storyboard Handoff must reference only
+    IDs present in the registry, and their counts must not drift.
+    """
+    def add(fact: str, file: str, line: int, match: str, detail: str) -> None:
+        findings.append(
+            {
+                "fact": fact,
+                "label": fact,
+                "file": file,
+                "line": line,
+                "match": match,
+                "detail": detail,
+            }
+        )
+
+    # 1. Parse the screenplay registry for canonical scene IDs. Only the
+    #    SCENE REGISTRY table counts — scene headings also carry IDs but the
+    #    registry is the declared source of truth, so a heading without a
+    #    registry row must be flagged as drift.
+    if not SCREENPLAY_PATH.exists():
+        add("scene.registry", "01_screenplay/PUSH_Screenplay.md", 0, "", "screenplay not found — cannot validate scene registry")
+        return
+    screenplay_text = SCREENPLAY_PATH.read_text(encoding="utf-8")
+    # Extract the SCENE REGISTRY section (between its heading and the next ##)
+    registry_match = re.search(r"## SCENE REGISTRY\n(.*?)(?=\n## |\Z)", screenplay_text, re.DOTALL)
+    if not registry_match:
+        add("scene.registry", "01_screenplay/PUSH_Screenplay.md", 0, "", "no SCENE REGISTRY section found in screenplay")
+        return
+    registry_section = registry_match.group(1)
+    # Only table body rows count (lines starting with "| SC-"). The intro
+    # prose may mention IDs as examples; the table is the declared source.
+    registry_ids: set[str] = set()
+    for line in registry_section.splitlines():
+        if line.strip().startswith("| SC-"):
+            registry_ids.update(re.findall(r"\bSC-\d+[A-Z]?\b", line))
+    if not registry_ids:
+        add("scene.registry", "01_screenplay/PUSH_Screenplay.md", 0, "", "no SC-XX IDs found in screenplay registry — registry empty")
+        return
+
+    # 2. Parse the shot list for scene references.
+    if SHOT_LIST_PATH.exists():
+        shot_text = SHOT_LIST_PATH.read_text(encoding="utf-8")
+        for i, line in enumerate(shot_text.splitlines(), 1):
+            for m in re.finditer(r"\bSC-\d+[A-Z]?\b", line):
+                if m.group(0) not in registry_ids:
+                    add("scene.ref", "03_ai_video/AI_Shot_List_and_Prompts.md", i, m.group(0),
+                        f"shot references '{m.group(0)}' absent from scene registry")
+
+    # 3. Parse the storyboard for scene references.
+    if STORYBOARD_PATH.exists():
+        sb_text = STORYBOARD_PATH.read_text(encoding="utf-8")
+        for i, line in enumerate(sb_text.splitlines(), 1):
+            for m in re.finditer(r"\bSC-\d+[A-Z]?\b", line):
+                if m.group(0) not in registry_ids:
+                    add("scene.ref", "04_storyboard/STORYBOARD_HANDOFF_REPORT.md", i, m.group(0),
+                        f"panel references '{m.group(0)}' absent from scene registry")
+
+    # 4. Count drift: every registry scene must be referenced by at least one
+    #    shot and one panel (except END-CREDITS, which is shot-list-only).
+    shot_refs = set(re.findall(r"\bSC-\d+[A-Z]?\b", shot_text)) if SHOT_LIST_PATH.exists() else set()
+    sb_refs = set(re.findall(r"\bSC-\d+[A-Z]?\b", sb_text)) if STORYBOARD_PATH.exists() else set()
+    for sid in sorted(registry_ids):
+        if sid not in shot_refs:
+            add("scene.count", "03_ai_video/AI_Shot_List_and_Prompts.md", 0, sid,
+                f"scene {sid} in registry but no shot references it")
+        if sid not in sb_refs:
+            add("scene.count", "04_storyboard/STORYBOARD_HANDOFF_REPORT.md", 0, sid,
+                f"scene {sid} in registry but no panel references it")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Canon Integrity Registry checker")
     parser.add_argument("--changed-only", action="store_true", help="only check git-changed .md files")
@@ -201,6 +279,11 @@ def main() -> int:
         rel = path.relative_to(REPO_ROOT).as_posix()
         for fact in facts:
             check_fact(fact, text, rel, findings)
+
+    # Scene registry consistency check (issue #20) — always runs on the whole
+    # tree, independent of --changed-only, because a scene-ID drift in one doc
+    # only matters relative to the registry in another.
+    check_scene_registry(findings)
 
     if args.json:
         print(json.dumps({"files_scanned": len(files), "findings": findings}, indent=2))

@@ -69,9 +69,14 @@ The source-of-truth boundary is machine-checked. Discrete, enumerable facts (bed
 
 The Prop Bible itself, the Move internal doc, and the design memo (which retains superseded content as design history) are excluded from the check by design.
 
+### Scene Registry
+
+The screenplay's **SCENE REGISTRY** (at the head of `01_screenplay/PUSH_Screenplay.md`) is the structural source of truth: every scene carries a stable ID (`SC-01` … `SC-19`, with inserts `SC-07A`, `SC-16A`), annotated with act and beat membership. The AI Shot List and Storyboard Handoff reference these IDs in their shot/panel headings and `Scene:` lines, and `canon-check` fails on any reference to an ID absent from the registry or on count drift (a registry scene with no shot or panel referencing it). The screenplay is the source of truth for story and units; the Prop Bible is the source of truth for physical canon.
+
 ---
 
-_Version 3.6 — Napkin-thread propagation + character design. Screenplay v7.1 (Scene 9 consolidation, arrows callback, Hendricks model consistency). Shot List v4.7, Storyboard v1.4, Visual Reference v4.3 aligned to the v6.0+ afternoon (3:45 napkin video; Shot 007/Panel 6 attribution corrected — Marcus draws, Dave rejects, Tyler films). Karen dialogue aligned across docs. Character Design Bible added; cast sheet cleanup (stale COLLEAGUE removed). Shot count corrected (55)._
+_Version 3.7 — Scene Registry + canon integrity. Screenplay v7.2 (Scene Registry added — stable SC-01…SC-19 IDs with act/beat annotation; scene headings annotated). Shot List v4.8, Storyboard v1.5 aligned to the registry (shot/panel headings reference SC-IDs; shot-list-local act clusters marked). canon-check extended with scene-registry consistency check (fails on ID absent from registry or count drift). Character Design Bible added to storyboard source documents; wrinkled typo fixed._
+_Previous: Version 3.6 — Napkin-thread propagation + character design. Screenplay v7.1 (Scene 9 consolidation, arrows callback, Hendricks model consistency). Shot List v4.7, Storyboard v1.4, Visual Reference v4.3 aligned to the v6.0+ afternoon (3:45 napkin video; Shot 007/Panel 6 attribution corrected — Marcus draws, Dave rejects, Tyler films). Karen dialogue aligned across docs. Character Design Bible added; cast sheet cleanup (stale COLLEAGUE removed). Shot count corrected (55)._
 _Previous: Version 3.5 — Canon audit remediation: PUSH/PUSH+ tier alignment across all docs. Prop Bible v4.0 canonical. Screenplay v6.0. Universe Report duplicate Part Two removed (819 lines). Design Memo tracks/engine panel marked not-adopted. All downstream Marcus refs updated for PUSH+ tier. Version refs aligned._
 _Previous: Version 3.4 — Audit remediation: pillow payoff locked to askew (Prop Bible v3.1 canonical). Screenplay v5.0, AI Shot List v4.4, Visual Reference Guide v4.1, Storyboard Handoff v1.2 aligned. Cast cleanup. Mechanical fixes across Move Internal and gas station breakdown._
 
