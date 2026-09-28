@@ -14,7 +14,7 @@ Each shot is written as a **self-contained AI video prompt**. Copy the prompt te
 
 - **DAVE (office look — Shots 022+):** White male, early 30s, slightly disheveled but not homeless. Brown hair, stubble. Dress shirt and slacks. Slightly undone tie. Looks like someone who got 4 hours of sleep and is functioning anyway.
 - **DAVE (sleepwear — Shots 001–021):** Same face and build. Wearing a wrinkled t-shirt and boxers. Hair chaotic. This is how Dave appears from the bedroom through the bathroom — he doesn't get dressed until the closet scene (Shot 022).
-- **MARCUS:** Black male, early 30s. Wrinkled suit jacket. Slightly more put-together than Dave but not by much. The look of a man who has been here before.
+- **MARCUS:** Black male, early 30s. wrinkled suit jacket. Slightly more put-together than Dave but not by much. The look of a man who has been here before.
 - **THE BED:** A PUSH by RISE — dark charcoal frame with a faint cool blue undertone, no headboard, with a slim matte black remote. The remote has one large circular button labeled PUSH that glows warm white. Clean, sleek, slightly corporate. When vertical it resembles a monolith.
 
 **Runtime note:** Individual shot durations represent the core action of each AI-generated clip. The assembled edit will include additional held beats, transitions, reaction inserts, and pacing pauses documented in the [Visual Reference Guide's Editing Rhythm section](../02_production/Visual_Reference_and_Collaborator_Guide.md). Total assembled runtime target: 5–7 minutes.

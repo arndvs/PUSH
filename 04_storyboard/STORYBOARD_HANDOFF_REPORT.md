@@ -11,11 +11,12 @@ This report distills the full production package into a storyboard-ready brief. 
 **Source documents (in order of authority):**
 
 1. [Prop Bible](../02_production/prop_bible.md) — canonical physical descriptions (overrides all others)
-2. [Screenplay](../01_screenplay/PUSH_Screenplay.md) — story, dialogue, scene order
-3. [Visual Reference Guide](../02_production/Visual_Reference_and_Collaborator_Guide.md) — camera, tone, editing philosophy
-4. [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md) — 55 shots with detailed descriptions
-5. [Bed Proportions Guide](../02_production/Bed_Proportions_and_Environmental_Integration.md) — how the bed fits in every environment
-6. [Gas Station Beat Breakdown](../01_screenplay/gas-station-beat-breakdown.md) — deep-dive on the commute's climactic beat
+2. [Character Design Bible](../02_production/character_design_bible.md) — canonical character appearance, wardrobe, posture, expression
+3. [Screenplay](../01_screenplay/PUSH_Screenplay.md) — story, dialogue, scene order
+4. [Visual Reference Guide](../02_production/Visual_Reference_and_Collaborator_Guide.md) — camera, tone, editing philosophy
+5. [AI Shot List](../03_ai_video/AI_Shot_List_and_Prompts.md) — 55 shots with detailed descriptions
+6. [Bed Proportions Guide](../02_production/Bed_Proportions_and_Environmental_Integration.md) — how the bed fits in every environment
+7. [Gas Station Beat Breakdown](../01_screenplay/gas-station-beat-breakdown.md) — deep-dive on the commute's climactic beat
 
 ---
 
@@ -53,16 +54,18 @@ Dry physical comedy. Buster Keaton meets Office Space. The world is absurd but p
 
 ## PART 2: CHARACTER & PROP REFERENCE
 
+_Character summaries below are condensed from the [Character Design Bible](../02_production/character_design_bible.md), the single source of truth for character appearance, wardrobe, posture, and expression. On any conflict, the Character Design Bible wins._
+
 ### DAVE
 
 - Male, early 30s. Brown hair, stubble, medium build.
-- **Sleepwear (Scenes 1–7):** Wrinkled t-shirt and boxers. Hair chaotic. Eyes puffy.
+- **Sleepwear (Scenes 1–7):** wrinkled t-shirt and boxers. Hair chaotic. Eyes puffy.
 - **Office clothes (Scenes 7+):** White dress shirt (progressively untucked), dark slacks, badly knotted tie, both shoes. Gets more disheveled after the gas station beat.
 - **Performance:** Never hysterical. Adapts to everything faster than any reasonable person should. Resigned, not defeated. Grumpy roommate energy evolving toward grudging respect.
 
 ### MARCUS
 
-- Black male, early 30s. Wrinkled dark suit jacket over light blue shirt. Close-cropped fade.
+- Black male, early 30s. wrinkled dark suit jacket over light blue shirt. Close-cropped fade.
 - Equally destroyed as Dave. PUSH+ owner — same brand, premium tier, different colorway.
 - Appears Scene 14 onward.
 
