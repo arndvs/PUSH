@@ -893,6 +893,8 @@ The bed's **motor hum** is a character. Consider:
 
 ### The Whistle — Ludacris Thread
 
+_Canonical reference: The [Music Bible](../02_production/music_bible.md) is the single source of truth for the music plan — soundtrack registry, licensing register, bookend semantics, diegetic rules, and the cross-video premise. What follows is the story-level summary; the Music Bible wins on any question of music for production._
+
 Dave whistles the intro to "Move Bitch" by Ludacris twice in the film. Both times are purely instrumental — no lyrics, no title card. The intro whistle plays on the car radio; Dave picks it up unconsciously.
 
 **First whistle (Scene 10, car):** Found. Unconscious. Dave doesn't choose it — it was playing when the car turned on. He whistles along the way you whistle along to anything that matches the frequency of your morning. Interrupted mid-phrase when the fuel gauge registers. He kills the radio. The whistle and Dave have decoupled.

@@ -439,6 +439,8 @@ The end credits roll over this shot. The bed going home is the film's closing im
 
 ## MUSIC NOTES
 
+_Canonical reference: The [Music Bible](music_bible.md) is the single source of truth for music — which tracks are used, in which videos, at what fidelity, their licensing status, and the diegetic/editorial rules. What follows is the production-facing summary._
+
 **Opening through alarm:** Silence only. No underscore.
 
 **Flashback montage:** Something that sounds like a good night — upbeat, slightly blurry, nostalgic. Fades out when we return to morning.

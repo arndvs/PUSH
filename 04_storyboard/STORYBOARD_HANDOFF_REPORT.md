@@ -826,6 +826,8 @@ The bed's motor hum is its only voice. The storyboard should annotate hum state 
 
 ## PART 6: KEY MUSICAL / AUDIO THREADS
 
+_Canonical reference: The [Music Bible](../02_production/music_bible.md) is the single source of truth for music — soundtrack registry, licensing register, bookend semantics, diegetic rules, and the cross-video premise. The [Sound Design Bible](../02_production/sound_bible.md) governs the bed's hum. What follows is the storyboard-level summary._
+
 ### The Ludacris Whistle
 
 Dave whistles the intro to "Move Bitch" by Ludacris twice:

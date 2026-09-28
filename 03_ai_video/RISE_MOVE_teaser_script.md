@@ -61,6 +61,8 @@ The humor — if the audience finds it — is entirely their own. RISE is not in
 
 ## MUSIC
 
+_Canonical reference: The [Music Bible](../02_production/music_bible.md) is the single source of truth for music — the soundtrack registry, licensing register, and diegetic rules. The licensing constraint below is recorded there; this section is the video-level usage plan._
+
 **"Stand Up" — Ludacris ft. Shawnna**
 
 _"When I move you move, just like that."_

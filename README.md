@@ -17,6 +17,7 @@ _A comedy short about a man, a hangover, and an adjustable bed with no off butto
 - **prop_bible.md** — Canonical physical descriptions for the PUSH by RISE bed and remote. Construction, materials, four states, movement personality, self-making mechanism, and the PUSH remote in full detail. **This document is the single source of truth for all prop descriptions. All other documents defer to it.**
 - **sound_bible.md** — Canonical audio direction: the bed's hum language (full hum table), per-tier audio identity (PUSH vs PUSH+), movement acoustics, and scene-specific sound direction. **The single source of truth for how the bed sounds. All other documents defer to it.**
 - **brand_universe_bible.md** — Canonical RISE corporate facts, product-line specifications, and in-universe history: company, leadership, product graveyard, current product line, Move canon, financials, brand voice. **The single source of truth for RISE universe facts. All other documents defer to it.**
+- **music_bible.md** — Canonical music reference: the soundtrack registry ("Move Bitch" in PUSH, "Stand Up" in the Move teaser), licensing/rights register, bookend semantics, diegetic rules, and the cross-video premise. **The single source of truth for music. All other documents defer to it.**
 - **Visual_Reference_and_Collaborator_Guide.md** — Tone references, color palette by sequence, camera philosophy, scene-by-scene visual notes, editing rhythm guide, and music notes. For directors, editors, and collaborators.
 - **Bed_Proportions_and_Environmental_Integration.md** — How to make the bed feel correctly sized in every environment (the "Trash Truck problem"). Essential for VFX, AI video generation, and production design.
 - **RISE_MOVE_INTERNAL_v1.0.md** — Internal brainstorming and strategic foundation for the RISE Move product. Canon facts, open questions, and creative development notes.
@@ -62,6 +63,8 @@ The **Prop Bible** is canonical. On any question of physical description, brand,
 The **Sound Design Bible** is canonical for all audio direction — hum character, pitch/volume modulation, movement acoustics, mixing notes, and per-tier sound identity. All other documents defer to it on questions of how the bed sounds.
 
 The **Brand Universe Bible** is canonical for all RISE corporate and brand facts — company, leadership, product history, current product line, Move canon, financials, and brand voice. All other documents defer to it on questions of the universe.
+
+The **Music Bible** is canonical for all music — which tracks are used, in which videos, at what fidelity, their licensing status, and the diegetic/editorial rules around them. All other documents defer to it on questions of music for production.
 
 ### Canon Integrity Registry
 
